@@ -1,0 +1,53 @@
+﻿{
+  "nodes": [
+    {"id": "t", "type": "text", "text": "# Money Flow Canvas\n\nFollow the money - donors â†’ CA â†’ campaigns + successor entities", "x": -800, "y": -600, "width": 600, "height": 120},
+
+    {"id": "rt", "type": "text", "text": "## Renaissance Technologies\n(Robert Mercer co-CEO 2008-2017)\n\nWealth-generation engine", "x": -1200, "y": -300, "width": 280, "height": 180},
+
+    {"id": "mff", "type": "text", "text": "## Mercer Family Foundation\nRebekah Mercer chairs", "x": -1200, "y": 0, "width": 280, "height": 120},
+
+    {"id": "rm", "type": "text", "text": "## Robert Mercer\n($15M+ to CA direct)\n($1-5M to Bannon CA stake)", "x": -1200, "y": 200, "width": 280, "height": 150},
+
+    {"id": "ca", "type": "text", "text": "## CAMBRIDGE ANALYTICA\n2013-2018\n\nReceived:\n- Mercer $15M+\n- Cruz $5.8M\n- Trump campaign\n- Make America Number 1 PAC\n- Carson $220K\n- Tillis $345K", "x": -700, "y": -200, "width": 320, "height": 280},
+
+    {"id": "scl", "type": "text", "text": "## SCL GROUP\n1990-2018\n\nUS DoD, UK MoD contracts\nMercer family + Conservative donors\nTchenguiz, Marland, Gabb", "x": -700, "y": 200, "width": 320, "height": 180},
+
+    {"id": "ma1", "type": "text", "text": "## Make America Number 1 PAC\n(Mercer-funded)\n\nPaid CA for Trump-aligned work\n(Channel 4: potential illegal coordination)", "x": -300, "y": -200, "width": 280, "height": 150},
+
+    {"id": "trump", "type": "text", "text": "## Trump 2016 Campaign\nPaid CA Sept-Nov 2016\nSwitched to RNC data late Sept", "x": -300, "y": 0, "width": 280, "height": 130},
+
+    {"id": "cruz", "type": "text", "text": "## Cruz 2016 Campaign\n$5.8M total to CA\nStopped using CA after SC loss Feb 2016", "x": -300, "y": 200, "width": 280, "height": 130},
+
+    {"id": "ed", "type": "text", "text": "## EMERDATA LIMITED\nformed Aug 2017\n\n$19M raised Jan 2018\nfrom international investors", "x": 100, "y": -200, "width": 280, "height": 160},
+
+    {"id": "fsg", "type": "text", "text": "## Frontier Services Group\nChairman: Erik Prince\nCITIC Group (China state) major shareholder\n\nJohnson Chun Shun Ko â†’ Emerdata board", "x": 100, "y": 100, "width": 320, "height": 180},
+
+    {"id": "succ", "type": "text", "text": "## SUCCESSOR ORGS\n\n- Auspex (July 2018)\n- Data Propria (May 2018)\n- Firecrest\n- Emic (ex-SCL Defence)", "x": 100, "y": 350, "width": 320, "height": 170},
+
+    {"id": "br", "type": "text", "text": "## Breitbart News\nMercer family stake\nBannon led 2012-2016", "x": -1700, "y": -200, "width": 250, "height": 130},
+
+    {"id": "gai", "type": "text", "text": "## Government Accountability Institute\nco-founded by Bannon & Schweizer\n(Mercer Family Foundation $)", "x": -1700, "y": 0, "width": 280, "height": 150},
+
+    {"id": "park", "type": "text", "text": "## Parler\n(Rebekah Mercer\nmajor investor)", "x": -1700, "y": 200, "width": 200, "height": 120},
+
+    {"id": "brex", "type": "text", "text": "## BREXIT MONEY\n\nVote Leave: Â£7M budget\n  â†’ AIQ Â£2.7M direct\n  â†’ BeLeave Â£625K (illegal)\n  â†’ DUP Â£435K\n  â†’ Veterans for Britain\n\nLeave.EU\n  â† Arron Banks ~Â£8M+", "x": 500, "y": -400, "width": 320, "height": 280},
+
+    {"id": "pen", "type": "text", "text": "## ENFORCEMENT\n\nFTC $5B (Facebook)\nMeta $725M class action\nSEC $100M\nICO Â£500K\nVote Leave Â£61K\nKramer FCC $6M", "x": 500, "y": 0, "width": 320, "height": 200}
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "rt", "toNode": "rm", "label": "salary"},
+    {"id": "e2", "fromNode": "rm", "toNode": "ca", "label": "$15M+"},
+    {"id": "e3", "fromNode": "rm", "toNode": "ma1", "label": "funds"},
+    {"id": "e4", "fromNode": "rm", "toNode": "br", "label": "funds"},
+    {"id": "e5", "fromNode": "mff", "toNode": "gai", "label": "funds"},
+    {"id": "e6", "fromNode": "ma1", "toNode": "ca", "label": "pays"},
+    {"id": "e7", "fromNode": "trump", "toNode": "ca", "label": "pays Sept-Nov 2016"},
+    {"id": "e8", "fromNode": "cruz", "toNode": "ca", "label": "$5.8M"},
+    {"id": "e9", "fromNode": "scl", "toNode": "ca", "label": "subsidiary"},
+    {"id": "e10", "fromNode": "ca", "toNode": "ed", "label": "assets transfer 2018"},
+    {"id": "e11", "fromNode": "fsg", "toNode": "ed", "label": "Johnson Chun Shun Ko director"},
+    {"id": "e12", "fromNode": "ed", "toNode": "succ", "label": "personnel migration"},
+    {"id": "e13", "fromNode": "ma1", "toNode": "trump", "label": "supports (FEC issue)"},
+    {"id": "e14", "fromNode": "park", "toNode": "rm", "label": "Rebekah Mercer investor"}
+  ]
+}

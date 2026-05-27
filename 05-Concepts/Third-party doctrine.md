@@ -1,0 +1,83 @@
+---
+date: 2026-05-22
+description: US legal doctrine holding that information voluntarily shared with a third party (bank, phone carrier, app) loses Fourth Amendment protection, allowing government to obtain it without a warrant; the primary legal mechanism enabling the data-broker surveillance ecosystem.
+tags:
+  - concept
+  - topic/surveillance-state
+  - topic/data-broker
+  - topic/regulatory-response
+type: concept
+domain: Constitutional law / Fourth Amendment jurisprudence
+first-documented: "1976 (United States v. Miller); 1979 (Smith v. Maryland — canonical formulation)"
+---
+
+## Definition
+
+The third-party doctrine is a US constitutional law principle holding that when a person voluntarily conveys information to a third party — a bank, telephone company, internet service provider, or mobile application — that person assumes the risk that the third party will disclose the information to the government, and therefore retains no reasonable expectation of privacy in that information under the Fourth Amendment. Because the Fourth Amendment protects only against searches of information in which the individual has a "reasonable expectation of privacy," data held by a third party falls outside its warrant requirement. The government may compel or purchase that information without probable cause, judicial authorization, or the knowledge of the subject.
+
+## Origin / history
+
+The doctrine emerged from two Supreme Court decisions in the 1970s:
+
+- **United States v. Miller, 425 U.S. 435 (1976)**: The Court held that a bank customer had no Fourth Amendment protection in records held by his bank because he had voluntarily conveyed the information to the bank when conducting transactions.
+- **Smith v. Maryland, 442 U.S. 735 (1979)**: The canonical case. Police installed a pen register at a phone company to record the numbers dialed by a robbery suspect. The Court held this was not a Fourth Amendment "search" because the suspect had voluntarily conveyed the dialed numbers to the phone company, and could not expect them to remain private. Justice Harry Blackmun wrote that a person "has no legitimate expectation of privacy in information he voluntarily turns over to third parties."
+
+*Smith v. Maryland* became the foundational precedent applied to nearly all subsequent questions of government access to data held by telecommunications carriers, banks, internet platforms, and mobile applications.
+
+## How it works
+
+Under the doctrine's logic, every digital interaction that passes through a third-party intermediary — a cell carrier recording which towers your phone connected to, an app logging your GPS coordinates, a search engine recording your queries — strips that data of Fourth Amendment protection. The government can then obtain it via:
+1. **Administrative subpoena or national security letter** — with no judicial review
+2. **Court order** (less demanding than a warrant)
+3. **Direct commercial purchase from data brokers** — requiring no legal process at all
+
+The third pathway — government purchase from commercial data brokers — is the central mechanism documented in [[Source - Tau 2024 - Means of Control]] and the specific target of the [[Fourth Amendment Is Not For Sale Act]].
+
+## Application in this domain
+
+The third-party doctrine is the legal infrastructure underlying the data-broker surveillance ecosystem:
+
+- Agencies such as DHS, ICE, FBI, IRS, DEA, and the [[National Geospatial-Intelligence Agency (NGA)]] have routinely purchased location data, browsing history, and behavioral profiles from brokers like [[Venntel]] and [[X-Mode (Outlogic)]] without warrants, relying on the argument that the data was voluntarily shared with apps and carriers and therefore unprotected.
+- [[Clearview AI]]'s scraping model also exploits an adjacent logic: images posted publicly to the web are considered voluntarily disclosed, making their aggregation into a biometric surveillance database legally unimpeded under the doctrine.
+- The doctrine is the key reason the [[Hypothesis - Federal database supersedes CA model]] is legally viable: a CA-style behavioral targeting operation conducted by a private firm and purchased by government requires no warrant because the underlying data already lost constitutional protection when users shared it with apps.
+
+## Examples
+
+- **Cell-site location data** — held by carriers, obtained by law enforcement under *Smith v. Maryland* logic until partially limited by *Carpenter v. United States* (2018)
+- **Bank records** — fully covered under *Miller*; financial surveillance requires only a subpoena
+- **Email metadata** — held by email providers; historically obtained without warrant
+- **Mobile app location data** — purchased commercially by DHS, ICE, the military; the specific focus of *Means of Control*
+
+## Effectiveness / critique
+
+**Critique (civil liberties perspective):** The doctrine was formulated for 1970s-era limited data sharing. Its application to the comprehensive behavioral exhaust generated by smartphones — which tracks movements 24 hours a day with precision impossible in 1979 — produces a surveillance regime the Framers could not have anticipated. Critics including Justice Sotomayor (*United States v. Jones*, 2012 concurrence) and Chief Justice Roberts (*Carpenter*, 2018) have argued the doctrine requires revision in the digital era.
+
+**Partial judicial limitation:** In *Carpenter v. United States*, 585 U.S. 296 (2018), the Supreme Court held 5–4 that the government needs a warrant to access seven days or more of historical cell-site location information (CSLI). Chief Justice Roberts' majority opinion explicitly narrowed the doctrine, calling CSLI "detailed, encyclopedic, and effortlessly compiled." However, *Carpenter* is limited in scope and has not been extended to cover commercial data-broker purchases, internet browsing data, or real-time location data.
+
+**Persistence:** Despite *Carpenter*, the doctrine remains intact for most categories of commercial data. The [[Fourth Amendment Is Not For Sale Act]], which would legislatively close the commercial-purchase loophole, has passed the House but not the Senate.
+
+## Related concepts
+
+- [[Behavioral surplus]] — the data exhaust that the third-party doctrine makes legally accessible to government
+- [[Behavioral futures markets]] — markets that arise from the commercial value of third-party data
+- [[Instrumentarian power]] — the broader system of behavioral control enabled by unprotected third-party data
+- [[Fourth Amendment Is Not For Sale Act]] — legislative attempt to close the doctrine's commercial-purchase loophole
+- [[Hypothesis - Federal database supersedes CA model]]
+
+## Sources
+
+- [[Source - Tau 2024 - Means of Control]] — Tier 1
+- Wikipedia — Third-party doctrine: https://en.wikipedia.org/wiki/Third-party_doctrine
+- *Smith v. Maryland*, 442 U.S. 735 (1979): https://supreme.justia.com/cases/federal/us/442/735/
+- *Carpenter v. United States*, 585 U.S. 296 (2018): https://supreme.justia.com/cases/federal/us/585/16-402/
+- EFF, "How the Federal Government Buys Our Cell Phone Location Data": https://www.eff.org/deeplinks/2022/06/how-federal-government-buys-our-cell-phone-location-data
+
+## See also
+
+- [[Fourth Amendment Is Not For Sale Act]]
+- [[National Geospatial-Intelligence Agency (NGA)]]
+- [[Venntel]]
+- [[X-Mode (Outlogic)]]
+- [[Clearview AI]]
+- [[Behavioral surplus]]
+- [[Hypothesis - Federal database supersedes CA model]]

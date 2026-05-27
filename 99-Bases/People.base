@@ -1,0 +1,72 @@
+filters:
+  and:
+    - file.hasTag("person")
+properties:
+  file.name:
+    displayName: Name
+  full_name:
+    displayName: Full Name
+  nationality:
+    displayName: Nationality
+  roles:
+    displayName: Roles
+  affiliations:
+    displayName: Affiliations
+  notable_for:
+    displayName: Notable for
+  status:
+    displayName: Status
+views:
+  - type: table
+    name: All People
+    order:
+      - file.name
+      - nationality
+      - roles
+      - affiliations
+      - status
+  - type: table
+    name: Operators
+    filters:
+      and:
+        - file.hasTag("role/operative")
+    order:
+      - file.name
+      - affiliations
+      - status
+  - type: table
+    name: Whistleblowers
+    filters:
+      and:
+        - file.hasTag("role/whistleblower")
+    order:
+      - file.name
+      - affiliations
+      - notable_for
+  - type: table
+    name: Funders
+    filters:
+      and:
+        - file.hasTag("role/donor-funder")
+    order:
+      - file.name
+      - nationality
+      - notable_for
+  - type: table
+    name: Journalists and Investigators
+    filters:
+      and:
+        - file.hasTag("role/journalist") or file.hasTag("role/investigator")
+    order:
+      - file.name
+      - affiliations
+      - notable_for
+  - type: table
+    name: Russia / Election Interference Bridge
+    filters:
+      and:
+        - file.hasTag("topic/election-interference") or file.hasTag("topic/russia-investigation")
+    order:
+      - file.name
+      - nationality
+      - notable_for

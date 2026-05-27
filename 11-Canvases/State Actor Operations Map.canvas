@@ -1,0 +1,59 @@
+﻿{
+  "nodes": [
+    {"id":"title","type":"text","text":"# State Actor Operations Map\n\nForeign-state and state-aligned commercial information-operations infrastructure. Cluster MOC: [[State Actor MOC]]","x":-800,"y":-1000,"width":600,"height":120,"color":"6"},
+
+    {"id":"russia_hdr","type":"text","text":"## Russia","x":-1200,"y":-800,"width":250,"height":60,"color":"1"},
+    {"id":"ira","type":"file","file":"03-Organizations/State-Actors/Internet Research Agency.md","x":-1200,"y":-700,"width":280,"height":100,"color":"1"},
+    {"id":"prigozhin","type":"file","file":"02-People/State-Actors/Yevgeny Prigozhin.md","x":-1200,"y":-560,"width":280,"height":100,"color":"1"},
+    {"id":"doppelganger","type":"file","file":"03-Organizations/State-Actors/Doppelganger.md","x":-1200,"y":-420,"width":280,"height":120,"color":"1"},
+    {"id":"malofeev","type":"file","file":"02-People/State-Actors/Konstantin Malofeev.md","x":-880,"y":-560,"width":280,"height":100,"color":"1"},
+    {"id":"dmitriev","type":"file","file":"02-People/State-Actors/Kirill Dmitriev.md","x":-880,"y":-420,"width":280,"height":100,"color":"1"},
+    {"id":"rykov","type":"file","file":"02-People/State-Actors/Konstantin Rykov.md","x":-880,"y":-700,"width":280,"height":100,"color":"1"},
+
+    {"id":"china_hdr","type":"text","text":"## China","x":-560,"y":-800,"width":250,"height":60,"color":"3"},
+    {"id":"spamouflage","type":"file","file":"03-Organizations/State-Actors/Spamouflage Dragonbridge.md","x":-560,"y":-700,"width":280,"height":120,"color":"3"},
+    {"id":"johnson","type":"file","file":"02-People/State-Actors/Johnson Chun Shun Ko.md","x":-560,"y":-540,"width":280,"height":100,"color":"3"},
+    {"id":"fsg","type":"file","file":"03-Organizations/Successor-Orgs/Frontier Services Group.md","x":-560,"y":-400,"width":280,"height":120,"color":"3"},
+
+    {"id":"gulf_hdr","type":"text","text":"## UAE / Saudi","x":-240,"y":-800,"width":250,"height":60,"color":"5"},
+    {"id":"nader","type":"file","file":"02-People/State-Actors/George Nader.md","x":-240,"y":-700,"width":280,"height":100,"color":"5"},
+    {"id":"seychelles","type":"file","file":"04-Events/Other-Campaigns/Seychelles 2017 Meeting.md","x":80,"y":-700,"width":280,"height":120,"color":"5"},
+    {"id":"prince2","type":"file","file":"02-People/State-Actors/Erik Prince.md","x":80,"y":-540,"width":280,"height":120,"color":"5"},
+    {"id":"kushner2","type":"file","file":"02-People/Political-Figures/Jared Kushner.md","x":400,"y":-540,"width":280,"height":120,"color":"5"},
+    {"id":"affinity2","type":"file","file":"03-Organizations/Tech-Platforms/Affinity Partners.md","x":400,"y":-380,"width":280,"height":100,"color":"5"},
+
+    {"id":"israel_hdr","type":"text","text":"## Israel (commercial)","x":-240,"y":-280,"width":250,"height":60,"color":"4"},
+    {"id":"team_jorge","type":"file","file":"03-Organizations/Successor-Orgs/Team Jorge.md","x":-240,"y":-180,"width":280,"height":120,"color":"4"},
+    {"id":"tal_hanan","type":"file","file":"02-People/State-Actors/Tal Hanan.md","x":-560,"y":-180,"width":280,"height":100,"color":"4"},
+    {"id":"black_cube","type":"file","file":"03-Organizations/Successor-Orgs/Black Cube.md","x":80,"y":-180,"width":280,"height":100,"color":"4"},
+    {"id":"zamel","type":"file","file":"02-People/State-Actors/Joel Zamel.md","x":400,"y":-180,"width":280,"height":100,"color":"4"},
+
+    {"id":"ca_bridge","type":"file","file":"03-Organizations/CA-SCL-Group/Cambridge Analytica.md","x":-1500,"y":-180,"width":280,"height":120,"color":"6"},
+    {"id":"mueller","type":"file","file":"04-Events/Hearings-Investigations/Mueller Investigation.md","x":-1500,"y":0,"width":280,"height":120,"color":"2"},
+
+    {"id":"connections_hdr","type":"text","text":"## Cross-cluster connections","x":-800,"y":-40,"width":600,"height":60,"color":"6"},
+    {"id":"conn_kushner","type":"file","file":"07-Connections/Money-Flows/Kushner-MBS-Affinity arrangement.md","x":400,"y":40,"width":280,"height":120,"color":"2"},
+    {"id":"conn_russia","type":"file","file":"07-Connections/Data-Flows/Russia data triangle.md","x":-1200,"y":40,"width":280,"height":100,"color":"2"},
+    {"id":"conn_emerdata","type":"file","file":"07-Connections/Influence-Networks/Emerdata FSG Prince connection.md","x":-560,"y":40,"width":280,"height":120,"color":"2"}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"ira","fromSide":"bottom","toNode":"prigozhin","toSide":"top","label":"principal"},
+    {"id":"e2","fromNode":"ira","fromSide":"bottom","toNode":"doppelganger","toSide":"top","label":"successor model"},
+    {"id":"e3","fromNode":"malofeev","fromSide":"bottom","toNode":"dmitriev","toSide":"top","label":"adjacent"},
+    {"id":"e4","fromNode":"spamouflage","fromSide":"bottom","toNode":"johnson","toSide":"top","label":"intermediary"},
+    {"id":"e5","fromNode":"fsg","fromSide":"top","toNode":"spamouflage","toSide":"bottom","label":"China state co-invest"},
+    {"id":"e6","fromNode":"nader","fromSide":"right","toNode":"seychelles","toSide":"left","label":"broker"},
+    {"id":"e7","fromNode":"seychelles","fromSide":"bottom","toNode":"prince2","toSide":"top","label":"participant"},
+    {"id":"e8","fromNode":"prince2","fromSide":"right","toNode":"kushner2","toSide":"left","label":"adjacent"},
+    {"id":"e9","fromNode":"kushner2","fromSide":"bottom","toNode":"affinity2","toSide":"top","label":"founded"},
+    {"id":"e10","fromNode":"team_jorge","fromSide":"left","toNode":"tal_hanan","toSide":"right","label":"founder"},
+    {"id":"e11","fromNode":"team_jorge","fromSide":"right","toNode":"black_cube","toSide":"left","label":"parallel firm"},
+    {"id":"e12","fromNode":"black_cube","fromSide":"right","toNode":"zamel","toSide":"left","label":"adjacent"},
+    {"id":"e13","fromNode":"ca_bridge","fromSide":"right","toNode":"tal_hanan","toSide":"left","label":"methodology successor"},
+    {"id":"e14","fromNode":"mueller","fromSide":"top","toNode":"ca_bridge","toSide":"bottom","label":"investigated"},
+    {"id":"e15","fromNode":"dmitriev","fromSide":"right","toNode":"seychelles","toSide":"left","label":"participant"},
+    {"id":"e16","fromNode":"prince2","fromSide":"bottom","toNode":"fsg","toSide":"top","label":"co-founder"},
+    {"id":"e17","fromNode":"conn_kushner","fromSide":"top","toNode":"kushner2","toSide":"bottom","label":"applies-to"},
+    {"id":"e18","fromNode":"conn_emerdata","fromSide":"top","toNode":"fsg","toSide":"bottom","label":"applies-to"}
+  ]
+}

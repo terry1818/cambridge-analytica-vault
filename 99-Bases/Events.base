@@ -1,0 +1,56 @@
+filters:
+  and:
+    - file.hasTag("event")
+properties:
+  file.name:
+    displayName: Event
+  event_date:
+    displayName: Date
+  location:
+    displayName: Location
+  actors:
+    displayName: Actors
+  outcome:
+    displayName: Outcome
+  status:
+    displayName: Status
+views:
+  - type: table
+    name: All Events Chronological
+    order:
+      - event_date
+      - file.name
+      - location
+  - type: table
+    name: 2014-2016 CA buildout
+    filters:
+      and:
+        - file.hasTag("era/2014-2016")
+    order:
+      - event_date
+      - file.name
+  - type: table
+    name: 2018 collapse
+    filters:
+      and:
+        - file.hasTag("era/2016-2018")
+    order:
+      - event_date
+      - file.name
+  - type: table
+    name: International campaigns
+    filters:
+      and:
+        - file.hasTag("event")
+        - file.path.contains("Other-Campaigns")
+    order:
+      - file.name
+      - location
+  - type: table
+    name: Investigations / Hearings
+    filters:
+      and:
+        - file.path.contains("Hearings-Investigations")
+    order:
+      - event_date
+      - file.name

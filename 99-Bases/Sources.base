@@ -1,0 +1,71 @@
+filters:
+  and:
+    - file.hasTag("source")
+properties:
+  file.name:
+    displayName: Source
+  source_type:
+    displayName: Type
+  title:
+    displayName: Title
+  author:
+    displayName: Author
+  publisher:
+    displayName: Publisher
+  publication_date:
+    displayName: Date
+  url:
+    displayName: URL
+  reliability:
+    displayName: Reliability
+views:
+  - type: table
+    name: All Sources
+    order:
+      - publication_date
+      - source_type
+      - file.name
+      - publisher
+  - type: table
+    name: Books
+    filters:
+      and:
+        - file.hasTag("evidence/book")
+    order:
+      - publication_date
+      - file.name
+      - author
+  - type: table
+    name: Court filings and Official reports
+    filters:
+      and:
+        - file.hasTag("evidence/court-filing") or file.hasTag("evidence/investigation-report")
+    order:
+      - publication_date
+      - file.name
+      - publisher
+  - type: table
+    name: Cadwalladr corpus
+    filters:
+      and:
+        - source_type == "journalism"
+        - file.name.contains("Cadwalladr")
+    order:
+      - publication_date
+      - file.name
+  - type: table
+    name: Whistleblower testimony
+    filters:
+      and:
+        - file.hasTag("evidence/whistleblower-testimony") or file.hasTag("evidence/leak")
+    order:
+      - publication_date
+      - file.name
+  - type: table
+    name: Academic
+    filters:
+      and:
+        - file.hasTag("evidence/academic")
+    order:
+      - publication_date
+      - file.name

@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"h","type":"text","text":"# Four Cluster Venn Map\n\nFour interlocking thematic clusters of the CA-era + post-CA influence ecosystem. Most entities sit at the intersection of multiple clusters.","x":-1200,"y":-700,"width":600,"height":200},
+		{"id":"c1","type":"text","text":"## CLUSTER 1\n## Defense Pipeline\n\n*Origin story*\n\nBDI (1990) â†’ SCL â†’ MoD/DoD contracts â†’ CA (2013) â†’ election work\n\nThe lineage from military information operations into civilian elections.","x":-1400,"y":-300,"width":500,"height":350},
+		{"id":"c2","type":"text","text":"## CLUSTER 2\n## Data Pipeline\n\n*Operational story*\n\nCambridge Psychometrics Centre â†’ Kogan/GSR â†’ 87M Facebook profiles â†’ CA psychographic models â†’ Cruz/Trump/Leave.EU/200+ elections\n\nRussia data triangle (Manafort-Kilimnik-Patten) splits off here.","x":-700,"y":-400,"width":500,"height":400},
+		{"id":"c3","type":"text","text":"## CLUSTER 3\n## Capital Pipeline\n\n*Money + ownership*\n\nMercer family â†’ CA â†’ Trump + parallel ecosystem (Breitbart, GAI, Reclaim NY, Parler)\n\nEmerdata + FSG (China-linked) + Israeli intel cluster sit in here too.","x":0,"y":-300,"width":500,"height":350},
+		{"id":"c4","type":"text","text":"## CLUSTER 4\n## Continuity / Afterlife\n\n*The story isn't over*\n\nEmerdata â†’ Auspex â†’ Data Propria â†’ Emic\n\nPlus AI-era: Doppelganger (Russia), Spamouflage (China), Team Jorge (Israel)","x":600,"y":-400,"width":500,"height":400},
+		{"id":"i12","type":"text","text":"**1 âˆ© 2: SCL Defence personnel built CA's data team**\n\n- Christopher Wylie\n- Behavioral Conflict methodology\n- US DoD / UK MoD knowhow â†’ CA psychographics","x":-1100,"y":300,"width":350,"height":200},
+		{"id":"i23","type":"text","text":"**2 âˆ© 3: CA was the data tool of the Mercer political infrastructure**\n\n- Robert + Rebekah Mercer\n- Steve Bannon (CA VP + Trump campaign)\n- Make America Number 1 PAC\n- Trump 2016","x":-500,"y":350,"width":350,"height":200},
+		{"id":"i34","type":"text","text":"**3 âˆ© 4: Successor capital + leadership came from same Mercer + new China network**\n\n- Rebekah & Jennifer Mercer (Emerdata directors)\n- Alexander Nix (Emerdata director)\n- Johnson Chun Shun Ko (FSG officer)\n- Erik Prince's Frontier Services Group ($)","x":200,"y":350,"width":350,"height":220},
+		{"id":"i14","type":"text","text":"**1 âˆ© 4: Defense-pipeline lineage continues in Emic**\n\nEmic = ex-SCL Defence staff still working for governments per Emma Briant OCCRP 2020","x":800,"y":200,"width":350,"height":180},
+		{"id":"i13","type":"text","text":"**1 âˆ© 3: Mercer money buys defense-pipeline methodologies**\n\nMercer family financed the move of military info-ops doctrine into civilian elections via their CA investment","x":-750,"y":100,"width":350,"height":180},
+		{"id":"i24","type":"text","text":"**2 âˆ© 4: Methodology persists in AI-era operations**\n\n- Embedding-based targeting (modern)\n- AIMS persona platforms\n- LLM-generated content\nDirect lineage from CA's psychographic targeting","x":350,"y":100,"width":350,"height":200},
+		{"id":"all4","type":"text","text":"**ALL 4 CLUSTERS: Alexander Nix**\n\nFounder, CEO, operator, defendant, successor-org director. Sits at the center of all four clusters by himself.\n\nAlso fully in all 4: Cambridge Analytica itself, SCL Group, Emerdata Limited","x":-300,"y":-50,"width":500,"height":200}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"h","toNode":"c1","fromSide":"bottom","toSide":"top"},
+		{"id":"e2","fromNode":"h","toNode":"c2","fromSide":"bottom","toSide":"top"},
+		{"id":"e3","fromNode":"h","toNode":"c3","fromSide":"bottom","toSide":"left"},
+		{"id":"e4","fromNode":"h","toNode":"c4","fromSide":"right","toSide":"left"},
+		{"id":"e12","fromNode":"c1","toNode":"c2","label":"1âˆ©2","fromSide":"right","toSide":"left"},
+		{"id":"e23","fromNode":"c2","toNode":"c3","label":"2âˆ©3","fromSide":"right","toSide":"left"},
+		{"id":"e34","fromNode":"c3","toNode":"c4","label":"3âˆ©4","fromSide":"right","toSide":"left"},
+		{"id":"e14","fromNode":"c1","toNode":"c4","label":"1âˆ©4","fromSide":"right","toSide":"left"},
+		{"id":"e13","fromNode":"c1","toNode":"c3","label":"1âˆ©3","fromSide":"right","toSide":"left"},
+		{"id":"e24","fromNode":"c2","toNode":"c4","label":"2âˆ©4","fromSide":"right","toSide":"left"}
+	]
+}

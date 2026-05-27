@@ -1,0 +1,68 @@
+# === Large media â€” keep repo under GitHub size budget ===
+_attachments/theocracywatch-videos/
+_attachments/**/*.mp4
+_attachments/**/*.mov
+_attachments/**/*.mkv
+_attachments/**/*.webm
+_attachments/**/*.avi
+_attachments/**/*.m4a
+_attachments/**/*.mp3
+
+# === Binaries / tools (yt-dlp etc.) ===
+_attachments/tools/
+*.exe
+*.dll
+*.bin
+*.msi
+
+# === Obsidian workspace state (per-machine, noisy, may contain plugin API keys) ===
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.obsidian/plugins/smart-connections/
+.obsidian/plugins/copilot/
+.obsidian/plugins/textgenerator/
+
+# === AI assistant local state (potentially private / keyed) ===
+.smart-env/
+.shardmind/
+.codex/
+.gemini/
+.claude/
+.claude-plugin/
+.obsidian-backup-*/
+
+# === Anything explicitly marked private ===
+*PRIVATE*
+*private-draft*
+**/scratch/
+**/_scratch/
+DRAFT-PRIVATE-*
+
+# === Scratch / logs / build artifacts ===
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# === Secrets ===
+.env
+.env.*
+*.pem
+*.key
+secrets.json
+credentials.json
+**/*-secret.*
+
+# === Quartz build output (if Quartz is later added to this repo) ===
+public/
+.cache/
+node_modules/
+# Cascade strategic + fundraising material (keep local until launch)
+12-App-Backend/

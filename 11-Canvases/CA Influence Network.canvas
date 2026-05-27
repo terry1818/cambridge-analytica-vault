@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {"id": "n1", "type": "text", "text": "# Cambridge Analytica\nInfluence Network\n\nUse this canvas to visually map relationships as you build them out.", "x": -400, "y": -300, "width": 400, "height": 200},
+    {"id": "n2", "type": "text", "text": "## Funders\n- Mercer family\n- Other donors", "x": -800, "y": 100, "width": 300, "height": 200},
+    {"id": "n3", "type": "text", "text": "## CA / SCL Core\n- SCL Group\n- Cambridge Analytica\n- SCL Elections", "x": -400, "y": 100, "width": 300, "height": 200},
+    {"id": "n4", "type": "text", "text": "## Successor Orgs\n- Emerdata\n- Auspex\n- Data Propria\n- AIQ", "x": 0, "y": 100, "width": 300, "height": 200},
+    {"id": "n5", "type": "text", "text": "## Platforms\n- Facebook / Meta\n- Twitter / X\n- YouTube", "x": -400, "y": 400, "width": 300, "height": 200},
+    {"id": "n6", "type": "text", "text": "## Whistleblowers / Disclosures\n- Christopher Wylie\n- Brittany Kaiser\n- Shahmir Sanni", "x": -800, "y": 400, "width": 300, "height": 200},
+    {"id": "n7", "type": "text", "text": "## AI Era\n- LLM propaganda\n- Deepfake campaigns\n- Synthetic personas", "x": 400, "y": 100, "width": 300, "height": 200}
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "n2", "toNode": "n3", "label": "funded"},
+    {"id": "e2", "fromNode": "n3", "toNode": "n4", "label": "personnel and IP migrated"},
+    {"id": "e3", "fromNode": "n3", "toNode": "n5", "label": "operated on / harvested from"},
+    {"id": "e4", "fromNode": "n6", "toNode": "n3", "label": "exposed"},
+    {"id": "e5", "fromNode": "n4", "toNode": "n7", "label": "evolved into"}
+  ]
+}

@@ -1,0 +1,58 @@
+﻿{
+  "nodes": [
+    {"id":"title","type":"text","text":"# Religious Right Network\n\nThe 90-year evolution from the Fellowship (1935) through CNP (1981) through Project 2025 (2023). Cluster MOC: [[Religious Right MOC]]","x":-800,"y":-1000,"width":600,"height":140,"color":"6"},
+
+    {"id":"fellowship","type":"file","file":"03-Organizations/Policy-Apparatus/The Fellowship.md","x":-1200,"y":-700,"width":280,"height":120,"color":"4"},
+    {"id":"coe","type":"file","file":"02-People/Political-Figures/Doug Coe.md","x":-1550,"y":-500,"width":280,"height":100,"color":"4"},
+    {"id":"capitol","type":"file","file":"03-Organizations/Policy-Apparatus/Capitol Ministries.md","x":-1200,"y":-450,"width":280,"height":120,"color":"4"},
+    {"id":"drollinger","type":"file","file":"02-People/Political-Figures/Ralph Drollinger.md","x":-1550,"y":-300,"width":280,"height":100,"color":"4"},
+
+    {"id":"cnp","type":"file","file":"03-Organizations/Policy-Apparatus/Council for National Policy.md","x":-700,"y":-700,"width":280,"height":120,"color":"4"},
+    {"id":"lahaye","type":"file","file":"02-People/Political-Figures/Tim LaHaye.md","x":-700,"y":-500,"width":280,"height":100,"color":"4"},
+    {"id":"perkins","type":"file","file":"02-People/Political-Figures/Tony Perkins.md","x":-380,"y":-700,"width":280,"height":100,"color":"4"},
+    {"id":"frc","type":"file","file":"03-Organizations/Media-Research/Family Research Council.md","x":-380,"y":-560,"width":280,"height":100,"color":"4"},
+
+    {"id":"heritage","type":"file","file":"03-Organizations/Media-Research/Heritage Foundation.md","x":-50,"y":-700,"width":280,"height":120,"color":"5"},
+    {"id":"roberts","type":"file","file":"02-People/Political-Figures/Kevin Roberts.md","x":-50,"y":-540,"width":280,"height":100,"color":"5"},
+
+    {"id":"p2025","type":"file","file":"03-Organizations/Policy-Apparatus/Project 2025.md","x":280,"y":-700,"width":280,"height":120,"color":"5"},
+    {"id":"vought","type":"file","file":"02-People/Political-Figures/Russell Vought.md","x":280,"y":-540,"width":280,"height":100,"color":"5"},
+
+    {"id":"cosa","type":"file","file":"03-Organizations/Policy-Apparatus/Convention of States Action.md","x":280,"y":-300,"width":280,"height":120,"color":"5"},
+    {"id":"csg","type":"file","file":"03-Organizations/Policy-Apparatus/Citizens for Self-Governance.md","x":600,"y":-300,"width":280,"height":100,"color":"5"},
+
+    {"id":"nar","type":"file","file":"03-Organizations/Policy-Apparatus/New Apostolic Reformation.md","x":-50,"y":-300,"width":280,"height":100,"color":"4"},
+    {"id":"dominionism","type":"file","file":"05-Concepts/Information-Warfare/Dominionism.md","x":-380,"y":-300,"width":280,"height":100,"color":"3"},
+    {"id":"integralism","type":"file","file":"05-Concepts/Information-Warfare/Catholic Integralism.md","x":-700,"y":-300,"width":280,"height":100,"color":"3"},
+
+    {"id":"fedsoc","type":"file","file":"03-Organizations/Media-Research/Federalist Society.md","x":600,"y":-700,"width":280,"height":120,"color":"5"},
+    {"id":"leo","type":"file","file":"02-People/Tech-Industry/Leonard Leo.md","x":600,"y":-540,"width":280,"height":100,"color":"5"},
+
+    {"id":"hyp_3wing","type":"file","file":"08-Hypotheses/Hypothesis - Three-wing coalition.md","x":-700,"y":-100,"width":280,"height":120,"color":"2"},
+    {"id":"hyp_cos","type":"file","file":"08-Hypotheses/Hypothesis - COS is the permanent capture arm of Project 2025.md","x":280,"y":-100,"width":280,"height":120,"color":"2"},
+    {"id":"conn_theo","type":"file","file":"07-Connections/Influence-Networks/Theocratic Wing Infrastructure 1935-2026.md","x":-1200,"y":-100,"width":280,"height":120,"color":"2"},
+    {"id":"conn_cnp","type":"file","file":"07-Connections/Influence-Networks/CNP State-by-State Affiliate Map.md","x":-380,"y":-100,"width":280,"height":120,"color":"2"}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"fellowship","fromSide":"bottom","toNode":"coe","toSide":"top","label":"leader"},
+    {"id":"e2","fromNode":"fellowship","fromSide":"bottom","toNode":"capitol","toSide":"top","label":"successor model"},
+    {"id":"e3","fromNode":"capitol","fromSide":"bottom","toNode":"drollinger","toSide":"top","label":"founder"},
+    {"id":"e4","fromNode":"cnp","fromSide":"bottom","toNode":"lahaye","toSide":"top","label":"founder"},
+    {"id":"e5","fromNode":"cnp","fromSide":"right","toNode":"frc","toSide":"left","label":"member"},
+    {"id":"e6","fromNode":"frc","fromSide":"top","toNode":"perkins","toSide":"bottom","label":"president"},
+    {"id":"e7","fromNode":"cnp","fromSide":"right","toNode":"heritage","toSide":"left","label":"overlap"},
+    {"id":"e8","fromNode":"heritage","fromSide":"bottom","toNode":"roberts","toSide":"top","label":"president"},
+    {"id":"e9","fromNode":"heritage","fromSide":"right","toNode":"p2025","toSide":"left","label":"sponsors"},
+    {"id":"e10","fromNode":"p2025","fromSide":"bottom","toNode":"vought","toSide":"top","label":"architect"},
+    {"id":"e11","fromNode":"p2025","fromSide":"bottom","toNode":"cosa","toSide":"top","label":"convergence"},
+    {"id":"e12","fromNode":"cosa","fromSide":"right","toNode":"csg","toSide":"left","label":"501(c)(4)/(c)(3)"},
+    {"id":"e13","fromNode":"heritage","fromSide":"right","toNode":"fedsoc","toSide":"left","label":"judicial-pipeline"},
+    {"id":"e14","fromNode":"fedsoc","fromSide":"bottom","toNode":"leo","toSide":"top","label":"co-chair"},
+    {"id":"e15","fromNode":"integralism","fromSide":"right","toNode":"dominionism","toSide":"left","label":"convergent"},
+    {"id":"e16","fromNode":"dominionism","fromSide":"right","toNode":"nar","toSide":"left","label":"variant"},
+    {"id":"e17","fromNode":"nar","fromSide":"top","toNode":"frc","toSide":"bottom","label":"adjacent"},
+    {"id":"e18","fromNode":"hyp_3wing","fromSide":"top","toNode":"cnp","toSide":"bottom","label":"applies-to"},
+    {"id":"e19","fromNode":"hyp_cos","fromSide":"top","toNode":"cosa","toSide":"bottom","label":"applies-to"},
+    {"id":"e20","fromNode":"conn_theo","fromSide":"top","toNode":"fellowship","toSide":"bottom","label":"cluster-history"}
+  ]
+}

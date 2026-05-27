@@ -1,0 +1,64 @@
+﻿{
+  "nodes": [
+    {"id": "h", "type": "text", "text": "# Tech Right Network\n\n2024-2026 convergence of Silicon Valley + Trump 2.0", "x": -800, "y": -800, "width": 500, "height": 120},
+
+    {"id": "thiel", "type": "text", "text": "## PETER THIEL\nCentral patriarch\n\n- Co-founded PayPal, Palantir, Founders Fund\n- First SV billionaire Trump backer (2016)\n- Funded JD Vance throughout career\n- Facebook board 2005-2022", "x": -200, "y": -500, "width": 350, "height": 230},
+
+    {"id": "vance", "type": "text", "text": "## JD VANCE\nVice President 2025-\n\n- Thiel protÃ©gÃ© (Mithril â†’ Narya â†’ Senate â†’ VP)\n- Cites Curtis Yarvin\n- Tech Right's biggest govt success", "x": -700, "y": -200, "width": 320, "height": 200},
+
+    {"id": "musk", "type": "text", "text": "## ELON MUSK\nLargest 2024 Trump donor\n\n- X acquisition Oct 2022\n- $280M+ Trump donations\n- DOGE leader (until mid-2025)\n- xAI, Tesla, SpaceX", "x": 200, "y": -200, "width": 320, "height": 200},
+
+    {"id": "sacks", "type": "text", "text": "## DAVID SACKS\nAI/Crypto Czar\n\n- PayPal Mafia\n- All-In Podcast co-host\n- Trump 2.0 appointment\n- Craft Ventures", "x": -700, "y": 100, "width": 320, "height": 180},
+
+    {"id": "andreessen", "type": "text", "text": "## MARC ANDREESSEN\na16z; Trump transition advisor\n\n- Techno-Optimist Manifesto (Oct 2023)\n- Crypto industry political activation\n- Meta board\n- American Dynamism investment", "x": 200, "y": 100, "width": 320, "height": 210},
+
+    {"id": "yarvin", "type": "text", "text": "## CURTIS YARVIN\nIntellectual godfather\n\n- Neoreactionary movement\n- 'Cathedral' critique\n- 'RAGE: Retire All Govt Employees'\n- Cited by Vance\n- Thiel-backed", "x": -300, "y": 400, "width": 320, "height": 220},
+
+    {"id": "ppal", "type": "text", "text": "## PAYPAL MAFIA\nThe foundational network\n\n- Thiel, Musk, Sacks, Hoffman, Levchin\n- 1998-2002 PayPal era\n- Continuing operational coordination", "x": -1200, "y": -200, "width": 320, "height": 200},
+
+    {"id": "ff", "type": "text", "text": "## FOUNDERS FUND\nThiel VC\n\n- SpaceX, Palantir, Anduril\n- Mid-stage growth via Mithril", "x": 700, "y": -500, "width": 280, "height": 170},
+
+    {"id": "a16z", "type": "text", "text": "## a16z (Andreessen Horowitz)\nMajor crypto / Tech Right VC\n\n- Funded Fairshake PAC\n- Trump 2024 advocacy", "x": 700, "y": -250, "width": 280, "height": 180},
+
+    {"id": "ai", "type": "text", "text": "## All-In Podcast\nMedia engine\n\n- Sacks, Palihapitiya, Friedberg, Calacanis\n- Coordinated Tech Right messaging", "x": 700, "y": 0, "width": 280, "height": 180},
+
+    {"id": "anduril", "type": "text", "text": "## ANDURIL\nDefense AI\n\n- Palmer Luckey founder\n- Founders Fund backed\n- Trump 2.0 defense procurement", "x": 1100, "y": -250, "width": 280, "height": 180},
+
+    {"id": "palantir", "type": "text", "text": "## PALANTIR\nGovernment surveillance\n\n- Thiel co-founded\n- ICE, NSA, CIA, DoD client\n- Primary DOGE contractor 2025+\n- CA-adjacent (Chmieliauskas)", "x": 1100, "y": -10, "width": 280, "height": 220},
+
+    {"id": "doge", "type": "text", "text": "## DOGE\nDept of Govt Efficiency\n\n- Musk-led 2025-mid\n- Mass federal firings\n- Cross-agency data access\n- Yarvin RAGE in operation", "x": 700, "y": 300, "width": 320, "height": 200},
+
+    {"id": "stargate", "type": "text", "text": "## STARGATE PROJECT\n$500B AI infrastructure\n\n- OpenAI + Oracle + SoftBank + MGX (UAE)\n- Announced Jan 21, 2025", "x": 1100, "y": 280, "width": 320, "height": 180},
+
+    {"id": "crypto", "type": "text", "text": "## CRYPTO INDUSTRY\nFairshake PAC\n\n- Coinbase + a16z + Ripple\n- $245M+ in 2024 cycle\n- Largest single-industry political spend", "x": 200, "y": 450, "width": 320, "height": 200},
+
+    {"id": "trump", "type": "text", "text": "## TRUMP 2.0\nJanuary 20, 2025 inauguration\n\nBig Tech CEOs front row:\n- Musk, Zuckerberg, Bezos\n- Pichai, Cook, Altman\n- $1M inaugural donations from each", "x": -300, "y": 700, "width": 400, "height": 220},
+
+    {"id": "ca", "type": "text", "text": "## CA-era origin\n(2014-2018)\nCambridge Analytica\nMercer-Bannon-Thiel\nFacebook harvest", "x": -1200, "y": 200, "width": 280, "height": 180}
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "h", "toNode": "thiel"},
+    {"id": "e2", "fromNode": "thiel", "toNode": "vance", "label": "patron"},
+    {"id": "e3", "fromNode": "thiel", "toNode": "ff", "label": "founded"},
+    {"id": "e4", "fromNode": "thiel", "toNode": "palantir", "label": "co-founded"},
+    {"id": "e5", "fromNode": "thiel", "toNode": "ppal", "label": "member"},
+    {"id": "e6", "fromNode": "ppal", "toNode": "musk", "label": ""},
+    {"id": "e7", "fromNode": "ppal", "toNode": "sacks", "label": ""},
+    {"id": "e8", "fromNode": "thiel", "toNode": "yarvin", "label": "patron"},
+    {"id": "e9", "fromNode": "yarvin", "toNode": "vance", "label": "ideological influence"},
+    {"id": "e10", "fromNode": "ff", "toNode": "anduril", "label": "lead investor"},
+    {"id": "e11", "fromNode": "andreessen", "toNode": "a16z", "label": "co-founded"},
+    {"id": "e12", "fromNode": "a16z", "toNode": "crypto", "label": "funds"},
+    {"id": "e13", "fromNode": "sacks", "toNode": "ai", "label": "co-host"},
+    {"id": "e14", "fromNode": "musk", "toNode": "doge", "label": "led"},
+    {"id": "e15", "fromNode": "palantir", "toNode": "doge", "label": "primary contractor"},
+    {"id": "e16", "fromNode": "yarvin", "toNode": "doge", "label": "framework implemented"},
+    {"id": "e17", "fromNode": "vance", "toNode": "trump", "label": "VP"},
+    {"id": "e18", "fromNode": "sacks", "toNode": "trump", "label": "AI/Crypto Czar"},
+    {"id": "e19", "fromNode": "musk", "toNode": "trump", "label": "$280M donor"},
+    {"id": "e20", "fromNode": "andreessen", "toNode": "trump", "label": "transition advisor"},
+    {"id": "e21", "fromNode": "ca", "toNode": "thiel", "label": "Facebook board context"},
+    {"id": "e22", "fromNode": "ca", "toNode": "palantir", "label": "Chmieliauskas adjacency"},
+    {"id": "e23", "fromNode": "stargate", "toNode": "trump", "label": "Jan 21 announcement"}
+  ]
+}

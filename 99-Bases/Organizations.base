@@ -1,0 +1,74 @@
+filters:
+  and:
+    - file.hasTag("org")
+properties:
+  file.name:
+    displayName: Org
+  legal_name:
+    displayName: Legal Name
+  founded:
+    displayName: Founded
+  dissolved:
+    displayName: Dissolved
+  jurisdiction:
+    displayName: Jurisdiction
+  parent_org:
+    displayName: Parent
+  status:
+    displayName: Status
+views:
+  - type: table
+    name: All Organizations
+    order:
+      - file.name
+      - founded
+      - dissolved
+      - jurisdiction
+      - status
+  - type: table
+    name: CA / SCL family
+    filters:
+      and:
+        - file.hasTag("topic/cambridge-analytica") or file.hasTag("topic/scl-group")
+    order:
+      - file.name
+      - founded
+      - dissolved
+      - status
+  - type: table
+    name: Active Successors
+    filters:
+      and:
+        - file.hasTag("org")
+        - file.path.contains("Successor")
+    order:
+      - file.name
+      - founded
+      - jurisdiction
+      - status
+  - type: table
+    name: Private Intelligence Ecosystem
+    filters:
+      and:
+        - file.hasTag("topic/info-warfare") or file.hasTag("topic/psyops")
+    order:
+      - file.name
+      - jurisdiction
+      - founded
+      - status
+  - type: table
+    name: Tech Platforms
+    filters:
+      and:
+        - file.hasTag("org/tech-platform")
+    order:
+      - file.name
+      - jurisdiction
+  - type: table
+    name: Regulators
+    filters:
+      and:
+        - file.hasTag("org/regulator")
+    order:
+      - file.name
+      - jurisdiction
