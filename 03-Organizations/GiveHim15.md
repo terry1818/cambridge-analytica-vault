@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Dutch Sheets's daily prophetic devotional and mobilization platform, launched 2015, which became a real-time tool for promoting 2020 election-fraud claims and popularizing the "Appeal to Heaven" flag now tied to Christian nationalism and January 6.
+description: 'Dutch Sheets''s daily prophetic devotional and mobilization platform, launched 2015, which became a real-time tool for promoting 2020 election-fraud claims and popularizing the "Appeal to Heaven" flag now tied to Christian nationalism and January 6.'
 tags:
   - org
   - org/church-ministry

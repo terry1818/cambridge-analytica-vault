@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Conservative attorney and activist who founded Eagle Forum and led the STOP ERA campaign that defeated the Equal Rights Amendment, pioneering the grassroots "family values" organizing model that fused religious conservatism with Republican politics.
+description: 'Conservative attorney and activist who founded Eagle Forum and led the STOP ERA campaign that defeated the Equal Rights Amendment, pioneering the grassroots "family values" organizing model that fused religious conservatism with Republican politics.'
 tags:
   - person
   - role/operative

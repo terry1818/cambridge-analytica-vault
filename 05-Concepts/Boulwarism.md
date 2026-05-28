@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: General Electric's postwar strategy of hardline "final offer" collective bargaining combined with systematic ideological education of its workforce against unions and in favor of free enterprise.
+description: 'General Electric''s postwar strategy of hardline "final offer" collective bargaining combined with systematic ideological education of its workforce against unions and in favor of free enterprise.'
 tags:
   - concept
   - topic/dark-money

@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Trump-aligned policy think tank founded 2021; "Trump's Heritage Foundation"; parallel/competing with Heritage on Project 2025; Brooke Rollins led
+description: 'Trump-aligned policy think tank founded 2021; "Trump''s Heritage Foundation"; parallel/competing with Heritage on Project 2025; Brooke Rollins led'
 tags: [org, org/policy-apparatus, org/think-tank, era/2021-2026, jurisdiction/us]
 type: organization
 legal_name: America First Policy Institute

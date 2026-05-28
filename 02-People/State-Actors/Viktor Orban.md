@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-17
-description: Viktor Orban - Hungarian Prime Minister; principal European right-wing leader and explicit model for US Tech-Right and religious-right intellectual programme; founder of "illiberal democracy" framing.
+description: 'Viktor Orban - Hungarian Prime Minister; principal European right-wing leader and explicit model for US Tech-Right and religious-right intellectual programme; founder of "illiberal democracy" framing.'
 tags:
   - person
   - state-actor

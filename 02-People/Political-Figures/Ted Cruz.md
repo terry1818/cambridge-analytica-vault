@@ -1,9 +1,9 @@
-﻿---
+---
 date: 2026-05-16
 description: US Senator (TX); 2016 Republican presidential candidate; Cambridge Analytica's first major US political client â€” the proving ground for CA's psychographic-targeting methodology before the Trump campaign engagement
 tags: [person, role/politician, role/client, topic/cambridge-analytica, topic/2016-election, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-2026, jurisdiction/us]
 type: person
-full_name: Rafael Edward "Ted" Cruz
+full_name: 'Rafael Edward "Ted" Cruz'
 born: 1970-12-22
 nationality: American (US/Canadian dual at birth; renounced Canadian)
 roles: [politician, client]

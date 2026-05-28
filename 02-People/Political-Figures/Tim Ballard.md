@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-17
-description: Tim Ballard - founder of Operation Underground Railroad; principal figure of the contemporary "child trafficking" politicization movement that became the Sound of Freedom film and QAnon-adjacent organisational vehicle.
+description: 'Tim Ballard - founder of Operation Underground Railroad; principal figure of the contemporary "child trafficking" politicization movement that became the Sound of Freedom film and QAnon-adjacent organisational vehicle.'
 tags:
   - person
   - operator

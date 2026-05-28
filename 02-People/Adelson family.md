@@ -33,7 +33,7 @@ affiliations:
   - "[[Republican Jewish Coalition]]"
   - Israel Hayom
   - Las Vegas Review-Journal
-notable_for: Becoming the single largest source of Republican campaign money in the 2012–2024 period; the "Adelson primary"; bankrolling and pressing for the U.S. embassy move to Jerusalem.
+notable_for: 'Becoming the single largest source of Republican campaign money in the 2012–2024 period; the "Adelson primary"; bankrolling and pressing for the U.S. embassy move to Jerusalem.'
 status: active
 ---
 

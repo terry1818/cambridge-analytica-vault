@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: US-founded international anti-LGBTQ and anti-abortion network that exports "natural family" ideology globally; founded 1997; a project of the Howard Center for Family, Religion and Society.
+description: 'US-founded international anti-LGBTQ and anti-abortion network that exports "natural family" ideology globally; founded 1997; a project of the Howard Center for Family, Religion and Society.'
 tags:
   - org
   - era/pre-2014

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: American diplomat and author who became the leading intellectual advocate of fascism in 1930s America; described by Life magazine in 1941 as "America's No. 1 intellectual Fascist"; personally mixed-race but passed as white.
+description: 'American diplomat and author who became the leading intellectual advocate of fascism in 1930s America; described by Life magazine in 1941 as "America''s No. 1 intellectual Fascist"; personally mixed-race but passed as white.'
 tags:
   - person
   - role/academic

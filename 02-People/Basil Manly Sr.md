@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Antebellum Southern Baptist minister, president of the University of Alabama, slavery apologist, author of the "Alabama Resolutions" central to the founding of the Southern Baptist Convention in 1845, and chaplain at Jefferson Davis's Confederate inauguration.
+description: 'Antebellum Southern Baptist minister, president of the University of Alabama, slavery apologist, author of the "Alabama Resolutions" central to the founding of the Southern Baptist Convention in 1845, and chaplain at Jefferson Davis''s Confederate inauguration.'
 tags:
   - person
   - role/executive

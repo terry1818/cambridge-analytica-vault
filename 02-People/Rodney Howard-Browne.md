@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: South African-born American charismatic evangelist and megachurch pastor in Tampa, Florida; credited with spreading the "holy laughter" revival of the 1990s; Trump-aligned, arrested for violating COVID lockdown orders in 2020.
+description: 'South African-born American charismatic evangelist and megachurch pastor in Tampa, Florida; credited with spreading the "holy laughter" revival of the 1990s; Trump-aligned, arrested for violating COVID lockdown orders in 2020.'
 tags:
   - person
   - role/executive
@@ -24,7 +24,7 @@ affiliations:
   - The River at Tampa Bay Church
   - Revival Ministries International
   - River Bible Institute
-notable_for: Originating or transmitting the "holy laughter" revival (1993–94); arrested for holding church services during COVID-19 lockdown (March 2020); participation in White House evangelical prayer events with Trump
+notable_for: 'Originating or transmitting the "holy laughter" revival (1993–94); arrested for holding church services during COVID-19 lockdown (March 2020); participation in White House evangelical prayer events with Trump'
 status: active
 ---
 

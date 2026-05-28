@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Aleksandr Kogan's data-harvesting firm; harvested 87M Facebook users via "thisisyourdigitallife" app; sold dataset to Cambridge Analytica
+description: 'Aleksandr Kogan''s data-harvesting firm; harvested 87M Facebook users via "thisisyourdigitallife" app; sold dataset to Cambridge Analytica'
 tags: [org, org/data-firm, topic/cambridge-analytica, era/2013-2015, jurisdiction/uk]
 type: organization
 legal_name: Global Science Research Ltd.

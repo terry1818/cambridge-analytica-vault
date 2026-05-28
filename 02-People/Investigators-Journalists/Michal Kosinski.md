@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Stanford psychologist; Cambridge Psychometrics Centre researcher whose methods CA "cloned"
+description: 'Stanford psychologist; Cambridge Psychometrics Centre researcher whose methods CA "cloned"'
 tags: [person, role/academic, role/researcher, topic/psychographics, era/pre-2014, era/2014-2016]
 type: person
 full_name: Michal Kosinski

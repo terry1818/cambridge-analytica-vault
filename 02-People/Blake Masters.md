@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Venture capitalist, Peter Thiel protégé, co-author of "Zero to One," and 2022 Republican Arizona Senate nominee; funded by Thiel and lost to Democrat Mark Kelly.
+description: 'Venture capitalist, Peter Thiel protégé, co-author of "Zero to One," and 2022 Republican Arizona Senate nominee; funded by Thiel and lost to Democrat Mark Kelly.'
 tags:
   - person
   - role/politician
@@ -23,7 +23,7 @@ affiliations:
   - Thiel Foundation
   - Founders Fund (associated)
   - Arizona Republican Party
-notable_for: Co-authoring "Zero to One" with Peter Thiel; 2022 Arizona Senate candidacy (lost to Mark Kelly); Thiel's most prominent electoral investment of the 2022 cycle
+notable_for: 'Co-authoring "Zero to One" with Peter Thiel; 2022 Arizona Senate candidacy (lost to Mark Kelly); Thiel''s most prominent electoral investment of the 2022 cycle'
 status: Active; private sector
 ---
 

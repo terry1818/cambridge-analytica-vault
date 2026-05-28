@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: The two unwritten norms Levitsky and Ziblatt identify as the "soft guardrails" of democracy — mutual toleration of rivals and institutional forbearance in the use of constitutional powers
+description: 'The two unwritten norms Levitsky and Ziblatt identify as the "soft guardrails" of democracy — mutual toleration of rivals and institutional forbearance in the use of constitutional powers'
 tags: [concept, topic/authoritarianism, topic/constitutional-capture]
 type: concept
 aliases: ["Mutual toleration and institutional forbearance"]

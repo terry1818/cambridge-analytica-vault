@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: American academic, social psychologist, and philosopher; Professor Emerita at Harvard Business School; author of "The Age of Surveillance Capitalism" (2019) — the foundational theoretical account of how tech platforms extract behavioral data as raw material for prediction products.
+description: 'American academic, social psychologist, and philosopher; Professor Emerita at Harvard Business School; author of "The Age of Surveillance Capitalism" (2019) — the foundational theoretical account of how tech platforms extract behavioral data as raw material for prediction products.'
 tags:
   - person
   - role/academic
@@ -24,7 +24,7 @@ roles:
 affiliations:
   - Harvard Business School (Charles Edward Wilson Professor Emerita; one of first tenured women professors)
   - Harvard Kennedy School, Carr Center for Human Rights (Faculty Associate)
-notable_for: Conceptualized "surveillance capitalism"; "The Age of Surveillance Capitalism" (2019); earlier foundational work "In the Age of the Smart Machine" (1988)
+notable_for: 'Conceptualized "surveillance capitalism"; "The Age of Surveillance Capitalism" (2019); earlier foundational work "In the Age of the Smart Machine" (1988)'
 status: Active (emerita)
 ---
 

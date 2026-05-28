@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Georgia Republican politician who served as Secretary of State (2010–2018) while simultaneously running for Governor; oversaw voter-roll purges and "exact match" policies that disproportionately affected Black voters; won the 2018 governorship over Stacey Abrams.
+description: 'Georgia Republican politician who served as Secretary of State (2010–2018) while simultaneously running for Governor; oversaw voter-roll purges and "exact match" policies that disproportionately affected Black voters; won the 2018 governorship over Stacey Abrams.'
 tags:
   - person
   - role/politician

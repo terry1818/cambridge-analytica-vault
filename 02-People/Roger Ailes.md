@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Republican media consultant who designed Nixon-era television strategy, co-authored the 1970 "A Plan For Putting the GOP on TV News" memo, and built Fox News into the dominant conservative cable network before being ousted in 2016 over sexual-harassment allegations.
+description: 'Republican media consultant who designed Nixon-era television strategy, co-authored the 1970 "A Plan For Putting the GOP on TV News" memo, and built Fox News into the dominant conservative cable network before being ousted in 2016 over sexual-harassment allegations.'
 tags:
   - person
   - role/media-executive

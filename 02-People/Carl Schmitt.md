@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: German jurist (1888–1985) whose theories of the "state of exception," sovereignty, and the friend/enemy distinction became foundational references for authoritarian legal thought; cited by Paxton as an intellectual marker in the broader fascist context.
+description: 'German jurist (1888–1985) whose theories of the "state of exception," sovereignty, and the friend/enemy distinction became foundational references for authoritarian legal thought; cited by Paxton as an intellectual marker in the broader fascist context.'
 tags:
   - person
   - role/academic

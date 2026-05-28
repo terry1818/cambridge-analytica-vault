@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Far-right American news website founded by Andrew Breitbart in 2007, transformed by Steve Bannon and Mercer-family funding into a self-declared "platform for the alt-right" and a central pillar of the pro-Trump media ecosystem in 2016.
+description: 'Far-right American news website founded by Andrew Breitbart in 2007, transformed by Steve Bannon and Mercer-family funding into a self-declared "platform for the alt-right" and a central pillar of the pro-Trump media ecosystem in 2016.'
 tags:
   - org
   - org/media

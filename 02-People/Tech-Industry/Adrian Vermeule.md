@@ -1,13 +1,13 @@
-﻿---
+---
 date: 2026-05-16
-description: Harvard Law professor; Catholic integralist; "common good constitutionalism"
+description: 'Harvard Law professor; Catholic integralist; "common good constitutionalism"'
 tags: [person, role/academic, role/lawyer, topic/tech-right, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, jurisdiction/us]
 type: person
 full_name: Adrian Vermeule
 nationality: American
 roles: [academic, lawyer]
 affiliations: [Harvard Law School]
-notable_for: Catholic integralist legal scholar; "Common Good Constitutionalism" (2022); JD Vance ideological influence
+notable_for: 'Catholic integralist legal scholar; "Common Good Constitutionalism" (2022); JD Vance ideological influence'
 status: active
 ---
 

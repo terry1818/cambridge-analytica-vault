@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: CA Vice President; Trump campaign CEO 2016; White House Chief Strategist 2017
 tags: [person, role/executive, role/politician, topic/cambridge-analytica, era/2014-2016, era/2016-2018]
@@ -7,7 +7,7 @@ full_name: Stephen Kevin Bannon
 nationality: American
 roles: [executive, political strategist]
 affiliations: [Cambridge Analytica, Breitbart News, Trump Campaign 2016, Mercer Family, Make America Number 1 Super PAC]
-notable_for: Vice president of CA; Trump campaign CEO; "psychological warfare tool" framing per Wylie
+notable_for: 'Vice president of CA; Trump campaign CEO; "psychological warfare tool" framing per Wylie'
 status: active
 wikipedia_url: https://en.wikipedia.org/wiki/Steve_Bannon
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Charismatic evangelical variant of dominionism; identifies 7 cultural "mountains" Christians must control: government, education, media, arts, religion, family, business
+description: 'Charismatic evangelical variant of dominionism; identifies 7 cultural "mountains" Christians must control: government, education, media, arts, religion, family, business'
 tags: [concept, topic/dominionism, topic/theocratic-wing, era/1975-2026]
 type: concept
 domain: theological

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Academic propaganda researcher; pre-scandal SCL/CA expert via 2015 book; key DCMS witness; continuing work
 tags: [person, role/academic, role/researcher, topic/cambridge-analytica, topic/info-warfare, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/uk]
@@ -7,7 +7,7 @@ full_name: Emma L. Briant
 nationality: British
 roles: [academic, researcher]
 affiliations: [University of Essex (former), American University (former), Bard College (current)]
-notable_for: Author "Propaganda and Counter-Terrorism" (2015); SCL/CA pre-scandal expert; major DCMS Committee witness; Emic post-collapse exposure 2020
+notable_for: 'Author "Propaganda and Counter-Terrorism" (2015); SCL/CA pre-scandal expert; major DCMS Committee witness; Emic post-collapse exposure 2020'
 status: active
 wikipedia_url: https://en.wikipedia.org/wiki/Emma_Briant
 ---

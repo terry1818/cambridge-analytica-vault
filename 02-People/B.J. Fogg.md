@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Stanford psychologist and researcher who founded the Persuasive Technology Lab in 1998, coined the term "captology," and developed the Fogg Behavior Model — the intellectual framework underlying much of Silicon Valley's engagement-maximizing product design.
+description: 'Stanford psychologist and researcher who founded the Persuasive Technology Lab in 1998, coined the term "captology," and developed the Fogg Behavior Model — the intellectual framework underlying much of Silicon Valley''s engagement-maximizing product design.'
 tags:
   - person
   - role/researcher

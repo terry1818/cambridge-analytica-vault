@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The 2009-onward American right-populist movement that fused genuine grassroots anger with donor-funded "Astroturf" infrastructure — a key transitional phase between the Bush-era GOP and the Trump-era radical right this vault tracks.
+description: 'The 2009-onward American right-populist movement that fused genuine grassroots anger with donor-funded "Astroturf" infrastructure — a key transitional phase between the Bush-era GOP and the Trump-era radical right this vault tracks.'
 tags:
   - concept
   - topic/patron-wing

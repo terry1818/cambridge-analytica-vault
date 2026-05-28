@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Russian political technologist and Kremlin strategist; principal architect of "managed democracy" and sovereign democracy doctrine under Putin; later curator of Russia's proxy war in eastern Ukraine.
+description: 'Russian political technologist and Kremlin strategist; principal architect of "managed democracy" and sovereign democracy doctrine under Putin; later curator of Russia''s proxy war in eastern Ukraine.'
 tags:
   - person
   - role/operative
@@ -32,7 +32,7 @@ affiliations:
   - Kremlin / Presidential Administration of Russia
   - United Russia (architect)
   - Nashi youth movement (creator)
-notable_for: Inventing and operationalising "managed democracy"; weaponising political technology across domestic Russian politics and the Donbas conflict; theorising "nonlinear war" and reality-confusion as statecraft.
+notable_for: 'Inventing and operationalising "managed democracy"; weaponising political technology across domestic Russian politics and the Donbas conflict; theorising "nonlinear war" and reality-confusion as statecraft.'
 status: unknown
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: American mathematician and data scientist who coined the term "weapons of math destruction" to describe opaque, large-scale algorithms that cause systemic harm.
+description: 'American mathematician and data scientist who coined the term "weapons of math destruction" to describe opaque, large-scale algorithms that cause systemic harm.'
 tags:
   - person
   - role/researcher

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Investigative journalist and author of "Means of Control" (2024), exposing the hidden alliance between US government agencies and commercial data brokers.
+description: 'Investigative journalist and author of "Means of Control" (2024), exposing the hidden alliance between US government agencies and commercial data brokers.'
 tags:
   - person
   - role/journalist
@@ -23,7 +23,7 @@ affiliations:
   - Wall Street Journal (former)
   - NOTUS (nonprofit newsroom, Washington DC)
   - Associated Press (former)
-notable_for: Broke major stories on US government purchase of commercially collected location data; authored "Means of Control" (2024)
+notable_for: 'Broke major stories on US government purchase of commercially collected location data; authored "Means of Control" (2024)'
 status: Active
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Chilean military dictator (1973–1990); Ben-Ghiat strongman case and the vault's primary example of post-coup "constitutional lock-in" — embedding authoritarian structures in a constitution designed to outlast the regime.
+description: 'Chilean military dictator (1973–1990); Ben-Ghiat strongman case and the vault''s primary example of post-coup "constitutional lock-in" — embedding authoritarian structures in a constitution designed to outlast the regime.'
 tags:
   - person
   - role/politician

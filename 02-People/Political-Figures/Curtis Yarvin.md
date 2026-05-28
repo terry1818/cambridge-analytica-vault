@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Founder of Dark Enlightenment/Neoreactionary movement; Mencius Moldbug pen name; software engineer; direct Thiel + Vance intellectual influence; RAGE doctrine architect
 tags: [person, role/intellectual, role/dark-enlightenment, era/2007-2026]
@@ -9,7 +9,7 @@ born: 1973
 nationality: American
 roles: [Software engineer, Political theorist, Founder Neoreactionary movement]
 affiliations: [Tlon (founded; Thiel-invested), Gray Mirror newsletter, Urbit (founded)]
-notable_for: Founding Dark Enlightenment/NRx; coining "Cathedral" and "RAGE"; direct influence on Thiel + Vance + DOGE
+notable_for: 'Founding Dark Enlightenment/NRx; coining "Cathedral" and "RAGE"; direct influence on Thiel + Vance + DOGE'
 status: active
 wikipedia_url: https://en.wikipedia.org/wiki/Curtis_Yarvin
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: The 1950s political-religious campaign that added "under God" to the Pledge of Allegiance (1954) and established "In God We Trust" as the national motto (1956), driven by a coalition of clergy, corporate interests, and Cold War anti-communist politics.
+description: 'The 1950s political-religious campaign that added "under God" to the Pledge of Allegiance (1954) and established "In God We Trust" as the national motto (1956), driven by a coalition of clergy, corporate interests, and Cold War anti-communist politics.'
 tags:
   - concept
   - topic/theocratic-wing

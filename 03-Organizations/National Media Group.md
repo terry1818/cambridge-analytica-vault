@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Best-defensible identification of "National Media Group" as National Media Research, Planning & Placement, LLC — the leading Republican political media-buying and ad-placement firm, and an early adopter of data-driven targeting for political advertising.
+description: 'Best-defensible identification of "National Media Group" as National Media Research, Planning & Placement, LLC — the leading Republican political media-buying and ad-placement firm, and an early adopter of data-driven targeting for political advertising.'
 tags:
   - org
   - org/political-vendor

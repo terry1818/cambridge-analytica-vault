@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Intentional charismatic-Christian communities — often ecumenical, with Catholic and Protestant members — whose covenanted members live under personal "headship" authority; the model behind Sword of the Spirit and People of Praise, notable as a high-commitment institutional form and for its ties to figures in public life.
+description: 'Intentional charismatic-Christian communities — often ecumenical, with Catholic and Protestant members — whose covenanted members live under personal "headship" authority; the model behind Sword of the Spirit and People of Praise, notable as a high-commitment institutional form and for its ties to figures in public life.'
 tags:
   - concept
   - topic/theocratic-wing

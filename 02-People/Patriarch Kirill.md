@@ -29,7 +29,7 @@ roles:
 affiliations:
   - Russian Orthodox Church (Moscow Patriarchate)
   - World Russian People's Council (head)
-notable_for: Providing theological legitimation for Putin's political authority; framing the Ukraine war as a metaphysical struggle against Western "values"; suspected long-standing ties to Russian security services (KGB/FSB) — this claim is contested and requires evidentiary caution
+notable_for: 'Providing theological legitimation for Putin''s political authority; framing the Ukraine war as a metaphysical struggle against Western "values"; suspected long-standing ties to Russian security services (KGB/FSB) — this claim is contested and requires evidentiary caution'
 status: Active; sanctioned by multiple Western governments
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: UK signals intelligence agency; operates JTRIG (Joint Threat Research Intelligence Group) the British analog to US CA-style political-influence operations
 tags: [org, org/state-actor, org/intelligence, era/1919-2026, jurisdiction/uk]
@@ -6,7 +6,7 @@ type: organization
 legal_name: Government Communications Headquarters
 aliases: [GCHQ]
 founded: 1919 (as Government Code and Cypher School; renamed GCHQ 1946)
-headquarters: Cheltenham UK ("The Doughnut")
+headquarters: 'Cheltenham UK ("The Doughnut")'
 jurisdiction: UK (intelligence agency)
 parent_org: ""
 key_people: [Anne Keast-Butler (Director since 2023)]

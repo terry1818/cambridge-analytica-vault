@@ -27,7 +27,7 @@ affiliations:
   - Human Events (Senior Editor, 2021–present)
   - Turning Point USA (host, 2021–present)
   - US Navy (former intelligence officer)
-notable_for: Documented amplification of Pizzagate and other debunked narratives; "Stop the Steal" campaign participation; SPLC extremist file (2022); Human Events and OAN media presence
+notable_for: 'Documented amplification of Pizzagate and other debunked narratives; "Stop the Steal" campaign participation; SPLC extremist file (2022); Human Events and OAN media presence'
 status: Active
 ---
 

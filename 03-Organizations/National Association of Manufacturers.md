@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The oldest and largest U.S. manufacturing trade association, notable in this vault for pioneering — during its 1935–1945 anti–New Deal propaganda campaign — the mass corporate techniques for equating "free enterprise" with American democracy itself.
+description: 'The oldest and largest U.S. manufacturing trade association, notable in this vault for pioneering — during its 1935–1945 anti–New Deal propaganda campaign — the mass corporate techniques for equating "free enterprise" with American democracy itself.'
 tags:
   - org
   - org/advocacy

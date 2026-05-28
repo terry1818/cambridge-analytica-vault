@@ -24,7 +24,7 @@ roles:
 affiliations:
   - MSHC Partners (co-founder)
   - Analyst Institute (co-founder)
-notable_for: First use of consumer-database microtargeting in a US Senate race (Ron Wyden, 1995); wrote "The New Political Targeting" (2003); helped institutionalize randomized testing on the Democratic side
+notable_for: 'First use of consumer-database microtargeting in a US Senate race (Ron Wyden, 1995); wrote "The New Political Targeting" (2003); helped institutionalize randomized testing on the Democratic side'
 status: deceased
 ---
 

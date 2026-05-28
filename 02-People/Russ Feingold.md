@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Former U.S. Senator (Wisconsin, 1993–2011), president of the American Constitution Society (2020–2025), co-author of "The Constitution in Jeopardy" (2022); the leading political voice opposing the Article V convention campaign.
+description: 'Former U.S. Senator (Wisconsin, 1993–2011), president of the American Constitution Society (2020–2025), co-author of "The Constitution in Jeopardy" (2022); the leading political voice opposing the Article V convention campaign.'
 tags:
   - person
   - role/politician
@@ -25,7 +25,7 @@ affiliations:
   - U.S. Senate (1993–2011)
   - American Constitution Society (President 2020–2025)
   - Stanford Law School (visiting/affiliated)
-notable_for: McCain-Feingold Act (BCRA 2002); only senator to vote against the PATRIOT Act; co-authoring "The Constitution in Jeopardy" (2022); leading institutional opposition to Article V convention campaign
+notable_for: 'McCain-Feingold Act (BCRA 2002); only senator to vote against the PATRIOT Act; co-authoring "The Constitution in Jeopardy" (2022); leading institutional opposition to Article V convention campaign'
 status: active (retired from ACS presidency 2025)
 ---
 

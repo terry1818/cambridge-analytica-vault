@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Climate-denial think tank; SPN affiliate; Barre Seid longtime funder; 2012 "Unabomber billboard" scandal; major climate-denial publishing operation
+description: 'Climate-denial think tank; SPN affiliate; Barre Seid longtime funder; 2012 "Unabomber billboard" scandal; major climate-denial publishing operation'
 tags: [org, org/policy-apparatus, org/climate-denial, era/1984-2026, jurisdiction/us]
 type: organization
 legal_name: The Heartland Institute

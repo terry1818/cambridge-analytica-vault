@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: 1930s American fascist paramilitary organisation founded by William Dudley Pelley, whose uniformed "Silver Shirts" modelled themselves explicitly on Hitler's SA; peak membership ~15,000.
+description: '1930s American fascist paramilitary organisation founded by William Dudley Pelley, whose uniformed "Silver Shirts" modelled themselves explicitly on Hitler''s SA; peak membership ~15,000.'
 tags:
   - era/pre-2014
   - topic/authoritarianism

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The DHS component that secures U.S. transportation; its rapidly expanding airport facial-recognition program and watchlist-driven "Quiet Skies" tracking make it the point where biometric surveillance becomes a routine, near-unavoidable condition of domestic travel.
+description: 'The DHS component that secures U.S. transportation; its rapidly expanding airport facial-recognition program and watchlist-driven "Quiet Skies" tracking make it the point where biometric surveillance becomes a routine, near-unavoidable condition of domestic travel.'
 tags:
   - org
   - org/government-agency

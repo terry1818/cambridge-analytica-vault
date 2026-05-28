@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Religious software company building data platform for churches; partner of United in Purpose + COFI; "Cambridge Analytica on steroids" for evangelical recruitment
+description: 'Religious software company building data platform for churches; partner of United in Purpose + COFI; "Cambridge Analytica on steroids" for evangelical recruitment'
 tags: [org, org/tech-platform, org/data-firm, org/theocratic-wing, era/2013-2026, jurisdiction/us]
 type: organization
 legal_name: Gloo, LLC

@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-17
-description: Doug Wilson - pastor of Christ Church Moscow Idaho; founder of New Saint Andrews College; principal figure of the post-2020 "TheoBros" classical Christian education and Christian nationalist movement.
+description: 'Doug Wilson - pastor of Christ Church Moscow Idaho; founder of New Saint Andrews College; principal figure of the post-2020 "TheoBros" classical Christian education and Christian nationalist movement.'
 tags:
   - person
   - operator

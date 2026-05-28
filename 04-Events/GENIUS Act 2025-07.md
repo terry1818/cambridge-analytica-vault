@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The first U.S. federal law regulating payment stablecoins, signed July 18, 2025 — a marquee legislative win for the crypto industry and the "tech right" donor wing, relevant to this vault as a marker of that wing's policy influence under the second Trump administration.
+description: 'The first U.S. federal law regulating payment stablecoins, signed July 18, 2025 — a marquee legislative win for the crypto industry and the "tech right" donor wing, relevant to this vault as a marker of that wing''s policy influence under the second Trump administration.'
 tags:
   - event
   - topic/tech-right

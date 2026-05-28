@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Congregational minister who built the first major corporate-funded Christian-libertarian apparatus, earning the nickname "Apostle to Millionaires" as founder of Spiritual Mobilization (1935).
+description: 'Congregational minister who built the first major corporate-funded Christian-libertarian apparatus, earning the nickname "Apostle to Millionaires" as founder of Spiritual Mobilization (1935).'
 tags:
   - person
   - role/founder

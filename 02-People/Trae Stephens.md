@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Founders Fund partner and co-founder of the defense-tech company Anduril Industries; a Palantir alumnus and prominent figure in the "tech right" project of remaking U.S. defense procurement and aligning Silicon Valley with national-security power.
+description: 'Founders Fund partner and co-founder of the defense-tech company Anduril Industries; a Palantir alumnus and prominent figure in the "tech right" project of remaking U.S. defense procurement and aligning Silicon Valley with national-security power.'
 tags:
   - person
   - role/operative
@@ -32,7 +32,7 @@ affiliations:
   - Anduril Industries
   - Palantir Technologies
   - U.S. Intelligence Community
-notable_for: Co-founding Anduril with Palmer Luckey; channeling Founders Fund / Peter Thiel capital into defense technology; serving as a leading "tech right" advocate for disrupting traditional defense procurement.
+notable_for: 'Co-founding Anduril with Palmer Luckey; channeling Founders Fund / Peter Thiel capital into defense technology; serving as a leading "tech right" advocate for disrupting traditional defense procurement.'
 status: active
 ---
 

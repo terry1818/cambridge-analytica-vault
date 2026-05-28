@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: German-American political scientist and historian of intelligence, author of "Active Measures" (2020) — the definitive history of disinformation and political warfare from the Soviet era to the present.
+description: 'German-American political scientist and historian of intelligence, author of "Active Measures" (2020) — the definitive history of disinformation and political warfare from the Soviet era to the present.'
 tags:
   - person
   - role/academic
@@ -26,7 +26,7 @@ affiliations:
   - Johns Hopkins University SAIS (George H.W. Bush Professor; founding director, Alperovitch Institute for Cybersecurity Studies)
   - King's College London, Department of War Studies (Professor, 2011–2016)
   - Humboldt University Berlin (PhD)
-notable_for: "Active Measures: The Secret History of Disinformation and Political Warfare" (2020); testimony to US Senate Intelligence Committee on Russian interference
+notable_for: '"Active Measures: The Secret History of Disinformation and Political Warfare" (2020); testimony to US Senate Intelligence Committee on Russian interference'
 status: Active
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Archival history of how corporate America in the 1930s–1950s engineered the conflation of Christianity and free-market capitalism, creating the myth of a "Christian America."
+description: 'Archival history of how corporate America in the 1930s–1950s engineered the conflation of Christianity and free-market capitalism, creating the myth of a "Christian America."'
 tags: [source, book, religious-right, patron-class, christian-nationalism]
 type: source
 tier: Tier-2

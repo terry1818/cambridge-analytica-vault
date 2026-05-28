@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Chief architect of Project 2025; OMB Director Trump 2.0; self-described Christian nationalist; "shadow president" framing
+description: 'Chief architect of Project 2025; OMB Director Trump 2.0; self-described Christian nationalist; "shadow president" framing'
 tags: [person, role/government-official, role/project-2025, era/2024-2026]
 type: person
 full_name: Russell Thurlow Vought

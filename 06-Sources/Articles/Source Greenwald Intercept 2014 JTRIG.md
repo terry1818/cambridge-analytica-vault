@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Greenwald's analysis of Snowden-leaked JTRIG documents â€” primary public exposure of UK GCHQ's offensive online-influence capabilities; establishes that "CA's methods" predated CA inside Five Eyes intelligence services
+description: 'Greenwald''s analysis of Snowden-leaked JTRIG documents â€” primary public exposure of UK GCHQ''s offensive online-influence capabilities; establishes that "CA''s methods" predated CA inside Five Eyes intelligence services'
 aliases: ["Source: Source Greenwald Intercept 2014 JTRIG"]
 tags: [source, evidence/leak, evidence/journalism, topic/info-warfare, topic/psyops, era/2014-2016, jurisdiction/uk]
 type: source

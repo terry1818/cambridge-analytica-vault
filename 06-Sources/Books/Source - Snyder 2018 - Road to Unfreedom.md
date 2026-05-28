@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Snyder's history-philosophy account of Russia's turn to fascist ideology and its export westward via Ukraine and 2016 US election interference — essential analytical framework for the vault's "is this fascism/authoritarianism" question and its Russia thread.
+description: 'Snyder''s history-philosophy account of Russia''s turn to fascist ideology and its export westward via Ukraine and 2016 US election interference — essential analytical framework for the vault''s "is this fascism/authoritarianism" question and its Russia thread.'
 tags: [source, book, fascism, russia, authoritarianism]
 type: source
 tier: Tier-2

@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Redirect - misspelled "ChAc Ahn" (encoding artifact) routes to Che Ahn
+description: 'Redirect - misspelled "ChAc Ahn" (encoding artifact) routes to Che Ahn'
 tags: [redirect]
 type: redirect
 ---

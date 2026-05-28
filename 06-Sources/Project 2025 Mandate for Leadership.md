@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The Heritage Foundation's "Mandate for Leadership: The Conservative Promise" (2023) — the ~900-page Project 2025 policy blueprint for restructuring the US federal government and consolidating executive power.
+description: 'The Heritage Foundation''s "Mandate for Leadership: The Conservative Promise" (2023) — the ~900-page Project 2025 policy blueprint for restructuring the US federal government and consolidating executive power.'
 tags:
   - source
   - evidence/primary

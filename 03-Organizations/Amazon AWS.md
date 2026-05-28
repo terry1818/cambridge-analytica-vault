@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Amazon's cloud-computing division and the single largest commercial host of U.S. intelligence and military data — builder of the CIA's C2S cloud and the NSA's secret ~$10 billion "WildandStormy" environment — making it the deepest commercial-state fusion in the surveillance-infrastructure landscape.
+description: 'Amazon''s cloud-computing division and the single largest commercial host of U.S. intelligence and military data — builder of the CIA''s C2S cloud and the NSA''s secret ~$10 billion "WildandStormy" environment — making it the deepest commercial-state fusion in the surveillance-infrastructure landscape.'
 tags:
   - org
   - org/data-firm

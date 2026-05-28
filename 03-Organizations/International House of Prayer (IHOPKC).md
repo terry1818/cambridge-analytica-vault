@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Kansas City charismatic ministry built around 24/7 prayer and end-times "forerunner" theology, central to the NAR-adjacent prophetic movement, that collapsed in 2024 after its founder Mike Bickle was credibly accused of decades of sexual abuse.
+description: 'Kansas City charismatic ministry built around 24/7 prayer and end-times "forerunner" theology, central to the NAR-adjacent prophetic movement, that collapsed in 2024 after its founder Mike Bickle was credibly accused of decades of sexual abuse.'
 tags:
   - org
   - org/church-ministry

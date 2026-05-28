@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: California-based pastoral mobilization network founded by Jim Domen (2016) that organizes pastors for direct political engagement and "biblical" voter mobilization.
+description: 'California-based pastoral mobilization network founded by Jim Domen (2016) that organizes pastors for direct political engagement and "biblical" voter mobilization.'
 tags:
   - org
   - era/2016-2018

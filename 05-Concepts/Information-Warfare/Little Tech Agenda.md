@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Andreessen Horowitz 2024 framing of "Little Tech" (startup/crypto/defense-tech) vs "Big Tech" (Google/Apple/Meta); explicit tech-right vs Big Tech fracture
+description: 'Andreessen Horowitz 2024 framing of "Little Tech" (startup/crypto/defense-tech) vs "Big Tech" (Google/Apple/Meta); explicit tech-right vs Big Tech fracture'
 tags: [concept, topic/tech-right, topic/big-tech-split, era/2023-2026]
 type: concept
 domain: tech-political

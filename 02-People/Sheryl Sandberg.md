@@ -27,7 +27,7 @@ affiliations:
   - Facebook / Meta Platforms
   - LeanIn.Org (founder)
   - Harvard University (AB 1991, MBA 1995)
-notable_for: Architect of Facebook's ad-targeting monetization model; public face of Facebook through Cambridge Analytica and Russian-interference scandals; played role in Definers Public Affairs hiring; authored "Lean In" (2013)
+notable_for: 'Architect of Facebook''s ad-targeting monetization model; public face of Facebook through Cambridge Analytica and Russian-interference scandals; played role in Definers Public Affairs hiring; authored "Lean In" (2013)'
 status: departed Facebook (June 2022); continues LeanIn.Org and philanthropy
 ---
 

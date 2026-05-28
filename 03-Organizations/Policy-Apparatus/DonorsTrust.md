@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Conservative dark-money DAF; founded 1999; ~$1.5B+ assets; routes anonymous donor money to right-wing orgs; "right-wing dark-money ATM"
+description: 'Conservative dark-money DAF; founded 1999; ~$1.5B+ assets; routes anonymous donor money to right-wing orgs; "right-wing dark-money ATM"'
 tags: [org, org/dark-money, org/daf, era/1999-2026, jurisdiction/us]
 type: organization
 legal_name: DonorsTrust

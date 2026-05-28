@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Political philosopher; neoreactionary movement / Mencius Moldbug; intellectual godfather of Trump 2.0 ideology
 tags: [person, role/academic, role/philosopher, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -8,7 +8,7 @@ aliases: [Mencius Moldbug]
 nationality: American
 roles: [philosopher, software engineer, writer]
 affiliations: [Urbit, Tlon]
-notable_for: Neoreactionary political philosopher; "Mencius Moldbug" blog 2007-2014; key intellectual influence on Thiel/Vance/Trump 2.0
+notable_for: 'Neoreactionary political philosopher; "Mencius Moldbug" blog 2007-2014; key intellectual influence on Thiel/Vance/Trump 2.0'
 status: active
 wikipedia_url: https://en.wikipedia.org/wiki/Curtis_Yarvin
 ---

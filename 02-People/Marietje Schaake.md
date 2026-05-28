@@ -12,7 +12,7 @@ tags:
   - topic/algorithmic-governance
   - topic/platform-regulation
 type: person
-full_name: Maria Renske "Marietje" Schaake
+full_name: 'Maria Renske "Marietje" Schaake'
 aliases:
   - Marietje Schaake
 born: 1978-10-28

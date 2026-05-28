@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Elon Musk's artificial-intelligence company, developer of the Grok chatbot and owner of the X social platform — a vertically integrated AI-and-media operation that has positioned Grok as an explicitly "anti-woke" alternative model and become a case study in the tech right's pursuit of ideologically shaped AI.
+description: 'Elon Musk''s artificial-intelligence company, developer of the Grok chatbot and owner of the X social platform — a vertically integrated AI-and-media operation that has positioned Grok as an explicitly "anti-woke" alternative model and become a case study in the tech right''s pursuit of ideologically shaped AI.'
 tags:
   - org
   - org/data-firm

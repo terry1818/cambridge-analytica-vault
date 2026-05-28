@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Media critic and founder of Feminist Frequency whose "Tropes vs. Women in Video Games" series made her a primary target of the 2014 Gamergate harassment campaign — an early stress test of coordinated online mobs that prefigured later info-warfare tactics.
+description: 'Media critic and founder of Feminist Frequency whose "Tropes vs. Women in Video Games" series made her a primary target of the 2014 Gamergate harassment campaign — an early stress test of coordinated online mobs that prefigured later info-warfare tactics.'
 tags:
   - person
   - role/researcher
@@ -23,7 +23,7 @@ roles:
   - Video producer / commentator
 affiliations:
   - Feminist Frequency
-notable_for: The "Tropes vs. Women in Video Games" video series; being a central target of the 2014 Gamergate harassment campaign; testifying on online abuse at the United Nations and to U.S. policymakers.
+notable_for: 'The "Tropes vs. Women in Video Games" video series; being a central target of the 2014 Gamergate harassment campaign; testifying on online abuse at the United Nations and to U.S. policymakers.'
 status: active
 ---
 

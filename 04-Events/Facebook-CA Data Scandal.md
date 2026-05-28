@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: 2018 scandal exposing harvest of up to 87M Facebook profiles by Cambridge Analytica via Aleksandr Kogan's "This Is Your Digital Life" app
+description: '2018 scandal exposing harvest of up to 87M Facebook profiles by Cambridge Analytica via Aleksandr Kogan''s "This Is Your Digital Life" app'
 tags: [event, topic/cambridge-analytica, topic/facebook-data, topic/election-interference, era/2014-2016, era/2016-2018, jurisdiction/uk, jurisdiction/us]
 type: event
 event_date: 2018-03-17 # major public break date

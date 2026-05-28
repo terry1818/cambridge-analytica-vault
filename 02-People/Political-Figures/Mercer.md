@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Disambiguation - "Mercer" refers to multiple Mercer-family members in this vault
+description: 'Disambiguation - "Mercer" refers to multiple Mercer-family members in this vault'
 tags: [meta, disambiguation]
 type: disambiguation
 ---

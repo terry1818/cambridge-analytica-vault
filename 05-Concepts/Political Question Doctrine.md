@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The U.S. constitutional-law doctrine under which federal courts decline to decide certain disputes as nonjusticiable "political questions" — the doctrine that, in Rucho (2019), closed the federal courthouse to partisan-gerrymandering claims and so structurally enables minority rule.
+description: 'The U.S. constitutional-law doctrine under which federal courts decline to decide certain disputes as nonjusticiable "political questions" — the doctrine that, in Rucho (2019), closed the federal courthouse to partisan-gerrymandering claims and so structurally enables minority rule.'
 tags:
   - concept
   - topic/constitutional-capture

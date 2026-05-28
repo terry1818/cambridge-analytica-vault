@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Russian political technologist (1951–2023) who co-architected Putin's "managed democracy" media system as a Kremlin adviser 1996–2011; later turned critic of the regime.
+description: 'Russian political technologist (1951–2023) who co-architected Putin''s "managed democracy" media system as a Kremlin adviser 1996–2011; later turned critic of the regime.'
 tags:
   - person
   - role/operative

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Ukrainian-born British author and disinformation scholar; worked in Russian television; author of "Nothing Is True and Everything Is Possible" (2014) and "This Is Not Propaganda" (2019).
+description: 'Ukrainian-born British author and disinformation scholar; worked in Russian television; author of "Nothing Is True and Everything Is Possible" (2014) and "This Is Not Propaganda" (2019).'
 tags:
   - person
   - role/journalist
@@ -26,7 +26,7 @@ affiliations:
   - London School of Economics, Institute of Global Affairs (Senior Fellow; co-director of the Arena programme)
   - Johns Hopkins SAIS (former Senior Fellow)
   - Legatum Institute (former Senior Fellow)
-notable_for: Insider account of Russian propaganda machine; theoretical frameworks for post-truth information warfare; "Nothing Is True and Everything Is Possible" (2014); "This Is Not Propaganda" (2019)
+notable_for: 'Insider account of Russian propaganda machine; theoretical frameworks for post-truth information warfare; "Nothing Is True and Everything Is Possible" (2014); "This Is Not Propaganda" (2019)'
 status: Active
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Right-wing podcaster; paid $400K/month for ~4 months by Tenet Media (Russia-funded); claimed "victim" status after DOJ indictment; not criminally charged
+description: 'Right-wing podcaster; paid $400K/month for ~4 months by Tenet Media (Russia-funded); claimed "victim" status after DOJ indictment; not criminally charged'
 tags: [person, role/influencer, role/media, era/2016-2026]
 type: person
 full_name: Timothy Daniel Pool

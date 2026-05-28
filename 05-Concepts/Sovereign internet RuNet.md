@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Russia's drive to create a nationally controlled, technically isolatable internet infrastructure — a "sovereign" RuNet capable of being disconnected from the global internet and managed internally.
+description: 'Russia''s drive to create a nationally controlled, technically isolatable internet infrastructure — a "sovereign" RuNet capable of being disconnected from the global internet and managed internally.'
 tags:
   - concept
   - topic/surveillance

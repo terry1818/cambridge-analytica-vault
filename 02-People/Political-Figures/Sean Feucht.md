@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Worship leader turned political-rally organizer; "Let Us Worship" tour; Trump-aligned NAR figure
+description: 'Worship leader turned political-rally organizer; "Let Us Worship" tour; Trump-aligned NAR figure'
 tags: [person, role/theocratic-wing, role/operator, era/2020-2026]
 type: person
 full_name: Sean Feucht

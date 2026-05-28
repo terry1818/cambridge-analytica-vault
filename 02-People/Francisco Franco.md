@@ -23,7 +23,7 @@ affiliations:
   - Spanish Nationalist movement
   - Falange Española (incorporated into the Movimiento Nacional)
   - Catholic Church (institutional alliance)
-notable_for: Led the 1936 military coup against the Spanish Republic, won the Civil War (1936–39) with Nazi and Italian Fascist support, ruled Spain as a dictatorship for 36 years, and successfully transitioned the regime to a post-war "authoritarian conservative" framing that secured Western tolerance during the Cold War.
+notable_for: 'Led the 1936 military coup against the Spanish Republic, won the Civil War (1936–39) with Nazi and Italian Fascist support, ruled Spain as a dictatorship for 36 years, and successfully transitioned the regime to a post-war "authoritarian conservative" framing that secured Western tolerance during the Cold War.'
 status: deceased (died 1975-11-20, Madrid)
 ---
 

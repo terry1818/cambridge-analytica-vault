@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The 2017–2019 Special Counsel investigation led by Robert Mueller and its April 2019 report into Russian interference in the 2016 U.S. election — which documented "sweeping and systemic" Russian operations while declining to charge the Trump campaign with conspiracy and pointedly not exonerating the president on obstruction.
+description: 'The 2017–2019 Special Counsel investigation led by Robert Mueller and its April 2019 report into Russian interference in the 2016 U.S. election — which documented "sweeping and systemic" Russian operations while declining to charge the Trump campaign with conspiracy and pointedly not exonerating the president on obstruction.'
 tags:
   - event
   - topic/election-interference

@@ -27,7 +27,7 @@ affiliations:
   - Marat Gelman Gallery
   - Perm Museum of Contemporary Art (director 2009–2013)
 notable_for: Co-founding Russia's primary Kremlin-aligned political consultancy in the 1990s; founding one of Russia's first private contemporary art galleries; subsequent turn to opposition and exile
-status: In exile (Montenegro, from ~2014); placed on Russian "foreign agent" list December 2021; placed on Russian wanted list December 2022
+status: 'In exile (Montenegro, from ~2014); placed on Russian "foreign agent" list December 2021; placed on Russian wanted list December 2022'
 ---
 
 # Marat Gelman — Russian Political Technologist and Gallerist

@@ -3,7 +3,7 @@ date: 2026-05-16
 description: Heritage Foundation trustee; CNP member; conservative public-relations specialist + book author; long-running Heritage governance figure
 tags: [person, role/policy-apparatus, era/2000-2026]
 type: person
-full_name: James L. "Jay" Edwards III
+full_name: 'James L. "Jay" Edwards III'
 aliases: [James Edwards, Jay Edwards]
 nationality: American
 roles: [Heritage Foundation trustee, Communications strategist, Author]

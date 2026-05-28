@@ -7,7 +7,7 @@ tags:
   - topic/predictive-policing
 type: concept
 domain: Sociology of surveillance / criminology
-first-documented: Brayne, S. (2014). "Surveillance and System Avoidance." *American Sociological Review* 79(3).
+first-documented: 'Brayne, S. (2014). "Surveillance and System Avoidance." *American Sociological Review* 79(3).'
 ---
 
 ## Definition

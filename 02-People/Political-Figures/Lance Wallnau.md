@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Current dominant NAR political operator; popularized Seven Mountains Mandate; first to "prophesy" Trump 2016 victory; ran 2024 Courage Tour
+description: 'Current dominant NAR political operator; popularized Seven Mountains Mandate; first to "prophesy" Trump 2016 victory; ran 2024 Courage Tour'
 tags: [person, role/theocratic-wing, role/operator, era/2008-2026]
 type: person
 full_name: Lance Wallnau

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Personal and analytical account of why educated, prosperous intellectuals in Poland, the UK, Hungary, and the US have abandoned liberal democracy for authoritarianism, centering on the concept of the "clerc."
+description: 'Personal and analytical account of why educated, prosperous intellectuals in Poland, the UK, Hungary, and the US have abandoned liberal democracy for authoritarianism, centering on the concept of the "clerc."'
 tags: [source, book, authoritarianism, intellectual-right, democratic-backsliding]
 type: source
 tier: Tier-2

@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Disambiguation - "Adelson" refers to multiple Adelson-family members + their philanthropic vehicle
+description: 'Disambiguation - "Adelson" refers to multiple Adelson-family members + their philanthropic vehicle'
 tags: [meta, disambiguation]
 type: disambiguation
 ---

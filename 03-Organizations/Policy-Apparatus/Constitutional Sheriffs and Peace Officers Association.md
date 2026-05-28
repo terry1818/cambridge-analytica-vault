@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Richard Mack-founded sheriff association; "constitutional sheriff" doctrine; claims authority to refuse federal oversight; ~200 affiliated sheriffs
+description: 'Richard Mack-founded sheriff association; "constitutional sheriff" doctrine; claims authority to refuse federal oversight; ~200 affiliated sheriffs'
 tags: [org, org/paramilitary-adjacent, org/election-denial, era/2011-2026, jurisdiction/us]
 type: organization
 legal_name: Constitutional Sheriffs and Peace Officers Association

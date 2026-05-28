@@ -15,7 +15,7 @@ actors:
   - Vasili Mitrokhin (KGB archivist; defector)
   - MI6 (British Secret Intelligence Service)
   - Christopher Andrew (historian; co-author)
-outcome: Published as "The Sword and the Shield" (1999) and "The World Was Going Our Way" (2005); led to exposure of multiple Soviet-era agents and operations worldwide.
+outcome: 'Published as "The Sword and the Shield" (1999) and "The World Was Going Our Way" (2005); led to exposure of multiple Soviet-era agents and operations worldwide.'
 status: concluded
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: CBS News; legacy US broadcast news division; one of "Big Three" along with NBC News + ABC News; subsidiary of Paramount Skydance Corporation since 2024-08 merger; documented editorial shift post-Ellison acquisition
+description: 'CBS News; legacy US broadcast news division; one of "Big Three" along with NBC News + ABC News; subsidiary of Paramount Skydance Corporation since 2024-08 merger; documented editorial shift post-Ellison acquisition'
 tags: [org, org/media, org/media-capture, era/1927-2026, jurisdiction/us]
 type: organization
 legal_name: CBS News (division of Paramount Skydance Corporation)

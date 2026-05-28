@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: DOJ indicts 2 Russian nationals (RT employees) Sept 2024 for funneling $10M into Tenet Media to fund US right-wing influencers including Tim Pool Benny Johnson Dave Rubin
 tags: [event, topic/russia, topic/foreign-influence, era/2024, jurisdiction/us]
@@ -6,7 +6,7 @@ type: event
 event_date: 2024-09-04
 location: US (Tennessee + federal)
 actors: [DOJ, Tenet Media, Tim Pool, Benny Johnson, Dave Rubin, Lauren Southern, Russian state, RT]
-outcome: 2 Russians indicted; Tenet Media shuttered; influencers claimed "victim" status; broader Russian-influence apparatus implications
+outcome: '2 Russians indicted; Tenet Media shuttered; influencers claimed "victim" status; broader Russian-influence apparatus implications'
 status: closed
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Dominion Theology
-description: Christian theological doctrine that believers are mandated to take "dominion" over earthly institutions; ideological substrate for NAR, Seven Mountains Mandate, and contemporary Christian Nationalist political project
+description: 'Christian theological doctrine that believers are mandated to take "dominion" over earthly institutions; ideological substrate for NAR, Seven Mountains Mandate, and contemporary Christian Nationalist political project'
 type: concept
 tier: A-Entity
 status: active

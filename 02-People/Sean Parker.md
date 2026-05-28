@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Co-founder of Napster, first president of Facebook (2004–2005), and later a candid critic of Facebook's intentionally addictive design — his 2017 remarks about the "social validation feedback loop" are a primary source for the persuasive technology critique of social media.
+description: 'Co-founder of Napster, first president of Facebook (2004–2005), and later a candid critic of Facebook''s intentionally addictive design — his 2017 remarks about the "social validation feedback loop" are a primary source for the persuasive technology critique of social media.'
 tags:
   - person
   - role/founder

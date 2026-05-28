@@ -15,7 +15,7 @@ tags:
   - topic/democratic-backsliding
   - jurisdiction/us
 type: person
-full_name: Richard E. Uihlein and Elizabeth "Liz" Uihlein
+full_name: 'Richard E. Uihlein and Elizabeth "Liz" Uihlein'
 aliases:
   - Dick Uihlein
   - Richard Uihlein

@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Disambiguation - "Investigation" routes to investigation-related vault entries
+description: 'Disambiguation - "Investigation" routes to investigation-related vault entries'
 tags: [meta, disambiguation]
 type: disambiguation
 ---

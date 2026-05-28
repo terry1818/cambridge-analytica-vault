@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Generals International apostle; female lead voice in NAR political prophecy; declared "wartime president" needed in 2024
+description: 'Generals International apostle; female lead voice in NAR political prophecy; declared "wartime president" needed in 2024'
 tags: [person, role/theocratic-wing, role/operator, era/1985-2026]
 type: person
 full_name: Cindy Jacobs

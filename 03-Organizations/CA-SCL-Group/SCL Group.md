@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Parent company of Cambridge Analytica; British behavioural research and "global election management agency" founded 1990, defunct 2018
+description: 'Parent company of Cambridge Analytica; British behavioural research and "global election management agency" founded 1990, defunct 2018'
 tags: [org, org/data-firm, org/political-consultancy, topic/scl-group, era/pre-2014, era/2014-2016, era/2016-2018, jurisdiction/uk]
 type: organization
 legal_name: SCL Group (formerly Strategic Communication Laboratories)

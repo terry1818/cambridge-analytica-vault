@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: The conservative coalition's election-denial / voter-suppression operational infrastructure; ranges from voter-roll-purge litigation to "constitutional sheriff" enforcement to ICE-at-polls planning
+description: 'The conservative coalition''s election-denial / voter-suppression operational infrastructure; ranges from voter-roll-purge litigation to "constitutional sheriff" enforcement to ICE-at-polls planning'
 tags: [moc, lens, topic/election-denial, topic/voter-suppression, era/2020-2026]
 type: moc
 ---

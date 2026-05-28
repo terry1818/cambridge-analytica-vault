@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Political science account of how an economically plutocratic Republican Party has sustained electoral viability through racial and cultural backlash appeals — the "plutocratic populism" framework.
+description: 'Political science account of how an economically plutocratic Republican Party has sustained electoral viability through racial and cultural backlash appeals — the "plutocratic populism" framework.'
 tags: [source, book, patron-class, electoral-strategy, inequality]
 type: source
 tier: Tier-2

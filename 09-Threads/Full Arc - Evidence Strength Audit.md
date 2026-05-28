@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Claim-by-claim evidence audit of the vault's central "full arc" thesis (CA as prototype to state infrastructure) — sorts every load-bearing link into LOCKED / STRONG INFERENCE / CONTESTED against the vault's own Evidence Tiers framework. Built to harden the thesis for external scrutiny.
+description: 'Claim-by-claim evidence audit of the vault''s central "full arc" thesis (CA as prototype to state infrastructure) — sorts every load-bearing link into LOCKED / STRONG INFERENCE / CONTESTED against the vault''s own Evidence Tiers framework. Built to harden the thesis for external scrutiny.'
 tags: [thread, analysis, evidence-audit, topic/cambridge-analytica]
 type: thread
 status: active

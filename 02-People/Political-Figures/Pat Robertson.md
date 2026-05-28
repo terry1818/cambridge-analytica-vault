@@ -3,7 +3,7 @@ date: 2026-05-16
 description: Founded Christian Coalition 1989 after 1988 GOP presidential run; founded Christian Broadcasting Network; major theocratic-wing organizer
 tags: [person, role/theocratic-wing, role/founder, era/1960-2023]
 type: person
-full_name: Marion Gordon "Pat" Robertson
+full_name: 'Marion Gordon "Pat" Robertson'
 born: 1930-03-22
 died: 2023-06-08
 nationality: American

@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Israeli "Team Jorge" operator exposed by Forbidden Stories 2023; "Jorge" found in leaked CA emails
+description: 'Israeli "Team Jorge" operator exposed by Forbidden Stories 2023; "Jorge" found in leaked CA emails'
 tags: [person, role/operative, topic/info-warfare, topic/disinformation, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, jurisdiction/other]
 type: person
 full_name: Tal Hanan
@@ -8,7 +8,7 @@ aliases: [Jorge]
 nationality: Israeli
 roles: [operative]
 affiliations: [Team Jorge, Demoman International]
-notable_for: Team Jorge - sells election manipulation as a service; "Jorge" name found in leaked CA emails
+notable_for: 'Team Jorge - sells election manipulation as a service; "Jorge" name found in leaked CA emails'
 status: active
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Manhattan Institute senior fellow; CRT campaign architect; New College of Florida takeover lead; education-capture strategist
 tags: [person, role/strategist, role/education-capture, era/2020-2026]
@@ -8,7 +8,7 @@ born: 1984
 nationality: American
 roles: [Senior Fellow Manhattan Institute, Director City Journal's initiative on critical race theory, Filmmaker]
 affiliations: [Manhattan Institute, City Journal, New College of Florida Board of Trustees (DeSantis appointee), Hillsdale College visiting]
-notable_for: Architect of the anti-CRT campaign; New College of Florida takeover; "siege the institutions" strategy
+notable_for: 'Architect of the anti-CRT campaign; New College of Florida takeover; "siege the institutions" strategy'
 status: active
 wikipedia_url: https://en.wikipedia.org/wiki/Christopher_Rufo
 ---

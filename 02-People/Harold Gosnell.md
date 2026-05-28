@@ -19,7 +19,7 @@ roles:
   - Pioneer of experimental political science
 affiliations:
   - University of Chicago (Department of Political Science)
-notable_for: Conducted first known randomized controlled experiment on voter mobilization (Chicago, 1924); authored "Getting Out the Vote" (1927) — not rediscovered widely until Gerber and Green cited him in 2000s
+notable_for: 'Conducted first known randomized controlled experiment on voter mobilization (Chicago, 1924); authored "Getting Out the Vote" (1927) — not rediscovered widely until Gerber and Green cited him in 2000s'
 status: deceased
 ---
 

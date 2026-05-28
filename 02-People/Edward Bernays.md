@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Austrian-American pioneer of public relations and propaganda; nephew of Sigmund Freud; coined "engineering of consent"; foundational figure for understanding modern information manipulation.
+description: 'Austrian-American pioneer of public relations and propaganda; nephew of Sigmund Freud; coined "engineering of consent"; foundational figure for understanding modern information manipulation.'
 tags:
   - person
   - role/operative
@@ -21,7 +21,7 @@ roles:
 affiliations:
   - US Committee on Public Information (Creel Commission, World War I)
   - Private PR practice (decades-long consultancy)
-notable_for: Founded modern public relations industry; coined "engineering of consent"; applied Freudian psychology to mass persuasion; campaigns for United Fruit Company, American Tobacco, and others
+notable_for: 'Founded modern public relations industry; coined "engineering of consent"; applied Freudian psychology to mass persuasion; campaigns for United Fruit Company, American Tobacco, and others'
 status: Deceased (1891–1995)
 ---
 

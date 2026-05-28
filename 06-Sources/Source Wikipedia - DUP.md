@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The Wikipedia article on the Democratic Unionist Party — Northern Ireland's largest unionist party and recipient of an opaque pro-Brexit "dark money" donation — used as an orienting secondary reference for the dark-money thread.
+description: 'The Wikipedia article on the Democratic Unionist Party — Northern Ireland''s largest unionist party and recipient of an opaque pro-Brexit "dark money" donation — used as an orienting secondary reference for the dark-money thread.'
 tags:
   - source
   - evidence/journalism

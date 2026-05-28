@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Palantir ICE-deployment tool; "Enhanced Leads Identification and Targeting for Enforcement"; companion to ImmigrationOS; maps deportation targets via cross-agency data
+description: 'Palantir ICE-deployment tool; "Enhanced Leads Identification and Targeting for Enforcement"; companion to ImmigrationOS; maps deportation targets via cross-agency data'
 tags: [concept, topic/surveillance, topic/palantir, topic/ice, era/2025-2026]
 type: concept
 domain: tech

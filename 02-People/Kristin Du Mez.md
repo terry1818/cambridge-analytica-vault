@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: American historian of gender and religion whose bestselling "Jesus and John Wayne" reframed white evangelical support for Donald Trump as the product of a decades-long embrace of militant masculinity, making her a leading scholarly interpreter of the religious right.
+description: 'American historian of gender and religion whose bestselling "Jesus and John Wayne" reframed white evangelical support for Donald Trump as the product of a decades-long embrace of militant masculinity, making her a leading scholarly interpreter of the religious right.'
 tags:
   - person
   - role/academic
@@ -27,7 +27,7 @@ affiliations:
   - Calvin University (Grand Rapids, Michigan)
   - University of Notre Dame (Ph.D.; later research fellow)
   - Public Religion Research Institute (PRRI)
-notable_for: Author of the New York Times bestseller "Jesus and John Wayne" (2020), a defining historical account of how white evangelical culture produced its alignment with Donald Trump.
+notable_for: 'Author of the New York Times bestseller "Jesus and John Wayne" (2020), a defining historical account of how white evangelical culture produced its alignment with Donald Trump.'
 status: active
 ---
 

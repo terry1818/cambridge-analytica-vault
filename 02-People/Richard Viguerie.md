@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Conservative direct-mail pioneer; co-founder of the Council for National Policy; "godfather of the New Right" whose computerized fundraising operations built the financial infrastructure of the modern American conservative movement from the 1960s onward.
+description: 'Conservative direct-mail pioneer; co-founder of the Council for National Policy; "godfather of the New Right" whose computerized fundraising operations built the financial infrastructure of the modern American conservative movement from the 1960s onward.'
 tags:
   - person
   - role/founder
@@ -31,7 +31,7 @@ affiliations:
   - American Conservative Union (client)
   - National Right to Work Committee (client)
   - Gun Owners of America (client)
-notable_for: Pioneered computerized political direct mail in the 1960s–70s; raised funds for and built the organizational base of the New Right; co-founded the Council for National Policy; described as the "funding father of the conservative movement" by some observers; mailed more than 4 billion letters over a 50-year career.
+notable_for: 'Pioneered computerized political direct mail in the 1960s–70s; raised funds for and built the organizational base of the New Right; co-founded the Council for National Policy; described as the "funding father of the conservative movement" by some observers; mailed more than 4 billion letters over a 50-year career.'
 status: active
 ---
 

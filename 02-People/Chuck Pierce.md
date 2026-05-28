@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: New Apostolic Reformation "prophet" and founder-president of Glory of Zion International Ministries; member of C. Peter Wagner's Apostolic Council of Prophetic Elders.
+description: 'New Apostolic Reformation "prophet" and founder-president of Glory of Zion International Ministries; member of C. Peter Wagner''s Apostolic Council of Prophetic Elders.'
 tags:
   - person
   - role/founder

@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Far-right "parental rights" 501(c)(4); ~115K members + ~330 chapters; school-board takeover strategy; Heritage Foundation funded; Trump 2.0 institutional access
+description: 'Far-right "parental rights" 501(c)(4); ~115K members + ~330 chapters; school-board takeover strategy; Heritage Foundation funded; Trump 2.0 institutional access'
 tags: [org, org/education-capture, org/parental-rights, era/2021-2026, jurisdiction/us]
 type: organization
 legal_name: Moms for Liberty Inc.

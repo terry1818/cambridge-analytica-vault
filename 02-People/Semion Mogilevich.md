@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Ukrainian-born Russian organized crime boss described by the FBI as the "boss of bosses" of Russian Mafia syndicates; placed on FBI's Ten Most Wanted list in 2009; alleged connections to Russian political elite.
+description: 'Ukrainian-born Russian organized crime boss described by the FBI as the "boss of bosses" of Russian Mafia syndicates; placed on FBI''s Ten Most Wanted list in 2009; alleged connections to Russian political elite.'
 tags:
   - person
   - role/operative

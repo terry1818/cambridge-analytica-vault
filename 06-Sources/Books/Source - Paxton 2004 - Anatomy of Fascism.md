@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Paxton's landmark behavioral-historical definition of fascism built from Italian and German cases — provides the vault's foundational scholarly benchmark for the "is this fascism?" question and the most rigorously defended five-stage developmental model.
+description: 'Paxton''s landmark behavioral-historical definition of fascism built from Italian and German cases — provides the vault''s foundational scholarly benchmark for the "is this fascism?" question and the most rigorously defended five-stage developmental model.'
 tags: [source, book, fascism, historical-analysis, analytical-framework]
 type: source
 tier: Tier-2

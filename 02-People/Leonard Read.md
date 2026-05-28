@@ -22,7 +22,7 @@ affiliations:
   - Foundation for Economic Education
   - William Volker Fund
   - Mont Pelerin Society (associate)
-notable_for: Founding the Foundation for Economic Education (1946); authoring "I, Pencil" (1958); institutionalizing corporate-funded free-market education in America
+notable_for: 'Founding the Foundation for Economic Education (1946); authoring "I, Pencil" (1958); institutionalizing corporate-funded free-market education in America'
 status: deceased
 ---
 

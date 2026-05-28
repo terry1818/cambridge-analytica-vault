@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Evangelical author and counselor whose 2001 book "Wild at Heart" became the foundational popular text of evangelical masculine identity theology, selling millions of copies and shaping evangelical masculinity culture.
+description: 'Evangelical author and counselor whose 2001 book "Wild at Heart" became the foundational popular text of evangelical masculine identity theology, selling millions of copies and shaping evangelical masculinity culture.'
 tags:
   - person
   - role/founder
@@ -23,7 +23,7 @@ affiliations:
   - Ransomed Heart Ministries (founded 2000)
   - Focus on the Family (1988–2000)
   - Sierra Madre Congregational Church (1983–1988)
-notable_for: Authored *Wild at Heart* (2001), the defining popular text of evangelical masculine identity theology; former Focus on the Family staff; founded Ransomed Heart Ministries; his framework of "battle, adventure, beauty" became cultural shorthand for evangelical masculinity
+notable_for: 'Authored *Wild at Heart* (2001), the defining popular text of evangelical masculine identity theology; former Focus on the Family staff; founded Ransomed Heart Ministries; his framework of "battle, adventure, beauty" became cultural shorthand for evangelical masculinity'
 status: alive
 ---
 

@@ -23,7 +23,7 @@ affiliations:
   - New School for Social Research (1967–1975)
   - University of Chicago
   - Princeton University
-notable_for: Foundational analysis of totalitarianism (1951); concept of the "banality of evil"; "the right to have rights" as baseline political claim
+notable_for: 'Foundational analysis of totalitarianism (1951); concept of the "banality of evil"; "the right to have rights" as baseline political claim'
 status: Deceased (1975-12-04)
 ---
 

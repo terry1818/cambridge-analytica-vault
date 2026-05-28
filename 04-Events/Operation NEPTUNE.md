@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: 1964 Czechoslovak/Soviet forged-archive operation in which fabricated Nazi-era documents were planted in a Bohemian lake and "discovered" to discredit West Germany.
+description: '1964 Czechoslovak/Soviet forged-archive operation in which fabricated Nazi-era documents were planted in a Bohemian lake and "discovered" to discredit West Germany.'
 tags:
   - event
   - topic/active-measures

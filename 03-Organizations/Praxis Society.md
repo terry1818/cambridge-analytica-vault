@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Startup city-building project founded 2021 by Dryden Brown and Charlie Callinan; backed by Peter Thiel-network investors; plans a Mediterranean "internet-native nation" for high-agency individuals.
+description: 'Startup city-building project founded 2021 by Dryden Brown and Charlie Callinan; backed by Peter Thiel-network investors; plans a Mediterranean "internet-native nation" for high-agency individuals.'
 tags:
   - org
   - topic/charter-cities

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Journalist, academic, and editor-in-chief of WORLD magazine (1994–2021); intellectual architect of "compassionate conservatism" that shaped George W. Bush's domestic policy framework.
+description: 'Journalist, academic, and editor-in-chief of WORLD magazine (1994–2021); intellectual architect of "compassionate conservatism" that shaped George W. Bush''s domestic policy framework.'
 tags:
   - person
   - role/journalist
@@ -28,7 +28,7 @@ affiliations:
   - Discovery Institute
   - Acton Institute
   - "[[Council for National Policy]]"
-notable_for: Coining and theorizing "compassionate conservatism"; editing WORLD magazine for three decades; intellectual bridge between evangelical Christian journalism and mainstream conservative policy
+notable_for: 'Coining and theorizing "compassionate conservatism"; editing WORLD magazine for three decades; intellectual bridge between evangelical Christian journalism and mainstream conservative policy'
 status: alive
 ---
 

@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Cambridge University psychologist who built "This Is Your Digital Life" app for GSR; data harvester
+description: 'Cambridge University psychologist who built "This Is Your Digital Life" app for GSR; data harvester'
 tags: [person, role/academic, role/researcher, topic/cambridge-analytica, topic/facebook-data, era/2014-2016]
 type: person
 full_name: Aleksandr Kogan
@@ -8,7 +8,7 @@ aliases: [Aleksandr Spectre, Dr. Spectre]
 nationality: Moldovan-American (educated UK/US)
 roles: [academic, app developer]
 affiliations: [University of Cambridge, Global Science Research, Saint Petersburg State University]
-notable_for: Built "This Is Your Digital Life" app that harvested up to 87M Facebook profiles for CA
+notable_for: 'Built "This Is Your Digital Life" app that harvested up to 87M Facebook profiles for CA'
 status: active
 wikipedia_url: https://en.wikipedia.org/wiki/Aleksandr_Kogan_(psychologist)
 ---

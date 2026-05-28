@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Grover Norquist's "Taxpayer Protection Pledge" — a written promise, signed by nearly all Republican members of Congress, never to raise tax rates, functioning as a private-actor enforcement device that locks fiscal policy outside ordinary democratic deliberation.
+description: 'Grover Norquist''s "Taxpayer Protection Pledge" — a written promise, signed by nearly all Republican members of Congress, never to raise tax rates, functioning as a private-actor enforcement device that locks fiscal policy outside ordinary democratic deliberation.'
 tags:
   - concept
   - topic/constitutional-capture

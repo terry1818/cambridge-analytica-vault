@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Russia's dominant pro-Kremlin political party, created in 2001 as a "party of power" to consolidate Vladimir Putin's control of the legislature — the vault's case study in the managed-democracy model, where elections continue but competition is engineered away.
+description: 'Russia''s dominant pro-Kremlin political party, created in 2001 as a "party of power" to consolidate Vladimir Putin''s control of the legislature — the vault''s case study in the managed-democracy model, where elections continue but competition is engineered away.'
 tags:
   - org
   - org/advocacy
@@ -15,7 +15,7 @@ tags:
   - topic/election-interference
   - jurisdiction/russia
 type: organization
-legal_name: All-Russia Political Party "United Russia"
+legal_name: 'All-Russia Political Party "United Russia"'
 aliases:
   - Yedinaya Rossiya
   - "Unity and Fatherland — United Russia"

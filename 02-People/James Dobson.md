@@ -34,7 +34,7 @@ affiliations:
   - Family Research Council
   - Dr. James Dobson Family Institute
   - Children's Hospital of Los Angeles / USC School of Medicine
-notable_for: Transforming a Christian parenting-advice radio program into a national political machine; coining "family values" politics; advising every Republican president from Reagan to Trump.
+notable_for: 'Transforming a Christian parenting-advice radio program into a national political machine; coining "family values" politics; advising every Republican president from Reagan to Trump.'
 status: deceased
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Far-right political activist and "Stop the Steal" organizer who helped plan the January 6, 2021 rally preceding the Capitol attack; a node connecting online agitation infrastructure to real-world political violence.
+description: 'Far-right political activist and "Stop the Steal" organizer who helped plan the January 6, 2021 rally preceding the Capitol attack; a node connecting online agitation infrastructure to real-world political violence.'
 tags:
   - person
   - role/operative
@@ -21,7 +21,7 @@ affiliations:
   - Stop the Steal (founder/organizer)
   - National Bloggers Club (earlier career)
   - Roger Stone network
-notable_for: Organizing "Stop the Steal" rallies culminating in the January 6, 2021 Capitol attack; coordination with GOP members of Congress
+notable_for: 'Organizing "Stop the Steal" rallies culminating in the January 6, 2021 Capitol attack; coordination with GOP members of Congress'
 status: active (post-Jan 6 reduced profile; periodic re-emergence)
 ---
 

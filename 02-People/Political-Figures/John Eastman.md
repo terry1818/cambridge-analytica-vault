@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Constitutional law professor; Claremont Institute; architect of 2020 election overturn legal theory; disbarred 2024
 tags: [person, role/lawyer, role/operative, role/academic, topic/tech-right, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -7,7 +7,7 @@ full_name: John Charles Eastman
 nationality: American
 roles: [lawyer, academic, operative]
 affiliations: [Claremont Institute, Chapman University Law School (former), Trump legal team 2020-2021]
-notable_for: Authored "Eastman memos" outlining legal theory for overturning 2020 election; January 6 rally speaker; disbarred CA 2024
+notable_for: 'Authored "Eastman memos" outlining legal theory for overturning 2020 election; January 6 rally speaker; disbarred CA 2024'
 status: active
 wikipedia_url: https://en.wikipedia.org/wiki/John_Eastman
 ---

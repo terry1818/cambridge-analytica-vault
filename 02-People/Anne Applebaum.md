@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Pulitzer-winning historian of Soviet atrocities and chronicler of democratic backsliding whose books — especially "Twilight of Democracy" (2020) — supply the comparative-authoritarianism framework this vault uses to read U.S. trends against Europe's.
+description: 'Pulitzer-winning historian of Soviet atrocities and chronicler of democratic backsliding whose books — especially "Twilight of Democracy" (2020) — supply the comparative-authoritarianism framework this vault uses to read U.S. trends against Europe''s.'
 tags:
   - person
   - role/academic
@@ -29,7 +29,7 @@ roles:
 affiliations:
   - The Atlantic
   - Johns Hopkins University (SNF Agora Institute)
-notable_for: The Pulitzer Prize-winning history "Gulag" (2003); "Twilight of Democracy" (2020), analyzing the elite "clercs" who enable authoritarianism; "Autocracy, Inc." (2024).
+notable_for: 'The Pulitzer Prize-winning history "Gulag" (2003); "Twilight of Democracy" (2020), analyzing the elite "clercs" who enable authoritarianism; "Autocracy, Inc." (2024).'
 status: active
 ---
 

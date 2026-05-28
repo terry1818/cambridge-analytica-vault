@@ -20,7 +20,7 @@ roles:
 affiliations:
   - University of Texas at Austin (Department of Sociology)
   - Stanford University (Department of Sociology, prior appointment)
-notable_for: First ethnographic study embedded within the LAPD documenting predictive analytics and surveillance technology in policing; originator of the "system avoidance" and "secondary surveillance network" concepts
+notable_for: 'First ethnographic study embedded within the LAPD documenting predictive analytics and surveillance technology in policing; originator of the "system avoidance" and "secondary surveillance network" concepts'
 status: active
 ---
 

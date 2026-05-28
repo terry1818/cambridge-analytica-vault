@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The public-choice concept that government intervention systematically produces outcomes worse than the problem it sought to fix — the analytic counterpart to "market failure" and the central premise of the case for constitutional constraints on the state.
+description: 'The public-choice concept that government intervention systematically produces outcomes worse than the problem it sought to fix — the analytic counterpart to "market failure" and the central premise of the case for constitutional constraints on the state.'
 tags:
   - concept
   - topic/constitutional-capture

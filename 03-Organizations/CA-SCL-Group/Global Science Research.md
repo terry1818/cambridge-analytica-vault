@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Aleksandr Kogans UK firm that built "This Is Your Digital Life" app harvesting 87M Facebook profiles for CA
+description: 'Aleksandr Kogans UK firm that built "This Is Your Digital Life" app harvesting 87M Facebook profiles for CA'
 tags: [org, org/data-firm, topic/cambridge-analytica, topic/facebook-data, era/2014-2016, era/2016-2018, jurisdiction/uk]
 type: organization
 legal_name: Global Science Research Ltd.

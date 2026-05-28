@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: DiResta's term from "Invisible Rulers" (2024) describing the fragmented, group-specific consensus realities that modern propagandists construct for discrete audience segments — replacing a shared factual baseline with mutually incompatible information environments.
+description: 'DiResta''s term from "Invisible Rulers" (2024) describing the fragmented, group-specific consensus realities that modern propagandists construct for discrete audience segments — replacing a shared factual baseline with mutually incompatible information environments.'
 tags:
   - concept
   - topic/disinformation
@@ -9,7 +9,7 @@ tags:
   - topic/social-media
 type: concept
 domain: Information warfare / political communication
-first-documented: 2024 — Renée DiResta, "Invisible Rulers: The People Who Turn Lies Into Reality"
+first-documented: '2024 — Renée DiResta, "Invisible Rulers: The People Who Turn Lies Into Reality"'
 ---
 
 ## Definition

@@ -1,13 +1,13 @@
-﻿---
+---
 date: 2026-05-16
-description: University of Notre Dame political philosopher; "Why Liberalism Failed"; influenced JD Vance
+description: 'University of Notre Dame political philosopher; "Why Liberalism Failed"; influenced JD Vance'
 tags: [person, role/academic, topic/tech-right, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, jurisdiction/us]
 type: person
 full_name: Patrick J. Deneen
 nationality: American
 roles: [academic, philosopher]
 affiliations: [University of Notre Dame, Princeton (former), Georgetown (former)]
-notable_for: Author of "Why Liberalism Failed" (2018); post-liberal conservatism; JD Vance influence
+notable_for: 'Author of "Why Liberalism Failed" (2018); post-liberal conservatism; JD Vance influence'
 status: active
 ---
 

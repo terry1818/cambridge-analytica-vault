@@ -24,7 +24,7 @@ roles:
 affiliations:
   - Yale University (Department of Political Science)
   - Yale Institution for Social and Policy Studies (ISPS)
-notable_for: Co-founding the modern field-experiment movement in political science; the landmark 1998 New Haven GOTV experiment and the 2008 "Social Pressure and Voter Turnout" study, both with Donald Green.
+notable_for: 'Co-founding the modern field-experiment movement in political science; the landmark 1998 New Haven GOTV experiment and the 2008 "Social Pressure and Voter Turnout" study, both with Donald Green.'
 status: active
 ---
 

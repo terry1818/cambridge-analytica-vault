@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The largest U.S. Protestant denomination, captured 1979–2000 by a "conservative resurgence" faction that fused its theology and institutional machinery to the Republican Party and the broader Christian-nationalist movement.
+description: 'The largest U.S. Protestant denomination, captured 1979–2000 by a "conservative resurgence" faction that fused its theology and institutional machinery to the Republican Party and the broader Christian-nationalist movement.'
 tags:
   - org
   - org/church-ministry

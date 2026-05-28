@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: San Francisco-based crowdsourced-intelligence company that pays global "contributors" via a smartphone app to collect ground-level data (photos, surveys, signal mapping) — sold commercially for economic research but also held secret contracts with U.S. military special operations forces and intelligence agencies, confirmed in court filings.
+description: 'San Francisco-based crowdsourced-intelligence company that pays global "contributors" via a smartphone app to collect ground-level data (photos, surveys, signal mapping) — sold commercially for economic research but also held secret contracts with U.S. military special operations forces and intelligence agencies, confirmed in court filings.'
 tags:
   - org
   - org/data-firm

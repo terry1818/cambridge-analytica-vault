@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Geneva-based commodity trading company co-founded by Gennady Timchenko and Torbjörn Törnqvist in 2000; became one of the world's largest oil traders on Russian state export flows; described by US diplomats as "Putin's wallet."
+description: 'Geneva-based commodity trading company co-founded by Gennady Timchenko and Torbjörn Törnqvist in 2000; became one of the world''s largest oil traders on Russian state export flows; described by US diplomats as "Putin''s wallet."'
 tags:
   - org
   - org/state-actor

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Russia's professional class of political consultants — polittekhnologi — who manage electoral and political "reality" on behalf of the Kremlin and allied elites, treating politics as a technical craft of perception-management rather than genuine competition.
+description: 'Russia''s professional class of political consultants — polittekhnologi — who manage electoral and political "reality" on behalf of the Kremlin and allied elites, treating politics as a technical craft of perception-management rather than genuine competition.'
 tags:
   - concept
   - topic/info-warfare

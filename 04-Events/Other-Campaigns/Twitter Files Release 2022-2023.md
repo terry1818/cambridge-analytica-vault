@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Musk-orchestrated December 2022+ disclosure of internal Twitter content moderation files to chosen journalists
 tags: [event, topic/tech-right, era/2020-2024, jurisdiction/us]
@@ -6,7 +6,7 @@ type: event
 event_date: 2022-12-02
 location: X (Twitter) platform
 actors: [Elon Musk, Matt Taibbi, Bari Weiss, Michael Shellenberger, multiple journalists]
-outcome: Foundational Tech Right narrative; House Judiciary "weaponization" hearings; broader anti-content-moderation politics
+outcome: 'Foundational Tech Right narrative; House Judiciary "weaponization" hearings; broader anti-content-moderation politics'
 status: closed
 ---
 

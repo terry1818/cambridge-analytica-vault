@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The organized, funded, and durable apparatus of organizations, lawyers, activists, software, and "election integrity" coalitions built after the 2020 election to institutionalize the stolen-election claim — distinct from the spontaneous Stop the Steal moment in that it was deliberately constructed to be permanent.
+description: 'The organized, funded, and durable apparatus of organizations, lawyers, activists, software, and "election integrity" coalitions built after the 2020 election to institutionalize the stolen-election claim — distinct from the spontaneous Stop the Steal moment in that it was deliberately constructed to be permanent.'
 tags:
   - concept
   - topic/election-interference

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: New Apostolic Reformation "prophetic strategist" and co-founder of Christian Harvest International; author on strategic-level spiritual warfare and deliverance; faculty at Wagner Leadership Institute.
+description: 'New Apostolic Reformation "prophetic strategist" and co-founder of Christian Harvest International; author on strategic-level spiritual warfare and deliverance; faculty at Wagner Leadership Institute.'
 tags:
   - person
   - role/founder
@@ -27,7 +27,7 @@ affiliations:
   - Strategic Prayer Action Network (SPAN)
   - Wagner Leadership Institute
   - Generals International (Mike and Cindy Jacobs)
-notable_for: "Strategic-level spiritual warfare" teaching; "spiritual mapping" practice of identifying geographic demonic strongholds for prayer warfare; international prayer and deliverance ministry to 34+ countries; faculty at C. Peter Wagner's Wagner Leadership Institute
+notable_for: '"Strategic-level spiritual warfare" teaching; "spiritual mapping" practice of identifying geographic demonic strongholds for prayer warfare; international prayer and deliverance ministry to 34+ countries; faculty at C. Peter Wagner''s Wagner Leadership Institute'
 status: alive
 ---
 

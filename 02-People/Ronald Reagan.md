@@ -24,7 +24,7 @@ roles:
   - 40th President of the United States, 1981–1989
 affiliations:
   - Republican Party
-notable_for: The 1980 electoral realignment that cemented the evangelical-Republican alliance; the deregulatory "Reagan Revolution"; mainstreaming movement conservatism into governing power.
+notable_for: 'The 1980 electoral realignment that cemented the evangelical-Republican alliance; the deregulatory "Reagan Revolution"; mainstreaming movement conservatism into governing power.'
 status: deceased
 ---
 

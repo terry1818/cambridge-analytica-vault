@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Invitation-only international society of free-market economists and intellectuals founded by Friedrich Hayek in 1947; the original "neoliberal thought collective" linking eight Nobel laureates, the Koch network, and the global web of free-market think tanks.
+description: 'Invitation-only international society of free-market economists and intellectuals founded by Friedrich Hayek in 1947; the original "neoliberal thought collective" linking eight Nobel laureates, the Koch network, and the global web of free-market think tanks.'
 tags:
   - org
   - org/think-tank-network

@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Disambiguation - "Bolsonaro" references Jair Bolsonaro (former Brazilian president 2019-2022) + adjacent Bolsonarist movement
+description: 'Disambiguation - "Bolsonaro" references Jair Bolsonaro (former Brazilian president 2019-2022) + adjacent Bolsonarist movement'
 tags: [meta, disambiguation]
 type: disambiguation
 ---

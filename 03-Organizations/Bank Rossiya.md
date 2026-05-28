@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: St. Petersburg bank controlled by Yury Kovalchuk and described by the US Treasury as the "personal bank" of senior Russian officials including Putin; sanctioned in 2014.
+description: 'St. Petersburg bank controlled by Yury Kovalchuk and described by the US Treasury as the "personal bank" of senior Russian officials including Putin; sanctioned in 2014.'
 tags:
   - org
   - org/state-actor

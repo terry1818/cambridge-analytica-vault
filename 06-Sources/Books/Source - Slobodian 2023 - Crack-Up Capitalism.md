@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Intellectual and political history of market-radical "zone" strategies — free ports, charter cities, seasteads, crypto-sovereignties — showing how tech-right and neoliberal capital seeks to escape democratic governance entirely; directly relevant to the vault's Network States / Seasteading / tech-right and COS constitutional-capture threads.
+description: 'Intellectual and political history of market-radical "zone" strategies — free ports, charter cities, seasteads, crypto-sovereignties — showing how tech-right and neoliberal capital seeks to escape democratic governance entirely; directly relevant to the vault''s Network States / Seasteading / tech-right and COS constitutional-capture threads.'
 tags: [source, book, tech-right, zones, anti-democracy]
 type: source
 tier: Tier-2

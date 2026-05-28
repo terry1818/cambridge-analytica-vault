@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: ALPR (license-plate-reader) surveillance company; $7.5B valuation; ~6,000 law-enforcement agencies; 4,000+ ICE-related lookups via "side door" 2025
+description: 'ALPR (license-plate-reader) surveillance company; $7.5B valuation; ~6,000 law-enforcement agencies; 4,000+ ICE-related lookups via "side door" 2025'
 tags: [org, org/tech-platform, org/surveillance, topic/alpr, era/2024-2026, jurisdiction/us]
 type: organization
 legal_name: Flock Group Inc.

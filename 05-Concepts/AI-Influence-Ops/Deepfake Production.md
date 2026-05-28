@@ -1,10 +1,10 @@
-﻿---
+---
 date: 2026-05-16
 description: AI synthesis of video imagery (face-swap, full generation) of real or fictional people
 tags: [concept, topic/deepfakes, topic/disinformation, era/2018-2020, era/2020-2024, era/2024-present]
 type: concept
 domain: tech
-first-documented: ~2017 (first "deepfake" Reddit posts)
+first-documented: '~2017 (first "deepfake" Reddit posts)'
 ---
 
 # Deepfake Production

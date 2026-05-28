@@ -7,7 +7,7 @@ full_name: Brendan Nyhan
 nationality: American
 roles: [academic, researcher]
 affiliations: [Dartmouth College, University of Michigan (prior)]
-notable_for: Empirical research on misinformation, fact-checking effects, and microtargeting limits; co-author of canonical "backfire effect" studies; central skeptic of maximalist CA-effectiveness claims
+notable_for: 'Empirical research on misinformation, fact-checking effects, and microtargeting limits; co-author of canonical "backfire effect" studies; central skeptic of maximalist CA-effectiveness claims'
 status: active
 ---
 

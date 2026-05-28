@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Wired UK's contemporaneous skeptical coverage of Auspex International's "ethical data analysis" self-presentation — establishes the immediate journalistic pushback on the CA-successor rebrand narrative
+description: 'Wired UK''s contemporaneous skeptical coverage of Auspex International''s "ethical data analysis" self-presentation — establishes the immediate journalistic pushback on the CA-successor rebrand narrative'
 aliases: ["Source: Source Wired UK 2018-07-13 ethical data firm"]
 tags: [source, evidence/journalism, topic/cambridge-analytica, era/2018-2020, jurisdiction/uk]
 type: source

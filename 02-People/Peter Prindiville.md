@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Legal scholar, Non-Resident Fellow at the Stanford Constitutional Law Center, co-author with Russ Feingold of "The Constitution in Jeopardy" (2022), the leading book-length treatment of Article V convention risks.
+description: 'Legal scholar, Non-Resident Fellow at the Stanford Constitutional Law Center, co-author with Russ Feingold of "The Constitution in Jeopardy" (2022), the leading book-length treatment of Article V convention risks.'
 tags:
   - person
   - role/lawyer
@@ -21,7 +21,7 @@ roles:
 affiliations:
   - Stanford Constitutional Law Center
   - American Constitution Society (collaborator)
-notable_for: Co-authoring "The Constitution in Jeopardy" (2022) with Russ Feingold; primary legal researcher on Article V convention risks
+notable_for: 'Co-authoring "The Constitution in Jeopardy" (2022) with Russ Feingold; primary legal researcher on Article V convention risks'
 status: active
 ---
 

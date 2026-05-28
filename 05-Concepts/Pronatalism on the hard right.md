@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: The hard-right political project using birth-rate alarmism to advance natalist policy, restrict women's reproductive autonomy, and address the "demographic" problem of declining white Christian population share.
+description: 'The hard-right political project using birth-rate alarmism to advance natalist policy, restrict women''s reproductive autonomy, and address the "demographic" problem of declining white Christian population share.'
 tags:
   - concept
   - era/2020-2024

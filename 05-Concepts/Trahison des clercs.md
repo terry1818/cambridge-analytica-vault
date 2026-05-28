@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: The "treason of the intellectuals" — the defection of educated elites from the defence of universal values toward partisan nationalism and authoritarian politics — first named by Julien Benda in 1927 and revived by Anne Applebaum to analyse contemporary intellectual supporters of illiberalism.
+description: 'The "treason of the intellectuals" — the defection of educated elites from the defence of universal values toward partisan nationalism and authoritarian politics — first named by Julien Benda in 1927 and revived by Anne Applebaum to analyse contemporary intellectual supporters of illiberalism.'
 tags: [concept, topic/authoritarianism, topic/fascism-question]
 type: concept
 domain: intellectual history / democratic theory / authoritarianism studies

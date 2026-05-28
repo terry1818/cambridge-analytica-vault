@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Paleoconservative theorist and journalist who coined the analytical category "Middle American Radicals" and provided the intellectual framework that most directly prefigured Trumpism.
+description: 'Paleoconservative theorist and journalist who coined the analytical category "Middle American Radicals" and provided the intellectual framework that most directly prefigured Trumpism.'
 tags:
   - person
   - role/academic

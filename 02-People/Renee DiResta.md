@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Disinformation researcher, former Research Manager at Stanford Internet Observatory, and author of "Invisible Rulers" (2024). A leading investigator of state-sponsored information warfare and online manipulation.
+description: 'Disinformation researcher, former Research Manager at Stanford Internet Observatory, and author of "Invisible Rulers" (2024). A leading investigator of state-sponsored information warfare and online manipulation.'
 tags:
   - person
   - role/researcher
@@ -28,7 +28,7 @@ affiliations:
   - Stanford Internet Observatory (Research Manager, 2019–2024)
   - McCourt School of Public Policy, Georgetown University (Associate Research Professor, from October 2024)
   - New America Foundation (former fellow)
-notable_for: Investigating Russian IRA and GRU influence operations; coining the concept of "bespoke realities"; Senate Intelligence Committee reports; "Invisible Rulers" (2024)
+notable_for: 'Investigating Russian IRA and GRU influence operations; coining the concept of "bespoke realities"; Senate Intelligence Committee reports; "Invisible Rulers" (2024)'
 status: Active
 ---
 

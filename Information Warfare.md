@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Disambiguation - "Information Warfare" routes to vault entries on information-warfare techniques + actors
+description: 'Disambiguation - "Information Warfare" routes to vault entries on information-warfare techniques + actors'
 tags: [meta, disambiguation]
 type: disambiguation
 ---

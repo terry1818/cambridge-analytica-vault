@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Banks Leave.EU co-founder; multiple Russian Embassy contacts; "Bad Boys of Brexit" memoir
+description: 'Banks Leave.EU co-founder; multiple Russian Embassy contacts; "Bad Boys of Brexit" memoir'
 tags: [person, role/operative, topic/brexit, topic/russia-investigation, era/2014-2016, era/2016-2018, era/2018-2020, jurisdiction/uk]
 type: person
 full_name: Andrew Wigmore

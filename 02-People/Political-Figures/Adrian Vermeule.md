@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Harvard Law professor; most explicit current Catholic Integralist; "Common Good Constitutionalism" 2022; Catholic convert; influence on Vance + Federalist Society
+description: 'Harvard Law professor; most explicit current Catholic Integralist; "Common Good Constitutionalism" 2022; Catholic convert; influence on Vance + Federalist Society'
 tags: [person, role/intellectual, role/catholic-integralism, role/legal, era/2017-2026]
 type: person
 full_name: Adrian Vermeule

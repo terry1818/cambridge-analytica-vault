@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The central governing and campaign body of the U.S. Republican Party, founded 1856 — relevant to this vault as the institutional home of the party's voter-data operations and, after 2020, its "election integrity" legal and poll-watching programs.
+description: 'The central governing and campaign body of the U.S. Republican Party, founded 1856 — relevant to this vault as the institutional home of the party''s voter-data operations and, after 2020, its "election integrity" legal and poll-watching programs.'
 tags:
   - org
   - org/advocacy

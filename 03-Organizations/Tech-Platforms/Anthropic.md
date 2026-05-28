@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: AI lab founded 2021 by ex-OpenAI researchers; Claude AI; positioned as "AI safety" alternative
+description: 'AI lab founded 2021 by ex-OpenAI researchers; Claude AI; positioned as "AI safety" alternative'
 tags: [org, org/tech-platform, topic/llm-propaganda, era/2020-2024, era/2024-present, jurisdiction/us]
 type: organization
 legal_name: Anthropic PBC

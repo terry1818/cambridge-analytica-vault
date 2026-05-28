@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Private charter city / ZEDE operating on Roatán island, Honduras; the most prominent real-world test of libertarian "governance as a service" theory.
+description: 'Private charter city / ZEDE operating on Roatán island, Honduras; the most prominent real-world test of libertarian "governance as a service" theory.'
 tags:
   - org
   - org/political-consultancy

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: President of Peru (1990–2000); the canonical "elected autocrat" and self-coup (autogolpe) case in democratic-backsliding scholarship.
+description: 'President of Peru (1990–2000); the canonical "elected autocrat" and self-coup (autogolpe) case in democratic-backsliding scholarship.'
 tags:
   - person
   - role/politician

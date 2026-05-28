@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Governance model proposing the creation of new cities or zones with their own legal, regulatory, and economic rules — embraced by libertarians and the tech right as "governance as a service" and a vehicle to build polities outside ordinary democratic control.
+description: 'Governance model proposing the creation of new cities or zones with their own legal, regulatory, and economic rules — embraced by libertarians and the tech right as "governance as a service" and a vehicle to build polities outside ordinary democratic control.'
 tags:
   - concept
   - topic/constitutional-capture

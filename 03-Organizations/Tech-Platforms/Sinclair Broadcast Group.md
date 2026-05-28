@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: ~185 local TV stations across US; centrally controlled conservative messaging via "must-run" segments; largest single-owner local-TV network
+description: '~185 local TV stations across US; centrally controlled conservative messaging via "must-run" segments; largest single-owner local-TV network'
 tags: [org, org/media, org/distribution, era/1986-2026, jurisdiction/us]
 type: organization
 legal_name: Sinclair Broadcast Group

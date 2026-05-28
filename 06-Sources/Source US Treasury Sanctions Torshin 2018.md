@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The 6 April 2018 US Treasury OFAC sanctions designation that added Russian Central Bank deputy governor Alexander Torshin and dozens of other oligarchs and officials to the SDN list, formally placing the NRA's "man in Moscow" under US sanctions.
+description: 'The 6 April 2018 US Treasury OFAC sanctions designation that added Russian Central Bank deputy governor Alexander Torshin and dozens of other oligarchs and officials to the SDN list, formally placing the NRA''s "man in Moscow" under US sanctions.'
 tags:
   - source
   - evidence/primary-document

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Subscription newsletter and publishing platform founded in 2017; a key piece of infrastructure for "heterodox" and right-leaning independent media, and the focus of a 2023 controversy over hosting extremist content.
+description: 'Subscription newsletter and publishing platform founded in 2017; a key piece of infrastructure for "heterodox" and right-leaning independent media, and the focus of a 2023 controversy over hosting extremist content.'
 tags:
   - org
   - org/media

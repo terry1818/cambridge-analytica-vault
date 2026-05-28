@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Co-founder of Heritage Foundation (1973), ALEC (1973), Council for National Policy (1981); coined "Moral Majority"; the strategic linchpin of the modern conservative coalition
+description: 'Co-founder of Heritage Foundation (1973), ALEC (1973), Council for National Policy (1981); coined "Moral Majority"; the strategic linchpin of the modern conservative coalition'
 tags: [person, role/strategist, role/founder, era/1969-2008]
 type: person
 full_name: Paul Michael Weyrich

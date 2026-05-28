@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Koch-funded nonprofit at George Mason University that operates as a libertarian "talent scout" — identifying, funding, and professionally placing young free-market scholars to build a long-run academic pipeline for the movement.
+description: 'Koch-funded nonprofit at George Mason University that operates as a libertarian "talent scout" — identifying, funding, and professionally placing young free-market scholars to build a long-run academic pipeline for the movement.'
 tags:
   - org
   - org/think-tank

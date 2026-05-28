@@ -25,7 +25,7 @@ affiliations:
   - "[[Bank Rossiya]]"
   - "[[Ozero Cooperative]]"
   - National Media Group (NMG)
-notable_for: Controlling the financial and media infrastructure of the Putin inner circle; described by US Treasury as Putin's "personal banker"
+notable_for: 'Controlling the financial and media infrastructure of the Putin inner circle; described by US Treasury as Putin''s "personal banker"'
 status: Sanctioned (US from 2014; EU and UK from 2022); active
 ---
 

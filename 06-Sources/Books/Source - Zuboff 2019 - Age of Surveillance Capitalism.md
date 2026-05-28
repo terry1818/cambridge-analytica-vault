@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Foundational theoretical work arguing that Google and Facebook extracted human behavioral data as a free raw material to build "behavioral futures markets" — provides the conceptual vocabulary underlying the vault's psychographic-targeting and tech-surveillance threads.
+description: 'Foundational theoretical work arguing that Google and Facebook extracted human behavioral data as a free raw material to build "behavioral futures markets" — provides the conceptual vocabulary underlying the vault''s psychographic-targeting and tech-surveillance threads.'
 tags: [source, book, surveillance-capitalism, psychographics, behavioral-modification]
 type: source
 tier: Tier-2

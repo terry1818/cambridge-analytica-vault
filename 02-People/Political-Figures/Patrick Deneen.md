@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Notre Dame professor; Catholic Integralism / post-liberal theorist; "Why Liberalism Failed" 2018; "Regime Change" 2023; intellectual influence on Vance
+description: 'Notre Dame professor; Catholic Integralism / post-liberal theorist; "Why Liberalism Failed" 2018; "Regime Change" 2023; intellectual influence on Vance'
 tags: [person, role/intellectual, role/catholic-integralism, era/2018-2026]
 type: person
 full_name: Patrick J. Deneen

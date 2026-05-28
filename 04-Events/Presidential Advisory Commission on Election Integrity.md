@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The 2017 Trump-administration "voter fraud" commission, chaired by Mike Pence and run by Kris Kobach — created to validate Trump's false claim of mass illegal voting, it found no evidence and disbanded in 2018, but established the "election integrity" branding later used by the post-2020 movement.
+description: 'The 2017 Trump-administration "voter fraud" commission, chaired by Mike Pence and run by Kris Kobach — created to validate Trump''s false claim of mass illegal voting, it found no evidence and disbanded in 2018, but established the "election integrity" branding later used by the post-2020 movement.'
 tags:
   - event
   - topic/election-interference

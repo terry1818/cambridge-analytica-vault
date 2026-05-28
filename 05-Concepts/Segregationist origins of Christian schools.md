@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: The documented origin of many Christian schools and the early homeschool movement in the 1960s-70s "segregation academy" response to court-ordered public school integration — a history contested but increasingly acknowledged.
+description: 'The documented origin of many Christian schools and the early homeschool movement in the 1960s-70s "segregation academy" response to court-ordered public school integration — a history contested but increasingly acknowledged.'
 tags:
   - concept
   - topic/theocratic-wing

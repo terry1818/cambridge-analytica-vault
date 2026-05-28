@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Michigan-based Christian-right public-interest law firm founded in 1999 by Domino's Pizza founder Tom Monaghan and prosecutor Richard Thompson to "preserve America's Judeo-Christian heritage" through litigation — distinct from the Thomas More Society.
+description: 'Michigan-based Christian-right public-interest law firm founded in 1999 by Domino''s Pizza founder Tom Monaghan and prosecutor Richard Thompson to "preserve America''s Judeo-Christian heritage" through litigation — distinct from the Thomas More Society.'
 tags:
   - org
   - org/advocacy

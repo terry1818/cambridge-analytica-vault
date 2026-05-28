@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Journalist and author of "The Victory Lab" (2012), the definitive account of how randomized-experiment social science and data mining transformed political campaigning — the legitimate academic lineage from which Cambridge Analytica's psychographic claims diverged.
+description: 'Journalist and author of "The Victory Lab" (2012), the definitive account of how randomized-experiment social science and data mining transformed political campaigning — the legitimate academic lineage from which Cambridge Analytica''s psychographic claims diverged.'
 tags:
   - person
   - role/researcher
@@ -25,7 +25,7 @@ affiliations:
   - UCLA (lecturer in political science)
   - Bloomberg / Bloomberg Politics (former)
   - Monocle, Slate, The Boston Globe (former)
-notable_for: Writing "The Victory Lab - The Secret Science of Winning Campaigns" (2012), the foundational popular account of campaign data science and field-experiment-driven voter targeting.
+notable_for: 'Writing "The Victory Lab - The Secret Science of Winning Campaigns" (2012), the foundational popular account of campaign data science and field-experiment-driven voter targeting.'
 status: active
 ---
 

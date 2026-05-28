@@ -24,7 +24,7 @@ roles:
   - Anti-harassment advocate
 affiliations:
   - Crash Override Network
-notable_for: Creating the interactive-fiction game "Depression Quest"; being the origin-point target of the 2014 Gamergate harassment campaign; co-founding the Crash Override Network anti-harassment support group.
+notable_for: 'Creating the interactive-fiction game "Depression Quest"; being the origin-point target of the 2014 Gamergate harassment campaign; co-founding the Crash Override Network anti-harassment support group.'
 status: active
 ---
 

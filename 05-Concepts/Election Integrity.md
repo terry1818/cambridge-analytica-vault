@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: A contested political framing in which the language of "election integrity" — superficially neutral and procedural — has been captured by the post-2020 election-denial movement to legitimize restrictive voting laws, mass voter-roll challenges, and the recruitment of partisan poll workers.
+description: 'A contested political framing in which the language of "election integrity" — superficially neutral and procedural — has been captured by the post-2020 election-denial movement to legitimize restrictive voting laws, mass voter-roll challenges, and the recruitment of partisan poll workers.'
 tags:
   - concept
   - topic/election-interference

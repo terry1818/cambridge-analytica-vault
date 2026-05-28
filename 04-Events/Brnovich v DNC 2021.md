@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: The 2021 Supreme Court ruling that significantly narrowed VRA Section 2's reach by upholding two Arizona voting restrictions and establishing new "guideposts" making it harder to challenge voting rules as racially discriminatory.
+description: 'The 2021 Supreme Court ruling that significantly narrowed VRA Section 2''s reach by upholding two Arizona voting restrictions and establishing new "guideposts" making it harder to challenge voting rules as racially discriminatory.'
 tags:
   - event
   - topic/voter-suppression

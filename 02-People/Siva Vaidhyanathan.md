@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Media studies scholar, Robertson Professor at the University of Virginia, and author of "Antisocial Media" (2018) — the academic argument that Facebook's business model structurally produces democratic harm, filter-bubble polarization, and susceptibility to disinformation.
+description: 'Media studies scholar, Robertson Professor at the University of Virginia, and author of "Antisocial Media" (2018) — the academic argument that Facebook''s business model structurally produces democratic harm, filter-bubble polarization, and susceptibility to disinformation.'
 tags:
   - person
   - role/academic

@@ -25,7 +25,7 @@ affiliations:
   - Mars Hill Church (founded, dissolved 2014)
   - The Trinity Church (Scottsdale, AZ, founded 2016)
   - Acts 29 Network (co-founded; removed 2014)
-notable_for: Built Mars Hill Church into a 13-location megachurch; documented abusive and authoritarian leadership leading to his October 2014 resignation; militarized-masculinity theology; church's complete dissolution within weeks of his departure; described in Du Mez as a central figure of "aggressive, hypermasculine Christianity"
+notable_for: 'Built Mars Hill Church into a 13-location megachurch; documented abusive and authoritarian leadership leading to his October 2014 resignation; militarized-masculinity theology; church''s complete dissolution within weeks of his departure; described in Du Mez as a central figure of "aggressive, hypermasculine Christianity"'
 status: alive
 ---
 

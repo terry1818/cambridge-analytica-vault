@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The principal U.S. domestic intelligence and federal law-enforcement agency; its century-long record of political surveillance — from COINTELPRO to warrantless Section 702 "backdoor searches" and data-broker purchases — makes it a central node in any account of the surveillance state and democratic-backsliding risk.
+description: 'The principal U.S. domestic intelligence and federal law-enforcement agency; its century-long record of political surveillance — from COINTELPRO to warrantless Section 702 "backdoor searches" and data-broker purchases — makes it a central node in any account of the surveillance state and democratic-backsliding risk.'
 tags:
   - org
   - org/government-agency

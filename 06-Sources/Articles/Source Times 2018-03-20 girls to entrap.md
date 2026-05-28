@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: The Times coverage of Channel 4 sting - CA sent "girls" to entrap politicians
+description: 'The Times coverage of Channel 4 sting - CA sent "girls" to entrap politicians'
 aliases: ["Source: Source Times 2018-03-20 girls to entrap"]
 tags: [source, evidence/journalism, topic/cambridge-analytica, era/2016-2018, jurisdiction/uk]
 type: source

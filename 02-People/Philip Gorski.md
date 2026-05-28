@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Yale comparative-historical sociologist of religion whose co-authored "The Flag and the Cross" defined "white Christian nationalism" as an empirically measurable political ideology and a documented threat to American democracy.
+description: 'Yale comparative-historical sociologist of religion whose co-authored "The Flag and the Cross" defined "white Christian nationalism" as an empirically measurable political ideology and a documented threat to American democracy.'
 tags:
   - person
   - role/academic
@@ -26,7 +26,7 @@ roles:
 affiliations:
   - Yale University
   - University of Wisconsin–Madison (Ph.D.)
-notable_for: Co-authoring "The Flag and the Cross" (2022) and operationalizing white Christian nationalism as a survey-measurable ideology in the study of American democratic backsliding.
+notable_for: 'Co-authoring "The Flag and the Cross" (2022) and operationalizing white Christian nationalism as a survey-measurable ideology in the study of American democratic backsliding.'
 status: active
 ---
 

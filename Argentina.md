@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Disambiguation - "Argentina" references typically point to Javier Milei + adjacent right-wing populist movement
+description: 'Disambiguation - "Argentina" references typically point to Javier Milei + adjacent right-wing populist movement'
 tags: [meta, disambiguation]
 type: disambiguation
 ---

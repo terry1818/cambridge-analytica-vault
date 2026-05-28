@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Fear, hatred, and discrimination directed at Muslims and Islam — and, since 9/11, an organized, donor-funded U.S. "Islamophobia network" of think tanks, activist groups, and anti-sharia campaigns that became a recurring mobilizing theme of the religious right and the broader nationalist movement.
+description: 'Fear, hatred, and discrimination directed at Muslims and Islam — and, since 9/11, an organized, donor-funded U.S. "Islamophobia network" of think tanks, activist groups, and anti-sharia campaigns that became a recurring mobilizing theme of the religious right and the broader nationalist movement.'
 tags:
   - concept
   - topic/christian-nationalism

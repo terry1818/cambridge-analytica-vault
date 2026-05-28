@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Disambiguation - "Lens" routes to the specific named Lens entries in this vault
+description: 'Disambiguation - "Lens" routes to the specific named Lens entries in this vault'
 tags: [meta, disambiguation]
 type: disambiguation
 ---

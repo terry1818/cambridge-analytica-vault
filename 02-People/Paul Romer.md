@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Nobel Prize-winning economist who originated the "charter cities" concept; publicly distanced himself from the Honduran ZEDE implementation he initially helped inspire.
+description: 'Nobel Prize-winning economist who originated the "charter cities" concept; publicly distanced himself from the Honduran ZEDE implementation he initially helped inspire.'
 tags:
   - person
   - role/academic
@@ -24,7 +24,7 @@ affiliations:
   - Stanford University
   - World Bank
   - Charter Cities Institute (former advisory role)
-notable_for: Endogenous growth theory (Nobel 2018); originating the "charter cities" concept; resigning from Honduras ZEDE transparency committee in 2012
+notable_for: 'Endogenous growth theory (Nobel 2018); originating the "charter cities" concept; resigning from Honduras ZEDE transparency committee in 2012'
 status: Active academic
 ---
 

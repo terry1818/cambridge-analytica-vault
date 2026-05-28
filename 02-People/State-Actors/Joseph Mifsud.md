@@ -1,13 +1,13 @@
-﻿---
+---
 date: 2026-05-16
-description: Maltese academic; told Papadopoulos about Russian "dirt" on Clinton April 2016; disappeared October 2017
+description: 'Maltese academic; told Papadopoulos about Russian "dirt" on Clinton April 2016; disappeared October 2017'
 tags: [person, role/operative, role/academic, topic/election-interference, topic/russia-investigation, era/2014-2016, era/2016-2018, jurisdiction/malta, jurisdiction/russia]
 type: person
 full_name: Joseph Mifsud
 nationality: Maltese
 roles: [academic, operative]
 affiliations: [London Centre of International Law Practice, Link Campus University Rome, University of Stirling (former)]
-notable_for: April 2016 conversation with Papadopoulos about Russian "dirt" on Clinton - trigger for Mueller probe
+notable_for: 'April 2016 conversation with Papadopoulos about Russian "dirt" on Clinton - trigger for Mueller probe'
 status: unknown
 ---
 

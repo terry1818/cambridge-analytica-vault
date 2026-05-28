@@ -28,7 +28,7 @@ roles:
 affiliations:
   - Justice and Development Party (AKP)
   - National Vision movement (early career)
-notable_for: Transformed Turkey from a secular parliamentary democracy toward a presidential system with increasingly concentrated personal power; methodically dismantled judicial independence, press freedom, and military autonomy while winning successive elections; regarded as the template for 21st-century "electoral authoritarianism."
+notable_for: 'Transformed Turkey from a secular parliamentary democracy toward a presidential system with increasingly concentrated personal power; methodically dismantled judicial independence, press freedom, and military autonomy while winning successive elections; regarded as the template for 21st-century "electoral authoritarianism."'
 status: active (President of Turkey as of 2026)
 ---
 

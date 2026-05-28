@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Africa/Middle East political consultancy founded July 2018 by ex-CA staff; framed as "ethical" data analysis
+description: 'Africa/Middle East political consultancy founded July 2018 by ex-CA staff; framed as "ethical" data analysis'
 tags: [org, org/data-firm, org/political-consultancy, topic/cambridge-analytica, era/2018-2020, era/2020-2024, jurisdiction/uk]
 type: organization
 legal_name: Auspex International

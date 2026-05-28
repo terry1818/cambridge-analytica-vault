@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Sharlet's immersive literary travelogue documenting the 2020–2022 radicalization of Christian nationalism, militia culture, and insurrectionist ideology across the American interior — deepens the vault's "slow civil war" / theocratic-mobilization thread.
+description: 'Sharlet''s immersive literary travelogue documenting the 2020–2022 radicalization of Christian nationalism, militia culture, and insurrectionist ideology across the American interior — deepens the vault''s "slow civil war" / theocratic-mobilization thread.'
 tags: [source, book, christian-nationalism, NAR, insurrectionism]
 type: source
 tier: Tier-2

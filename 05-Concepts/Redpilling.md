@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: The incremental online radicalization process by which individuals are led from mainstream to far-right worldviews through a staged series of increasingly extreme content, framed as "awakening" to suppressed truths.
+description: 'The incremental online radicalization process by which individuals are led from mainstream to far-right worldviews through a staged series of increasingly extreme content, framed as "awakening" to suppressed truths.'
 tags:
   - concept
   - topic/disinformation

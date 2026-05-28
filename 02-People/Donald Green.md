@@ -25,7 +25,7 @@ roles:
 affiliations:
   - Columbia University (Department of Political Science, since 2011)
   - Yale University (former; Director of ISPS 1996-2011)
-notable_for: Co-founding the modern field-experiment movement in political science with Alan Gerber; the 1998 New Haven GOTV experiment and the 2008 "Social Pressure and Voter Turnout" study.
+notable_for: 'Co-founding the modern field-experiment movement in political science with Alan Gerber; the 1998 New Haven GOTV experiment and the 2008 "Social Pressure and Voter Turnout" study.'
 status: active
 ---
 

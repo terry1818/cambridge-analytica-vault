@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: German-American anarcho-capitalist economist and theorist; author of "Democracy — The God That Failed" (2001); ideological supplier to the far-right libertarian network and to the Tech Right's anti-democratic current.
+description: 'German-American anarcho-capitalist economist and theorist; author of "Democracy — The God That Failed" (2001); ideological supplier to the far-right libertarian network and to the Tech Right''s anti-democratic current.'
 tags:
   - person
   - role/academic

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The 1970s American conservative movement built by Viguerie, Weyrich, Phillips and Dolan that fused direct-mail organizing with social-issue politics and the emerging religious right — distinct from the unrelated 2010s-2020s neo-reactionary "New Right."
+description: 'The 1970s American conservative movement built by Viguerie, Weyrich, Phillips and Dolan that fused direct-mail organizing with social-issue politics and the emerging religious right — distinct from the unrelated 2010s-2020s neo-reactionary "New Right."'
 tags:
   - concept
   - topic/theocratic-wing

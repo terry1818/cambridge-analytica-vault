@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Conservative training organization; "Conservative Olympics"; trained 250,000+ conservative operatives since 1979; major CNP-affiliated personnel pipeline
+description: 'Conservative training organization; "Conservative Olympics"; trained 250,000+ conservative operatives since 1979; major CNP-affiliated personnel pipeline'
 tags: [org, org/policy-apparatus, org/training, era/1979-2026, jurisdiction/us]
 type: organization
 legal_name: Leadership Institute

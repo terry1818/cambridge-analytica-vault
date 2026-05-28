@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: 1921 Supreme Court decision holding that Congress may set a reasonable time limit on state ratification of amendments, introducing the "contemporaneous consensus" doctrine.
+description: '1921 Supreme Court decision holding that Congress may set a reasonable time limit on state ratification of amendments, introducing the "contemporaneous consensus" doctrine.'
 tags:
   - event
   - topic/article-v
@@ -14,7 +14,7 @@ actors:
   - Dillon (petitioner challenging Prohibition-era arrest)
   - Gloss (Deputy Collector)
   - U.S. Supreme Court
-outcome: Congress's power to set a seven-year ratification deadline upheld; "contemporaneous consensus" requirement articulated.
+outcome: 'Congress''s power to set a seven-year ratification deadline upheld; "contemporaneous consensus" requirement articulated.'
 status: closed — partially superseded by Coleman v. Miller (1939)
 ---
 

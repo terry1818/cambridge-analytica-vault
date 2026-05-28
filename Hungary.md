@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Disambiguation - "Hungary" references in vault point to multiple Hungary-related entities
+description: 'Disambiguation - "Hungary" references in vault point to multiple Hungary-related entities'
 tags: [meta, disambiguation]
 type: disambiguation
 ---

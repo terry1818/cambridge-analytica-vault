@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Longtime pastor of First Baptist Church of Dallas and twice-elected SBC president whose hardline biblical-inerrancy preaching mentored the architects of the Southern Baptist "conservative resurgence," reshaping America's largest Protestant denomination into a bulwark of the religious right.
+description: 'Longtime pastor of First Baptist Church of Dallas and twice-elected SBC president whose hardline biblical-inerrancy preaching mentored the architects of the Southern Baptist "conservative resurgence," reshaping America''s largest Protestant denomination into a bulwark of the religious right.'
 tags:
   - person
   - role/clergy
@@ -25,7 +25,7 @@ affiliations:
   - First Baptist Church of Dallas
   - Southern Baptist Convention
   - Criswell College / Criswell Bible Institute
-notable_for: Pastoring the largest Southern Baptist church in the world for five decades and serving as the doctrinal patriarch of the SBC "conservative resurgence" that began in 1979.
+notable_for: 'Pastoring the largest Southern Baptist church in the world for five decades and serving as the doctrinal patriarch of the SBC "conservative resurgence" that began in 1979.'
 status: deceased
 ---
 

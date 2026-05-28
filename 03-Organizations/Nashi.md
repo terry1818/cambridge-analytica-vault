@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Kremlin-backed Russian youth movement founded in 2005, created to mobilize patriotic youth in support of Putin, prevent "color revolution" scenarios, and serve as a cadre pipeline for the regime.
+description: 'Kremlin-backed Russian youth movement founded in 2005, created to mobilize patriotic youth in support of Putin, prevent "color revolution" scenarios, and serve as a cadre pipeline for the regime.'
 tags:
   - org
   - org/state-actor

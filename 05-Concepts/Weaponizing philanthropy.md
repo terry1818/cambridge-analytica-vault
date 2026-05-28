@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: The strategic use of tax-exempt charitable giving to build ideological infrastructure — think tanks, academic programs, legal organizations, media, and grassroots networks — that advances partisan political goals while enjoying public subsidy through tax exemption, documented extensively in Jane Mayer's "Dark Money."
+description: 'The strategic use of tax-exempt charitable giving to build ideological infrastructure — think tanks, academic programs, legal organizations, media, and grassroots networks — that advances partisan political goals while enjoying public subsidy through tax exemption, documented extensively in Jane Mayer''s "Dark Money."'
 tags:
   - concept
   - topic/dark-money

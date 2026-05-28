@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Defends the liberal epistemic order — the social institutions and norms that turn disagreement into knowledge — against the twin threats of disinformation and "epistemic nihilism," arguing these institutions are as constitutionally vital as political ones.
+description: 'Defends the liberal epistemic order — the social institutions and norms that turn disagreement into knowledge — against the twin threats of disinformation and "epistemic nihilism," arguing these institutions are as constitutionally vital as political ones.'
 tags: [source, book, epistemology, disinformation, information-warfare]
 type: source
 tier: Tier-2

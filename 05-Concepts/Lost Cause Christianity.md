@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: The fusion of the Confederate "Lost Cause" mythology with white Southern Christianity, producing a regional civil religion that sacralized Confederate defeat as noble martyrdom and provided theological justification for racial hierarchy.
+description: 'The fusion of the Confederate "Lost Cause" mythology with white Southern Christianity, producing a regional civil religion that sacralized Confederate defeat as noble martyrdom and provided theological justification for racial hierarchy.'
 tags:
   - concept
   - topic/theocratic-wing

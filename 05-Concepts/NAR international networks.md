@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: The loosely structured, transnational webs of "apostolic" and "prophetic" networks that constitute the organizational form of the New Apostolic Reformation — replacing denominations with relational alliances of apostles, and giving NAR theology a global, fast-growing institutional footprint.
+description: 'The loosely structured, transnational webs of "apostolic" and "prophetic" networks that constitute the organizational form of the New Apostolic Reformation — replacing denominations with relational alliances of apostles, and giving NAR theology a global, fast-growing institutional footprint.'
 tags:
   - concept
   - topic/theocratic-wing

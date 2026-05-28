@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Co-founder of Union Oil Company of California and financier of "The Fundamentals" (1910–1915), the twelve-volume essay series that named and defined Protestant fundamentalism; also founded the Bible Institute of Los Angeles (Biola).
+description: 'Co-founder of Union Oil Company of California and financier of "The Fundamentals" (1910–1915), the twelve-volume essay series that named and defined Protestant fundamentalism; also founded the Bible Institute of Los Angeles (Biola).'
 tags:
   - person
   - role/founder
@@ -21,7 +21,7 @@ affiliations:
   - Union Oil Company of California (later Unocal)
   - Testimony Publishing Company
   - Bible Institute of Los Angeles (Biola)
-notable_for: Using oil wealth to fund the publication and global distribution of "The Fundamentals," the foundational text of Protestant fundamentalism, and to establish Biola as a center of conservative evangelical education
+notable_for: 'Using oil wealth to fund the publication and global distribution of "The Fundamentals," the foundational text of Protestant fundamentalism, and to establish Biola as a center of conservative evangelical education'
 status: historical
 ---
 

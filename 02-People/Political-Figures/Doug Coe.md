@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Longtime leader of The Fellowship 1969-2017; architected its "invisibility" doctrine; National Prayer Breakfast organizer; bridge to Tom Coburn (COS) and global parliamentary fellowships including Uganda
+description: 'Longtime leader of The Fellowship 1969-2017; architected its "invisibility" doctrine; National Prayer Breakfast organizer; bridge to Tom Coburn (COS) and global parliamentary fellowships including Uganda'
 tags: [person, role/theocratic-wing, role/network-organizer, era/1969-2017]
 type: person
 full_name: Douglas Evans Coe

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Investigative account of how US government agencies bypassed Fourth Amendment and Privacy Act constraints by purchasing commercial data from brokers — directly evidences the vault's "federal database" and tech-surveillance wing threads.
+description: 'Investigative account of how US government agencies bypassed Fourth Amendment and Privacy Act constraints by purchasing commercial data from brokers — directly evidences the vault''s "federal database" and tech-surveillance wing threads.'
 tags: [source, book, surveillance, data-brokers, federal-database]
 type: source
 tier: Tier-2

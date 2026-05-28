@@ -1,9 +1,9 @@
-﻿---
+---
 date: 2026-05-16
 description: Heritage Foundation trustee since 2018; Forbes Inc. chairman; longtime supply-side advocate; two-time GOP presidential candidate (1996 + 2000); flat-tax + crypto-positive economic positioning
 tags: [person, role/patron-class, role/policy-apparatus, era/1990-2026]
 type: person
-full_name: Malcolm Stevenson "Steve" Forbes Jr.
+full_name: 'Malcolm Stevenson "Steve" Forbes Jr.'
 aliases: [Steve Forbes, Malcolm Forbes Jr.]
 born: 1947-07-18
 nationality: American

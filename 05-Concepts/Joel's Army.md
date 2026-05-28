@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: A dominionist end-times theology — rooted in the 1950s Latter Rain movement — teaching that a militant, supernaturally empowered generation of "overcomers" will arise as God's army to forcibly take dominion over the earth, supplying a militant template that resurfaces in New Apostolic Reformation and Christian-nationalist rhetoric.
+description: 'A dominionist end-times theology — rooted in the 1950s Latter Rain movement — teaching that a militant, supernaturally empowered generation of "overcomers" will arise as God''s army to forcibly take dominion over the earth, supplying a militant template that resurfaces in New Apostolic Reformation and Christian-nationalist rhetoric.'
 tags:
   - concept
   - topic/theocratic-wing

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Briant's OCCRP analysis — the primary public source documenting Emic as continuing SCL-Defence work, and the broader "governments failed to learn" thesis
+description: 'Briant''s OCCRP analysis — the primary public source documenting Emic as continuing SCL-Defence work, and the broader "governments failed to learn" thesis'
 aliases: ["Source: Source Briant OCCRP 2020-10-12"]
 tags: [source, evidence/journalism, evidence/academic, topic/info-warfare, topic/scl-group, topic/cambridge-analytica, era/2018-2020, era/2020-2024]
 type: source

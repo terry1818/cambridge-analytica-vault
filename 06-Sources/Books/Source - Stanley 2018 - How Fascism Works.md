@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Yale philosopher's ten-pillar analytical framework for identifying fascist politics in contemporary liberal democracies — the vault's most-cited scholarly criterion for the "is this fascism?" open question.
+description: 'Yale philosopher''s ten-pillar analytical framework for identifying fascist politics in contemporary liberal democracies — the vault''s most-cited scholarly criterion for the "is this fascism?" open question.'
 tags: [source, book, fascism, authoritarianism, analytical-framework]
 type: source
 tier: Tier-2

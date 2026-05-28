@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: "e/acc" - Tech Right intellectual movement opposing AI safety/regulation; pro-technological acceleration
+description: '"e/acc" - Tech Right intellectual movement opposing AI safety/regulation; pro-technological acceleration'
 tags: [concept, topic/tech-right, topic/llm-propaganda, era/2020-2024, era/2024-present]
 type: concept
 domain: tech-philosophy

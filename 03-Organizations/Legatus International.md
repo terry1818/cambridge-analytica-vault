@@ -1,6 +1,6 @@
 ---
 date: 2026-05-23
-description: Membership organization of conservative Catholic CEOs and business leaders, founded in 1987 by Domino's Pizza founder Tom Monaghan to "study, live, and spread" Catholic faith through the business elite.
+description: 'Membership organization of conservative Catholic CEOs and business leaders, founded in 1987 by Domino''s Pizza founder Tom Monaghan to "study, live, and spread" Catholic faith through the business elite.'
 tags:
   - org
   - org/advocacy
