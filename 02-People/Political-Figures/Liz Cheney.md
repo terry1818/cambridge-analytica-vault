@@ -57,3 +57,9 @@ In her concluding remarks (December 19, 2022):
 - [[Source: Cheney Oath and Honor 2023]]
 - [[Source: J6 Committee Final Report 2022]]
 - [[Source: Cheney J6 Committee Opening Statement June 2022]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

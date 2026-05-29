@@ -72,3 +72,9 @@ Section 702 is identified throughout the vault's [[Tech Right MOC]] and [[Lens -
 - [[Source: FISA Court Opinions on 702 Compliance]]
 - [[Source: PCLOB Section 702 Report 2014]]
 - [[Source: 702 Reauthorization Act 2024]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -31,3 +31,9 @@ US 501(c)(4) organization. Operates as Judicial Crisis Network (JCN) for its jud
 ## See also
 
 [[Leonard Leo]] | [[Marble Freedom Trust]] | [[Federalist Society]] | [[85 Fund]] | [[Honest Elections Project]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

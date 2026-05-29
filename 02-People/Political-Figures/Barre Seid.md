@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Reclusive Illinois manufacturing billionaire; donated $1.6B (largest known US political donation ever) to Leonard Leo's Marble Freedom Trust in 2022; deceased 2024
 tags: [person, role/megadonor, role/dark-money, era/2020-2024]
@@ -61,3 +61,9 @@ Reclusive Illinois manufacturing billionaire. Owned **Tripp Lite** (electrical p
 - [[Source ProPublica Barre Seid Marble Freedom]]
 - [[Source Hill Barre Seid 1.6B]]
 - [[Source TPM Barre Seid Court Architect]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

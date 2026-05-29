@@ -2,7 +2,7 @@
 title: Master Theses MOC
 type: moc
 date: 2026-05-29
-tags: [moc, synthesis, mastertheses, vaultlevel]
+tags: [moc, synthesis, mastertheses, vaultlevel, mastersynthesis]
 aliases: ['Master Theses MOC','Master Theses','Vault Master Theses']
 ---
 

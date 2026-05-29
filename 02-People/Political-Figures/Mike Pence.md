@@ -57,3 +57,9 @@ Pence's chief of staff [[Marc Short]], counsel [[Greg Jacob]], and outside couns
 - [[Source: Short Jacob J6 Committee Testimony]]
 - [[Source: Trump v Thompson SCOTUS January 2022]]
 - [[Source: Pence January 6 Public Letter]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Trump senior advisor/son-in-law; with Brad Parscale oversaw Trump 2016 digital operation
 tags: [person, role/politician, role/executive, topic/2016-us-election, era/2016-2018, era/2018-2020, jurisdiction/us]
@@ -107,3 +107,9 @@ Specific questions that this node's reconstruction has not yet resolved:
 - The complete relationship timeline with each of the vault-tracked entities this person operationally connects to, with dated entries and primary-source citations where available.
 - The specific operational consequences of this person's documented decisions, traced through to operational outputs at the entity and event level.
 - The post-2024-election trajectory and current-state operational position, which is rapidly evolving in the 2024-2026 window and requires continuing tracking rather than one-time reconstruction.
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

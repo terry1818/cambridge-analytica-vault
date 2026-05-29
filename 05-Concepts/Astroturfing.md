@@ -32,3 +32,9 @@ The line between astroturfing and ordinary political organizing matters because 
 ## See also
 
 [[Internet Research Agency (IRA)]] | [[Team Jorge]] | [[Black Cube]] | [[Koch network]] | [[Tea Party]] | [[Convention of States]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

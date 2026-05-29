@@ -74,3 +74,9 @@ Hutchinson's June 28 testimony shifted public discourse and is widely viewed as 
 - [[Source: Hutchinson J6 Committee Closed Depositions]]
 - [[Source: Hutchinson Enough 2023]]
 - [[Source: J6 Committee Final Report 2022]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

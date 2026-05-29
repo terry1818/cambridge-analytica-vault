@@ -106,3 +106,9 @@ Eastman was a longtime Claremont Institute scholar; his post-2020 trajectory has
 - [[January 6 Capitol Attack]]
 - [[Donald Trump]]
 - [[Mike Pence]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

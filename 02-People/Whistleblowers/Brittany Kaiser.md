@@ -145,3 +145,9 @@ She is also the principal living source on the post-Trump-election internal dyna
 - [[HindsightFiles Release 2020]]
 - [[Source Targeted Kaiser 2019]]
 - [[Timeline - Brittany Kaiser]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -31,3 +31,9 @@ Co-founder Netscape (1994). Co-founder Andreessen Horowitz venture capital firm 
 ## See also
 
 [[Tech right]] | [[Andreessen Horowitz]] | [[a16z]] | [[Sriram Krishnan]] | [[David Sacks]] | [[Peter Thiel]] | [[Elon Musk]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

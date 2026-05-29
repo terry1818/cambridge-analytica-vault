@@ -34,3 +34,9 @@ Founding COO of PayPal (1999-2002). Founder of Yammer (sold to Microsoft 2012). 
 ## See also
 
 [[Tech right]] | [[PayPal Mafia]] | [[Peter Thiel]] | [[Elon Musk]] | [[All-In Podcast]] | [[Chamath Palihapitiya]] | [[Andreessen Horowitz]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

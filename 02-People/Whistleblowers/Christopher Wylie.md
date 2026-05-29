@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Canadian data scientist; ex-Director of Research at CA; primary whistleblower in March 2018 disclosures
 tags: [person, role/whistleblower, role/researcher, topic/cambridge-analytica, era/2014-2016, era/2018-2020]
@@ -138,3 +138,9 @@ He is also the principal living technical source on what SCL/CA's data operation
 - The complete documentary record Wylie supplied to regulators and journalists is partially in the public record but should be inventoried in one place.
 - His Eunoia Technologies venture (2014-2015) is thinly documented and would benefit from a dedicated reconstruction.
 - His post-2019 commentary on AI-era influence operations is itself a primary source for the vault's analysis of the post-CA continuity, and should be tracked as a running thread rather than relying on individual articles.
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -34,3 +34,9 @@ Founder and leader of the [[Oath Keepers]]. Yale Law graduate. Convicted of sedi
 ## See also
 
 [[Oath Keepers]] | [[January 6 Capitol Attack]] | [[Proud Boys]] | [[Enrique Tarrio]] | [[January 6 Select Committee]] | [[Seditious conspiracy]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -25,3 +25,9 @@ Pittsburgh-based conservative philanthropy. Part of the Scaife family complex (S
 ## See also
 
 [[Richard Mellon Scaife]] | [[Bradley Foundation]] | [[Heritage Foundation]] | [[Federalist Society]] | [[Council for National Policy]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

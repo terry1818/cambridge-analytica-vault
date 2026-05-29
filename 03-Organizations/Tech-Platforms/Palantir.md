@@ -99,3 +99,9 @@ Palantir's public response (May 30, 2025 blog post by the company) was to deny t
 - [[Source Democracy Now 2025-06-03 Makena Kelly Palantir]]
 - [[Source New Republic 2025 Trump Palantir Database]]
 - [[Source Snopes 2025-06-13 Palantir Database]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

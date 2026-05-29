@@ -75,3 +75,9 @@ Status: active, pending Willis-replacement reassignment.
 - [[Source: Hutchinson J6 Committee Testimony June 2022]]
 - [[Source: Meadows Texts Produced to J6 Committee]]
 - [[Source: J6 Committee Final Report 2022]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

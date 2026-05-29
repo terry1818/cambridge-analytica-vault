@@ -61,3 +61,9 @@ Barr publicly supported other Republican candidates in the 2024 primary and was 
 - [[Source: Mueller Report 2019]]
 - [[Source: Barr One Damn Thing After Another 2022]]
 - [[Source: Barr J6 Committee Testimony June 2022]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

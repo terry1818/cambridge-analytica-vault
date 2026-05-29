@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Roivant Sciences founder; 2024 presidential candidate; DOGE co-founder (departed); now Ohio Governor candidate
 tags: [person, role/executive, role/politician, role/operative, topic/tech-right, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -78,3 +78,9 @@ Ramaswamy's political-positioning style (high-volume media presence, explicit id
 - [[Peter Thiel]]
 - [[Donald Trump]]
 - [[Project 2025]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

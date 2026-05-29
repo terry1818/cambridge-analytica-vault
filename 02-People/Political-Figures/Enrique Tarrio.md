@@ -29,3 +29,9 @@ National Chairman of the [[Proud Boys]] 2018-2021. Cuban-American. Convicted of 
 ## See also
 
 [[Proud Boys]] | [[Ethan Nordean]] | [[Joseph Biggs]] | [[Zachary Rehl]] | [[January 6 Capitol Attack]] | [[Seditious conspiracy]] | [[Stewart Rhodes]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

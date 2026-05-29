@@ -95,3 +95,9 @@ December 21, 2023: filed Chapter 11. Case subsequently dismissed July 12, 2024 b
 - [[Source: NY Disbarment Order June 2024]]
 - [[Source: DC Disbarment Order September 2024]]
 - [[Source: Giuliani Bankruptcy Filings 2023-2024]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -30,3 +30,9 @@ Prigozhin is the structural bridge between Russian state interference in the 201
 ## See also
 
 [[Wagner Group]] | [[Internet Research Agency (IRA)]] | [[Vladimir Putin]] | [[Robert Mueller]] | [[Russian interference 2016]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

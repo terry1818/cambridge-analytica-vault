@@ -35,3 +35,9 @@ NAR is one of the religious tributaries feeding [[Christian Nationalism]] organi
 ## See also
 
 [[Christian Nationalism]] | [[Seven Mountain Mandate]] | [[Lance Wallnau]] | [[Religious right]] | [[January 6 Capitol Attack]] | [[Convention of States]] | [[Paula White]] | [[Dutch Sheets]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

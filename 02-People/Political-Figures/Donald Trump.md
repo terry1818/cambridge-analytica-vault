@@ -179,3 +179,9 @@ This is a documented social-association connection, not an allegation. The evide
 - [[Jeffrey Epstein]]
 - [[Ghislaine Maxwell]]
 - [[Roy Cohn]] â€” Trump's historical mentor; per [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]] structurally relevant to the longer arc
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

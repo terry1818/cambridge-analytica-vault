@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Daughter of Robert Mercer; CA investor; Emerdata director; major Republican donor
 tags: [person, role/donor-funder, role/executive, topic/cambridge-analytica, era/2014-2016, era/2016-2018, era/2018-2020]
@@ -139,3 +139,9 @@ She is also the principal direct-experience source for the inside of [[Cambridge
 - [[Mercer Bannon political alliance]]
 - [[Mercer to CA money flow]]
 - [[Timeline - Rebekah Mercer]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -121,3 +121,9 @@ Engoron's 92-page decision found:
 - [[Source: Engoron Summary Judgment September 2023]]
 - [[Source: Engoron Verdict February 2024]]
 - [[Source: NY Appellate Division Bond Reduction 2024]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

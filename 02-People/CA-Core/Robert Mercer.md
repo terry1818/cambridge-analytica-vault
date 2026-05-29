@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: American hedge fund billionaire (Renaissance Technologies); primary CA funder ($15M+); Mercer family patriarch
 tags: [person, role/donor-funder, topic/cambridge-analytica, era/2014-2016, era/2016-2018]
@@ -130,3 +130,9 @@ Mercer is the single human node whose removal from the network graph would disco
 - The 2018-2024 Mercer Family Foundation 990s should be aggregated for a clean disbursement map covering the post-Bannon period.
 - The Mercer wealth held outside the family foundation (personal holdings, family-office investment vehicles) is harder to map but is the larger pool. State-level disclosures (NY where the Mercers are domiciled, FL where some family-office activity has shifted) are partially available.
 - The relationship between Mercer's IRS litigation timeline and his political-giving timeline is worth tracing as a separate analytical thread.
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

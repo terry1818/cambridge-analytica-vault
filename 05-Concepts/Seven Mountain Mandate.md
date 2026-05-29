@@ -29,3 +29,9 @@ COS organizing materials and donor pitches frequently invoke 7M language. Not al
 ## See also
 
 [[Christian Nationalism]] | [[New Apostolic Reformation]] | [[Lance Wallnau]] | [[Convention of States]] | [[Religious right]] | [[Dominionism]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

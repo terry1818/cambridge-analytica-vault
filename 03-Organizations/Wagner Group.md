@@ -30,3 +30,9 @@ Wagner is the operational arm of Russian hybrid warfare - kinetic action paired 
 ## See also
 
 [[Yevgeny Prigozhin]] | [[Internet Research Agency (IRA)]] | [[Vladimir Putin]] | [[Hybrid warfare]] | [[Russian interference 2016]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

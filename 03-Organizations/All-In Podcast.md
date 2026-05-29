@@ -25,3 +25,9 @@ Weekly US podcast co-hosted by [[Chamath Palihapitiya]], [[David Sacks]], Jason 
 ## See also
 
 [[David Sacks]] | [[Chamath Palihapitiya]] | [[Tech right]] | [[Peter Thiel]] | [[Marc Andreessen]] | [[June 2024 Sacks fundraiser]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

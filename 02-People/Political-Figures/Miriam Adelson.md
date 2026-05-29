@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Miriam Adelson - widow of Sheldon Adelson; continuing principal Republican mega-donor since 2021; substantial 2024-cycle giving including via Preserve America PAC.
 tags:
@@ -42,3 +42,9 @@ Miriam Adelson inherited substantial Las Vegas Sands ownership upon Sheldon's de
 - [[Donald Trump]]
 - [[Patron Wing MOC]]
 - [[Israel Cluster MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

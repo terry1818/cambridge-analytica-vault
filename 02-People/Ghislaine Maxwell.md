@@ -60,3 +60,9 @@ Born Maisons-Laffitte, France, December 25, 1961. Youngest daughter of media bar
 - [[Source: Giuffre v Maxwell 2024 Unsealing]]
 - [[Source: Brown - Perversion of Justice]]
 - [[Source: Webb - One Nation Under Blackmail Vol 2]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

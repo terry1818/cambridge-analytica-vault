@@ -32,3 +32,9 @@ US far-right anti-government militia founded 2009 by [[Stewart Rhodes]]. Recruit
 ## See also
 
 [[Stewart Rhodes]] | [[Proud Boys]] | [[Three Percenters]] | [[January 6 Capitol Attack]] | [[Insurrection Act]] | [[Seditious conspiracy]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

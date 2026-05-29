@@ -77,3 +77,9 @@ The individuals were not arrested (in Russia); the entities did not appear at tr
 - [[Source: US v Internet Research Agency Indictment February 2018]]
 - [[Source: Senate Intelligence Committee Russia Report Volume 2 2019]]
 - [[Source: ICA Assessing Russian Activities January 2017]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

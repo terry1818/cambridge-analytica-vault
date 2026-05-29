@@ -198,3 +198,9 @@ Effectiveness disputed:
 - [[Global Science Research (GSR)]] (data source)
 - [[Facebook]] / [[Meta]] (platform exploited)
 - [[Psy-Group]] (Israeli intel partner)
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

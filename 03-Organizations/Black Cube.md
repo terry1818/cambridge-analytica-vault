@@ -65,3 +65,9 @@ Black Cube is one of three intel-for-hire firms named in [[Hypothesis - Israeli 
 - [[Source: Farrow New Yorker Black Cube November 2017]]
 - [[Source: Farrow Catch and Kill 2019]]
 - [[Source: Wirecard Black Cube Reporting]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

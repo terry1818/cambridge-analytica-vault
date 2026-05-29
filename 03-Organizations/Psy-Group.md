@@ -48,3 +48,9 @@ Psy-Group exemplifies the "Israeli private intelligence firm performing election
 - [[Source: New Yorker Psy-Group 2018]]
 - [[Source: NYT Psy-Group Reporting]]
 - [[Source: Mueller Report 2019]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Right-wing media outlet; Andrew Breitbart founded 2007; Bannon-led 2012-2016; Mercer family stake; CA-era narrative engine
 tags: [org, org/media, topic/cambridge-analytica, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -63,3 +63,9 @@ The CA-era Mercer-Bannon project provided the **operational template** that the 
 
 - [[Source Wikipedia - Breitbart News]]
 - [[Source Cadwalladr 2017-02-26 Observer Robert Mercer]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

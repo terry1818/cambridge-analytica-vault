@@ -53,3 +53,9 @@ March 17, 2023: International Criminal Court issued arrest warrant for Putin for
 - [[Source: Mueller Report 2019]]
 - [[Source: Senate Intelligence Committee Russia Report Volume 5 2020]]
 - [[Source: ICC Putin Arrest Warrant March 2023]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

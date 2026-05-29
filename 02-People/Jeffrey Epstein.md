@@ -80,3 +80,9 @@ Epstein's documented operation involved (a) procurement of underage girls primar
 - [[Source: DOJ OIG Report Epstein Death 2023]]
 - [[Source: Giuffre v Maxwell 2024 Unsealing]]
 - [[Source: NYC OCME Autopsy]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.
