@@ -30,7 +30,7 @@ key_people:
   - Patri Friedman (co-founder, executive director)
   - Wayne Gramlich (co-founder)
   - Peter Thiel (principal early funder)
-  - Joe Quirk (president / "seavangelist")
+  - 'Joe Quirk (president / "seavangelist")'
 status: active
 ---
 

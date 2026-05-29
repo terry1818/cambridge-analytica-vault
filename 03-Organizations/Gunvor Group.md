@@ -20,7 +20,7 @@ jurisdiction: Switzerland
 parent_org: ""
 subsidiaries: []
 key_people:
-  - "[[Gennady Timchenko]]" (co-founder; exited 2014)
+  - '"[[Gennady Timchenko]]" (co-founder; exited 2014)'
   - Torbjörn Törnqvist (co-founder; majority owner post-2014)
 status: Active; 100% employee-owned following 2025 management buyout; no longer associated with Timchenko
 ---

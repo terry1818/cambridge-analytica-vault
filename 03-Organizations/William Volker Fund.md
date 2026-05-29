@@ -24,7 +24,7 @@ subsidiaries:
 key_people:
   - William Volker (founder)
   - Harold Luhnow (president from 1947)
-  - F. A. "Baldy" Harper (staff)
+  - 'F. A. "Baldy" Harper (staff)'
   - Herbert Cornuelle
   - Richard Cornuelle
 status: dissolved

@@ -27,7 +27,7 @@ jurisdiction: US
 parent_org: ""
 subsidiaries: []
 key_people:
-  - Nathan Bedford Forrest (first "Grand Wizard," first-era Klan)
+  - 'Nathan Bedford Forrest (first "Grand Wizard," first-era Klan)'
   - William Joseph Simmons (revived the Klan in 1915)
   - Hiram Wesley Evans (Imperial Wizard, 1920s)
   - David Duke (Grand Wizard, 1970s; later electoral candidate)

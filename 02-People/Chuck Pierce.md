@@ -18,7 +18,7 @@ born: ~1953
 nationality: American
 roles:
   - Founder and President, Glory of Zion International Ministries
-  - NAR "prophet"
+  - 'NAR "prophet"'
   - Author
   - Apostolic Council of Prophetic Elders member
 affiliations:

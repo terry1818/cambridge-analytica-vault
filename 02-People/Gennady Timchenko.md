@@ -20,7 +20,7 @@ roles:
   - Founder, Volga Group investment firm
 affiliations:
   - "[[Gunvor Group]]"
-  - "[[Ozero Cooperative]]" (adjacent member)
+  - '"[[Ozero Cooperative]]" (adjacent member)'
   - Novatek (major shareholder via Volga Group)
 notable_for: Co-founding Gunvor, which briefly became one of the world's largest commodity traders on the strength of Russian state oil exports; alleged closeness to Putin predating his presidency
 status: Sanctioned (US, EU, UK from 2014/2022); resident in Switzerland/Russia

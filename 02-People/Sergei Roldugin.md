@@ -20,7 +20,7 @@ roles:
   - Artistic director, St. Petersburg House of Music
   - Alleged nominee/custodian of Putin-circle offshore assets (alleged; not adjudicated)
 affiliations:
-  - "[[Bank Rossiya]]" (adjacent; appears in related offshore structures)
+  - '"[[Bank Rossiya]]" (adjacent; appears in related offshore structures)'
 notable_for: "Appearance in Panama Papers as nominal owner of offshore companies connected to at least $2 billion in flows linked to the Putin inner circle; relationship with Putin since the 1970s"
 status: Active in musical career; not personally sanctioned by US or EU as of mid-2026
 ---

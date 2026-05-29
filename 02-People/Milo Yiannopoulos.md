@@ -12,7 +12,7 @@ type: person
 full_name: Milo Yiannopoulos
 aliases:
   - Milo
-  - "Nero" (online handle)
+  - '"Nero" (online handle)'
 born: "1984"
 nationality: British
 roles:

@@ -25,7 +25,7 @@ jurisdiction: US
 parent_org: LexisNexis (Reed Elsevier) — acquired September 2004
 subsidiaries: []
 key_people:
-  - Hank Asher (founder; widely credited as "the father of data fusion")
+  - 'Hank Asher (founder; widely credited as "the father of data fusion")'
 status: dissolved
 ---
 

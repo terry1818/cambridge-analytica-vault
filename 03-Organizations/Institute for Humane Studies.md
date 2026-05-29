@@ -26,7 +26,7 @@ jurisdiction: US
 parent_org: ""
 subsidiaries: []
 key_people:
-  - F. A. "Baldy" Harper (founder)
+  - 'F. A. "Baldy" Harper (founder)'
   - Charles Koch (longtime board chairman / chief funder)
 status: active
 ---

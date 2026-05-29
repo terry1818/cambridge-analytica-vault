@@ -19,7 +19,7 @@ nationality: American
 roles:
   - Co-founder and President, Christian Harvest International
   - Co-founder, Strategic Prayer Action Network (SPAN)
-  - NAR "prophetic strategist" and spiritual warfare teacher
+  - 'NAR "prophetic strategist" and spiritual warfare teacher'
   - Faculty, Wagner Leadership Institute
 affiliations:
   - "[[New Apostolic Reformation]]"

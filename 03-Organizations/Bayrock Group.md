@@ -22,7 +22,7 @@ subsidiaries:
   - Bayrock/Sapir Organization LLC (Trump SoHo JV)
 key_people:
   - Tevfik Arif (founder)
-  - "[[Felix Sater]]" (managing director 2003–2008)
+  - '"[[Felix Sater]]" (managing director 2003–2008)'
   - Jody Kriss (CFO; later turned whistleblower)
 status: Operationally dissolved/dormant; legal proceedings ongoing into 2020s
 ---

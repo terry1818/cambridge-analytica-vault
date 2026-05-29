@@ -28,7 +28,7 @@ subsidiaries: []
 key_people:
   - Denis Pushilin (separatist leader)
   - Alexander Zakharchenko (leader 2014–2018, killed 2018)
-  - Pavel Gubarev (early "people's governor")
+  - 'Pavel Gubarev (early "people''s governor")'
 status: restructured
 ---
 
