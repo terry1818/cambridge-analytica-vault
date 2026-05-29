@@ -3,7 +3,7 @@ title: Information warfare
 type: concept
 date: 2026-05-29
 tags: [concept, militarytheory, info, propaganda]
-aliases: ['Information warfare','Info warfare','IW']
+aliases: ['Information warfare','Info warfare','IW','information-warfare','info-warfare']
 ---
 
 # Information warfare

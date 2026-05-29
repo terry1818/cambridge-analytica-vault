@@ -16,6 +16,7 @@ tags:
 type: concept
 domain: political strategy; constitutional theory; political economy
 first-documented: "Conceptual roots 1950s-1960s (Buchanan); named as a strategy in 2010s scholarship and journalism"
+aliases: ['constitutional capture','Constitutional capture']
 ---
 
 # constitutional capture

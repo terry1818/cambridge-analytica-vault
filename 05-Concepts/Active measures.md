@@ -10,6 +10,7 @@ tags:
 type: concept
 domain: Intelligence / political warfare
 first-documented: "1923 (Soviet GPU 'special disinformation office'); doctrine systematized under KGB from late 1950s"
+aliases: ['active measures']
 ---
 
 # Active Measures

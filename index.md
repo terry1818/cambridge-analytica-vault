@@ -3,6 +3,7 @@ title: Cambridge Analytica Research Vault
 description: 'Public, evidence-tiered research vault tracing the architecture linking Cambridge Analytica, post-WWII intelligence and crime, sexual blackmail networks, the modern theocratic right, the tech-surveillance state, and the Article-V state-capture vector.'
 date: 2026-05-29
 tags: [home, index]
+aliases: ['Index']
 ---
 
 # Cambridge Analytica Research Vault

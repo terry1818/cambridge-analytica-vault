@@ -6,7 +6,7 @@ tier: 1
 status: closed-with-active-prosecutions
 date_created: 2026-05-29
 tags: [event, capitol-attack, january-6, insurrection]
-aliases: ["January 6", "January 6 2021", "Capitol Attack", "Capitol Riot", "Capitol Insurrection", "January 6 Insurrection", "1/6"]
+aliases: ["January 6", "January 6 2021", "Capitol Attack", "Capitol Riot", "Capitol Insurrection", "January 6 Insurrection", "1/6",'January 6 Capitol attack','january 6 capitol attack']
 ---
 
 # January 6 Capitol Attack

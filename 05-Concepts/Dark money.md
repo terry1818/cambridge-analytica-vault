@@ -19,6 +19,7 @@ first-documented: "Term popularized c. 2010 following Citizens United; the under
 aliases:
   - Dark Money
   - dark-money
+  - 'dark money'
 ---
 
 # Dark money

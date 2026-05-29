@@ -15,6 +15,7 @@ tags:
 type: concept
 domain: Charismatic / Pentecostal theology; political theology
 first-documented: "Term coined in the 1970s; systematized by C. Peter Wagner's Spiritual Warfare Network in the 1980s"
+aliases: ['spiritual warfare']
 ---
 
 # Spiritual warfare

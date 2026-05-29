@@ -3,7 +3,7 @@ title: Religious right
 type: concept
 date: 2026-05-29
 tags: [concept, politicalmovement, christiannationalism, cos]
-aliases: ['Religious right','Christian right','New Christian right']
+aliases: ['Religious right','Christian right','New Christian right','religious right']
 ---
 
 # Religious right

@@ -3,7 +3,7 @@ title: Data broker
 type: concept
 date: 2026-05-29
 tags: [concept, surveillance, privacy, cambridgeanalytica, palantir]
-aliases: ['Data broker','Data brokers']
+aliases: ['Data broker','Data brokers','data broker']
 ---
 
 # Data broker

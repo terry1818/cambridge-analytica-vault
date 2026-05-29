@@ -9,6 +9,7 @@ tags:
 type: concept
 domain: Information warfare / political communication / disinformation studies
 first-documented: "Military application proposed 2005 (Prosser); academic study predates; political weaponization prominent 2014–"
+aliases: ['memetic warfare']
 ---
 
 ## Definition

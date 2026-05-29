@@ -9,6 +9,7 @@ tags:
 type: concept
 domain: Political economy / economics / political science
 first-documented: "1962 — Buchanan and Tullock, *The Calculus of Consent*"
+aliases: ['public choice theory','Constitutional economics','constitutional economics']
 ---
 
 # Public choice theory

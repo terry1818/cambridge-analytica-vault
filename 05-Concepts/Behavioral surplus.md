@@ -9,6 +9,7 @@ tags:
 type: concept
 domain: Political economy of digital capitalism; surveillance studies
 first-documented: "2019 (Zuboff, The Age of Surveillance Capitalism)"
+aliases: ['behavioral surplus']
 ---
 
 ## Definition

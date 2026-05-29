@@ -6,7 +6,7 @@ tier: 1
 status: active
 date_created: 2026-05-28
 tags: [moc, epstein, blackmail, intelligence, finance, lens]
-aliases: ["Epstein MOC", "Epstein Network", "Epstein Architecture"]
+aliases: ["Epstein MOC", "Epstein Network", "Epstein Architecture",'Epstein network','epstein network']
 ---
 
 # Epstein Network MOC

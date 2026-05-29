@@ -17,6 +17,7 @@ domain: political economy / tech / sociology
 first-documented: "2014 (Zuboff coins the term in an academic essay); 2019 (full theory in *The Age of Surveillance Capitalism*)"
 aliases:
   - Surveillance Capitalism
+  - 'Surveillance capitalism'
 ---
 
 # surveillance capitalism

@@ -14,6 +14,7 @@ tags:
 type: concept
 domain: political-science
 first-documented: "Concept current in political science since the 2000s; popularized broadly 2018 (Levitsky & Ziblatt)"
+aliases: ['democratic backsliding']
 ---
 
 # Democratic backsliding

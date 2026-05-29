@@ -10,6 +10,7 @@ tags:
 type: concept
 domain: Information warfare / political communication
 first-documented: '2024 — Renée DiResta, "Invisible Rulers: The People Who Turn Lies Into Reality"'
+aliases: ['bespoke realities']
 ---
 
 ## Definition

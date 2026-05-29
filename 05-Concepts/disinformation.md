@@ -20,6 +20,7 @@ tags:
 type: concept
 domain: military / political-strategy / intelligence / media studies
 first-documented: "1923 (Soviet 'special disinformation office'); the loanword 'disinformation' enters English usage in the 1950s"
+aliases: ['Disinformation']
 ---
 
 # disinformation

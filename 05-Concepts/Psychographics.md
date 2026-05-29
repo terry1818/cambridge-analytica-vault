@@ -17,6 +17,7 @@ first-documented: "1960s–1970s (consumer market research); 2012–2016 (digita
 aliases:
   - Psychographic profiling
   - Psychographic segmentation
+  - 'psychographics'
 ---
 
 # Psychographics

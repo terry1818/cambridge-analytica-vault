@@ -16,6 +16,9 @@ domain: legal / political science / tech policy
 first-documented: "2016–2018 (term consolidates around algorithmic-auditing scholarship and the U.S. Algorithmic Accountability Act proposals)"
 aliases:
   - Algorithmic accountability
+  - 'algorithmic governance'
+  - 'Algorithmic governance'
+  - 'algorithmic accountability'
 ---
 
 # Algorithmic accountability
