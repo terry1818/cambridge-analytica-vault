@@ -1,24 +1,25 @@
-﻿---
-date: 2026-05-17
-description: Che Ahn - vault note (auto-populated from cross-referenced wikilink).
-tags:
-  - entity
+---
+title: Che Ahn
+type: person
+date: 2026-05-29
+tags: [person, religiousright, nar, charismatic, harvest]
+aliases: ['Che Ahn','ChÃ© Ahn','Chae-yong Ahn','ChAc Ahn']
 ---
 
-# Che Ahn
+# ChÃ© Ahn
 
-## Entity-tier vault note
+Korean-American Christian leader. Founder of Harvest Rock Church (Pasadena) and Harvest International Ministry. Senior figure in the [[New Apostolic Reformation]] / charismatic Christian network.
 
-This entity sits inside the Cambridge Analytica research vault network because its actions, relationships, money, or testimony connect at least one CA-era actor to the present-day continuation of the same operational playbook through tech-right, religious-right, or state-sponsored information operations infrastructure.
+## Significance
 
-## Vault function and cross-cluster position
+Ahn is one of the senior NAR figures whose congregations and networks provided organizing infrastructure for evangelical Trump support 2016-2024. Notable for the religious-political coordination role rather than for any single political event.
 
-The entity is referenced from substantive notes across multiple vault clusters. The cluster positioning may include the CA-era operator cluster (Cambridge Analytica, SCL Group, AggregateIQ and successor structures), the patron-wing funder architecture (Mercer family, DeVos family, Koch network, and adjacent large-donor infrastructure), the religious-right institutional infrastructure (Council for National Policy, the Fellowship, Heritage Foundation, Project 2025), the tech-right data-and-AI infrastructure (Peter Thiel, Palantir, Elon Musk, DOGE), or the state-actor foreign-government adjacencies (Russia, China, UAE, Saudi Arabia, Israel commercial-intelligence sector).
+## See also
 
-## Open research threads
+[[New Apostolic Reformation]] | [[Seven Mountain Mandate]] | [[Lance Wallnau]] | [[Dutch Sheets]] | [[Religious right]] | [[Christian Nationalism]]
 
-Outstanding questions for expansion of this node include: what is the earliest documented connection between this entity and any other vault entity, what are the documented money flows in and out, in which campaigns or operations did this entity appear, are there sworn statements or primary documents that contradict the public narrative, and what contemporaneous actors knew of this entity at the time but are not yet in the vault.
+---
 
-## Methodology and cross-reference function
+## Master synthesis
 
-Where claims about this entity are contested, the vault prefers primary documents (court filings, sworn testimony, regulator findings, FEC and Companies House records) over secondary reporting. The Methodology - Verifying a CA claim and Evidence Tiers framework govern how claims about this entity should be evaluated. The vault Master Timeline and the relevant cluster MOC provide the principal navigation context.
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.
