@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Clash Report Prince Vectus Global - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Clash Report Prince Vectus Global - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Clash Report Prince Vectus Global"]
 tags:
   - source

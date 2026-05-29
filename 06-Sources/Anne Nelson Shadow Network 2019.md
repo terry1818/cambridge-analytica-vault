@@ -4,7 +4,7 @@ description: Anne Nelson's investigative book chronicling the 40-year history of
 tags: [source, evidence/cnp, evidence/conservative-network, era/1981-2019]
 type: source
 source_type: book
-title: Shadow Network: Media, Money, and the Secret Hub of the Radical Right
+title: 'Shadow Network: Media, Money, and the Secret Hub of the Radical Right'
 author: Anne Nelson
 publisher: Bloomsbury
 publication_date: 2019-10-15

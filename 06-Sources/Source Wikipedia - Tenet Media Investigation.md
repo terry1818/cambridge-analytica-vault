@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Wikipedia - Tenet Media Investigation - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Wikipedia - Tenet Media Investigation - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Wikipedia - Tenet Media Investigation"]
 tags:
   - source

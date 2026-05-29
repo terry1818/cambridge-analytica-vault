@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: New Republic Orban Paying CPAC - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: New Republic Orban Paying CPAC - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source New Republic Orban Paying CPAC"]
 tags:
   - source

@@ -5,7 +5,7 @@ aliases: ["Source: State of Surveillance 2025 CA Playbook", "Source State of Sur
 tags: [source, evidence/cambridge-analytica, evidence/psychographics, era/2024-2026]
 type: source
 source_type: journalism
-title: Cambridge Analytica: The Playbook That Never Died
+title: 'Cambridge Analytica: The Playbook That Never Died'
 author: State of Surveillance
 publisher: State of Surveillance
 publication_date: 2025

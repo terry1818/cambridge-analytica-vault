@@ -4,7 +4,7 @@ description: Documentary tracing the historic role of Christian nationalists in 
 tags: [source, evidence/cnp, evidence/christian-nationalism, evidence/weyrich, era/1979-2024]
 type: source
 source_type: video
-title: Bad Faith: Christian Nationalism's Unholy War on Democracy (2024 documentary)
+title: 'Bad Faith: Christian Nationalism''s Unholy War on Democracy (2024 documentary)'
 author: Stephen Ujlaki + Chris Jones (directors)
 publisher: Brave New Films
 publication_date: 2024

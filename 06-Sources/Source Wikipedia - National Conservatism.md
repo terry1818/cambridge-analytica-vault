@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Wikipedia - National Conservatism - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Wikipedia - National Conservatism - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Wikipedia - National Conservatism"]
 tags:
   - source

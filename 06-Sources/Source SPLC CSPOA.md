@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: SPLC CSPOA - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: SPLC CSPOA - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source SPLC CSPOA"]
 tags:
   - source

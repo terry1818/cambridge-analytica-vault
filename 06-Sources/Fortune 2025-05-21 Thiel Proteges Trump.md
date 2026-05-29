@@ -5,7 +5,7 @@ aliases: ["Source: Fortune 2025-05-21 Thiel Proteges Trump", "Source Fortune 202
 tags: [source, evidence/thiel, evidence/trump-tech-team, era/2024-2026]
 type: source
 source_type: journalism
-title: Peter Thiel's proteges: a common thread runs through Trump's tech team
+title: 'Peter Thiel''s proteges: a common thread runs through Trump''s tech team'
 author: Fortune
 publisher: Fortune
 publication_date: 2025-05-21

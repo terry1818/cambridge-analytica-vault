@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Edmund Burke Foundation NatCon Statement - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Edmund Burke Foundation NatCon Statement - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Edmund Burke Foundation NatCon Statement"]
 tags:
   - source

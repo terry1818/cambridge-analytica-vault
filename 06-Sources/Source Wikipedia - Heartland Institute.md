@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Wikipedia - Heartland Institute - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Wikipedia - Heartland Institute - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Wikipedia - Heartland Institute"]
 tags:
   - source

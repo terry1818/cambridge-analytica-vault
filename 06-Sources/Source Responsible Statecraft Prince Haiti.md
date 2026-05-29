@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Responsible Statecraft Prince Haiti - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Responsible Statecraft Prince Haiti - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Responsible Statecraft Prince Haiti"]
 tags:
   - source

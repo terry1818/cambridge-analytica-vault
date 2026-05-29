@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Anne Nelson Shadow Network 2019 - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Anne Nelson Shadow Network 2019 - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Anne Nelson Shadow Network 2019"]
 tags:
   - source

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Tablet Magazine Arabella - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Tablet Magazine Arabella - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Tablet Magazine Arabella"]
 tags:
   - source

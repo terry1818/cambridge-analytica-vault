@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: a16z Little Tech Agenda - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: a16z Little Tech Agenda - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source a16z Little Tech Agenda"]
 tags:
   - source

@@ -5,7 +5,7 @@ aliases: ["Source: UW Center for Human Rights 2025-10 Flock Washington", "Source
 tags: [source, evidence/flock, evidence/ice, jurisdiction/wa, era/2024-2026]
 type: source
 source_type: academic
-title: Leaving the Door Wide Open: Flock Surveillance Systems Expose Washington Data to Immigration Enforcement
+title: 'Leaving the Door Wide Open: Flock Surveillance Systems Expose Washington Data to Immigration Enforcement'
 author: Center for Human Rights
 publisher: University of Washington
 publication_date: 2025-10-21

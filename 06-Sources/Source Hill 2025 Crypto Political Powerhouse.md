@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Hill 2025 Crypto Political Powerhouse - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Hill 2025 Crypto Political Powerhouse - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Hill 2025 Crypto Political Powerhouse"]
 tags:
   - source

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: TheocracyWatch YouTube Playlist - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: TheocracyWatch YouTube Playlist - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source TheocracyWatch YouTube Playlist"]
 tags:
   - source

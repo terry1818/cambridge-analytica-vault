@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: TPM Barre Seid Court Architect - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: TPM Barre Seid Court Architect - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source TPM Barre Seid Court Architect"]
 tags:
   - source

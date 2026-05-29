@@ -1,6 +1,6 @@
 ﻿---
 date: 2026-05-17
-description: Connection: Vote Leave AIQ BeLeave illegal coordination - vault note (auto-populated from cross-referenced wikilink).
+description: 'Connection: Vote Leave AIQ BeLeave illegal coordination - vault note (auto-populated from cross-referenced wikilink).'
 tags:
   - connection
 ---

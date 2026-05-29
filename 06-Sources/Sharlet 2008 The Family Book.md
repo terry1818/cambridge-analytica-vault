@@ -5,7 +5,7 @@ aliases: ["Source: Sharlet 2008 The Family Book", "Source Sharlet 2008 The Famil
 tags: [source, evidence/the-fellowship, era/1935-2008]
 type: source
 source_type: book
-title: The Family: The Secret Fundamentalism at the Heart of American Power
+title: 'The Family: The Secret Fundamentalism at the Heart of American Power'
 author: Jeff Sharlet
 publisher: HarperCollins
 publication_date: 2008-05-06

@@ -5,7 +5,7 @@ aliases: ["Source: Mother Jones DonorsTrust Dark Money ATM", "Source Mother Jone
 tags: [source, evidence/donorstrust, evidence/dark-money, era/1999-2013]
 type: source
 source_type: journalism
-title: DonorsTrust: Dark Money ATM of the Conservative Movement
+title: 'DonorsTrust: Dark Money ATM of the Conservative Movement'
 author: Andy Kroll
 publisher: Mother Jones
 publication_date: 2013

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: OpenSecrets Adelson 2024 - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: OpenSecrets Adelson 2024 - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source OpenSecrets Adelson 2024"]
 tags:
   - source

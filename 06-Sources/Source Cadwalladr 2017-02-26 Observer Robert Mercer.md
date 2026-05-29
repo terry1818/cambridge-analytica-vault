@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Cadwalladr 2017-02-26 Observer Robert Mercer - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Cadwalladr 2017-02-26 Observer Robert Mercer - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Cadwalladr 2017-02-26 Observer Robert Mercer"]
 tags:
   - source

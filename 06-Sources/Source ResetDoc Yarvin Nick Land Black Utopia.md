@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: ResetDoc Yarvin Nick Land Black Utopia - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: ResetDoc Yarvin Nick Land Black Utopia - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source ResetDoc Yarvin Nick Land Black Utopia"]
 tags:
   - source

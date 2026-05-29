@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Small Wars Journal Prince Haiti 2025 - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Small Wars Journal Prince Haiti 2025 - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Small Wars Journal Prince Haiti 2025"]
 tags:
   - source

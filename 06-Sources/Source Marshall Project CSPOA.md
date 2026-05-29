@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Marshall Project CSPOA - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Marshall Project CSPOA - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Marshall Project CSPOA"]
 tags:
   - source

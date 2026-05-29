@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: CNN MAHA Report Plans - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: CNN MAHA Report Plans - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source CNN MAHA Report Plans"]
 tags:
   - source

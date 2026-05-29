@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Media Matters Unmasking Moms for Liberty - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Media Matters Unmasking Moms for Liberty - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Media Matters Unmasking Moms for Liberty"]
 tags:
   - source

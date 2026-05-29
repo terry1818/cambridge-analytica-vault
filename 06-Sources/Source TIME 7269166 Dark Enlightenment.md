@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: TIME 7269166 Dark Enlightenment - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: TIME 7269166 Dark Enlightenment - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source TIME 7269166 Dark Enlightenment"]
 tags:
   - source

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Yahoo News Tim Pool Tenet Media - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Yahoo News Tim Pool Tenet Media - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Yahoo News Tim Pool Tenet Media"]
 tags:
   - source

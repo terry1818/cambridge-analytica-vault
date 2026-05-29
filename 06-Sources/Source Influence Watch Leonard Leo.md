@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Influence Watch Leonard Leo - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Influence Watch Leonard Leo - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Influence Watch Leonard Leo"]
 tags:
   - source

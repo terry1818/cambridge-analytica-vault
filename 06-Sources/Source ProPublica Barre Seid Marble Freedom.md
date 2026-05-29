@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: ProPublica Barre Seid Marble Freedom - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: ProPublica Barre Seid Marble Freedom - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source ProPublica Barre Seid Marble Freedom"]
 tags:
   - source

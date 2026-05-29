@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Wikipedia - Doppelganger disinformation campaign - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Wikipedia - Doppelganger disinformation campaign - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Wikipedia - Doppelganger disinformation campaign"]
 tags:
   - source

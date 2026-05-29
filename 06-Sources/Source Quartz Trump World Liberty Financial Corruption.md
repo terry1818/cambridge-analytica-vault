@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Quartz Trump World Liberty Financial Corruption - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Quartz Trump World Liberty Financial Corruption - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Quartz Trump World Liberty Financial Corruption"]
 tags:
   - source

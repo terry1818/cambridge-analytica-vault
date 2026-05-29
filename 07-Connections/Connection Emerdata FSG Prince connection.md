@@ -1,6 +1,6 @@
 ﻿---
 date: 2026-05-17
-description: Connection: Emerdata FSG Prince connection - vault note (auto-populated from cross-referenced wikilink).
+description: 'Connection: Emerdata FSG Prince connection - vault note (auto-populated from cross-referenced wikilink).'
 tags:
   - connection
 ---

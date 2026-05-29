@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Political Research Associates Sheriffs Map - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Political Research Associates Sheriffs Map - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Political Research Associates Sheriffs Map"]
 tags:
   - source

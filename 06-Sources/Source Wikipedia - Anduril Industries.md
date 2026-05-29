@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Wikipedia - Anduril Industries - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Wikipedia - Anduril Industries - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Wikipedia - Anduril Industries"]
 tags:
   - source

@@ -1,6 +1,6 @@
 ﻿---
 date: 2026-05-17
-description: Connection: Mercer to CA money flow - vault note (auto-populated from cross-referenced wikilink).
+description: 'Connection: Mercer to CA money flow - vault note (auto-populated from cross-referenced wikilink).'
 tags:
   - connection
 ---

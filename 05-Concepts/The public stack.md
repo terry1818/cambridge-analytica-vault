@@ -8,7 +8,7 @@ tags:
   - topic/democratic-infrastructure
 type: concept
 domain: Technology policy / democratic governance
-first-documented: Schaake, M. (2024). *The Tech Coup: How to Save Democracy from Silicon Valley*. Princeton University Press.
+first-documented: 'Schaake, M. (2024). *The Tech Coup: How to Save Democracy from Silicon Valley*. Princeton University Press.'
 ---
 
 ## Definition

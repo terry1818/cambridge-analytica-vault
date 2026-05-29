@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: First Things Integralism - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: First Things Integralism - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source First Things Integralism"]
 tags:
   - source

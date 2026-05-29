@@ -5,7 +5,7 @@ aliases: ["Source: Bucks County Beacon United in Purpose", "Source Bucks County 
 tags: [source, evidence/united-in-purpose, evidence/voter-data, era/2008-2022]
 type: source
 source_type: journalism
-title: United in Purpose: The shady Christian nonprofit tied to a massive voter data leak and the 'Big Lie'
+title: 'United in Purpose: The shady Christian nonprofit tied to a massive voter data leak and the ''Big Lie'''
 author: Bucks County Beacon
 publisher: Bucks County Beacon
 publication_date: 2022-11

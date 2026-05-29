@@ -5,7 +5,7 @@ aliases: ["Source: 404 Media 2025-05 Flock ICE Side Door", "Source 404 Media 202
 tags: [source, evidence/flock, evidence/ice, era/2024-2026]
 type: source
 source_type: journalism
-title: Reported: ICE accessing Flock ALPR cameras via local law enforcement
+title: 'Reported: ICE accessing Flock ALPR cameras via local law enforcement'
 author: 404 Media (originating); Immigration Policy Tracking
 publisher: Immigration Policy Tracking Project
 publication_date: 2025-05

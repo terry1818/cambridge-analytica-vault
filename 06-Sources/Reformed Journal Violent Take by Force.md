@@ -5,7 +5,7 @@ aliases: ["Source: Reformed Journal Violent Take by Force"]
 tags: [source, evidence/nar, evidence/democracy-threat, era/2025]
 type: source
 source_type: journalism
-title: The Violent Take It by Force: The Christian Movement That Is Threatening Our Democracy
+title: 'The Violent Take It by Force: The Christian Movement That Is Threatening Our Democracy'
 author: Matthew Taylor + Reformed Journal
 publisher: Reformed Journal
 publication_date: 2025-05-21

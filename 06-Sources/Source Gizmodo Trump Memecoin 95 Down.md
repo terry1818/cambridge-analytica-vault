@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Gizmodo Trump Memecoin 95 Down - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Gizmodo Trump Memecoin 95 Down - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Gizmodo Trump Memecoin 95 Down"]
 tags:
   - source

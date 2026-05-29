@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: MSNBC Pool Rubin Johnson Indictment - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: MSNBC Pool Rubin Johnson Indictment - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source MSNBC Pool Rubin Johnson Indictment"]
 tags:
   - source

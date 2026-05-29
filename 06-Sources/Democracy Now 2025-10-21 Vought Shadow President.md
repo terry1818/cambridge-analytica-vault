@@ -5,7 +5,7 @@ aliases: ["Source: Democracy Now 2025-10-21 Vought Shadow President", "Source De
 tags: [source, evidence/vought, evidence/project-2025, era/2024-2026]
 type: source
 source_type: journalism
-title: Shadow President: Project 2025 Architect Russell Vought Is Using Shutdown to Gut Federal Agencies
+title: 'Shadow President: Project 2025 Architect Russell Vought Is Using Shutdown to Gut Federal Agencies'
 author: Democracy Now
 publisher: Democracy Now
 publication_date: 2025-10-21

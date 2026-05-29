@@ -5,7 +5,7 @@ aliases: ["Source: Sharlet 2010 C Street Book", "Source Sharlet 2010 C Street Bo
 tags: [source, evidence/the-fellowship, evidence/c-street, era/2008-2010]
 type: source
 source_type: book
-title: C Street: The Fundamentalist Threat to American Democracy
+title: 'C Street: The Fundamentalist Threat to American Democracy'
 author: Jeff Sharlet
 publisher: Little, Brown and Company
 publication_date: 2010-09-21

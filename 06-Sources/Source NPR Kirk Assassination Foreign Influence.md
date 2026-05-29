@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: NPR Kirk Assassination Foreign Influence - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: NPR Kirk Assassination Foreign Influence - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source NPR Kirk Assassination Foreign Influence"]
 tags:
   - source

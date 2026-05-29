@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: OpenSecrets AIPAC UDP - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: OpenSecrets AIPAC UDP - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source OpenSecrets AIPAC UDP"]
 tags:
   - source

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Influence Watch Marble Freedom Trust - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Influence Watch Marble Freedom Trust - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Influence Watch Marble Freedom Trust", "Influence Watch Marble Freedom Trust"]
 tags:
   - source

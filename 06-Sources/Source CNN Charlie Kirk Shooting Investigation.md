@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: CNN Charlie Kirk Shooting Investigation - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: CNN Charlie Kirk Shooting Investigation - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source CNN Charlie Kirk Shooting Investigation"]
 tags:
   - source

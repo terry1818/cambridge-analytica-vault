@@ -1,6 +1,6 @@
 ﻿---
 date: 2026-05-17
-description: Connection: Trump campaign to CA via Super PAC - vault note (auto-populated from cross-referenced wikilink).
+description: 'Connection: Trump campaign to CA via Super PAC - vault note (auto-populated from cross-referenced wikilink).'
 tags:
   - connection
 ---

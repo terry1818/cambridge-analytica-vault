@@ -1,6 +1,6 @@
 ﻿---
 date: 2026-05-16
-description: The core data harvest: GSR/Kogan harvests 87M Facebook profiles, sells to CA in 2014
+description: 'The core data harvest: GSR/Kogan harvests 87M Facebook profiles, sells to CA in 2014'
 tags: [connection, confidence/high, topic/facebook-data, topic/cambridge-analytica]
 type: connection
 connection_type: data

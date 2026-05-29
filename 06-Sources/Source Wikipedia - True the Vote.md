@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Wikipedia - True the Vote - vault navigation node.
+description: 'Source: Wikipedia - True the Vote - vault navigation node.'
 aliases: ["Source: Source Wikipedia - True the Vote"]
 tags:
   - entity

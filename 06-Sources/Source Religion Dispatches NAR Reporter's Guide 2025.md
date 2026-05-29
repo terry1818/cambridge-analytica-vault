@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Religion Dispatches NAR Reporter's Guide 2025 - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Religion Dispatches NAR Reporter''s Guide 2025 - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Religion Dispatches NAR Reporter's Guide 2025", "Source Religion Dispatches NAR Reporters Guide 2025"]
 tags:
   - source

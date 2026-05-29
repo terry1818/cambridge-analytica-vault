@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Popular Info Strategic Corruption Reserve - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Popular Info Strategic Corruption Reserve - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Popular Info Strategic Corruption Reserve"]
 tags:
   - source

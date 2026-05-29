@@ -5,7 +5,7 @@ aliases: ["Source: CNN Marble Freedom 1.6B"]
 tags: [source, evidence/marble-freedom, era/2022]
 type: source
 source_type: journalism
-title: Massive dark money windfall: New conservative group got 1.6 billion from single donor
+title: 'Massive dark money windfall: New conservative group got 1.6 billion from single donor'
 author: CNN Politics
 publisher: CNN
 publication_date: 2022-08-22

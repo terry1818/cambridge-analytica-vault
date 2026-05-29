@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Fortune 2026-01 WLF Bank Charter - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Fortune 2026-01 WLF Bank Charter - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Fortune 2026-01 WLF Bank Charter"]
 tags:
   - source

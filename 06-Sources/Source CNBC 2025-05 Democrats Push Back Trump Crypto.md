@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: CNBC 2025-05 Democrats Push Back Trump Crypto - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: CNBC 2025-05 Democrats Push Back Trump Crypto - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source CNBC 2025-05 Democrats Push Back Trump Crypto"]
 tags:
   - source

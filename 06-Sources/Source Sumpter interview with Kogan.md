@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Sumpter interview with Kogan - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Sumpter interview with Kogan - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Sumpter interview with Kogan"]
 tags:
   - source

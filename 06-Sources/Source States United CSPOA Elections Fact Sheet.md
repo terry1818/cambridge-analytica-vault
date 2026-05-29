@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: States United CSPOA Elections Fact Sheet - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: States United CSPOA Elections Fact Sheet - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source States United CSPOA Elections Fact Sheet"]
 tags:
   - source

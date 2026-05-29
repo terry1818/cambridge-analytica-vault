@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: The Nation Moms for Liberty - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: The Nation Moms for Liberty - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source The Nation Moms for Liberty"]
 tags:
   - source

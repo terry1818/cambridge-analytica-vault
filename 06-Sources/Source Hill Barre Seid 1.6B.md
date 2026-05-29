@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Hill Barre Seid 1.6B - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Hill Barre Seid 1.6B - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Hill Barre Seid 1.6B", "Hill Barre Seid 1.6B"]
 tags:
   - source

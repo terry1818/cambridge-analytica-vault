@@ -5,7 +5,6 @@ aliases: ["Source: Oracle Corporation"]
 tags: [org, org/tech-surveillance, org/tech-companies, era/1977-2026, jurisdiction/us]
 type: organization
 legal_name: Oracle Corporation
-aliases: [Oracle, ORCL]
 founded: 1977-06-16
 headquarters: Austin TX (moved from Redwood Shores CA 2020; subsequently moved nominal HQ to Nashville TN 2024)
 jurisdiction: US (publicly traded NYSE)

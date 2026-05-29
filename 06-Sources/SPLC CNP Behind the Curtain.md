@@ -5,7 +5,7 @@ aliases: ["Source: SPLC CNP Behind the Curtain"]
 tags: [source, evidence/cnp, era/1981-2016]
 type: source
 source_type: journalism
-title: The Council for National Policy: Behind the Curtain
+title: 'The Council for National Policy: Behind the Curtain'
 author: Southern Poverty Law Center
 publisher: SPLC Hatewatch
 publication_date: 2016-05-17

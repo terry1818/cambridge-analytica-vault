@@ -4,7 +4,7 @@ description: Political Research Associates major analysis of dominionism by Fred
 tags: [source, evidence/dominionism, era/1965-2016]
 type: source
 source_type: academic
-title: Dominionism Rising: A Theocratic Movement Hiding in Plain Sight
+title: 'Dominionism Rising: A Theocratic Movement Hiding in Plain Sight'
 author: Frederick Clarkson
 publisher: Political Research Associates
 publication_date: 2016-08-18

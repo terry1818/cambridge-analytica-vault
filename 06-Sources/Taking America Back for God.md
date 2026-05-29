@@ -5,7 +5,7 @@ aliases: ["Source: Taking America Back for God", "Source Taking America Back for
 tags: [source, evidence/christian-nationalism, evidence/empirical, era/2020]
 type: source
 source_type: academic
-title: Taking America Back for God: Christian Nationalism in the United States
+title: 'Taking America Back for God: Christian Nationalism in the United States'
 author: Andrew L. Whitehead + Samuel L. Perry
 publisher: Oxford University Press
 publication_date: 2020-02-10

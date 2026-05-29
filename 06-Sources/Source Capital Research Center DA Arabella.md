@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Capital Research Center DA Arabella - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Capital Research Center DA Arabella - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Capital Research Center DA Arabella"]
 tags:
   - source

@@ -1,6 +1,6 @@
 ﻿---
 date: 2026-05-17
-description: Connection: Wylie Cadwalladr source relationship - vault note (auto-populated from cross-referenced wikilink).
+description: 'Connection: Wylie Cadwalladr source relationship - vault note (auto-populated from cross-referenced wikilink).'
 tags:
   - connection
 ---

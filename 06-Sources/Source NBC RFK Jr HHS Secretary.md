@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: NBC RFK Jr HHS Secretary - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: NBC RFK Jr HHS Secretary - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source NBC RFK Jr HHS Secretary"]
 tags:
   - source

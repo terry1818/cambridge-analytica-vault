@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: RNS IHOPKC Bickle Allegations - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: RNS IHOPKC Bickle Allegations - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source RNS IHOPKC Bickle Allegations"]
 tags:
   - source

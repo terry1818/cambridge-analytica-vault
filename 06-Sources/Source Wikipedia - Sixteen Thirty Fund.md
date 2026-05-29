@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Wikipedia - Sixteen Thirty Fund - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Wikipedia - Sixteen Thirty Fund - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Wikipedia - Sixteen Thirty Fund"]
 tags:
   - source

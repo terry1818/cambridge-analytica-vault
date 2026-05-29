@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: PBS Orban CPAC LGBTQ Migration - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: PBS Orban CPAC LGBTQ Migration - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source PBS Orban CPAC LGBTQ Migration"]
 tags:
   - source

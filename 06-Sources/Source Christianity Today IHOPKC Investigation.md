@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Christianity Today IHOPKC Investigation - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Christianity Today IHOPKC Investigation - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Christianity Today IHOPKC Investigation"]
 tags:
   - source

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Brennan Center Election Integrity Network - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Brennan Center Election Integrity Network - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Brennan Center Election Integrity Network"]
 tags:
   - source

@@ -4,7 +4,7 @@ description: Risk that an Article V convention, once convened, expands beyond it
 tags: [concept, topic/constitutional-capture, topic/article-v]
 type: concept
 domain: legal
-first-documented: ~1787 (precedent: original 1787 convention was called to amend Articles of Confederation, instead wrote entirely new Constitution)
+first-documented: '~1787 (precedent: original 1787 convention was called to amend Articles of Confederation, instead wrote entirely new Constitution)'
 ---
 
 # Runaway Convention

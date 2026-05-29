@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: CNN CPAC Orban 2024 - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: CNN CPAC Orban 2024 - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source CNN CPAC Orban 2024"]
 tags:
   - source

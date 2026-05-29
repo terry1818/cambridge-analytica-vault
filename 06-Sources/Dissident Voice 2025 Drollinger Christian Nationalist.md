@@ -5,7 +5,7 @@ aliases: ["Source: Dissident Voice 2025 Drollinger Christian Nationalist", "Sour
 tags: [source, evidence/drollinger, evidence/christian-nationalism, era/2025]
 type: source
 source_type: journalism
-title: From the Paint to the Pulpit: Ralph Drollinger's Christian Nationalist Power Play in Washington
+title: 'From the Paint to the Pulpit: Ralph Drollinger''s Christian Nationalist Power Play in Washington'
 author: Dissident Voice contributor
 publisher: Dissident Voice
 publication_date: 2025-09

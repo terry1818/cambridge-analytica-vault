@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-description: Hacker and Pierson's term for the structural problem facing a right-wing party in a democracy: how to win electoral majorities while pursuing an economic agenda that primarily benefits a wealthy minority and is opposed by the majority of voters.
+description: 'Hacker and Pierson''s term for the structural problem facing a right-wing party in a democracy: how to win electoral majorities while pursuing an economic agenda that primarily benefits a wealthy minority and is opposed by the majority of voters.'
 tags:
   - concept
   - topic/dark-money

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Recorded Future Doppelganger Germany 2025 - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Recorded Future Doppelganger Germany 2025 - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Recorded Future Doppelganger Germany 2025"]
 tags:
   - source

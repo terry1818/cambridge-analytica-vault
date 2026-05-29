@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: NPR DOJ Voter Rolls 24 States - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: NPR DOJ Voter Rolls 24 States - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source NPR DOJ Voter Rolls 24 States"]
 tags:
   - source

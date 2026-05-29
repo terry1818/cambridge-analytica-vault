@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Jane Mayer Dark Money - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Jane Mayer Dark Money - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Jane Mayer Dark Money"]
 tags:
   - source

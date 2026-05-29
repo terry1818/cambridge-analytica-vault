@@ -5,7 +5,7 @@ aliases: ["Source: DeSmog 2025-06-02 70 Percent Cabinet", "Source DeSmog 2025-06
 tags: [source, evidence/project-2025, evidence/trump-cabinet, era/2024-2026]
 type: source
 source_type: journalism
-title: MAPPED: 70 Percent of Trump's Cabinet Tied to Project 2025 Groups
+title: 'MAPPED: 70 Percent of Trump''s Cabinet Tied to Project 2025 Groups'
 author: DeSmog
 publisher: DeSmog
 publication_date: 2025-06-02

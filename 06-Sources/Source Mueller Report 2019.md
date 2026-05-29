@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Mueller Report 2019 - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Mueller Report 2019 - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Mueller Report 2019"]
 tags:
   - source

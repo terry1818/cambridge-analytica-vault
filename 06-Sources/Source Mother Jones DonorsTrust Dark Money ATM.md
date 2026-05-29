@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Mother Jones DonorsTrust Dark Money ATM - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Mother Jones DonorsTrust Dark Money ATM - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Mother Jones DonorsTrust Dark Money ATM"]
 tags:
   - source

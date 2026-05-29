@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: EIR Return of Erik Prince - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: EIR Return of Erik Prince - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source EIR Return of Erik Prince"]
 tags:
   - source

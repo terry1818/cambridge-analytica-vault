@@ -1,6 +1,6 @@
 ﻿---
 date: 2026-05-17
-description: Connection: Cambridge Psychometrics Centre to Kogan - vault note (auto-populated from cross-referenced wikilink).
+description: 'Connection: Cambridge Psychometrics Centre to Kogan - vault note (auto-populated from cross-referenced wikilink).'
 tags:
   - connection
 ---

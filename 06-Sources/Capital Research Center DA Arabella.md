@@ -5,7 +5,7 @@ aliases: ["Source: Capital Research Center DA Arabella", "Source Capital Researc
 tags: [source, evidence/arabella, evidence/democracy-alliance, era/2021-2023]
 type: source
 source_type: journalism
-title: Nonprofits in the Biden Administration: Arabella Advisors and Democracy Alliance
+title: 'Nonprofits in the Biden Administration: Arabella Advisors and Democracy Alliance'
 author: Capital Research Center
 publisher: Capital Research Center
 publication_date: 2023

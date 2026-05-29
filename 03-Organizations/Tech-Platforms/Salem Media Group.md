@@ -6,7 +6,7 @@ type: organization
 legal_name: Salem Media Group, Inc.
 founded: 1986
 headquarters: Camarillo CA
-jurisdiction: US (NASDAQ: SALM)
+jurisdiction: 'US (NASDAQ: SALM)'
 parent_org: ""
 key_people: [Edward Atsinger III (co-founder), Stuart Epperson (co-founder; deceased 2022), David Santrella (CEO)]
 status: active

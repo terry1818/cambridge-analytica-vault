@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Boston Globe MAHA Inner Circle - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Boston Globe MAHA Inner Circle - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Boston Globe MAHA Inner Circle"]
 tags:
   - source

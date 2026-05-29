@@ -21,7 +21,7 @@ aliases:
 key_people: []
 founded: "2000s (formed within the Reed Elsevier / RELX group; Risk Solutions division consolidated through acquisitions including Seisint and ChoicePoint)"
 dissolved: ""
-headquarters: Alpharetta, Georgia, USA (parent RELX: London, UK)
+headquarters: 'Alpharetta, Georgia, USA (parent RELX: London, UK)'
 jurisdiction: US / UK
 parent_org: RELX PLC
 subsidiaries: []

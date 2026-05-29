@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Wikipedia - RFK Jr - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Wikipedia - RFK Jr - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Wikipedia - RFK Jr"]
 tags:
   - source

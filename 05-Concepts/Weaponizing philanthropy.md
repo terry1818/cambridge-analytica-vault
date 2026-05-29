@@ -14,7 +14,7 @@ tags:
   - era/2024-present
 type: concept
 domain: political strategy / nonprofit law / media studies
-first-documented: Term appears in watchdog journalism ca. 2017 (re: Bradley Foundation documents); the phenomenon documented from 1970s (Lewis Powell Memo)
+first-documented: 'Term appears in watchdog journalism ca. 2017 (re: Bradley Foundation documents); the phenomenon documented from 1970s (Lewis Powell Memo)'
 ---
 
 ## Definition

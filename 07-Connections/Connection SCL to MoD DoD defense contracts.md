@@ -1,6 +1,6 @@
 ﻿---
 date: 2026-05-17
-description: Connection: SCL to MoD DoD defense contracts - vault note (auto-populated from cross-referenced wikilink).
+description: 'Connection: SCL to MoD DoD defense contracts - vault note (auto-populated from cross-referenced wikilink).'
 tags:
   - connection
 ---

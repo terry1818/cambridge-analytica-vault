@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: American Oversight Constitutional Sheriffs - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: American Oversight Constitutional Sheriffs - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source American Oversight Constitutional Sheriffs"]
 tags:
   - source

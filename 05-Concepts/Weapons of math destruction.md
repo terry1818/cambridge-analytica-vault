@@ -7,7 +7,7 @@ tags:
   - topic/algorithmic-accountability
 type: concept
 domain: Data science / algorithmic governance / political economy
-first-documented: O'Neil, C. (2016). *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Crown Publishers.
+first-documented: 'O''Neil, C. (2016). *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*. Crown Publishers.'
 ---
 
 ## Definition

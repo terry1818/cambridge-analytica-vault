@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: ECPS Dark Enlightenment - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: ECPS Dark Enlightenment - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source ECPS Dark Enlightenment"]
 tags:
   - source

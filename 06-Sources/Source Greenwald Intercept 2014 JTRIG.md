@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Greenwald Intercept 2014 JTRIG - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Greenwald Intercept 2014 JTRIG - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Greenwald Intercept 2014 JTRIG"]
 tags:
   - source

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: CAP MAHA Critique - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: CAP MAHA Critique - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source CAP MAHA Critique"]
 tags:
   - source

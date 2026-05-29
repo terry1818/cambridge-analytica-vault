@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Built In 2026 Crypto Capital Trump - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Built In 2026 Crypto Capital Trump - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Built In 2026 Crypto Capital Trump"]
 tags:
   - source

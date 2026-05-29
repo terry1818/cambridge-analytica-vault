@@ -1,6 +1,6 @@
 ---
 date: 2026-05-17
-description: Source: Wikipedia - Blackwater company - vault note (auto-populated from cross-referenced wikilink).
+description: 'Source: Wikipedia - Blackwater company - vault note (auto-populated from cross-referenced wikilink).'
 aliases: ["Source: Source Wikipedia - Blackwater company"]
 tags:
   - source
