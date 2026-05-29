@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the academic-to-commercial methodology transfer pathway from Cambridge Psychometrics Centre research to Aleksandr Kogan / GSR commercial deployment.
 tags:
@@ -62,3 +62,9 @@ The connection also documents the broader pattern of academic-to-commercial tran
 - [[Source Kosinski Stillwell Graepel 2013 PNAS]]
 - [[Source Matz Kosinski Nave Stillwell 2017 PNAS]]
 - [[Facebook-Cambridge Analytica Scandal]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

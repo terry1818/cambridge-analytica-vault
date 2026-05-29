@@ -64,3 +64,7 @@ When a vault hypothesis or connection note cites this source, the citation shoul
 Provenance considerations specific to this source: outlet reliability tier, byline and reporting track record on the relevant beat, presence of named on-record sources vs anonymous sourcing, and whether the source has been challenged, corrected, or retracted in any part. The vault's [[Evidence Tiers]] note explains how each source category is graded for analytical purposes.
 
 When this source is the only available reference for a claim, that solitary status is itself a finding worth flagging. When multiple independent sources converge on the same claim, that convergence is part of the evidence weight; the vault tries to record the convergence rather than relying on any single source even when one is canonical.
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

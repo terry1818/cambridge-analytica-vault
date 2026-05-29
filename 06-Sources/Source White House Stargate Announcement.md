@@ -27,3 +27,7 @@ The principal vault references that link to this source typically include entity
 ## Research thread
 
 Outstanding questions for future expansion of this note include: which specific passages or quotes from this source are most directly relied upon in vault claims; whether subsequent reporting, regulatory action, or scholarly work has corroborated, complicated, or contradicted the source's principal findings; whether the source itself has been the subject of subsequent press coverage or institutional response that affects its evidentiary weight.
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

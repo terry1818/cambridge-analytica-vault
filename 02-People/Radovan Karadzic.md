@@ -90,3 +90,9 @@ Karadžić co-founded the Serbian Democratic Party (SDS) and, as Bosnia and Herz
 - [[comparative authoritarianism]]
 - [[info-warfare]]
 - [[propaganda]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

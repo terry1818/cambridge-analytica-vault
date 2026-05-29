@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the Council for National Policy membership pipeline into Trump first-term and Trump 2.0 cabinet/appointee populations.
 tags:
@@ -51,3 +51,9 @@ The CNP pipeline is the principal mechanism through which the broader religious-
 - [[Conservative Partnership Institute]]
 - [[Religious Right MOC]]
 - [[P2025 COS Personnel Overlap]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

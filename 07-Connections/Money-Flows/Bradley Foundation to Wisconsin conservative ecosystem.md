@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the Bradley Foundation as the principal subnational case study of donor-shaped state political environment - Wisconsin as the Bradley-Foundation-anchored conservative-political environment.
 tags:
@@ -49,3 +49,9 @@ Wisconsin is operationally significant because it is the cleanest documented cas
 - [[Federalist Society]]
 - [[Council for National Policy]]
 - [[Patron Wing MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

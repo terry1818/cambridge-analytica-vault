@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Hypothesis that the principal operational constraint on the 2024-2026 federal data-aggregation programme is the Privacy Act of 1974 litigation outcome, not political-coalition durability or technical capability.
 tags:
@@ -58,3 +58,9 @@ This hypothesis is the principal current-state contingency in the vault's broade
 - [[Privacy Act of 1974]]
 - [[Computer Matching and Privacy Protection Act of 1988]]
 - [[Hypothesis - Three-wing coalition]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

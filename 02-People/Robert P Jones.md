@@ -91,3 +91,9 @@ He has also argued that the numerical decline of white Christianity ("The End of
 - [[Samuel Perry]]
 - [[Lost Cause Christianity]]
 - [[White Too Long]] (source note)
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

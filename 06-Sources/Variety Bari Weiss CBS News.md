@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Variety coverage of Bari Weiss / The Free Press acquisition by Paramount Skydance + Weiss installation as CBS News EIC
 aliases: ["Source: Variety Bari Weiss CBS News"]
@@ -54,3 +54,7 @@ The node inherits operational significance from the entities, events, hypotheses
 ## Research thread
 
 Outstanding questions for future expansion include the primary-document anchors that would provide documentary backbone for analytical claims, the cross-cluster connection mapping at the level of specific entities and events, and the contested or unresolved analytical questions that additional evidence would resolve. The vault methodology framework governs how this expansion work should proceed.
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

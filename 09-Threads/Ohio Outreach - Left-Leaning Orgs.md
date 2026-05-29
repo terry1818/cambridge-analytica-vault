@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Ohio left-leaning organizations to recruit into a coalition with Terry as central hub. Contact list with emails + social handles, coalition-hub strategy, infrastructure to stand up, pitch template, execution sequence.
 tags:
@@ -213,3 +213,9 @@ Before sending Week 1 cold outreach, have ready:
 - [[Lens - 2024-2026 Power Map]]
 - [[Project 2025]]
 - [[CNP State-by-State Affiliate Map]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

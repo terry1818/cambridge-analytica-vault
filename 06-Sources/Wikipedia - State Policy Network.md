@@ -52,3 +52,7 @@ For source documentation see [[Source Influence Watch - State Policy Network]] (
 - [[Project 2025]]
 - [[Council for National Policy]]
 - [[Influence Watch - State Policy Network]]
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

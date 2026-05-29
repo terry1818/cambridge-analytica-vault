@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the methodological continuity from 2016-era Russian Internet Research Agency model to post-2022 Russian Doppelganger operation and parallel Chinese Spamouflage Dragonbridge operation.
 tags:
@@ -58,3 +58,9 @@ The connection demonstrates that the 2016-era CA / IRA / parallel-operations wer
 - [[Source Meta Threat Reports 2022-2024]]
 - [[Source Graphika 2019 Spamouflage Dragon]]
 - [[State Actor MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

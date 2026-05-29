@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the operational pathway from December 2022 Twitter Files release through 2023-2025 systematic defunding and dismantlement of academic disinformation-research infrastructure (Stanford Internet Observatory, Election Integrity Partnership, adjacent operations).
 tags:
@@ -53,3 +53,9 @@ The connection also documents the operational consequences of post-2022 Musk-acq
 - [[House Weaponization Subcommittee]]
 - [[Jim Jordan]]
 - [[Tech Right MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -92,3 +92,9 @@ The core controversy around NGA and commercial data is documented in Tau's *Mean
 - [[X-Mode (Outlogic)]]
 - [[Palantir Technologies]]
 - [[Clearview AI]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

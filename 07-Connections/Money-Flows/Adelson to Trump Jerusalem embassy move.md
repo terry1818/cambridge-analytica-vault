@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the operational pathway from Sheldon Adelson's substantial 2016 Trump-campaign giving to the December 2017 Trump decision to move the US embassy from Tel Aviv to Jerusalem.
 tags:
@@ -59,3 +59,9 @@ This connection sits alongside:
 - [[Israeli-American Council]]
 - [[Israel Cluster MOC]]
 - [[Patron Wing MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

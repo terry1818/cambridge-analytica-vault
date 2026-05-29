@@ -47,3 +47,7 @@ Where this source cites primary documents (court filings, regulator reports, cor
 - [[Source Bibliography MOC]]
 - [[Evidence Tiers]]
 - [[Vault MOC]]
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the integrated 2016-cycle operational picture - Cambridge Analytica + Mercer funding + Bannon strategy + Trump campaign + Russian operations + UAE/Saudi meetings + Brexit twin event as a single coordinated programme.
 tags:
@@ -54,3 +54,9 @@ This connection consolidates what the vault otherwise tracks as multiple separat
 - [[Joel Zamel]]
 - [[George Nader]]
 - [[Erik Prince]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

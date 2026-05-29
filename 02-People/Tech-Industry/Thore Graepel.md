@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Co-author of seminal 2013 Facebook Likes personality-prediction paper
 tags: [person, role/academic, role/researcher, topic/psychographics, era/pre-2014]
@@ -40,3 +40,9 @@ Use this node to anchor: relationships to other people (who they hired, funded, 
 - [[People MOC]]
 - [[Vault MOC]]
 - [[Master Timeline]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

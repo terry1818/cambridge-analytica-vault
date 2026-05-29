@@ -56,3 +56,7 @@ Treat the body as a starting point. When a vault hypothesis depends on a fact in
 - [[Source Bibliography MOC]] (full source index)
 - [[Evidence Tiers]] (how this vault grades source weight)
 - [[Vault MOC]] (top-level navigation)
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

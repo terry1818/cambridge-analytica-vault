@@ -89,3 +89,9 @@ Ensign's June 2009 press statement: "Last year I had an affair. I violated the v
 - [[Doug Coe]]
 - [[Source Sharlet 2010 C Street Book]]
 - [[Source Sharlet 2008 The Family Book]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

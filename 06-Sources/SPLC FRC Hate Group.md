@@ -52,3 +52,7 @@ For broader vault context see [[Family Research Council]] (entity node, not yet 
 - [[Religious Right]]
 - [[Wikipedia - Family Research Council]]
 - [[SourceWatch CNP]]
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

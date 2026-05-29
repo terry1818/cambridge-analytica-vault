@@ -90,3 +90,7 @@ Primary source for the [[constitutional-capture]] and [[Education-capture]] thre
 - [[Education-capture]]
 - [[Source AP PragerU Kids State Adoptions]]
 - [[constitutional-capture]]
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the NSO Group / Pegasus spyware targeting of CA-era and adjacent investigative journalists across multiple documented cases.
 tags:
@@ -53,3 +53,9 @@ The connection documents the explicit operational mechanism through which commer
 - [[Carole Cadwalladr]]
 - [[Israel Cluster MOC]]
 - [[State Actor MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

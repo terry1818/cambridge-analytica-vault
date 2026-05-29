@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting Hillsdale College-affiliated figures across Trump 2.0 cabinet and sub-cabinet appointments.
 tags:
@@ -44,3 +44,9 @@ Hillsdale is one of the 100+ Project 2025 contributing organisations. The Hillsd
 - [[Heritage Foundation]]
 - [[Religious Right MOC]]
 - [[School-board takeover programme]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

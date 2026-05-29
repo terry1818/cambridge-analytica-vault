@@ -89,3 +89,9 @@ YC invests in companies in exchange for equity (typically ~7%). It raises no tra
 - [[Facebook Exchange (FBX)]]
 - [[Siva Vaidhyanathan]]
 - [[Cambridge Analytica]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

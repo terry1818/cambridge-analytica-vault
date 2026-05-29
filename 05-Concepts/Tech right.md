@@ -3,7 +3,7 @@ title: Tech right
 type: concept
 date: 2026-05-29
 tags: [concept, politicalmovement, siliconvalley, thiel, musk, vance]
-aliases: ['Tech right','Silicon Valley right','New Right tech']
+aliases: ['Tech right','Silicon Valley right','New Right tech','tech-right']
 ---
 
 # Tech right

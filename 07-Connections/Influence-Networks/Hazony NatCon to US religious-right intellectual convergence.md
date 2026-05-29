@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the intellectual-convergence pathway from Yoram Hazony's Israeli religious-Zionist intellectual programme to US National Conservatism intellectual movement and broader religious-right intellectual ecosystem.
 tags:
@@ -67,3 +67,9 @@ The intellectual convergence produces operational consequences:
 - [[Israel Cluster MOC]]
 - [[Religious Right MOC]]
 - [[International Right MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

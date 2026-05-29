@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the All-In Podcast as the principal venue for the 2022-2024 Silicon Valley political realignment toward Trump-aligned Tech Right positioning.
 tags:
@@ -56,3 +56,9 @@ The All-In Podcast is the principal documented venue for the operational coordin
 - [[Donald Trump]]
 - [[Tech Right MOC]]
 - [[Big Tech Trump 2.0 Alignment 2024-2025]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

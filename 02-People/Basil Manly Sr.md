@@ -86,3 +86,9 @@ Basil Manly Sr. (January 28, 1798 – December 21, 1868) was one of the most inf
 - [[Robert Jeffress]]
 - [[First Baptist Dallas]]
 - [[Christian Nationalism]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

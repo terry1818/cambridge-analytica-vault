@@ -53,3 +53,7 @@ The node inherits operational significance from the entities, events, hypotheses
 ## Research thread
 
 Outstanding questions for future expansion of this node include the primary-document anchors that would provide documentary backbone for analytical claims, the cross-cluster connection mapping at the level of specific entities and events, and the contested or unresolved analytical questions that additional evidence would resolve. The vault methodology framework (Evidence Tiers, Methodology - Verifying a CA claim, Categorization Architecture, Tag Taxonomy) governs how this expansion work should proceed.
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

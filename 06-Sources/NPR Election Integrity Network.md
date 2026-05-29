@@ -61,3 +61,7 @@ Specific outstanding questions that the future expansion of this note should add
 - What contested or unresolved analytical questions does this node represent, and what evidence would resolve them?
 
 When the future expansion happens, this placeholder block should be replaced with substantive content; the cross-references and research thread structure can be retained as the closing sections.
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

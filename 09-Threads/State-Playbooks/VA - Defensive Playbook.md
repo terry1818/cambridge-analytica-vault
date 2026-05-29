@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Operational playbook for blocking COS in Virginia 2026; Dem House + Speaker Don Scott + 15th-Amendment frame
 tags: [thread, strategy, state-playbook, state/va, era/2024-2026]
@@ -77,3 +77,9 @@ For the strategic context see [[Hypothesis - COS is the permanent capture arm of
 - [[Convention of States Action]]
 - [[Citizens for Self-Governance]]
 - [[Counter-COS Strategy for the Left]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

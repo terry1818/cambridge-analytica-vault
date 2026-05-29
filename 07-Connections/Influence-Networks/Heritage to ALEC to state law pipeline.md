@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the federal-policy-to-state-law pipeline from Heritage Foundation through ALEC model-legislation drafting to actual state-legislative outputs.
 tags:
@@ -51,3 +51,9 @@ The connection also documents the broader pattern of policy-production-and-imple
 - [[Koch to SPN to ALEC to state legislation pipeline]]
 - [[Religious Right MOC]]
 - [[Patron Wing MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

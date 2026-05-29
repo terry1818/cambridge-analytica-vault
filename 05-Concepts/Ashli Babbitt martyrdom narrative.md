@@ -89,3 +89,9 @@ The narrative is most accurately assessed as a **disinformation product** that f
 - [[Christian Nationalism]]
 - [[Election Denial Infrastructure]]
 - [[Hypothesis - Multiple right networks converged in Trump 2.0]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

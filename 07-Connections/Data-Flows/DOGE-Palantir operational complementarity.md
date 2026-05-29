@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: The operational complementarity between DOGE federal data-access activity and Palantir Technologies federal data-integration contracts in 2025-2026.
 tags:
@@ -77,3 +77,9 @@ The vault treats this connection as the operational backbone of the broader [[Hy
 - [[Hypothesis - Federal database supersedes CA model]]
 - [[Hypothesis - Three-wing coalition]]
 - [[Tech Right MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -1,4 +1,4 @@
-﻿
+
 
 
 ## Vault context
@@ -22,3 +22,9 @@ Specific outstanding questions that future expansion of this node should address
 - Contested or unresolved analytical questions: what specific claims about this node remain contested or unresolved, and what additional evidence would resolve them?
 
 The vault methodology framework (Evidence Tiers, Methodology - Verifying a CA claim, Categorization Architecture, Tag Taxonomy) governs how this expansion work should proceed.
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

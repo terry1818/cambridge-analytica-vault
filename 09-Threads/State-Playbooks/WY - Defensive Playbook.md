@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Operational playbook for blocking COS in Wyoming 2026; GOP supermajority + federal-lands wedge
 tags: [thread, strategy, state-playbook, state/wy, era/2024-2026]
@@ -93,3 +93,9 @@ The playbook is intentionally tactical rather than analytical; the underlying an
 - [[Citizens for Self-Governance]]
 - [[Counter-COS Strategy for the Left]]
 - [[Hypothesis - COS is the permanent capture arm of Project 2025]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

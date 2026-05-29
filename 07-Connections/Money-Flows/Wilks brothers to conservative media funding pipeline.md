@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the Wilks brothers operational funding of contemporary conservative-media infrastructure (Daily Wire, PragerU, and adjacent media operations).
 tags:
@@ -49,3 +49,9 @@ The Wilks-media operational funding picture is one of the principal mechanisms t
 - [[Conservative Partnership Institute]]
 - [[Council for National Policy]]
 - [[Patron Wing MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

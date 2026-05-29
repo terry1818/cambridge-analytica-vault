@@ -88,3 +88,9 @@ Getúlio Vargas dominated Brazilian politics for a quarter century across two fu
 - [[Conservative complicity thesis]]
 - [[Five-stage model of fascism (Paxton)]]
 - [[Jair Bolsonaro]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

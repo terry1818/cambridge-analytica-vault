@@ -4,7 +4,7 @@ description: Founder of Dark Enlightenment/Neoreactionary movement; Mencius Mold
 tags: [person, role/intellectual, role/dark-enlightenment, era/2007-2026]
 type: person
 full_name: Curtis Guy Yarvin
-aliases: [Mencius Moldbug]
+aliases: [Mencius Moldbug,'curtis yarvin','Mencius Moldbug']
 born: 1973
 nationality: American
 roles: [Software engineer, Political theorist, Founder Neoreactionary movement]

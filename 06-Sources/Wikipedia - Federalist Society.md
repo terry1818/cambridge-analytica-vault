@@ -51,3 +51,7 @@ The current US Supreme Court includes five Federalist Society-affiliated justice
 - [[Project 2025]]
 - [[Catholic Integralism]]
 - [[Claremont Institute]]
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

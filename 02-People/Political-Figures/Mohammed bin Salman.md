@@ -3,7 +3,7 @@ title: Mohammed bin Salman
 type: person
 date: 2026-05-29
 tags: [person, saudi, mbs, autocrat, trumporbit]
-aliases: ['Mohammed bin Salman','MBS','Mohammed bin Salman al Saud','Crown Prince']
+aliases: ['Mohammed bin Salman','MBS','Mohammed bin Salman al Saud','Crown Prince','MBS Crown Prince']
 ---
 
 # Mohammed bin Salman al Saud

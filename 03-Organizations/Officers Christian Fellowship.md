@@ -94,3 +94,9 @@ OCF is a registered 501(c)(3) nonprofit (EIN 84-1415401) accredited by the Evang
 - [[Biblical capitalism]]
 - [[Militant evangelical masculinity]]
 - [[Theocratic Wing Infrastructure 1935-2026]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

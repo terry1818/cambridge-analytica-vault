@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Operational playbook for blocking COS HR 206 / HR 125 in Pennsylvania 2026; split chamber control
 tags: [thread, strategy, state-playbook, state/pa, era/2024-2026]
@@ -81,3 +81,9 @@ For the strategic context see [[Hypothesis - COS is the permanent capture arm of
 - [[Citizens for Self-Governance]]
 - [[Counter-COS Strategy for the Left]]
 - [[2016 US Presidential Election]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -52,3 +52,7 @@ Leo's operational control over Marble Freedom Trust gives him discretionary depl
 - [[Council for National Policy]]
 - [[Project 2025]]
 - [[Source Bibliography MOC]]
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

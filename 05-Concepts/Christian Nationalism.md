@@ -6,7 +6,7 @@ tier: 1
 status: active-concept
 date_created: 2026-05-29
 tags: [concept, theocratic-wing, religious-right, ideology]
-aliases: ["Christian nationalism", "White Christian Nationalism", "American Christian Nationalism"]
+aliases: ["Christian nationalism", "White Christian Nationalism", "American Christian Nationalism",'christian nationalism','christian nationalist']
 ---
 
 # Christian Nationalism

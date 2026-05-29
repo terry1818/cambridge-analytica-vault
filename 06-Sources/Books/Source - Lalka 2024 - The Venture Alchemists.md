@@ -50,3 +50,7 @@ The vault has substantial Thiel coverage ([[Peter Thiel]], [[Palantir Technologi
 - [[Source - Chafkin 2021 - The Contrarian]] (overlapping Thiel material)
 - [[Source - Zuboff 2019 - Age of Surveillance Capitalism]] (behavioral surplus / advertising model)
 - [[Tech Right MOC]], [[Big Tech Trump 2.0 Alignment 2024-2025]]
+
+## Connected to
+
+Referenced from the vault synthesis layer at [[Master Theses MOC]].

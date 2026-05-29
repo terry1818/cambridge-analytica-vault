@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting Tucker Carlson Network as principal post-Fox MAGA-aligned media voice and its coordination function across the broader MAGA media ecosystem.
 tags:
@@ -58,3 +58,9 @@ Carlson Network is the single highest-reach individual-anchored MAGA-aligned med
 - [[Doppelganger]]
 - [[Spamouflage Dragonbridge]]
 - [[Tech Right MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

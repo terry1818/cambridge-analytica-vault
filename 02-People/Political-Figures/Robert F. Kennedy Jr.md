@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: HHS Secretary Trump 2.0 (confirmed Feb 13 2025); founder Children's Health Defense; MAHA movement architect; nephew of JFK + RFK
 tags: [person, role/government-official, role/anti-vaccine, role/maha, era/2007-2026]
@@ -81,3 +81,9 @@ wikipedia_url: https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.
 - [[Source Boston Globe MAHA Inner Circle]]
 - [[Source PBS RFK MAHA Report]]
 - [[Source CNN MAHA Report Plans]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -3,7 +3,7 @@ title: Russian interference 2016
 type: concept
 date: 2026-05-29
 tags: [concept, russia, election2016, ira, mueller]
-aliases: ['Russian interference 2016','Russian election interference','2016 Russian interference']
+aliases: ['Russian interference 2016','Russian election interference','2016 Russian interference','Russian interference','russian interference in the 2016 us election']
 ---
 
 # Russian interference in the 2016 US election

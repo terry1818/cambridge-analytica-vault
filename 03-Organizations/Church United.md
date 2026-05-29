@@ -99,3 +99,9 @@ Specific funding sources are not publicly disclosed. Church United's connections
 - [[Council for National Policy]]
 - [[Theocratic Wing Infrastructure 1935-2026]]
 - [[Hypothesis - Three-wing coalition]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -99,3 +99,9 @@ From her texts to Meadows (quoted in press coverage): "This is the greatest Heis
 - [[Heritage Foundation]]
 - [[January 6 Capitol Attack]]
 - [[Source Anne Nelson Shadow Network 2019]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

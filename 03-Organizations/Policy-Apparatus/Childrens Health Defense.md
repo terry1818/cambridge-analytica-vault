@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Children's Health Defense - RFK Jr-founded principal anti-vaccine advocacy and litigation organisation; operational infrastructure for the broader MAHA movement.
 tags:
@@ -39,3 +39,9 @@ Following RFK Jr's appointment as HHS Secretary, CHD's institutional positioning
 - [[Del Bigtree]]
 - [[Joseph Mercola]]
 - [[Source Children's Health Defense vaccine litigation]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the intellectual-influence pathway from Catholic Integralism intellectual venues to JD Vance political positioning.
 tags:
@@ -55,3 +55,9 @@ The pathway connects:
 - [[Yoram Hazony]]
 - [[Religious Right MOC]]
 - [[Tech Right MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

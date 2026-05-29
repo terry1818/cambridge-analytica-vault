@@ -6,7 +6,7 @@ tier: 1
 status: alive
 date_created: 2026-05-29
 tags: [person, congress, republican, j6-committee, anti-trump]
-aliases: ["Elizabeth Lynne Cheney"]
+aliases: ["Elizabeth Lynne Cheney",'liz cheney','Elizabeth Cheney']
 ---
 
 # Liz Cheney

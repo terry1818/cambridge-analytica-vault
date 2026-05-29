@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the November 5 2024 to January 20 2025 Trump 2.0 transition period operational picture - Project 2025 personnel database deployment, Day-One Executive Orders preparation, cabinet selection.
 tags:
@@ -49,3 +49,9 @@ The transition period operational picture documents the substantial pre-preparat
 - [[Conservative Partnership Institute]]
 - [[Trump 1.0 to Trump 2.0 personnel continuity]]
 - [[Project 2025 to EOs to DOGE Mass-RIF pipeline]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

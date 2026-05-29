@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting CPAC as the principal institutional venue for international right-wing coordination - CPAC US plus CPAC Hungary plus CPAC Brazil plus CPAC Australia plus adjacent CPAC International expansion.
 tags:
@@ -55,3 +55,9 @@ CPAC International is the principal venue for institutional right-wing coordinat
 - [[Kari Lake]]
 - [[Bannon Movement international right]]
 - [[International Right MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

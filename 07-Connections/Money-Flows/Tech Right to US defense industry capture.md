@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the Tech Right realignment of US defense procurement - Anduril, Palantir, Founders Fund portfolio, SpaceX, and adjacent firms substantially reshaping the post-2020 US defense-contracting environment.
 tags:
@@ -63,3 +63,9 @@ The realignment also operationally integrates the Tech Right cluster with the st
 - [[Tech Right MOC]]
 - [[Israel Cluster MOC]]
 - [[Unit 8200 to US Tech Right pipeline]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

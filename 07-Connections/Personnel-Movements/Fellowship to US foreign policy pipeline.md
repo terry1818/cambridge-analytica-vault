@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the Fellowship and Capitol Ministries pipeline into US foreign-policy personnel positioning across multiple administrations.
 tags:
@@ -59,3 +59,9 @@ The Fellowship pipeline is the principal mechanism through which US religious-ri
 - [[Mike Huckabee]]
 - [[Religious Right MOC]]
 - [[Israel Cluster MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

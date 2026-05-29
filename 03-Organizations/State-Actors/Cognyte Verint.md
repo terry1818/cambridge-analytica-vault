@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Cognyte (spun out from Verint 2021) - Israeli surveillance and intelligence-analytics software vendor; principal commercial intelligence-analytics platform for state-actor customers globally.
 tags:
@@ -45,3 +45,9 @@ Cognyte (and the predecessor Verint operations) have been documented in:
 - [[NSO Group]]
 - [[Israel Cluster MOC]]
 - [[State Actor MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -3,7 +3,7 @@ title: J.D. Vance
 type: person
 date: 2026-05-29
 tags: [person, vicepresident, techright, secondterm]
-aliases: ['J.D. Vance','JD Vance','James David Vance','Vance']
+aliases: ['J.D. Vance','JD Vance','James David Vance','Vance','J D Vance']
 ---
 
 # J.D. Vance

@@ -437,3 +437,9 @@ This angle synthesis draws on the broader vault source-base. Foundational:
 - ALEC corporate-donor withdrawal pattern (Center for Media and Democracy 2012+)
 - Indivisible Guide (2017) â€” original distributed-pressure-routing playbook
 - Working Families Party + Democracy Alliance counter-architecture analyses
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting Steve Bannon's War Room podcast as the principal post-2020 MAGA-aligned media coordination surface.
 tags:
@@ -65,3 +65,9 @@ War Room is the single most operationally consequential post-2020 MAGA-aligned m
 - [[Conspiracy MOC]]
 - [[Religious Right MOC]]
 - [[International Right MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

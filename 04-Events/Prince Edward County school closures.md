@@ -93,3 +93,9 @@ Nancy MacLean's *Democracy in Chains* opens with this episode because it was whi
 - [[Hillsdale College]]
 - [[Christian Reconstructionism]]
 - [[Patron Wing MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

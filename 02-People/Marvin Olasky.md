@@ -96,3 +96,9 @@ From *The Tragedy of American Compassion* (1992): argued government welfare "oft
 - [[Heritage Foundation]]
 - [[Source Anne Nelson Shadow Network 2019]]
 - [[Religious Right]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Operational playbook for blocking COS HJR 2 / SJR 2 / SB 112 in Ohio 2026; bills already filed with named sponsors
 tags: [thread, strategy, state-playbook, state/oh, era/2024-2026]
@@ -99,3 +99,9 @@ Ohio is operationally distinctive in the vault because of the concentration of T
 - [[Convention of States Action]]
 - [[Citizens for Self-Governance]]
 - [[Counter-COS Strategy for the Left]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

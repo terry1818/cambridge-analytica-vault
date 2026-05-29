@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the explicit methodological continuity from 2018-collapsed Cambridge Analytica to post-2018 Israeli commercial successor operations principally represented by Team Jorge.
 tags:
@@ -52,3 +52,9 @@ The connection also documents the broader pattern of Israeli commercial-intellig
 - [[Hypothesis - Israel is the unique six-cluster foreign-state node]]
 - [[Israel Cluster MOC]]
 - [[State Actor MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.
