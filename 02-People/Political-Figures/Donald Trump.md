@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: 45th and 47th US President; 2016 campaign hired Cambridge Analytica via Mercer/Bannon; central beneficiary of CA-era operations and the post-2024 federal-database successor architecture
 tags: [person, role/politician, role/beneficiary, topic/cambridge-analytica, topic/2016-election, topic/federal-database, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-2026, jurisdiction/us]
@@ -156,3 +156,26 @@ Trump is the political figure whose two elections (2016 and 2024) define the vau
 - The complete Trump 2.0 sub-cabinet appointee list, mapped against Project 2025 contributing-organisation rosters, should produce a confirmed overlap percentage rather than the "approximately 70 percent" figure circulating in current reporting.
 - The post-2024-election Kushner-Affinity-PIF money flow has continued to develop in ways the vault should track as new disclosures appear.
 - The relationship between Trump's personal business decisions (Trump Media, the various crypto ventures, the various licensing deals) and his political-power infrastructure is a continuing thread that crosses with the [[Coinbase]] / [[Fairshake PAC]] crypto-industry alignment.
+
+---
+
+## Epstein operation connection
+
+Donald Trump and [[Jeffrey Epstein]] had a documented social acquaintance from approximately the late 1980s through the early-to-mid 2000s. This is treated in full detail in [[Connection - Trump-Epstein social association 1987-2004]].
+
+**What the public record establishes (Tier 1):**
+- Long-running social acquaintance documented across NBC 1992 Mar-a-Lago footage, the 2002 New York Magazine quote ("Terrific guy. He's a lot of fun to be with."), flight log appearances, and Mar-a-Lago / Trump Tower social events
+- Trump has stated he revoked Epstein's Mar-a-Lago membership at some point; timing and exact reason vary by account
+
+**What the public record does NOT establish:**
+- No sworn-testimony allegation that Trump engaged in sexual contact with any Epstein-trafficked minor
+- No civil or criminal action against Trump in connection with the Epstein operation
+- Sjoberg's 2024-unsealed deposition mentions Trump in passing social context â€” NOT as a sworn allegation of misconduct
+
+This is a documented social-association connection, not an allegation. The evidence-tier discipline matters: social-media-era discourse routinely conflates "appeared in flight logs" with "client of trafficking" â€” those are categorically different evidentiary claims. See [[Connection - Trump-Epstein social association 1987-2004]] for the full per-claim sourcing.
+
+**Related:**
+- [[Epstein Network MOC]]
+- [[Jeffrey Epstein]]
+- [[Ghislaine Maxwell]]
+- [[Roy Cohn]] â€” Trump's historical mentor; per [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]] structurally relevant to the longer arc

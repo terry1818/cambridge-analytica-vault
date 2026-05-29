@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Central Tech Right figure - PayPal/Palantir/Anduril/Founders Fund founder; JD Vance patron; Facebook board 2005-2022; Trump backer
 tags: [person, role/executive, role/donor-funder, role/operative, topic/cambridge-analytica, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -137,3 +137,26 @@ Thiel is the single human node that connects: the PayPal-mafia founder pool ([[E
 - The complete Founders Fund and Mithril Capital portfolio overlap with government contractors (full reconstruction from SEC filings, federal contract databases, and FOIA-able procurement records) is partially documented but not consolidated.
 - The Thiel-Vance personal relationship timeline (when they met, what Thiel mentored on, what specific career decisions he influenced) is reconstructed in journalism but should be normalised to the vault's evidence-tier standard.
 - The 2024 cycle Thiel political giving (where the money actually went, given the deliberate lower public profile) needs reconstruction from FEC and state-level filings.
+
+---
+
+## Epstein operation connection
+
+Peter Thiel attended Jeffrey Epstein-organized scientific and intellectual gatherings during the late 2000s through early 2010s. This is treated in full in [[Connection - Thiel-Epstein scientific gatherings]].
+
+**What the public record establishes (Tier 1):**
+- Documented attendance at Epstein's "scientific salon" gatherings alongside other tech-industry and academic figures (Marvin Minsky, Joi Ito, others)
+- Part of the broader documented overlap between Epstein's parallel "patron of science" identity and the Tech Right futurism / singularity intellectual ecosystem
+
+**What the public record does NOT establish:**
+- No sworn-testimony allegation that Thiel engaged in sexual contact with any Epstein-trafficked minor
+- No civil or criminal action involving Thiel in connection with the Epstein operation
+- No documented financial transfers between Thiel and Epstein in the public record
+
+This is a documented social/intellectual association, not an allegation. Same evidentiary tier as the Trump-Epstein and Gates-Epstein documented associations.
+
+**Related:**
+- [[Epstein Network MOC]]
+- [[Connection - Thiel-Epstein scientific gatherings]]
+- [[Tech Right MOC]] â€” broader ecosystem context
+- [[MIT]] â€” institutional setting for some gatherings

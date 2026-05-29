@@ -76,3 +76,16 @@ The **Israel cluster** describes the structural overlap between:
 ## Lens
 
 - See [[Lens - 2024-2026 Power Map]] for cluster's position in current US power map
+
+---
+
+## Epstein operation in the Israel cluster
+
+The Phase 1 Epstein notes ([[Epstein Network MOC]]) ship the most-documented public-record case of an alleged Israeli-adjacent kompromat operation in the US-elite blackmail space. The bridge content tying this to the existing Israel-cluster framing:
+
+- [[Mega Group]] â€” coordination layer; founded 1991 same year Robert Maxwell died and Ghislaine partnered with Epstein
+- [[Connection - Wexner to Mega Group to Israeli philanthropy]] â€” overlap of Wexner roles as Epstein funder, Mega Group founder, Israeli-philanthropy funder
+- [[Connection - Maxwell lineage Robert to Ghislaine to Epstein]] â€” operational lineage from alleged Mossad asset Robert Maxwell to Epstein partnership
+- [[Deep Dive - Israel-Epstein Architecture Bridge]] â€” full synthesis
+
+The Epstein arc is integrated into the broader Israel cluster as a Tier 2 candidate operational node, with explicit evidence-tier discipline distinguishing what is Tier 1 documented (financial pipelines, social associations, sworn allegations of trafficking conduct) from Tier 2/3 (operational coordination, intelligence-service backing, full structural integration).
