@@ -94,3 +94,9 @@ See [[Evidence Tiers]] for the full framework and [[Methodology - Verifying a CA
 ---
 
 *This vault is research, not journalism, not legal accusation, and not a substitute for primary-source verification. Many notes describe public figures and contested events; the evidence tier is the calibration. Quote responsibly.*
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

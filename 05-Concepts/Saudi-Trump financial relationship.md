@@ -41,3 +41,9 @@ This is the densest single documented foreign-money pattern around the Trump orb
 ## See also
 
 [[Mohammed bin Salman]] | [[Saudi Public Investment Fund]] | [[Affinity Partners]] | [[LIV Golf - PGA Tour deal]] | [[Jamal Khashoggi]] | [[Jared Kushner]] | [[Trump Organization]] | [[Trump International Hotel DC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

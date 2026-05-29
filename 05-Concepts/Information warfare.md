@@ -35,3 +35,9 @@ Operations targeting the information environment - what populations believe, wha
 ## See also
 
 [[Cambridge Analytica]] | [[SCL Group]] | [[Russian interference 2016]] | [[Active measures]] | [[Hybrid warfare]] | [[Brexit]] | [[Aleksandr Kogan]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -60,3 +60,9 @@ status: active
 - [[Source Wikipedia - Russell Vought]]
 - [[Source Democracy Now 2025-10-21 Vought Shadow President]]
 - [[Source Newsweek 2024 Trump P2025 Cabinet]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

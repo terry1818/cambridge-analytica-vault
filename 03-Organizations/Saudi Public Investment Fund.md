@@ -32,3 +32,9 @@ The boundary between conventional investment and political-relationship investme
 ## See also
 
 [[Mohammed bin Salman]] | [[Affinity Partners]] | [[Jared Kushner]] | [[LIV Golf - PGA Tour deal]] | [[Saudi-Trump financial relationship]] | [[Yasir Al-Rumayyan]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

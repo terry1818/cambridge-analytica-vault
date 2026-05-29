@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Tesla/SpaceX/X/xAI CEO; 2022 Twitter acquisition; ~$280M Trump 2024 donor; DOGE leadership 2024-2025
 tags: [person, role/executive, role/donor-funder, role/operative, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -164,3 +164,9 @@ His decisions on platform-policy, on AI integration, and on political-spending h
 - [[Big Tech Trump 2.0 Alignment 2024-2025]]
 - [[Stargate Project 2025]]
 - [[Source Rolling Out 2025-11-24 Vance Palantir]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

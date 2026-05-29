@@ -41,3 +41,9 @@ COS Action is the operational center of the Article V convention movement and th
 ## See also
 
 [[Mark Meckler]] | [[Citizens for Self-Governance]] | [[Article V Convention]] | [[Convention of States]] | [[19 state applications]] | [[Council for National Policy]] | [[Mercer Family Foundation]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

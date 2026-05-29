@@ -28,3 +28,9 @@ Post-2018, the Mercers have stepped back from public political donating - the fo
 ## See also
 
 [[Robert Mercer]] | [[Rebekah Mercer]] | [[Cambridge Analytica]] | [[Breitbart News]] | [[Steve Bannon]] | [[Government Accountability Institute]] | [[Peter Schweizer]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

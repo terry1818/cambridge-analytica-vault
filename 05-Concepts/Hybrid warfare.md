@@ -29,3 +29,9 @@ The structure of the [[Cambridge Analytica]] operation, [[Project Birmingham]], 
 ## See also
 
 [[Internet Research Agency (IRA)]] | [[Wagner Group]] | [[Russian interference 2016]] | [[Cambridge Analytica]] | [[Active measures]] | [[Information warfare]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

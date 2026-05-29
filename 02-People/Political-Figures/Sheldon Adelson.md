@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Sheldon Adelson (1933-2021) - Las Vegas Sands founder; principal historical Republican mega-donor; principal force behind Trump's 2017 Jerusalem embassy move; founder of Israeli-American Council.
 tags:
@@ -49,3 +49,9 @@ Adelson's political-giving operated principally through:
 - [[Jerusalem embassy move 2017]]
 - [[Patron Wing MOC]]
 - [[Israel Cluster MOC]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

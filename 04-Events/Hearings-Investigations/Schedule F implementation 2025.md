@@ -41,3 +41,9 @@ Schedule F implementation is the central instrument of the Project 2025 administ
 ## See also
 
 [[Schedule F]] | [[Project 2025]] | [[Russ Vought]] | [[Paul Dans]] | [[DOGE]] | [[OPM]] | [[Civil Service Reform Act]] | [[Fork in the Road]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

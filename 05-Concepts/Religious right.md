@@ -33,3 +33,9 @@ Political coalition of conservative US Protestant evangelicals, traditionalist C
 ## See also
 
 [[Christian Nationalism]] | [[Jerry Falwell]] | [[Ralph Reed]] | [[Council for National Policy]] | [[Focus on the Family]] | [[Liberty Counsel]] | [[Seven Mountain Mandate]] | [[New Apostolic Reformation]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

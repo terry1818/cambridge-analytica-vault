@@ -124,3 +124,9 @@ Bannon is the single human node that connects: the [[Mercer]] funding apparatus,
 - The full timeline of Bannon's relationship with Konstantin Malofeev and other Russia-aligned European right figures is partially reconstructed in journalism but not fully consolidated.
 - The post-2018 funding map for War Room and Bannon's other operations needs primary-source reconstruction (IRS 990s, FEC filings where applicable, podcast network revenue disclosures where available).
 - The personnel overlap between War Room contributors and Trump 2.0 appointees should be mapped as a single connection note.
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

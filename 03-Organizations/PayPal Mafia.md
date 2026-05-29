@@ -34,3 +34,9 @@ The cohort's wealth combined with founder-network density gave them outsized lev
 ## See also
 
 [[Peter Thiel]] | [[Elon Musk]] | [[David Sacks]] | [[Keith Rabois]] | [[Reid Hoffman]] | [[Tech right]] | [[Founders Fund]] | [[Palantir]] | [[Sequoia Capital]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

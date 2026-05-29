@@ -72,3 +72,9 @@ Christian Nationalism is one of the **three coordinating wings** identified in [
 - [[Source: Taylor 2024 - The Violent Take It by Force]]
 - [[Source: Nelson Shadow Network 2019]]
 - [[Source: Sharlet 2008 The Family Book]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

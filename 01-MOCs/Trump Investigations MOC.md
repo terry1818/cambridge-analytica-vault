@@ -117,3 +117,9 @@ Each case-specific note carries its own sources. Cross-cutting:
 - [[Source: Mueller Report 2019]]
 - [[Source: J6 Committee Final Report 2022]]
 - [[Source: FullText Trump Raffensperger call 2021-01-02]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

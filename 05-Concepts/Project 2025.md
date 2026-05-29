@@ -40,3 +40,9 @@ Trump publicly distanced himself from Project 2025 during the 2024 campaign. Pos
 ## See also
 
 [[Heritage Foundation]] | [[Russ Vought]] | [[Kevin Roberts]] | [[Schedule F]] | [[Council for National Policy]] | [[Mandate for Leadership]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

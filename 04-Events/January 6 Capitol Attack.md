@@ -96,3 +96,9 @@ In days/weeks following:
 - [[Source: DOJ Capitol Siege Press Releases]]
 - [[Source: Sedition Trial Verdicts 2022-2023]]
 - [[Source: Trump January 6 Ellipse Speech Transcript]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

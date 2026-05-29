@@ -31,3 +31,9 @@ The counter-argument: removing those protections eliminates the post-Pendleton-A
 ## See also
 
 [[Project 2025]] | [[Russ Vought]] | [[Paul Dans]] | [[OPM]] | [[Pendleton Act]] | [[Civil service]] | [[Heritage Foundation]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

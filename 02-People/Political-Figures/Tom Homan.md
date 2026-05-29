@@ -30,3 +30,9 @@ Homan is the operational pair to [[Stephen Miller]]'s policy direction. Miller d
 ## See also
 
 [[ICE]] | [[Stephen Miller]] | [[Mass deportation operation 2025]] | [[Family separation policy]] | [[CECOT]] | [[Project 2025]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -29,3 +29,9 @@ The Committee documented that Trump was repeatedly informed by his own DOJ, Whit
 ## See also
 
 [[January 6 Capitol Attack]] | [[Ali Alexander]] | [[Roger Stone]] | [[Eastman Memo]] | [[Fake electors scheme]] | [[Trump-Raffensperger call]] | [[J6 Committee Final Report]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

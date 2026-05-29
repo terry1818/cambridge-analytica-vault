@@ -37,3 +37,9 @@ Article V is the structural mechanism the [[COS movement]] is using to seek cons
 ## See also
 
 [[Convention of States Action]] | [[Mark Meckler]] | [[19 state applications]] | [[Runaway convention]] | [[Balanced Budget Amendment]] | [[Constitution of the United States]] | [[Federalist Society]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -139,3 +139,9 @@ Mark Meadows's senior aide Hutchinson testified:
 - [[Source: J6 Committee Witness Depositions]]
 - [[Source: Trump v Thompson SCOTUS January 2022]]
 - [[Source: Electoral Count Reform Act 2022]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

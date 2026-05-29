@@ -40,3 +40,9 @@ It connects directly to the broader [[Saudi-Trump financial relationship]] and i
 ## See also
 
 [[Mohammed bin Salman]] | [[Saudi Public Investment Fund]] | [[Trump Organization]] | [[Bedminster]] | [[Doral]] | [[Yasir Al-Rumayyan]] | [[Saudi-Trump financial relationship]] | [[9-11 families]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

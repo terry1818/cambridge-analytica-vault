@@ -34,3 +34,9 @@ It is the documentary spine of the J6 plot. "Stop the Steal" speeches by themsel
 ## See also
 
 [[John Eastman]] | [[Mike Pence]] | [[Greg Jacob]] | [[Marc Short]] | [[Fake electors scheme]] | [[January 6 Capitol Attack]] | [[Trump January 6 Federal Case]] | [[Electoral Count Act]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

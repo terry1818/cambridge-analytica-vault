@@ -35,3 +35,9 @@ US Senator from Ohio (2023-2025). Vice President of the United States (2025-). O
 ## See also
 
 [[Peter Thiel]] | [[Curtis Yarvin]] | [[Tech right]] | [[Religious right]] | [[Patrick Deneen]] | [[Donald Trump]] | [[Mithril Capital]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

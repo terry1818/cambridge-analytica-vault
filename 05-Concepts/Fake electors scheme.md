@@ -32,3 +32,9 @@ The fake electors are the operational link that connects "Stop the Steal" speech
 ## See also
 
 [[Stop the Steal]] | [[Eastman Memo]] | [[Kenneth Chesebro]] | [[Rudy Giuliani]] | [[Trump January 6 Federal Case]] | [[Georgia RICO Case]] | [[John Eastman]] | [[Electoral Count Act]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

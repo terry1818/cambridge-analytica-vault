@@ -32,3 +32,9 @@ DeVos network is the bridge between Calvinist/Reformed evangelical philanthropy 
 ## See also
 
 [[Betsy DeVos]] | [[Erik Prince]] | [[Council for National Policy]] | [[Religious right]] | [[Heritage Foundation]] | [[Blackwater]] | [[American Federation for Children]] | [[National Christian Foundation]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

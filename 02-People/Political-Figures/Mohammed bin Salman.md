@@ -32,3 +32,9 @@ Crown Prince and Prime Minister of Saudi Arabia. Born 1985. Effective ruler of S
 ## See also
 
 [[Saudi Public Investment Fund]] | [[Jamal Khashoggi]] | [[Jared Kushner]] | [[Affinity Partners]] | [[LIV Golf - PGA Tour deal]] | [[Saudi-Trump financial relationship]] | [[Trump Organization]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

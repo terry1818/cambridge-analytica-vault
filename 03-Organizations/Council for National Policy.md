@@ -36,3 +36,9 @@ US conservative umbrella coordination body founded 1981. Membership-by-invitatio
 ## See also
 
 [[Tim LaHaye]] | [[Heritage Foundation]] | [[Religious right]] | [[Christian Nationalism]] | [[Family Research Council]] | [[Project 2025]] | [[Shadow Network]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

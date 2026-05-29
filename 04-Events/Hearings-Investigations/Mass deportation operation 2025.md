@@ -43,3 +43,9 @@ Coordinated escalation of US Immigration and Customs Enforcement ([[ICE]]) depor
 ## See also
 
 [[ICE]] | [[Project 2025]] | [[Stephen Miller]] | [[Tom Homan]] | [[Alien Enemies Act]] | [[CECOT]] | [[El Salvador]] | [[Sanctuary jurisdictions]] | [[Birthright citizenship]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -34,3 +34,9 @@ Director of [[Project 2025]] (2022-July 2024). Former Chief of Staff at the US O
 ## See also
 
 [[Project 2025]] | [[Heritage Foundation]] | [[Kevin Roberts]] | [[Russ Vought]] | [[Schedule F]] | [[OPM]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

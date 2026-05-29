@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Federalist Society co-chairman; chairman Marble Freedom Trust ($1.6B war chest); architect of conservative judicial takeover including all three Trump SCOTUS appointments
 tags: [person, role/judicial-architect, role/legal, role/dark-money, era/1991-2026]
@@ -92,3 +92,9 @@ Combined with [[Mitch McConnell]]'s judicial-confirmation infrastructure, this g
 - [[Source TPM Barre Seid Court Architect]]
 - [[Source Influence Watch Leonard Leo]]
 - [[Source CNN Marble Freedom 1.6B]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

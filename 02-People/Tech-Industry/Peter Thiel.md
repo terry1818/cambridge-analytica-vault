@@ -160,3 +160,9 @@ This is a documented social/intellectual association, not an allegation. Same ev
 - [[Connection - Thiel-Epstein scientific gatherings]]
 - [[Tech Right MOC]] â€” broader ecosystem context
 - [[MIT]] â€” institutional setting for some gatherings
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

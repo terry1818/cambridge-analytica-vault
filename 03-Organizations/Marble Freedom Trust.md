@@ -35,3 +35,9 @@ MFT is the single largest concentrated dark-money fund in US political history a
 ## See also
 
 [[Leonard Leo]] | [[Barre Seid]] | [[Concord Fund]] | [[85 Fund]] | [[Federalist Society]] | [[Judicial Crisis Network]] | [[Honest Elections Project]] | [[Tripp Lite]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

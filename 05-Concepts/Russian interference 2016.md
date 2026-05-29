@@ -40,3 +40,9 @@ Senate Intelligence Committee Vol. 5 (August 2020) confirmed the ICA's conclusio
 ## See also
 
 [[Internet Research Agency (IRA)]] | [[Mueller Report]] | [[Senate Intelligence Committee 2016 Russia Report]] | [[Yevgeny Prigozhin]] | [[WikiLeaks]] | [[Paul Manafort]] | [[Konstantin Kilimnik]] | [[Trump Tower meeting June 2016]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

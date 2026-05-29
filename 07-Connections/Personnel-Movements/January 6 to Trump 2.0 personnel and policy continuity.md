@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Connection note documenting the operational consequences of January 6, 2021 Capitol attack across pardons, personnel re-integration, and policy positioning that flowed into the Trump 2.0 administration.
 tags:
@@ -51,3 +51,9 @@ The continuity demonstrates that January 6 was not a discrete event with bounded
 - [[Cleta Mitchell]]
 - [[Conservative Partnership Institute]]
 - [[Trump 1.0 to Trump 2.0 personnel continuity]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

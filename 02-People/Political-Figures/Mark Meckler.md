@@ -58,3 +58,9 @@ California attorney. **Co-founded Tea Party Patriots in 2009** (resigned 2012). 
 - [[Source SourceWatch Mark Meckler]]
 - [[Source EXPOSEDbyCMD 2021-02 Parler Meckler]]
 - [[Source SourceWatch Convention of States Action]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

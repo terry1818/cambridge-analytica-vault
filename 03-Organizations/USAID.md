@@ -42,3 +42,9 @@ USAID dismantling is the cleanest single executive-action precedent for the [[Pr
 ## See also
 
 [[DOGE]] | [[Project 2025]] | [[Russ Vought]] | [[State Department]] | [[PEPFAR]] | [[Elon Musk]] | [[Marco Rubio]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

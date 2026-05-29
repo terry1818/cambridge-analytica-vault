@@ -39,3 +39,9 @@ Fork in the Road was the first large-scale instrument of the [[DOGE]] / [[Schedu
 ## See also
 
 [[DOGE]] | [[Elon Musk]] | [[OPM]] | [[Schedule F]] | [[Project 2025]] | [[USAID]] | [[CFPB]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

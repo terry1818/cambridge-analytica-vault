@@ -82,3 +82,9 @@ Per historian Joshua Tait: "Moldbug's relationship with the investor-entrepreneu
 - [[Source Britannica Curtis Yarvin]]
 - [[Source TIME 7269166 Dark Enlightenment]]
 - [[Source ResetDoc Yarvin Nick Land Black Utopia]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

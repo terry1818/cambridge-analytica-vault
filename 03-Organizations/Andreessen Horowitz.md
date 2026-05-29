@@ -30,3 +30,9 @@ a16z is the largest single-firm vehicle of the [[Tech right]] capital base, and 
 ## See also
 
 [[Marc Andreessen]] | [[Ben Horowitz]] | [[Tech right]] | [[Founders Fund]] | [[Sriram Krishnan]] | [[Anduril]] | [[Chris Dixon]] | [[Anthropic]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

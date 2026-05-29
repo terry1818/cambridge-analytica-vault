@@ -31,3 +31,9 @@ US conservative and libertarian legal organization. Founded 1982 by Steven Calab
 ## See also
 
 [[Leonard Leo]] | [[Project 2025]] | [[Heritage Foundation]] | [[Supreme Court]] | [[Originalism]] | [[Adrian Vermeule]] | [[Council for National Policy]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

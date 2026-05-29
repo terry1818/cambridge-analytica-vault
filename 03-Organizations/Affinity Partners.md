@@ -35,3 +35,9 @@ The structural counterpart is the [[LIV Golf - PGA Tour deal]] funding Trump pro
 ## See also
 
 [[Jared Kushner]] | [[Saudi Public Investment Fund]] | [[Mohammed bin Salman]] | [[Qatar Investment Authority]] | [[Mubadala]] | [[Saudi-Trump financial relationship]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

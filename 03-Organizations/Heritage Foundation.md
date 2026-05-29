@@ -32,3 +32,9 @@ Conservative US think tank founded 1973 by [[Paul Weyrich]], [[Edwin Feulner]], 
 ## See also
 
 [[Project 2025]] | [[Kevin Roberts]] | [[Paul Weyrich]] | [[Edwin Feulner]] | [[Mandate for Leadership]] | [[Heritage Action]] | [[Council for National Policy]] | [[Jim DeMint]] | [[Russ Vought]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

@@ -40,3 +40,9 @@ Tech right shares the [[Federalist Society]] judicial pipeline with [[Religious 
 ## See also
 
 [[Peter Thiel]] | [[Elon Musk]] | [[Curtis Yarvin]] | [[Religious right]] | [[Project 2025]] | [[Palantir]] | [[Cato Institute]] | [[Christian Nationalism]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

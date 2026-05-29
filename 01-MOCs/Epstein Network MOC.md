@@ -77,3 +77,9 @@ These notes are deliberately *not* aggregated into a single "client list," becau
 - [[Source: Maxwell Trial Transcript SDNY 2021]]
 - [[Source: Giuffre v Maxwell 2024 Unsealing]]
 - [[Source: Apollo Dechert Report on Black-Epstein Payments 2021]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

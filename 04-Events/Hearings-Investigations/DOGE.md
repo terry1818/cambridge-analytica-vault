@@ -46,3 +46,9 @@ Executive-branch initiative announced November 12, 2024 to "modernize federal te
 ## See also
 
 [[Elon Musk]] | [[Vivek Ramaswamy]] | [[Schedule F]] | [[Russ Vought]] | [[Project 2025]] | [[USAID]] | [[CFPB]] | [[Fork in the Road]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.
