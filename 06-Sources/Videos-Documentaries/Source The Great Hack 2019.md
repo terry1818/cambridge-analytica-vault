@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: Netflix 2019 documentary on Cambridge Analytica scandal - Sundance premiere
-aliases: ["Source: Source The Great Hack 2019"]
+aliases: ["Source: Source The Great Hack 2019", "Source: The Great Hack 2019"]
 tags: [source, evidence/video-doc, topic/cambridge-analytica, era/2016-2018, era/2018-2020]
 type: source
 source_type: documentary

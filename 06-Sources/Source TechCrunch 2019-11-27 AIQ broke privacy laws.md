@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source TechCrunch 2019-11-27 AIQ broke privacy laws - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source TechCrunch 2019-11-27 AIQ broke privacy laws"]
+aliases: ["Source: Source TechCrunch 2019-11-27 AIQ broke privacy laws", "Source: TechCrunch 2019-11-27 AIQ broke privacy laws"]
 tags:
   - source
 ---

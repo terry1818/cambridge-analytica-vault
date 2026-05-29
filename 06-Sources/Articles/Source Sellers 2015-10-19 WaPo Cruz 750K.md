@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: Washington Post early reporting on Cruz campaign payments to CA
-aliases: ["Source: Source Sellers 2015-10-19 WaPo Cruz 750K"]
+aliases: ["Source: Source Sellers 2015-10-19 WaPo Cruz 750K", "Source: Sellers 2015-10-19 WaPo Cruz 750K"]
 tags: [source, evidence/journalism, topic/cambridge-analytica, era/2014-2016]
 type: source
 source_type: journalism

@@ -4,7 +4,7 @@ description: First comprehensive empirical analysis of Christian nationalism in 
 tags: [source, book, christian-nationalism, sociology, survey-research]
 type: source
 tier: Tier-2
-aliases: ["Source: Whitehead Perry 2020"]
+aliases: ["Source: Whitehead Perry 2020", "Source: Whitehead Perry 2020 - Taking America Back for God"]
 ---
 
 # Source — Taking America Back for God: Christian Nationalism in the United States (Andrew L. Whitehead & Samuel L. Perry, 2020)

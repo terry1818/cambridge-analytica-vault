@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Bad Faith Documentary 2024 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Bad Faith Documentary 2024"]
+aliases: ["Source: Source Bad Faith Documentary 2024", "Source: Bad Faith Documentary 2024"]
 tags:
   - source
 ---

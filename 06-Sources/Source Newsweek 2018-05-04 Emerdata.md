@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Newsweek 2018-05-04 Emerdata - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Newsweek 2018-05-04 Emerdata"]
+aliases: ["Source: Source Newsweek 2018-05-04 Emerdata", "Source: Newsweek 2018-05-04 Emerdata"]
 tags:
   - source
 ---

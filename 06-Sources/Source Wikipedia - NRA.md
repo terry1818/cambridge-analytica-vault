@@ -20,10 +20,7 @@ publication_date: 2026-05-23
 url: https://en.wikipedia.org/wiki/National_Rifle_Association
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - National Rifle Association
-  - NRA
-  - "Wikipedia - NRA"
+aliases: ["National Rifle Association", "NRA", "Wikipedia - NRA", "Source: Wikipedia - NRA", "Source: National Rifle Association", "Source: NRA"]
 ---
 
 # Source Wikipedia - NRA

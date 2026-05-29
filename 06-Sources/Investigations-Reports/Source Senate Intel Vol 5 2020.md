@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: US Senate Intelligence Committee Vol 5 - 947 pages on counterintelligence threats from Russian 2016 interference
-aliases: ["Source: Source Senate Intel Vol 5 2020", "Senate Intel Vol 5 2020"]
+aliases: ["Source: Source Senate Intel Vol 5 2020", "Senate Intel Vol 5 2020", "Source: Senate Intel Vol 5 2020"]
 tags: [source, evidence/investigation-report, topic/election-interference, topic/2016-us-election, topic/cambridge-analytica, era/2016-2018, era/2018-2020, jurisdiction/us, jurisdiction/russia]
 type: source
 source_type: official-report

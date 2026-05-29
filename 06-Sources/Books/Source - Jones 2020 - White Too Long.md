@@ -4,7 +4,7 @@ description: PRRI data-driven argument that white Christians across all denomina
 tags: [source, book, white-supremacy, american-christianity, race]
 type: source
 tier: Tier-2
-aliases: ["Source: Jones 2020", "White Too Long"]
+aliases: ["Source: Jones 2020", "White Too Long", "Source: Jones 2020 - White Too Long", "Source: White Too Long"]
 ---
 
 # Source — White Too Long: The Legacy of White Supremacy in American Christianity (Robert P. Jones, 2020)

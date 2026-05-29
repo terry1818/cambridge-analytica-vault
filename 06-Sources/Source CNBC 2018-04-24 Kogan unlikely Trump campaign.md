@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source CNBC 2018-04-24 Kogan unlikely Trump campaign - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source CNBC 2018-04-24 Kogan unlikely Trump campaign"]
+aliases: ["Source: Source CNBC 2018-04-24 Kogan unlikely Trump campaign", "Source: CNBC 2018-04-24 Kogan unlikely Trump campaign"]
 tags:
   - source
 ---

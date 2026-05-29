@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - PayPal Mafia - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - PayPal Mafia"]
+aliases: ["Source: Source Wikipedia - PayPal Mafia", "Source: Wikipedia - PayPal Mafia"]
 tags:
   - source
 ---

@@ -18,10 +18,7 @@ publication_date: 2026-05-23
 url: https://en.wikipedia.org/wiki/2023_Brazilian_Congress_attack
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - 8 January Brasília attacks
-  - January 8 Brazil attacks
-  - "Wikipedia - 2023 Brazilian Congress attack"
+aliases: ["8 January Brasília attacks", "January 8 Brazil attacks", "Wikipedia - 2023 Brazilian Congress attack", "Source: Wikipedia - 2023 Brazilian Congress attack", "Source: 8 January Brasília attacks", "Source: January 8 Brazil attacks"]
 ---
 
 # Source Wikipedia - 2023 Brazilian Congress attack

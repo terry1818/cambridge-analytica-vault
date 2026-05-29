@@ -3,6 +3,7 @@ date: 2026-05-22
 description: Index of full-text source archives captured for the Full Arc investigation -- a link-rot and censorship hedge holding verbatim copies of every cited source.
 tags: [source-archive, moc, index, topic/cambridge-analytica]
 type: moc
+aliases: ["Source: Archive Index"]
 ---
 
 # Source Archive -- Full Arc Investigation

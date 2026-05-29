@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Kristi Noem - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Kristi Noem"]
+aliases: ["Source: Source Wikipedia - Kristi Noem", "Source: Wikipedia - Kristi Noem"]
 tags:
   - source
 ---

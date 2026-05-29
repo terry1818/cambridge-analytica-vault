@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source The 74 2025 ICE School Cameras - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source The 74 2025 ICE School Cameras"]
+aliases: ["Source: Source The 74 2025 ICE School Cameras", "Source: The 74 2025 ICE School Cameras"]
 tags:
   - source
 ---

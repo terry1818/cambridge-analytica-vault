@@ -23,10 +23,7 @@ publication_date: 2026-05-23
 url: https://en.wikipedia.org/wiki/Bharatiya_Janata_Party
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - BJP
-  - Bharatiya Janata Party
-  - "Wikipedia - BJP"
+aliases: ["BJP", "Bharatiya Janata Party", "Wikipedia - BJP", "Source: Wikipedia - BJP", "Source: BJP", "Source: Bharatiya Janata Party"]
 ---
 
 # Source Wikipedia - BJP

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - JTRIG - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - JTRIG"]
+aliases: ["Source: Source Wikipedia - JTRIG", "Source: Wikipedia - JTRIG"]
 tags:
   - source
 ---

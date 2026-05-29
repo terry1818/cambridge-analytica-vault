@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Varsity Kogan Facebook messages - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Varsity Kogan Facebook messages"]
+aliases: ["Source: Source Varsity Kogan Facebook messages", "Source: Varsity Kogan Facebook messages"]
 tags:
   - source
 ---

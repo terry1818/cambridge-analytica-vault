@@ -12,7 +12,7 @@ tags:
   - topic/info-warfare
   - topic/comparative-authoritarianism
 type: source
-aliases: ["DOJ Butina Indictment 2018"]
+aliases: ["DOJ Butina Indictment 2018", "Source: DOJ Butina Indictment 2018"]
 source_type: court-filing
 title: "United States v. Maria Butina — Criminal Complaint and Indictment"
 author: US Department of Justice (National Security Division; US Attorney's Office, District of Columbia)

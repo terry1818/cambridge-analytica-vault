@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Fortune 2025-12-08 Kushner Paramount - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Fortune 2025-12-08 Kushner Paramount"]
+aliases: ["Source: Source Fortune 2025-12-08 Kushner Paramount", "Source: Fortune 2025-12-08 Kushner Paramount"]
 tags:
   - source
 ---

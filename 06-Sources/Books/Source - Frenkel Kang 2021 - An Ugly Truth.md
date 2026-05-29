@@ -4,7 +4,7 @@ description: NYT investigative account of Facebook's structural failure to addre
 tags: [source, book, facebook, platform-accountability, disinformation]
 type: source
 tier: Tier-2
-aliases: ["Source: Frenkel Kang 2021", "Source Frenkel Kang 2021 An Ugly Truth"]
+aliases: ["Source: Frenkel Kang 2021", "Source Frenkel Kang 2021 An Ugly Truth", "Source: Frenkel Kang 2021 - An Ugly Truth"]
 ---
 
 # Source — An Ugly Truth: Inside Facebook's Battle for Domination (Sheera Frenkel & Cecilia Kang, 2021)

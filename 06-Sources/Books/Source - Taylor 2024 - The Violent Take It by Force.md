@@ -4,7 +4,7 @@ description: Religion scholar Taylor's deep-research account of the New Apostoli
 tags: [source, book, NAR, christian-nationalism, january-6]
 type: source
 tier: Tier-2
-aliases: ["Source: Taylor 2024"]
+aliases: ["Source: Taylor 2024", "Source: Taylor 2024 - The Violent Take It by Force"]
 ---
 
 # Source — The Violent Take It by Force: The Christian Movement That Is Threatening Our Democracy (Matthew D. Taylor, 2024)

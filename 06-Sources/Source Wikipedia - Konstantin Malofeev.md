@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Konstantin Malofeev - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Konstantin Malofeev"]
+aliases: ["Source: Source Wikipedia - Konstantin Malofeev", "Source: Wikipedia - Konstantin Malofeev"]
 tags:
   - source
 ---

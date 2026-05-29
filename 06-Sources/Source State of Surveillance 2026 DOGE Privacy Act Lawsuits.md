@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source State of Surveillance 2026 DOGE Privacy Act Lawsuits - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source State of Surveillance 2026 DOGE Privacy Act Lawsuits"]
+aliases: ["Source: Source State of Surveillance 2026 DOGE Privacy Act Lawsuits", "Source: State of Surveillance 2026 DOGE Privacy Act Lawsuits"]
 tags:
   - source
 ---

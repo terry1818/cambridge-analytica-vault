@@ -18,10 +18,7 @@ url: https://en.wikipedia.org/wiki/The_Free_Press_(Bari_Weiss_media)
 local_path:
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Wikipedia The Free Press
-  - The Free Press (CBS News)
-  - "Wikipedia - The Free Press"
+aliases: ["Wikipedia The Free Press", "The Free Press (CBS News)", "Wikipedia - The Free Press", "Source: Wikipedia - The Free Press", "Source: Wikipedia The Free Press", "Source: The Free Press (CBS News)"]
 ---
 
 # Source Wikipedia - The Free Press

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Patri Friedman - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Patri Friedman"]
+aliases: ["Source: Source Wikipedia - Patri Friedman", "Source: Wikipedia - Patri Friedman"]
 tags:
   - source
 ---

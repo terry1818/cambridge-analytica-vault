@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Business Human Rights Palantir Federal Data Integration - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Business Human Rights Palantir Federal Data Integration"]
+aliases: ["Source: Source Business Human Rights Palantir Federal Data Integration", "Source: Business Human Rights Palantir Federal Data Integration"]
 tags:
   - source
 ---

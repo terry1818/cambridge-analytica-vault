@@ -4,7 +4,7 @@ description: Applebaum's structural analysis of how contemporary autocracies coo
 tags: [source, book, authoritarianism, kleptocracy, transnational]
 type: source
 tier: Tier-2
-aliases: ["Source: Applebaum 2024"]
+aliases: ["Source: Applebaum 2024", "Source: Applebaum 2024 - Autocracy Inc"]
 ---
 
 # Source — Autocracy, Inc.: The Dictators Who Want to Run the World (Anne Applebaum, 2024)

@@ -10,7 +10,7 @@ tags:
   - topic/election-interference
   - topic/info-warfare
 type: source
-aliases: ["Politico AIPAC Spending 2024 Primary"]
+aliases: ["Politico AIPAC Spending 2024 Primary", "Source: Politico AIPAC Spending 2024 Primary"]
 source_type: journalism
 title: "Politico — AIPAC's Record Spending in the 2024 Democratic Primaries"
 author: Politico staff

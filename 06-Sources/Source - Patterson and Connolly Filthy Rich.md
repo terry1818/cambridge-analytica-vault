@@ -6,7 +6,7 @@ tier: 1
 status: stub
 date_created: 2026-05-28
 tags: [source, epstein, stub]
-aliases: ["Patterson and Connolly - Filthy Rich"]
+aliases: ["Source: Patterson and Connolly - Filthy Rich", "Patterson and Connolly - Filthy Rich", "Source: Patterson and Connolly Filthy Rich"]
 ---
 
 # Source: Patterson and Connolly - Filthy Rich

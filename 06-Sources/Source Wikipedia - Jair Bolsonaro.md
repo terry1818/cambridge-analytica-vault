@@ -14,7 +14,7 @@ tags:
   - topic/comparative-authoritarianism
   - topic/election-interference
 type: source
-aliases: ["Wikipedia - Jair Bolsonaro"]
+aliases: ["Wikipedia - Jair Bolsonaro", "Source: Wikipedia - Jair Bolsonaro"]
 source_type: journalism
 title: "Jair Bolsonaro (Wikipedia article)"
 author: Wikipedia contributors

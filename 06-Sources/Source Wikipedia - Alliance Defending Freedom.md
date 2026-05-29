@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Alliance Defending Freedom - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Alliance Defending Freedom"]
+aliases: ["Source: Source Wikipedia - Alliance Defending Freedom", "Source: Wikipedia - Alliance Defending Freedom"]
 tags:
   - source
 ---

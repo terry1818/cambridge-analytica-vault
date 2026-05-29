@@ -18,9 +18,7 @@ url: https://en.wikipedia.org/wiki/Brendan_Carr
 local_path:
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Wikipedia Brendan Carr
-  - "Wikipedia - Brendan Carr"
+aliases: ["Wikipedia Brendan Carr", "Wikipedia - Brendan Carr", "Source: Wikipedia - Brendan Carr", "Source: Wikipedia Brendan Carr"]
 ---
 
 # Source Wikipedia - Brendan Carr

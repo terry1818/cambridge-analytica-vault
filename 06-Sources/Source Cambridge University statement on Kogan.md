@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Cambridge University statement on Kogan - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Cambridge University statement on Kogan"]
+aliases: ["Source: Source Cambridge University statement on Kogan", "Source: Cambridge University statement on Kogan"]
 tags:
   - source
 ---

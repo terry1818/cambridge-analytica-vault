@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Religion Dispatches People You May Know - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Religion Dispatches People You May Know"]
+aliases: ["Source: Source Religion Dispatches People You May Know", "Source: Religion Dispatches People You May Know"]
 tags:
   - source
 ---

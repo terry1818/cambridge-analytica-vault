@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source SPLC FRC Hate Group - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source SPLC FRC Hate Group", "SPLC FRC Hate Group"]
+aliases: ["Source: Source SPLC FRC Hate Group", "SPLC FRC Hate Group", "Source: SPLC FRC Hate Group"]
 tags:
   - source
 ---

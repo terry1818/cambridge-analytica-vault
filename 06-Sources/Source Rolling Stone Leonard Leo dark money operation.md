@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Rolling Stone Leonard Leo dark money operation - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Rolling Stone Leonard Leo dark money operation"]
+aliases: ["Source: Source Rolling Stone Leonard Leo dark money operation", "Source: Rolling Stone Leonard Leo dark money operation"]
 tags:
   - source
 ---

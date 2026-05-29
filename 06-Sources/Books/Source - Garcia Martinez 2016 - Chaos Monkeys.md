@@ -4,7 +4,7 @@ description: Insider memoir by a former Facebook ad-targeting product manager wh
 tags: [source, book, facebook, advertising-technology, microtargeting]
 type: source
 tier: Tier-2
-aliases: ["Source: Garcia Martinez 2016", "Source Garcia Martinez 2016 Chaos Monkeys"]
+aliases: ["Source: Garcia Martinez 2016", "Source Garcia Martinez 2016 Chaos Monkeys", "Source: Garcia Martinez 2016 - Chaos Monkeys"]
 ---
 
 # Source — Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley (Antonio García Martínez, 2016)

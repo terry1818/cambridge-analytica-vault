@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: 'Source: Wikipedia - Federalist Society - vault note (auto-populated from cross-referenced wikilink).'
-aliases: ["Source: Source Wikipedia - Federalist Society", "Wikipedia - Federalist Society"]
+aliases: ["Source: Source Wikipedia - Federalist Society", "Wikipedia - Federalist Society", "Source: Wikipedia - Federalist Society"]
 tags:
   - source
 ---

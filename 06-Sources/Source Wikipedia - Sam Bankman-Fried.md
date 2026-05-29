@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Sam Bankman-Fried - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Sam Bankman-Fried"]
+aliases: ["Source: Source Wikipedia - Sam Bankman-Fried", "Source: Wikipedia - Sam Bankman-Fried"]
 tags:
   - source
 ---

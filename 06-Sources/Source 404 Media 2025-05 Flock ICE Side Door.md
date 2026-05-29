@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source 404 Media 2025-05 Flock ICE Side Door - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source 404 Media 2025-05 Flock ICE Side Door"]
+aliases: ["Source: Source 404 Media 2025-05 Flock ICE Side Door", "Source: 404 Media 2025-05 Flock ICE Side Door"]
 tags:
   - source
 ---

@@ -4,7 +4,7 @@ description: Five-year LAPD ethnography documenting how Palantir and predictive 
 tags: [source, book, surveillance, predictive-policing, palantir]
 type: source
 tier: Tier-2
-aliases: ["Source: Brayne 2020"]
+aliases: ["Source: Brayne 2020", "Source: Brayne 2020 - Predict and Surveil"]
 ---
 
 # Source — Predict and Surveil: Data, Discretion, and the Future of Policing (Sarah Brayne, 2020)

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Erik Prince - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Erik Prince"]
+aliases: ["Source: Source Wikipedia - Erik Prince", "Source: Wikipedia - Erik Prince"]
 tags:
   - source
 ---

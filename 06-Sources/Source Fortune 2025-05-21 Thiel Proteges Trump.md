@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Fortune 2025-05-21 Thiel Proteges Trump - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Fortune 2025-05-21 Thiel Proteges Trump"]
+aliases: ["Source: Source Fortune 2025-05-21 Thiel Proteges Trump", "Source: Fortune 2025-05-21 Thiel Proteges Trump"]
 tags:
   - source
 ---

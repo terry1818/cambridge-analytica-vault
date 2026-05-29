@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source SourceWatch Eric O'Keefe - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source SourceWatch Eric O'Keefe"]
+aliases: ["Source: Source SourceWatch Eric O'Keefe", "Source: SourceWatch Eric O'Keefe"]
 tags:
   - source
 ---

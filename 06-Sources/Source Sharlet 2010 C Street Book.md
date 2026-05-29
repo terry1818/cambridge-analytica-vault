@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Sharlet 2010 C Street Book - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Sharlet 2010 C Street Book"]
+aliases: ["Source: Source Sharlet 2010 C Street Book", "Source: Sharlet 2010 C Street Book"]
 tags:
   - source
 ---

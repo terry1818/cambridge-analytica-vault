@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Affinity Partners - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Affinity Partners", "Wikipedia - Affinity Partners"]
+aliases: ["Source: Source Wikipedia - Affinity Partners", "Wikipedia - Affinity Partners", "Source: Wikipedia - Affinity Partners"]
 tags:
   - source
 ---

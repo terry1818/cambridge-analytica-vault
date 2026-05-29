@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source AP 2023-09-30 Slovak election - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source AP 2023-09-30 Slovak election"]
+aliases: ["Source: Source AP 2023-09-30 Slovak election", "Source: AP 2023-09-30 Slovak election"]
 tags:
   - source
 ---

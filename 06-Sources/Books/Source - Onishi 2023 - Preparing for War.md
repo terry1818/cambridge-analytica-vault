@@ -4,7 +4,7 @@ description: Insider memoir-history tracing white Christian nationalism from the
 tags: [source, book, christian-nationalism, white-nationalism, january-6]
 type: source
 tier: Tier-2
-aliases: ["Source: Onishi 2023"]
+aliases: ["Source: Onishi 2023", "Source: Onishi 2023 - Preparing for War"]
 ---
 
 # Source — Preparing for War: The Extremist History of White Christian Nationalism—and What Comes Next (Bradley Onishi, 2023)

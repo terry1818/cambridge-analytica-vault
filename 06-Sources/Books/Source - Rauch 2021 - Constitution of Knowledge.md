@@ -4,7 +4,7 @@ description: 'Defends the liberal epistemic order — the social institutions an
 tags: [source, book, epistemology, disinformation, information-warfare]
 type: source
 tier: Tier-2
-aliases: ["Source: Rauch 2021"]
+aliases: ["Source: Rauch 2021", "Source: Rauch 2021 - Constitution of Knowledge"]
 ---
 
 # Source — The Constitution of Knowledge: A Defense of Truth (Jonathan Rauch, 2021)

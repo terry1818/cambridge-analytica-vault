@@ -4,7 +4,7 @@ description: Investigative account of Child Evangelism Fellowship's campaign to 
 tags: [source, book, religious-right, education-capture, church-state]
 type: source
 tier: Tier-2
-aliases: ["Source: Stewart 2012"]
+aliases: ["Source: Stewart 2012", "Source: Stewart 2012 - The Good News Club"]
 ---
 
 # Source — The Good News Club: The Christian Right's Stealth Assault on America's Children (Katherine Stewart, 2012)

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Del Bigtree - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Del Bigtree"]
+aliases: ["Source: Source Wikipedia - Del Bigtree", "Source: Wikipedia - Del Bigtree"]
 tags:
   - source
 ---

@@ -4,7 +4,7 @@ description: Foundational political-theoretical analysis of Nazism and Stalinism
 tags: [source, book, totalitarianism, political-theory, fascism-theory]
 type: source
 tier: Tier-2
-aliases: ["Source: Arendt 1951"]
+aliases: ["Source: Arendt 1951", "Source: Arendt 1951 - Origins of Totalitarianism"]
 ---
 
 # Source — The Origins of Totalitarianism (Hannah Arendt, 1951)

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source People You May Know 2020 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source People You May Know 2020", "People You May Know 2020"]
+aliases: ["Source: Source People You May Know 2020", "People You May Know 2020", "Source: People You May Know 2020"]
 tags:
   - source
 ---

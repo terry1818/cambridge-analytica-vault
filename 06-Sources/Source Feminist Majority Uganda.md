@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Feminist Majority Uganda - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Feminist Majority Uganda"]
+aliases: ["Source: Source Feminist Majority Uganda", "Source: Feminist Majority Uganda"]
 tags:
   - source
 ---

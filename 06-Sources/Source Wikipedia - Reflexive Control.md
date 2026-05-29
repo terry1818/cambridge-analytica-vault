@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Reflexive Control - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Reflexive Control"]
+aliases: ["Source: Source Wikipedia - Reflexive Control", "Source: Wikipedia - Reflexive Control"]
 tags:
   - source
 ---

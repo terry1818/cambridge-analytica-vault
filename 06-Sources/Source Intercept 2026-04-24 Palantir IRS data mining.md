@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Intercept 2026-04-24 Palantir IRS data mining - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Intercept 2026-04-24 Palantir IRS data mining"]
+aliases: ["Source: Source Intercept 2026-04-24 Palantir IRS data mining", "Source: Intercept 2026-04-24 Palantir IRS data mining"]
 tags:
   - source
 ---

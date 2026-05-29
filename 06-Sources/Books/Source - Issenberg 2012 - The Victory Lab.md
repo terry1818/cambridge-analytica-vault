@@ -4,7 +4,7 @@ description: Journalist history of how behavioral science and field experiments 
 tags: [source, book, microtargeting, data-driven-campaigns, behavioral-science]
 type: source
 tier: Tier-2
-aliases: ["Source: Issenberg 2012"]
+aliases: ["Source: Issenberg 2012", "Source: Issenberg 2012 - The Victory Lab"]
 ---
 
 # Source — The Victory Lab: The Secret Science of Winning Campaigns (Sasha Issenberg, 2012)

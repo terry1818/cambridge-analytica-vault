@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - CNP - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - CNP"]
+aliases: ["Source: Source Wikipedia - CNP", "Source: Wikipedia - CNP"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source RNZ Kiwi researcher religious right - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source RNZ Kiwi researcher religious right"]
+aliases: ["Source: Source RNZ Kiwi researcher religious right", "Source: RNZ Kiwi researcher religious right"]
 tags:
   - source
 ---

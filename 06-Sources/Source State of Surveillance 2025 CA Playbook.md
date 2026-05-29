@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source State of Surveillance 2025 CA Playbook - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source State of Surveillance 2025 CA Playbook"]
+aliases: ["Source: Source State of Surveillance 2025 CA Playbook", "Source: State of Surveillance 2025 CA Playbook"]
 tags:
   - source
 ---

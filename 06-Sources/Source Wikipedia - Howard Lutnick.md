@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Howard Lutnick - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Howard Lutnick"]
+aliases: ["Source: Source Wikipedia - Howard Lutnick", "Source: Wikipedia - Howard Lutnick"]
 tags:
   - source
 ---

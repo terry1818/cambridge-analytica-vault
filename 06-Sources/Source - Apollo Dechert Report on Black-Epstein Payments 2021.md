@@ -6,7 +6,7 @@ tier: 1
 status: stub
 date_created: 2026-05-28
 tags: [source, epstein, stub]
-aliases: ["Apollo Dechert Report on Black-Epstein Payments 2021"]
+aliases: ["Source: Apollo Dechert Report on Black-Epstein Payments 2021", "Apollo Dechert Report on Black-Epstein Payments 2021"]
 ---
 
 # Source: Apollo Dechert Report on Black-Epstein Payments 2021

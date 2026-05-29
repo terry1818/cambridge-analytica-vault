@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - R. J. Rushdoony - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - R. J. Rushdoony"]
+aliases: ["Source: Source Wikipedia - R. J. Rushdoony", "Source: Wikipedia - R. J. Rushdoony"]
 tags:
   - source
 ---

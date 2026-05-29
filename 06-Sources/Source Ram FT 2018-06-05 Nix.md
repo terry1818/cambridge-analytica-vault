@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Ram FT 2018-06-05 Nix - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Ram FT 2018-06-05 Nix"]
+aliases: ["Source: Source Ram FT 2018-06-05 Nix", "Source: Ram FT 2018-06-05 Nix"]
 tags:
   - source
 ---

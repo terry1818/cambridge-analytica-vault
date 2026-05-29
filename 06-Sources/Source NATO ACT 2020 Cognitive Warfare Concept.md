@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source NATO ACT 2020 Cognitive Warfare Concept - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source NATO ACT 2020 Cognitive Warfare Concept"]
+aliases: ["Source: Source NATO ACT 2020 Cognitive Warfare Concept", "Source: NATO ACT 2020 Cognitive Warfare Concept"]
 tags:
   - source
 ---

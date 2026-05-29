@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Charlie Kirk - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Charlie Kirk"]
+aliases: ["Source: Source Wikipedia - Charlie Kirk", "Source: Wikipedia - Charlie Kirk"]
 tags:
   - source
 ---

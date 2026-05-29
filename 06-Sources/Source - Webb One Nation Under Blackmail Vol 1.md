@@ -6,7 +6,7 @@ tier: 1
 status: stub
 date_created: 2026-05-28
 tags: [source, epstein, stub]
-aliases: ["Webb - One Nation Under Blackmail Vol 1"]
+aliases: ["Source: Webb - One Nation Under Blackmail Vol 1", "Webb - One Nation Under Blackmail Vol 1", "Source: Webb One Nation Under Blackmail Vol 1"]
 ---
 
 # Source: Webb - One Nation Under Blackmail Vol 1

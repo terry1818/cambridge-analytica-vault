@@ -4,7 +4,7 @@ description: Definitive archival history of Soviet and post-Soviet disinformatio
 tags: [source, book, disinformation, russia, active-measures, cold-war]
 type: source
 tier: Tier-2
-aliases: ["Source: Rid 2020"]
+aliases: ["Source: Rid 2020", "Source: Rid 2020 - Active Measures"]
 ---
 
 # Source — Active Measures: The Secret History of Disinformation and Political Warfare (Thomas Rid, 2020)

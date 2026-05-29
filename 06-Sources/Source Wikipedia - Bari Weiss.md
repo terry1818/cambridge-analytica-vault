@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Bari Weiss - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Bari Weiss"]
+aliases: ["Source: Source Wikipedia - Bari Weiss", "Source: Wikipedia - Bari Weiss"]
 tags:
   - source
 ---

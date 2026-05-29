@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Gizmodo Jesus Influencer - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Gizmodo Jesus Influencer"]
+aliases: ["Source: Source Gizmodo Jesus Influencer", "Source: Gizmodo Jesus Influencer"]
 tags:
   - source
 ---

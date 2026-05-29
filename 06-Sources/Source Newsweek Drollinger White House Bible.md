@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Newsweek Drollinger White House Bible - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Newsweek Drollinger White House Bible"]
+aliases: ["Source: Source Newsweek Drollinger White House Bible", "Source: Newsweek Drollinger White House Bible"]
 tags:
   - source
 ---

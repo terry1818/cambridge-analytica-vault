@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Nick Land - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Nick Land"]
+aliases: ["Source: Source Wikipedia - Nick Land", "Source: Wikipedia - Nick Land"]
 tags:
   - source
 ---

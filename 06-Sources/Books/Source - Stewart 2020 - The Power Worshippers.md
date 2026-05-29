@@ -4,7 +4,7 @@ description: Stewart's decade-long investigative account of US religious nationa
 tags: [source, book, christian-nationalism, religious-right, dark-money]
 type: source
 tier: Tier-2
-aliases: ["Source: Stewart 2020", "The Power Worshippers"]
+aliases: ["Source: Stewart 2020", "The Power Worshippers", "Source: Stewart 2020 - The Power Worshippers", "Source: The Power Worshippers"]
 ---
 
 # Source — The Power Worshippers: Inside the Dangerous Rise of Religious Nationalism (Katherine Stewart, 2020)

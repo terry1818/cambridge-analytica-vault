@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Influence Watch - State Policy Network - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Influence Watch - State Policy Network", "Influence Watch - State Policy Network"]
+aliases: ["Source: Source Influence Watch - State Policy Network", "Influence Watch - State Policy Network", "Source: Influence Watch - State Policy Network"]
 tags:
   - source
 ---

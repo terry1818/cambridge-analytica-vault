@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source The Intercept Drollinger Capitol Ministries - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source The Intercept Drollinger Capitol Ministries"]
+aliases: ["Source: Source The Intercept Drollinger Capitol Ministries", "Source: The Intercept Drollinger Capitol Ministries"]
 tags:
   - source
 ---

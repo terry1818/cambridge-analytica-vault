@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source ProPublica Heritage Nonprofit - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source ProPublica Heritage Nonprofit", "ProPublica Heritage Nonprofit"]
+aliases: ["Source: Source ProPublica Heritage Nonprofit", "ProPublica Heritage Nonprofit", "Source: ProPublica Heritage Nonprofit"]
 tags:
   - source
 ---

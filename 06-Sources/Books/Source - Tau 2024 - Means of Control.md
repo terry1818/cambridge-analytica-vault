@@ -4,7 +4,7 @@ description: 'Investigative account of how US government agencies bypassed Fourt
 tags: [source, book, surveillance, data-brokers, federal-database]
 type: source
 tier: Tier-2
-aliases: ["Source: Tau 2024"]
+aliases: ["Source: Tau 2024", "Source: Tau 2024 - Means of Control"]
 ---
 
 # Source — Means of Control: How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State (Byron Tau, 2024)

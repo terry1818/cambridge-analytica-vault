@@ -4,7 +4,7 @@ description: Anderson documents the post-Shelby voter suppression wave state by 
 tags: [source, book, voter-suppression, racial-targeting, Voting-Rights-Act]
 type: source
 tier: Tier-2
-aliases: ["Source: Anderson 2018"]
+aliases: ["Source: Anderson 2018", "Source: Anderson 2018 - One Person No Vote"]
 ---
 
 # Source — One Person, No Vote: How Voter Suppression Is Destroying Our Democracy (Carol Anderson, 2018)

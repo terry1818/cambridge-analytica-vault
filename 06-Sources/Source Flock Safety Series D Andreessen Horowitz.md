@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Flock Safety Series D Andreessen Horowitz - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Flock Safety Series D Andreessen Horowitz", "Flock Safety Series D Andreessen Horowitz"]
+aliases: ["Source: Source Flock Safety Series D Andreessen Horowitz", "Flock Safety Series D Andreessen Horowitz", "Source: Flock Safety Series D Andreessen Horowitz"]
 tags:
   - source
 ---

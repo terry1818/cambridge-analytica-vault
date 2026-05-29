@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Andreessen Horowitz - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Andreessen Horowitz"]
+aliases: ["Source: Source Wikipedia - Andreessen Horowitz", "Source: Wikipedia - Andreessen Horowitz"]
 tags:
   - source
 ---

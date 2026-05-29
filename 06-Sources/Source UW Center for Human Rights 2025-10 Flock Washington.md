@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source UW Center for Human Rights 2025-10 Flock Washington - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source UW Center for Human Rights 2025-10 Flock Washington"]
+aliases: ["Source: Source UW Center for Human Rights 2025-10 Flock Washington", "Source: UW Center for Human Rights 2025-10 Flock Washington"]
 tags:
   - source
 ---

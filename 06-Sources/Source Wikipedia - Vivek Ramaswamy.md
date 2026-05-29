@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Vivek Ramaswamy - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Vivek Ramaswamy"]
+aliases: ["Source: Source Wikipedia - Vivek Ramaswamy", "Source: Wikipedia - Vivek Ramaswamy"]
 tags:
   - source
 ---

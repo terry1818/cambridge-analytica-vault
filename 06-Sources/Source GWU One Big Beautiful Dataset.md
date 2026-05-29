@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source GWU One Big Beautiful Dataset - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source GWU One Big Beautiful Dataset"]
+aliases: ["Source: Source GWU One Big Beautiful Dataset", "Source: GWU One Big Beautiful Dataset"]
 tags:
   - source
 ---

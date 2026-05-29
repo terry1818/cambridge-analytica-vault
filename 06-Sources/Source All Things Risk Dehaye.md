@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source All Things Risk Dehaye - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source All Things Risk Dehaye"]
+aliases: ["Source: Source All Things Risk Dehaye", "Source: All Things Risk Dehaye"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Heritage Foundation Mandate for Leadership 2023 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Heritage Foundation Mandate for Leadership 2023"]
+aliases: ["Source: Source Heritage Foundation Mandate for Leadership 2023", "Source: Heritage Foundation Mandate for Leadership 2023"]
 tags:
   - source
 ---

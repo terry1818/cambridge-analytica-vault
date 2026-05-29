@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Brennan Center Article V Bad Idea - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Brennan Center Article V Bad Idea"]
+aliases: ["Source: Source Brennan Center Article V Bad Idea", "Source: Brennan Center Article V Bad Idea"]
 tags:
   - source
 ---

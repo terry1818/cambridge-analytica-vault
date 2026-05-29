@@ -11,7 +11,7 @@ tags:
   - topic/patron-wing
   - topic/democratic-backsliding
 type: source
-aliases: ["Wikipedia - Javier Milei"]
+aliases: ["Wikipedia - Javier Milei", "Source: Wikipedia - Javier Milei"]
 source_type: journalism
 title: "Javier Milei (Wikipedia article)"
 author: Wikipedia contributors

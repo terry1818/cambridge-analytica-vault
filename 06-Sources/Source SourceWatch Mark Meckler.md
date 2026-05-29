@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source SourceWatch Mark Meckler - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source SourceWatch Mark Meckler"]
+aliases: ["Source: Source SourceWatch Mark Meckler", "Source: SourceWatch Mark Meckler"]
 tags:
   - source
 ---

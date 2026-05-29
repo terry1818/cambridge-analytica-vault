@@ -18,8 +18,7 @@ url: https://en.wikipedia.org/wiki/Megan_Ellison
 local_path:
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Wikipedia Megan Ellison
+aliases: ["Wikipedia Megan Ellison", "Source: Wikipedia - Megan Ellison", "Source: Wikipedia Megan Ellison"]
 ---
 
 # Source Wikipedia - Megan Ellison

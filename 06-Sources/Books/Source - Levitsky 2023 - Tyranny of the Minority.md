@@ -4,7 +4,7 @@ description: Structural critique of US counter-majoritarian institutions (Electo
 tags: [source, book, democratic-backsliding, minority-rule, constitutional-reform]
 type: source
 tier: Tier-2
-aliases: ["Source: Levitsky 2023"]
+aliases: ["Source: Levitsky 2023", "Source: Levitsky 2023 - Tyranny of the Minority"]
 ---
 
 # Source — Tyranny of the Minority: Why American Democracy Reached the Breaking Point (Steven Levitsky & Daniel Ziblatt, 2023)

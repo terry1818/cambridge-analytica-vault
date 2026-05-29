@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Council for National Policy - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Council for National Policy"]
+aliases: ["Source: Source Wikipedia - Council for National Policy", "Source: Wikipedia - Council for National Policy"]
 tags:
   - source
 ---

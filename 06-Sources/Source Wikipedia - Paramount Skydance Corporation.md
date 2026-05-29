@@ -17,9 +17,7 @@ url: https://en.wikipedia.org/wiki/Paramount_Skydance
 local_path:
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Source Wikipedia - Paramount Skydance
-  - Wikipedia Paramount Skydance Corporation
+aliases: ["Source Wikipedia - Paramount Skydance", "Wikipedia Paramount Skydance Corporation", "Source: Wikipedia - Paramount Skydance Corporation", "Source: Wikipedia Paramount Skydance Corporation"]
 ---
 
 # Source Wikipedia - Paramount Skydance Corporation

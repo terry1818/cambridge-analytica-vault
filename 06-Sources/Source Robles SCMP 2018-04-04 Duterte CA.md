@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Robles SCMP 2018-04-04 Duterte CA - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Robles SCMP 2018-04-04 Duterte CA"]
+aliases: ["Source: Source Robles SCMP 2018-04-04 Duterte CA", "Source: Robles SCMP 2018-04-04 Duterte CA"]
 tags:
   - source
 ---

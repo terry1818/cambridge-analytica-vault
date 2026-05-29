@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Citizens for Self-Governance - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Citizens for Self-Governance"]
+aliases: ["Source: Source Wikipedia - Citizens for Self-Governance", "Source: Wikipedia - Citizens for Self-Governance"]
 tags:
   - source
 ---

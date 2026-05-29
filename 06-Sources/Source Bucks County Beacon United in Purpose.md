@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Bucks County Beacon United in Purpose - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Bucks County Beacon United in Purpose"]
+aliases: ["Source: Source Bucks County Beacon United in Purpose", "Source: Bucks County Beacon United in Purpose"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source NAR Christian Nationalism Statement 2022 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source NAR Christian Nationalism Statement 2022", "NAR Christian Nationalism Statement 2022"]
+aliases: ["Source: Source NAR Christian Nationalism Statement 2022", "NAR Christian Nationalism Statement 2022", "Source: NAR Christian Nationalism Statement 2022"]
 tags:
   - source
 ---

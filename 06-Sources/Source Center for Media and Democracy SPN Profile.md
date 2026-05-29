@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Center for Media and Democracy SPN Profile - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Center for Media and Democracy SPN Profile"]
+aliases: ["Source: Source Center for Media and Democracy SPN Profile", "Source: Center for Media and Democracy SPN Profile"]
 tags:
   - source
 ---

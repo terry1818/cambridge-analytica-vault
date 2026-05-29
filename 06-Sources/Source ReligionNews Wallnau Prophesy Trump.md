@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source ReligionNews Wallnau Prophesy Trump - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source ReligionNews Wallnau Prophesy Trump", "ReligionNews Wallnau Prophesy Trump"]
+aliases: ["Source: Source ReligionNews Wallnau Prophesy Trump", "ReligionNews Wallnau Prophesy Trump", "Source: ReligionNews Wallnau Prophesy Trump"]
 tags:
   - source
 ---

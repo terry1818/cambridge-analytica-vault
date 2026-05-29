@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source PRA Dominionism Rising - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source PRA Dominionism Rising"]
+aliases: ["Source: Source PRA Dominionism Rising", "Source: PRA Dominionism Rising"]
 tags:
   - source
 ---

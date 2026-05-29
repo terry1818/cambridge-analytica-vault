@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source GRC Carroll interview - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source GRC Carroll interview"]
+aliases: ["Source: Source GRC Carroll interview", "Source: GRC Carroll interview"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Cre8 No H8 United in Purpose - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Cre8 No H8 United in Purpose"]
+aliases: ["Source: Source Cre8 No H8 United in Purpose", "Source: Cre8 No H8 United in Purpose"]
 tags:
   - source
 ---

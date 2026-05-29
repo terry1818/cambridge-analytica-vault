@@ -19,6 +19,7 @@ accessed: 2026-05-23
 reliability: high
 aliases:
   - NYT Skydance Paramount Merger 2024
+  - "Source: NYT Skydance Paramount Merger 2024"
 ---
 
 # Source NYT Skydance Paramount Merger 2024

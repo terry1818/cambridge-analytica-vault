@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - List of Article V state applications - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - List of Article V state applications"]
+aliases: ["Source: Source Wikipedia - List of Article V state applications", "Source: Wikipedia - List of Article V state applications"]
 tags:
   - source
 ---

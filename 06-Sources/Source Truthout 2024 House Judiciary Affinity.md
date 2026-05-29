@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Truthout 2024 House Judiciary Affinity - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Truthout 2024 House Judiciary Affinity"]
+aliases: ["Source: Source Truthout 2024 House Judiciary Affinity", "Source: Truthout 2024 House Judiciary Affinity"]
 tags:
   - source
 ---

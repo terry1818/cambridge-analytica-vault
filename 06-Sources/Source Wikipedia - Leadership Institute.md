@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Leadership Institute - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Leadership Institute", "Wikipedia - Leadership Institute"]
+aliases: ["Source: Source Wikipedia - Leadership Institute", "Wikipedia - Leadership Institute", "Source: Wikipedia - Leadership Institute"]
 tags:
   - source
 ---

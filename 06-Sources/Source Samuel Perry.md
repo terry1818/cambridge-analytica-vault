@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Samuel Perry - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Samuel Perry"]
+aliases: ["Source: Source Samuel Perry", "Source: Samuel Perry"]
 tags:
   - source
 ---

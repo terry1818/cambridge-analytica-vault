@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source SourceWatch The 85 Fund - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source SourceWatch The 85 Fund"]
+aliases: ["Source: Source SourceWatch The 85 Fund", "Source: SourceWatch The 85 Fund"]
 tags:
   - source
 ---

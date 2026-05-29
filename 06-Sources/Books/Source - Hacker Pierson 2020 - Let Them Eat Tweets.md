@@ -4,7 +4,7 @@ description: 'Political science account of how an economically plutocratic Repub
 tags: [source, book, patron-class, electoral-strategy, inequality]
 type: source
 tier: Tier-2
-aliases: ["Source: Hacker Pierson 2020"]
+aliases: ["Source: Hacker Pierson 2020", "Source: Hacker Pierson 2020 - Let Them Eat Tweets"]
 ---
 
 # Source — Let Them Eat Tweets: How the Right Rules in an Age of Extreme Inequality (Jacob S. Hacker & Paul Pierson, 2020)

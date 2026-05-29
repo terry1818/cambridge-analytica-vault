@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source NOTUS 2025 Leonard Leo Concord Fund - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source NOTUS 2025 Leonard Leo Concord Fund"]
+aliases: ["Source: Source NOTUS 2025 Leonard Leo Concord Fund", "Source: NOTUS 2025 Leonard Leo Concord Fund"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Robert Mercer - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Robert Mercer"]
+aliases: ["Source: Source Wikipedia - Robert Mercer", "Source: Wikipedia - Robert Mercer"]
 tags:
   - source
 ---

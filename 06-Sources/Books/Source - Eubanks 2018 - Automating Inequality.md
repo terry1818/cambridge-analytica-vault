@@ -4,7 +4,7 @@ description: Three case studies — Indiana welfare automation, Los Angeles home
 tags: [source, book, algorithmic-harm, welfare-state, surveillance]
 type: source
 tier: Tier-2
-aliases: ["Source: Eubanks 2018"]
+aliases: ["Source: Eubanks 2018", "Source: Eubanks 2018 - Automating Inequality"]
 ---
 
 # Source — Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor (Virginia Eubanks, 2018)

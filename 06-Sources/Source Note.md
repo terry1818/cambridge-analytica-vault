@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Note - vault navigation node.
-aliases: ["Source: Source Note"]
+aliases: ["Source: Source Note", "Source: Note"]
 tags:
   - entity
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Fortune 2018-05-06 CA Reborn - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Fortune 2018-05-06 CA Reborn"]
+aliases: ["Source: Source Fortune 2018-05-06 CA Reborn", "Source: Fortune 2018-05-06 CA Reborn"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Palantir Technologies - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Palantir Technologies", "Wikipedia - Palantir Technologies"]
+aliases: ["Source: Source Wikipedia - Palantir Technologies", "Wikipedia - Palantir Technologies", "Source: Wikipedia - Palantir Technologies"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Baptist News He Gets Us - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Baptist News He Gets Us"]
+aliases: ["Source: Source Baptist News He Gets Us", "Source: Baptist News He Gets Us"]
 tags:
   - source
 ---

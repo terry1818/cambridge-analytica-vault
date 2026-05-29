@@ -4,7 +4,7 @@ description: 'Yale philosopher''s ten-pillar analytical framework for identifyin
 tags: [source, book, fascism, authoritarianism, analytical-framework]
 type: source
 tier: Tier-2
-aliases: ["Source: Stanley 2018", "Source Stanley 2018 How Fascism Works"]
+aliases: ["Source: Stanley 2018", "Source Stanley 2018 How Fascism Works", "Source: Stanley 2018 - How Fascism Works"]
 ---
 
 # Source — How Fascism Works: The Politics of Us and Them (Jason Stanley, 2018)

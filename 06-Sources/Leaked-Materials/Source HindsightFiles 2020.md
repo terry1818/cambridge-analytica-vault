@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: 100,000+ documents released by Brittany Kaiser via @HindsightFiles Twitter starting 2020-01-04 — the largest CA-related leak after Wylie's 2018 disclosures
-aliases: ["Source: Source HindsightFiles 2020", "HindsightFiles 2020"]
+aliases: ["Source: Source HindsightFiles 2020", "HindsightFiles 2020", "Source: HindsightFiles 2020"]
 tags: [source, evidence/leak, evidence/whistleblower-testimony, topic/cambridge-analytica, era/2018-2020, era/2020-2024]
 type: source
 source_type: leak

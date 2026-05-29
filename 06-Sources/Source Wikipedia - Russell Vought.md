@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Russell Vought - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Russell Vought"]
+aliases: ["Source: Source Wikipedia - Russell Vought", "Source: Wikipedia - Russell Vought"]
 tags:
   - source
 ---

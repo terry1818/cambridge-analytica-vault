@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Heritage Foundation - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Heritage Foundation", "Wikipedia - Heritage Foundation"]
+aliases: ["Source: Source Wikipedia - Heritage Foundation", "Wikipedia - Heritage Foundation", "Source: Wikipedia - Heritage Foundation"]
 tags:
   - source
 ---

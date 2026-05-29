@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source SourceWatch CNP - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source SourceWatch CNP"]
+aliases: ["Source: Source SourceWatch CNP", "Source: SourceWatch CNP"]
 tags:
   - source
 ---

@@ -4,7 +4,7 @@ description: Tulane business professor recovers the suppressed or sanitised orig
 tags: [source, book, tech-power, big-tech, venture-capital]
 type: source
 tier: Tier-2
-aliases: ["Source: Lalka 2024"]
+aliases: ["Source: Lalka 2024", "Source: Lalka 2024 - The Venture Alchemists"]
 ---
 
 # Source — The Venture Alchemists: How Big Tech Turned Profits into Power (Rob Lalka, 2024)

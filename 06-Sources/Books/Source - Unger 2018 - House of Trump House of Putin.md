@@ -4,7 +4,7 @@ description: Investigative account arguing that Russian organised crime systemat
 tags: [source, book, russia, trump, kleptocracy]
 type: source
 tier: Tier-3
-aliases: ["Source: Unger 2018"]
+aliases: ["Source: Unger 2018", "Source: Unger 2018 - House of Trump House of Putin"]
 ---
 
 # Source — House of Trump, House of Putin: The Untold Story of Donald Trump and the Russian Mafia (Craig Unger, 2018)

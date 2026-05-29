@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: The Week aggregating Channel 4 sting coverage
-aliases: ["Source: Source Channel 4 2018-03-19 Cambridge Analytica dirty tricks"]
+aliases: ["Source: Source Channel 4 2018-03-19 Cambridge Analytica dirty tricks", "Source: Channel 4 2018-03-19 Cambridge Analytica dirty tricks"]
 tags: [source, evidence/journalism, era/2016-2018]
 type: source
 source_type: journalism

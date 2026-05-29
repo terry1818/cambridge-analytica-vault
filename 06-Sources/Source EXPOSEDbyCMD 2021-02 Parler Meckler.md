@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source EXPOSEDbyCMD 2021-02 Parler Meckler - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source EXPOSEDbyCMD 2021-02 Parler Meckler"]
+aliases: ["Source: Source EXPOSEDbyCMD 2021-02 Parler Meckler", "Source: EXPOSEDbyCMD 2021-02 Parler Meckler"]
 tags:
   - source
 ---

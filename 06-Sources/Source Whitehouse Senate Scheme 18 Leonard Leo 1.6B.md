@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Whitehouse Senate Scheme 18 Leonard Leo 1.6B - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Whitehouse Senate Scheme 18 Leonard Leo 1.6B"]
+aliases: ["Source: Source Whitehouse Senate Scheme 18 Leonard Leo 1.6B", "Source: Whitehouse Senate Scheme 18 Leonard Leo 1.6B"]
 tags:
   - source
 ---

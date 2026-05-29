@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Claremont Institute - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Claremont Institute"]
+aliases: ["Source: Source Wikipedia - Claremont Institute", "Source: Wikipedia - Claremont Institute"]
 tags:
   - source
 ---

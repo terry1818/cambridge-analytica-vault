@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source New Republic CNP Shadow Network - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source New Republic CNP Shadow Network"]
+aliases: ["Source: Source New Republic CNP Shadow Network", "Source: New Republic CNP Shadow Network"]
 tags:
   - source
 ---

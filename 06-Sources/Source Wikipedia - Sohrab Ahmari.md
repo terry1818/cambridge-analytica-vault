@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Sohrab Ahmari - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Sohrab Ahmari"]
+aliases: ["Source: Source Wikipedia - Sohrab Ahmari", "Source: Wikipedia - Sohrab Ahmari"]
 tags:
   - source
 ---

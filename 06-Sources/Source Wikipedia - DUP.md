@@ -21,10 +21,7 @@ publication_date: 2026-05-23
 url: https://en.wikipedia.org/wiki/Democratic_Unionist_Party
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - DUP
-  - Democratic Unionist Party
-  - "Wikipedia - DUP"
+aliases: ["DUP", "Democratic Unionist Party", "Wikipedia - DUP", "Source: Wikipedia - DUP", "Source: DUP", "Source: Democratic Unionist Party"]
 ---
 
 # Source Wikipedia - DUP

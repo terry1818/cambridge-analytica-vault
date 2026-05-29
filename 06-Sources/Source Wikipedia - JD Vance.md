@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - JD Vance - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - JD Vance"]
+aliases: ["Source: Source Wikipedia - JD Vance", "Source: Wikipedia - JD Vance"]
 tags:
   - source
 ---

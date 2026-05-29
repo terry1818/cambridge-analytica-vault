@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source New Republic 2024 Leonard Leo 85 Fund letter - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source New Republic 2024 Leonard Leo 85 Fund letter"]
+aliases: ["Source: Source New Republic 2024 Leonard Leo 85 Fund letter", "Source: New Republic 2024 Leonard Leo 85 Fund letter"]
 tags:
   - source
 ---

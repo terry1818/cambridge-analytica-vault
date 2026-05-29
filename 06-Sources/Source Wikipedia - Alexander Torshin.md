@@ -21,9 +21,7 @@ publication_date: 2026-05-23
 url: https://en.wikipedia.org/wiki/Alexander_Torshin
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Aleksandr Torshin
-  - "Wikipedia - Alexander Torshin"
+aliases: ["Aleksandr Torshin", "Wikipedia - Alexander Torshin", "Source: Wikipedia - Alexander Torshin", "Source: Aleksandr Torshin"]
 ---
 
 # Source Wikipedia - Alexander Torshin

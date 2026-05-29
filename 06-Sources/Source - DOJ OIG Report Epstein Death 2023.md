@@ -6,7 +6,7 @@ tier: 1
 status: stub
 date_created: 2026-05-28
 tags: [source, epstein, stub]
-aliases: ["DOJ OIG Report Epstein Death 2023"]
+aliases: ["Source: DOJ OIG Report Epstein Death 2023", "DOJ OIG Report Epstein Death 2023"]
 ---
 
 # Source: DOJ OIG Report Epstein Death 2023

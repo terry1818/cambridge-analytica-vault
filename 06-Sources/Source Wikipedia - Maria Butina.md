@@ -13,7 +13,7 @@ tags:
   - topic/election-interference
   - topic/info-warfare
 type: source
-aliases: ["Wikipedia - Maria Butina"]
+aliases: ["Wikipedia - Maria Butina", "Source: Wikipedia - Maria Butina"]
 source_type: journalism
 title: "Maria Butina (Wikipedia article)"
 author: Wikipedia contributors

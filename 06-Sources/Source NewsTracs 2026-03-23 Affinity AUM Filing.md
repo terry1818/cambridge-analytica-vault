@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source NewsTracs 2026-03-23 Affinity AUM Filing - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source NewsTracs 2026-03-23 Affinity AUM Filing"]
+aliases: ["Source: Source NewsTracs 2026-03-23 Affinity AUM Filing", "Source: NewsTracs 2026-03-23 Affinity AUM Filing"]
 tags:
   - source
 ---

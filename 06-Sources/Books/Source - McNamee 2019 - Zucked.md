@@ -4,7 +4,7 @@ description: Early Facebook investor and mentor to Zuckerberg turns hostile witn
 tags: [source, book, facebook, surveillance-capitalism, platform-power]
 type: source
 tier: Tier-2
-aliases: ["Source: McNamee 2019", "Source McNamee 2019 Zucked"]
+aliases: ["Source: McNamee 2019", "Source McNamee 2019 Zucked", "Source: McNamee 2019 - Zucked"]
 ---
 
 # Source — Zucked: Waking Up to the Facebook Catastrophe (Roger McNamee, 2019)

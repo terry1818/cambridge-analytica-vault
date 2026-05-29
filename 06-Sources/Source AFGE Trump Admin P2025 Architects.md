@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source AFGE Trump Admin P2025 Architects - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source AFGE Trump Admin P2025 Architects"]
+aliases: ["Source: Source AFGE Trump Admin P2025 Architects", "Source: AFGE Trump Admin P2025 Architects"]
 tags:
   - source
 ---

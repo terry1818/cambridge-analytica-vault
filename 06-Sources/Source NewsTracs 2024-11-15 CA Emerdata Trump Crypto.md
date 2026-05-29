@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source NewsTracs 2024-11-15 CA Emerdata Trump Crypto - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source NewsTracs 2024-11-15 CA Emerdata Trump Crypto"]
+aliases: ["Source: Source NewsTracs 2024-11-15 CA Emerdata Trump Crypto", "Source: NewsTracs 2024-11-15 CA Emerdata Trump Crypto"]
 tags:
   - source
 ---

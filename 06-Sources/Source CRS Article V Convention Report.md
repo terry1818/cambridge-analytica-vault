@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source CRS Article V Convention Report - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source CRS Article V Convention Report"]
+aliases: ["Source: Source CRS Article V Convention Report", "Source: CRS Article V Convention Report"]
 tags:
   - source
 ---

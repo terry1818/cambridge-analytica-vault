@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source The Family Netflix 2019 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source The Family Netflix 2019"]
+aliases: ["Source: Source The Family Netflix 2019", "Source: The Family Netflix 2019"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Lessig Making Article V Safe - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Lessig Making Article V Safe"]
+aliases: ["Source: Source Lessig Making Article V Safe", "Source: Lessig Making Article V Safe"]
 tags:
   - source
 ---

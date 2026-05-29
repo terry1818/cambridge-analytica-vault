@@ -4,7 +4,7 @@ description: Investigative history of how race, xenophobia, and white Christian 
 tags: [source, book, christian-nationalism, religious-right, trump]
 type: source
 tier: Tier-2
-aliases: ["Source: Posner 2020"]
+aliases: ["Source: Posner 2020", "Source: Posner 2020 - Unholy"]
 ---
 
 # Source — Unholy: Why White Evangelicals Worship at the Altar of Donald Trump (Sarah Posner, 2020)

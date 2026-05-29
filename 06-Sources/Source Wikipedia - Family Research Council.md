@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Family Research Council - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Family Research Council"]
+aliases: ["Source: Source Wikipedia - Family Research Council", "Source: Wikipedia - Family Research Council"]
 tags:
   - source
 ---

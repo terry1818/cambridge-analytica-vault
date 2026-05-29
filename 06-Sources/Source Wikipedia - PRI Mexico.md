@@ -18,11 +18,7 @@ publication_date: 2026-05-23
 url: https://en.wikipedia.org/wiki/Institutional_Revolutionary_Party
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - PRI
-  - Institutional Revolutionary Party
-  - Partido Revolucionario Institucional
-  - "Wikipedia - PRI Mexico"
+aliases: ["PRI", "Institutional Revolutionary Party", "Partido Revolucionario Institucional", "Wikipedia - PRI Mexico", "Source: Wikipedia - PRI Mexico", "Source: PRI", "Source: Institutional Revolutionary Party", "Source: Partido Revolucionario Institucional"]
 ---
 
 # Source Wikipedia - PRI Mexico

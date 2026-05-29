@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: UK Electoral Commission report finding Vote Leave illegally coordinated spending with BeLeave
-aliases: ["Source: Source UK Electoral Commission Vote Leave 2018"]
+aliases: ["Source: Source UK Electoral Commission Vote Leave 2018", "Source: UK Electoral Commission Vote Leave 2018"]
 tags: [source, evidence/primary-document, evidence/investigation-report, topic/brexit, era/2016-2018, jurisdiction/uk]
 type: source
 source_type: primary-document

@@ -4,7 +4,7 @@ description: Narrative history of the early 1990s as the incubation period for A
 tags: [source, book, far-right-history, proto-MAGA, 1990s]
 type: source
 tier: Tier-2
-aliases: ["Source: Ganz 2024"]
+aliases: ["Source: Ganz 2024", "Source: Ganz 2024 - When the Clock Broke"]
 ---
 
 # Source — When the Clock Broke: Con Men, Conspiracists, and How America Cracked Up in the Early 1990s (John Ganz, 2024)

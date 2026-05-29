@@ -6,7 +6,7 @@ tier: 1
 status: stub
 date_created: 2026-05-28
 tags: [source, epstein, stub]
-aliases: ["2007 Non-Prosecution Agreement"]
+aliases: ["Source: 2007 Non-Prosecution Agreement", "2007 Non-Prosecution Agreement"]
 ---
 
 # Source: 2007 Non-Prosecution Agreement

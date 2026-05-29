@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source ALEC Convention of States Explained - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source ALEC Convention of States Explained", "ALEC Convention of States Explained"]
+aliases: ["Source: Source ALEC Convention of States Explained", "ALEC Convention of States Explained", "Source: ALEC Convention of States Explained"]
 tags:
   - source
 ---

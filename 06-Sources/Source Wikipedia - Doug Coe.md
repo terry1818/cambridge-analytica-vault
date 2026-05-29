@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Doug Coe - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Doug Coe"]
+aliases: ["Source: Source Wikipedia - Doug Coe", "Source: Wikipedia - Doug Coe"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source CBC AIQ Brexit Cruz - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source CBC AIQ Brexit Cruz"]
+aliases: ["Source: Source CBC AIQ Brexit Cruz", "Source: CBC AIQ Brexit Cruz"]
 tags:
   - source
 ---

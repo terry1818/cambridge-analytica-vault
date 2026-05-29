@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Susie Wiles - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Susie Wiles"]
+aliases: ["Source: Source Wikipedia - Susie Wiles", "Source: Wikipedia - Susie Wiles"]
 tags:
   - source
 ---

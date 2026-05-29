@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Julian Assange - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Julian Assange"]
+aliases: ["Source: Source Wikipedia - Julian Assange", "Source: Wikipedia - Julian Assange"]
 tags:
   - source
 ---

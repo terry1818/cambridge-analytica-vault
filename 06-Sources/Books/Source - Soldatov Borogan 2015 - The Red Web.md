@@ -4,7 +4,7 @@ description: Definitive investigative account of Russia's internet-surveillance 
 tags: [source, book, russia, surveillance, digital-control]
 type: source
 tier: Tier-2
-aliases: ["Source: Soldatov Borogan 2015"]
+aliases: ["Source: Soldatov Borogan 2015", "Source: Soldatov Borogan 2015 - The Red Web"]
 ---
 
 # Source — The Red Web: The Struggle Between Russia's Digital Dictators and the New Online Revolutionaries (Andrei Soldatov & Irina Borogan, 2015)

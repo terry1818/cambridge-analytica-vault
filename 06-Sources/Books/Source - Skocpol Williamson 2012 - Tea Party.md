@@ -4,7 +4,7 @@ description: Mixed-methods sociology of the Tea Party movement showing its three
 tags: [source, book, tea-party, koch-network, grassroots-astroturf]
 type: source
 tier: Tier-2
-aliases: ["Source: Skocpol Williamson 2012"]
+aliases: ["Source: Skocpol Williamson 2012", "Source: Skocpol Williamson 2012 - Tea Party"]
 ---
 
 # Source — The Tea Party and the Remaking of Republican Conservatism (Theda Skocpol & Vanessa Williamson, 2012)

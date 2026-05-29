@@ -4,7 +4,7 @@ description: Legal-historical analysis of Article V's convention mechanism and t
 tags: [source, book, article-v, convention-of-states, constitutional-law]
 type: source
 tier: Tier-2
-aliases: ["Source: Feingold 2022", "Feingold 2022 - The Constitution in Jeopardy"]
+aliases: ["Source: Feingold 2022", "Feingold 2022 - The Constitution in Jeopardy", "Source: Feingold 2022 - The Constitution in Jeopardy"]
 ---
 
 # Source — The Constitution in Jeopardy: An Unprecedented Effort to Rewrite Our Fundamental Law and What We Can Do About It (Russ Feingold & Peter Prindiville, 2022)

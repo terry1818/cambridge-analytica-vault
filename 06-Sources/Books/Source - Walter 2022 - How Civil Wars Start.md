@@ -4,7 +4,7 @@ description: Political scientist applies comparative civil-war research to the c
 tags: [source, book, civil-war, political-violence, democratic-backsliding]
 type: source
 tier: Tier-2
-aliases: ["Source: Walter 2022"]
+aliases: ["Source: Walter 2022", "Source: Walter 2022 - How Civil Wars Start"]
 ---
 
 # Source — How Civil Wars Start: And How to Stop Them (Barbara F. Walter, 2022)

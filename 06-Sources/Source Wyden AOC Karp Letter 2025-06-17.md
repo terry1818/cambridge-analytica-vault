@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wyden AOC Karp Letter 2025-06-17 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wyden AOC Karp Letter 2025-06-17"]
+aliases: ["Source: Source Wyden AOC Karp Letter 2025-06-17", "Source: Wyden AOC Karp Letter 2025-06-17"]
 tags:
   - source
 ---

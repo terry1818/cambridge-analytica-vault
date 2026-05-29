@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Palantir Blog 2025-05-30 NYT Response - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Palantir Blog 2025-05-30 NYT Response"]
+aliases: ["Source: Source Palantir Blog 2025-05-30 NYT Response", "Source: Palantir Blog 2025-05-30 NYT Response"]
 tags:
   - source
 ---

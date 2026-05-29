@@ -4,7 +4,7 @@ description: Empirical study of 2016 US political media showing a structurally a
 tags: [source, book, disinformation, media-ecosystem, asymmetric-polarization]
 type: source
 tier: Tier-2
-aliases: ["Source: Benkler 2018", "Source Benkler Faris Roberts 2018 Network Propaganda"]
+aliases: ["Source: Benkler 2018", "Source Benkler Faris Roberts 2018 Network Propaganda", "Source: Benkler Faris Roberts 2018 - Network Propaganda"]
 ---
 
 # Source — Network Propaganda: Manipulation, Disinformation, and Radicalization in American Politics (Yochai Benkler, Robert Faris & Hal Roberts, 2018)

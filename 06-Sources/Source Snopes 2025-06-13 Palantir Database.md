@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Snopes 2025-06-13 Palantir Database - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Snopes 2025-06-13 Palantir Database"]
+aliases: ["Source: Source Snopes 2025-06-13 Palantir Database", "Source: Snopes 2025-06-13 Palantir Database"]
 tags:
   - source
 ---

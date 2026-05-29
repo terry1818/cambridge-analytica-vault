@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Elon Musk - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Elon Musk"]
+aliases: ["Source: Source Wikipedia - Elon Musk", "Source: Wikipedia - Elon Musk"]
 tags:
   - source
 ---

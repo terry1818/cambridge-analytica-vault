@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: NYT's joint-break with Cadwalladr's Observer piece — the article that confirmed CA retained the harvested data despite signed deletion certifications
-aliases: ["Source: Source Rosenberg et al 2018-03-17 NYT", "Rosenberg et al 2018-03-17 NYT"]
+aliases: ["Source: Source Rosenberg et al 2018-03-17 NYT", "Rosenberg et al 2018-03-17 NYT", "Source: Rosenberg et al 2018-03-17 NYT"]
 tags: [source, evidence/journalism, topic/cambridge-analytica, topic/facebook-data, era/2016-2018]
 type: source
 source_type: journalism

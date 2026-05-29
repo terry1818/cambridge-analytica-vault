@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Anthropic - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Anthropic"]
+aliases: ["Source: Source Wikipedia - Anthropic", "Source: Wikipedia - Anthropic"]
 tags:
   - source
 ---

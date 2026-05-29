@@ -4,7 +4,7 @@ description: Investigative account of how ex-KGB siloviki around Putin captured 
 tags: [source, book, russia, kleptocracy, active-measures]
 type: source
 tier: Tier-2
-aliases: ["Source: Belton 2020"]
+aliases: ["Source: Belton 2020", "Source: Belton 2020 - Putin's People"]
 ---
 
 # Source — Putin's People: How the KGB Took Back Russia and Then Took On the West (Catherine Belton, 2020)

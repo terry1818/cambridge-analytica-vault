@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Taking America Back for God - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Taking America Back for God"]
+aliases: ["Source: Source Taking America Back for God", "Source: Taking America Back for God"]
 tags:
   - source
 ---

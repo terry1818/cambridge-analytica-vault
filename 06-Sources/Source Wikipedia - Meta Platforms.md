@@ -20,10 +20,7 @@ url: https://en.wikipedia.org/wiki/Meta_Platforms
 local_path:
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Wikipedia Meta Platforms
-  - Meta
-  - "Wikipedia - Meta Platforms"
+aliases: ["Wikipedia Meta Platforms", "Meta", "Wikipedia - Meta Platforms", "Source: Wikipedia - Meta Platforms", "Source: Wikipedia Meta Platforms", "Source: Meta"]
 ---
 
 # Source Wikipedia - Meta Platforms

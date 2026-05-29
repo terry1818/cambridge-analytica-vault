@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - C. Peter Wagner - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - C. Peter Wagner"]
+aliases: ["Source: Source Wikipedia - C. Peter Wagner", "Source: Wikipedia - C. Peter Wagner"]
 tags:
   - source
 ---

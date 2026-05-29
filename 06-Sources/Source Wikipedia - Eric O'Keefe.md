@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Eric O'Keefe - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Eric O'Keefe"]
+aliases: ["Source: Source Wikipedia - Eric O'Keefe", "Source: Wikipedia - Eric O'Keefe"]
 tags:
   - source
 ---

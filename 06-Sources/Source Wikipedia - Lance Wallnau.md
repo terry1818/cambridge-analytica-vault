@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Lance Wallnau - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Lance Wallnau"]
+aliases: ["Source: Source Wikipedia - Lance Wallnau", "Source: Wikipedia - Lance Wallnau"]
 tags:
   - source
 ---

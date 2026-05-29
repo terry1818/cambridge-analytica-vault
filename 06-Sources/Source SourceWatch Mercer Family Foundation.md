@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source SourceWatch Mercer Family Foundation - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source SourceWatch Mercer Family Foundation"]
+aliases: ["Source: Source SourceWatch Mercer Family Foundation", "Source: SourceWatch Mercer Family Foundation"]
 tags:
   - source
 ---

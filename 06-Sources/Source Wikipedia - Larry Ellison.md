@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Larry Ellison - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Larry Ellison"]
+aliases: ["Source: Source Wikipedia - Larry Ellison", "Source: Wikipedia - Larry Ellison"]
 tags:
   - source
 ---

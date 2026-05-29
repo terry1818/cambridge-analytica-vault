@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source The Intercept Drollinger COVID - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source The Intercept Drollinger COVID"]
+aliases: ["Source: Source The Intercept Drollinger COVID", "Source: The Intercept Drollinger COVID"]
 tags:
   - source
 ---

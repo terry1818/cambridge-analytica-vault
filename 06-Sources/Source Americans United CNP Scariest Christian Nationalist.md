@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Americans United CNP Scariest Christian Nationalist - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Americans United CNP Scariest Christian Nationalist"]
+aliases: ["Source: Source Americans United CNP Scariest Christian Nationalist", "Source: Americans United CNP Scariest Christian Nationalist"]
 tags:
   - source
 ---

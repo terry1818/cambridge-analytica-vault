@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source United Methodist Insight Project 2025 Money Trail - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source United Methodist Insight Project 2025 Money Trail"]
+aliases: ["Source: Source United Methodist Insight Project 2025 Money Trail", "Source: United Methodist Insight Project 2025 Money Trail"]
 tags:
   - source
 ---

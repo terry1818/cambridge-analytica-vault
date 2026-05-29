@@ -4,7 +4,7 @@ description: 'Sharlet''s immersive literary travelogue documenting the 2020–20
 tags: [source, book, christian-nationalism, NAR, insurrectionism]
 type: source
 tier: Tier-2
-aliases: ["Source: Sharlet 2023"]
+aliases: ["Source: Sharlet 2023", "Source: Sharlet 2023 - The Undertow"]
 ---
 
 # Source — The Undertow: Scenes from a Slow Civil War (Jeff Sharlet, 2023)

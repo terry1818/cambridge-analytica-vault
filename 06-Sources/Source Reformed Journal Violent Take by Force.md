@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Reformed Journal Violent Take by Force - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Reformed Journal Violent Take by Force", "Reformed Journal Violent Take by Force"]
+aliases: ["Source: Source Reformed Journal Violent Take by Force", "Reformed Journal Violent Take by Force", "Source: Reformed Journal Violent Take by Force"]
 tags:
   - source
 ---

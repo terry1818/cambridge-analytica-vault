@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - HSLDA - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - HSLDA"]
+aliases: ["Source: Source Wikipedia - HSLDA", "Source: Wikipedia - HSLDA"]
 tags:
   - source
 ---

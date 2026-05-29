@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Aleksandr Kogan - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Aleksandr Kogan"]
+aliases: ["Source: Source Wikipedia - Aleksandr Kogan", "Source: Wikipedia - Aleksandr Kogan"]
 tags:
   - source
 ---

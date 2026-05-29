@@ -6,7 +6,7 @@ tier: 1
 status: stub
 date_created: 2026-05-28
 tags: [source, epstein, stub]
-aliases: ["Brown - Perversion of Justice"]
+aliases: ["Source: Brown - Perversion of Justice", "Brown - Perversion of Justice", "Source: Brown Perversion of Justice"]
 ---
 
 # Source: Brown - Perversion of Justice

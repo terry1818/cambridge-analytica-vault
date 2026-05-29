@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source EXPOSEDbyCMD 2025-02 ALEC P2025 States - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source EXPOSEDbyCMD 2025-02 ALEC P2025 States"]
+aliases: ["Source: Source EXPOSEDbyCMD 2025-02 ALEC P2025 States", "Source: EXPOSEDbyCMD 2025-02 ALEC P2025 States"]
 tags:
   - source
 ---

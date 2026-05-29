@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Common Cause US Constitution Threatened - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Common Cause US Constitution Threatened"]
+aliases: ["Source: Source Common Cause US Constitution Threatened", "Source: Common Cause US Constitution Threatened"]
 tags:
   - source
 ---

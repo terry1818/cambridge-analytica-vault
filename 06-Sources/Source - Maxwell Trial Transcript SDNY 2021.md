@@ -6,7 +6,7 @@ tier: 1
 status: stub
 date_created: 2026-05-28
 tags: [source, epstein, stub]
-aliases: ["Maxwell Trial Transcript SDNY 2021"]
+aliases: ["Source: Maxwell Trial Transcript SDNY 2021", "Maxwell Trial Transcript SDNY 2021"]
 ---
 
 # Source: Maxwell Trial Transcript SDNY 2021

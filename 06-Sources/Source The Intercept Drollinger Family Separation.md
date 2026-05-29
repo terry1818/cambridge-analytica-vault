@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source The Intercept Drollinger Family Separation - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source The Intercept Drollinger Family Separation"]
+aliases: ["Source: Source The Intercept Drollinger Family Separation", "Source: The Intercept Drollinger Family Separation"]
 tags:
   - source
 ---

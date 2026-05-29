@@ -4,7 +4,7 @@ description: Intellectual history tracing James Buchanan's public-choice theory 
 tags: [source, book, patron-wing, constitutional-capture, public-choice]
 type: source
 tier: Tier-2
-aliases: ["Source: MacLean 2017"]
+aliases: ["Source: MacLean 2017", "Source: MacLean 2017 - Democracy in Chains"]
 ---
 
 # Source — Democracy in Chains: The Deep History of the Radical Right's Stealth Plan for America (Nancy MacLean, 2017)

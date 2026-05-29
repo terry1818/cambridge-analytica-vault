@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Sam Altman - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Sam Altman"]
+aliases: ["Source: Source Wikipedia - Sam Altman", "Source: Wikipedia - Sam Altman"]
 tags:
   - source
 ---

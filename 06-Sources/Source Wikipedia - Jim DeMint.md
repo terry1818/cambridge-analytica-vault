@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Jim DeMint - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Jim DeMint"]
+aliases: ["Source: Source Wikipedia - Jim DeMint", "Source: Wikipedia - Jim DeMint"]
 tags:
   - source
 ---

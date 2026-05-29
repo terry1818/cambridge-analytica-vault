@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Project 2025 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Project 2025"]
+aliases: ["Source: Source Wikipedia - Project 2025", "Source: Wikipedia - Project 2025"]
 tags:
   - source
 ---

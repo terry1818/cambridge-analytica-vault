@@ -14,7 +14,7 @@ tags:
   - topic/patron-wing
   - topic/education-capture
 type: source
-aliases: ["Wikipedia - James Madison Institute"]
+aliases: ["Wikipedia - James Madison Institute", "Source: Wikipedia - James Madison Institute"]
 source_type: journalism
 title: "James Madison Institute (Wikipedia article)"
 author: Wikipedia contributors

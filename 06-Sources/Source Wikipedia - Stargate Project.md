@@ -18,10 +18,7 @@ url: https://en.wikipedia.org/wiki/Stargate_LLC
 local_path:
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Wikipedia Stargate Project
-  - Stargate LLC
-  - "Wikipedia - Stargate Project"
+aliases: ["Wikipedia Stargate Project", "Stargate LLC", "Wikipedia - Stargate Project", "Source: Wikipedia - Stargate Project", "Source: Wikipedia Stargate Project", "Source: Stargate LLC"]
 ---
 
 # Source Wikipedia - Stargate Project

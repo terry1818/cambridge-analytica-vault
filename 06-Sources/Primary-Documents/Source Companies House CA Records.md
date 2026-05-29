@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: Primary UK corporate filings for Cambridge Analytica entities
-aliases: ["Source: Source Companies House CA Records"]
+aliases: ["Source: Source Companies House CA Records", "Source: Companies House CA Records"]
 tags: [source, evidence/primary-document, topic/cambridge-analytica, jurisdiction/uk]
 type: source
 source_type: primary-document

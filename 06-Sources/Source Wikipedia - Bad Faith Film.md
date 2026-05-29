@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Bad Faith Film - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Bad Faith Film"]
+aliases: ["Source: Source Wikipedia - Bad Faith Film", "Source: Wikipedia - Bad Faith Film"]
 tags:
   - source
 ---

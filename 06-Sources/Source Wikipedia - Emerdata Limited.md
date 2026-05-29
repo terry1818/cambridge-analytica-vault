@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Emerdata Limited - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Emerdata Limited"]
+aliases: ["Source: Source Wikipedia - Emerdata Limited", "Source: Wikipedia - Emerdata Limited"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source CBS AIQ Facebook suspension - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source CBS AIQ Facebook suspension"]
+aliases: ["Source: Source CBS AIQ Facebook suspension", "Source: CBS AIQ Facebook suspension"]
 tags:
   - source
 ---

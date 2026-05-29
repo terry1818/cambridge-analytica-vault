@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Tioga Publishing Bokaer Dangers of Theocracy - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Tioga Publishing Bokaer Dangers of Theocracy"]
+aliases: ["Source: Source Tioga Publishing Bokaer Dangers of Theocracy", "Source: Tioga Publishing Bokaer Dangers of Theocracy"]
 tags:
   - source
 ---

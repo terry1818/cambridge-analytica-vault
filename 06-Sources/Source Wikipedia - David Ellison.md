@@ -18,9 +18,7 @@ url: https://en.wikipedia.org/wiki/David_Ellison
 local_path:
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Wikipedia David Ellison
-  - "Wikipedia - David Ellison"
+aliases: ["Wikipedia David Ellison", "Wikipedia - David Ellison", "Source: Wikipedia - David Ellison", "Source: Wikipedia David Ellison"]
 ---
 
 # Source Wikipedia - David Ellison

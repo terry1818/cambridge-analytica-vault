@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Founders Fund - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Founders Fund"]
+aliases: ["Source: Source Wikipedia - Founders Fund", "Source: Wikipedia - Founders Fund"]
 tags:
   - source
 ---

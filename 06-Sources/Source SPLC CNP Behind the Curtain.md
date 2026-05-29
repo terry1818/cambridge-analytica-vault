@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source SPLC CNP Behind the Curtain - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source SPLC CNP Behind the Curtain", "SPLC CNP Behind the Curtain"]
+aliases: ["Source: Source SPLC CNP Behind the Curtain", "SPLC CNP Behind the Curtain", "Source: SPLC CNP Behind the Curtain"]
 tags:
   - source
 ---

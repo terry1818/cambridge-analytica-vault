@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source OpenSecrets 2026 Leonard Leo Maine PAC - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source OpenSecrets 2026 Leonard Leo Maine PAC"]
+aliases: ["Source: Source OpenSecrets 2026 Leonard Leo Maine PAC", "Source: OpenSecrets 2026 Leonard Leo Maine PAC"]
 tags:
   - source
 ---

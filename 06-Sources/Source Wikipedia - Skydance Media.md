@@ -18,9 +18,7 @@ url: https://en.wikipedia.org/wiki/Skydance_Media
 local_path:
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Wikipedia Skydance Media
-  - "Wikipedia - Skydance Media"
+aliases: ["Wikipedia Skydance Media", "Wikipedia - Skydance Media", "Source: Wikipedia - Skydance Media", "Source: Wikipedia Skydance Media"]
 ---
 
 # Source Wikipedia - Skydance Media

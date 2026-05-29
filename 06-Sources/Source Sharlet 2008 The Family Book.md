@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Sharlet 2008 The Family Book - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Sharlet 2008 The Family Book"]
+aliases: ["Source: Source Sharlet 2008 The Family Book", "Source: Sharlet 2008 The Family Book"]
 tags:
   - source
 ---

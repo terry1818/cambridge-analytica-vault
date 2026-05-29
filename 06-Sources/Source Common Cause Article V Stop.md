@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Common Cause Article V Stop - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Common Cause Article V Stop"]
+aliases: ["Source: Source Common Cause Article V Stop", "Source: Common Cause Article V Stop"]
 tags:
   - source
 ---

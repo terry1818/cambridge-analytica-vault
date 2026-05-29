@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: SourceWatch comprehensive profile of Convention of States Action including funding history
-aliases: ["Source: Source SourceWatch Convention of States Action"]
+aliases: ["Source: Source SourceWatch Convention of States Action", "Source: SourceWatch Convention of States Action"]
 tags: [source, evidence/cos, evidence/funding, era/2013-2026]
 type: source
 source_type: journalism

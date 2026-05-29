@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - TheocracyWatch - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - TheocracyWatch", "Wikipedia - TheocracyWatch"]
+aliases: ["Source: Source Wikipedia - TheocracyWatch", "Wikipedia - TheocracyWatch", "Source: Wikipedia - TheocracyWatch"]
 tags:
   - source
 ---

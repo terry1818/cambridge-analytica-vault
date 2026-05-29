@@ -6,7 +6,7 @@ tier: 1
 status: stub
 date_created: 2026-05-28
 tags: [source, epstein, stub]
-aliases: ["Giuffre v Maxwell 2024 Unsealing"]
+aliases: ["Source: Giuffre v Maxwell 2024 Unsealing", "Giuffre v Maxwell 2024 Unsealing"]
 ---
 
 # Source: Giuffre v Maxwell 2024 Unsealing

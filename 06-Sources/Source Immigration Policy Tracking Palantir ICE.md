@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Immigration Policy Tracking Palantir ICE - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Immigration Policy Tracking Palantir ICE"]
+aliases: ["Source: Source Immigration Policy Tracking Palantir ICE", "Source: Immigration Policy Tracking Palantir ICE"]
 tags:
   - source
 ---

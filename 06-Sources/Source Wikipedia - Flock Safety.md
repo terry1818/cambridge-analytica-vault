@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Flock Safety - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Flock Safety"]
+aliases: ["Source: Source Wikipedia - Flock Safety", "Source: Wikipedia - Flock Safety"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Palmer Luckey - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Palmer Luckey"]
+aliases: ["Source: Source Wikipedia - Palmer Luckey", "Source: Wikipedia - Palmer Luckey"]
 tags:
   - source
 ---

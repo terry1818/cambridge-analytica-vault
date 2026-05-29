@@ -4,7 +4,7 @@ description: Stewart's 2025 follow-up synthesizes the full anti-democracy moveme
 tags: [source, book, christian-nationalism, dark-money, anti-democracy]
 type: source
 tier: Tier-2
-aliases: ["Source: Stewart 2025"]
+aliases: ["Source: Stewart 2025", "Source: Stewart 2025 - Money Lies and God"]
 ---
 
 # Source — Money, Lies, and God: Inside the Movement to Destroy American Democracy (Katherine Stewart, 2025)

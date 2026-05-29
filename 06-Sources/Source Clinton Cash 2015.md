@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Clinton Cash 2015 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Clinton Cash 2015"]
+aliases: ["Source: Source Clinton Cash 2015", "Source: Clinton Cash 2015"]
 tags:
   - source
 ---

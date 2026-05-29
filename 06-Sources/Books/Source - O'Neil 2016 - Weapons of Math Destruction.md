@@ -4,7 +4,7 @@ description: Former hedge-fund quant catalogues opaque, unaccountable, and scala
 tags: [source, book, algorithmic-harm, big-data, inequality]
 type: source
 tier: Tier-2
-aliases: ["Source: O'Neil 2016"]
+aliases: ["Source: O'Neil 2016", "Source: O'Neil 2016 - Weapons of Math Destruction"]
 ---
 
 # Source — Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy (Cathy O'Neil, 2016)

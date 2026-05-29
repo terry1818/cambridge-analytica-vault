@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source DeSmog 2025-06-02 70 Percent Cabinet - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source DeSmog 2025-06-02 70 Percent Cabinet"]
+aliases: ["Source: Source DeSmog 2025-06-02 70 Percent Cabinet", "Source: DeSmog 2025-06-02 70 Percent Cabinet"]
 tags:
   - source
 ---

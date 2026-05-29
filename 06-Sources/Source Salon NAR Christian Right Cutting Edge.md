@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Salon NAR Christian Right Cutting Edge - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Salon NAR Christian Right Cutting Edge", "Salon NAR Christian Right Cutting Edge"]
+aliases: ["Source: Source Salon NAR Christian Right Cutting Edge", "Salon NAR Christian Right Cutting Edge", "Source: Salon NAR Christian Right Cutting Edge"]
 tags:
   - source
 ---

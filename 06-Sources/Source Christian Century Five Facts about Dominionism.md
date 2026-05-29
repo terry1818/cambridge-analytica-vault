@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Christian Century Five Facts about Dominionism - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Christian Century Five Facts about Dominionism"]
+aliases: ["Source: Source Christian Century Five Facts about Dominionism", "Source: Christian Century Five Facts about Dominionism"]
 tags:
   - source
 ---

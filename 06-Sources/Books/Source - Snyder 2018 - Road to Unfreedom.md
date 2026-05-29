@@ -4,7 +4,7 @@ description: 'Snyder''s history-philosophy account of Russia''s turn to fascist 
 tags: [source, book, fascism, russia, authoritarianism]
 type: source
 tier: Tier-2
-aliases: ["Source: Snyder 2018"]
+aliases: ["Source: Snyder 2018", "Source: Snyder 2018 - Road to Unfreedom"]
 ---
 
 # Source — The Road to Unfreedom: Russia, Europe, America (Timothy Snyder, 2018)

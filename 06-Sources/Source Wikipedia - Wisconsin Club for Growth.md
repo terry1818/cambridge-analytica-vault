@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Wisconsin Club for Growth - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Wisconsin Club for Growth"]
+aliases: ["Source: Source Wikipedia - Wisconsin Club for Growth", "Source: Wikipedia - Wisconsin Club for Growth"]
 tags:
   - source
 ---

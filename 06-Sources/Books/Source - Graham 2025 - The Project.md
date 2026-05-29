@@ -4,7 +4,7 @@ description: Accessible journalist guide to Project 2025's implementation in the
 tags: [source, book, project-2025, executive-power, heritage-foundation]
 type: source
 tier: Tier-2
-aliases: ["Source: Graham 2025"]
+aliases: ["Source: Graham 2025", "Source: Graham 2025 - The Project"]
 ---
 
 # Source — The Project: How Project 2025 Is Reshaping America (David A. Graham, 2025)

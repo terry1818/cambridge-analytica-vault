@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Rolling Out 2025-11-24 Vance Palantir - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Rolling Out 2025-11-24 Vance Palantir", "Rolling Out 2025-11-24 Vance Palantir"]
+aliases: ["Source: Source Rolling Out 2025-11-24 Vance Palantir", "Rolling Out 2025-11-24 Vance Palantir", "Source: Rolling Out 2025-11-24 Vance Palantir"]
 tags:
   - source
 ---

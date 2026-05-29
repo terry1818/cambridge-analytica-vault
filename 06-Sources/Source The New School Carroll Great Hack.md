@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source The New School Carroll Great Hack - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source The New School Carroll Great Hack"]
+aliases: ["Source: Source The New School Carroll Great Hack", "Source: The New School Carroll Great Hack"]
 tags:
   - source
 ---

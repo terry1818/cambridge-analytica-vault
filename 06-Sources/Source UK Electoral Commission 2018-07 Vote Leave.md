@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source UK Electoral Commission 2018-07 Vote Leave - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source UK Electoral Commission 2018-07 Vote Leave"]
+aliases: ["Source: Source UK Electoral Commission 2018-07 Vote Leave", "Source: UK Electoral Commission 2018-07 Vote Leave"]
 tags:
   - source
 ---

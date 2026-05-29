@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Article V Convention - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Article V Convention"]
+aliases: ["Source: Source Wikipedia - Article V Convention", "Source: Wikipedia - Article V Convention"]
 tags:
   - source
 ---

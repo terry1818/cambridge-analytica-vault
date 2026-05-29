@@ -4,7 +4,7 @@ description: The intellectual and organizational history of the business-led ant
 tags: [source, book, patron-class, neoliberalism, dark-money-lineage]
 type: source
 tier: Tier-2
-aliases: ["Source: Phillips-Fein 2009"]
+aliases: ["Source: Phillips-Fein 2009", "Source: Phillips-Fein 2009 - Invisible Hands"]
 ---
 
 # Source — Invisible Hands: The Businessmen's Crusade Against the New Deal (Kim Phillips-Fein, 2009)

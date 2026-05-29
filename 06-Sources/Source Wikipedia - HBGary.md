@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - HBGary - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - HBGary"]
+aliases: ["Source: Source Wikipedia - HBGary", "Source: Wikipedia - HBGary"]
 tags:
   - source
 ---

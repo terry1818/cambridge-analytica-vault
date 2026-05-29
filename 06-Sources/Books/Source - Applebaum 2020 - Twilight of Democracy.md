@@ -4,7 +4,7 @@ description: 'Personal and analytical account of why educated, prosperous intell
 tags: [source, book, authoritarianism, intellectual-right, democratic-backsliding]
 type: source
 tier: Tier-2
-aliases: ["Source: Applebaum 2020"]
+aliases: ["Source: Applebaum 2020", "Source: Applebaum 2020 - Twilight of Democracy"]
 ---
 
 # Source — Twilight of Democracy: The Seductive Lure of Authoritarianism (Anne Applebaum, 2020)

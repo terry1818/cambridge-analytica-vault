@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Bill Moyers Shadow Network CNP - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Bill Moyers Shadow Network CNP"]
+aliases: ["Source: Source Bill Moyers Shadow Network CNP", "Source: Bill Moyers Shadow Network CNP"]
 tags:
   - source
 ---

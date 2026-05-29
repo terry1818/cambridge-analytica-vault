@@ -4,7 +4,7 @@ description: Journalist-memoirist account of how modern authoritarians weaponize
 tags: [source, book, disinformation, russia, information-warfare]
 type: source
 tier: Tier-2
-aliases: ["Source: Pomerantsev 2019", "Source Pomerantsev 2019 This Is Not Propaganda"]
+aliases: ["Source: Pomerantsev 2019", "Source Pomerantsev 2019 This Is Not Propaganda", "Source: Pomerantsev 2019 - This Is Not Propaganda"]
 ---
 
 # Source — This Is Not Propaganda: Adventures in the War Against Reality (Peter Pomerantsev, 2019)

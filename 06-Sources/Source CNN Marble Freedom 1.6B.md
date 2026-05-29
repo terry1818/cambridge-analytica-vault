@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: 'Source: CNN Marble Freedom 1.6B - vault note (auto-populated from cross-referenced wikilink).'
-aliases: ["Source: Source CNN Marble Freedom 1.6B", "CNN Marble Freedom 1.6B"]
+aliases: ["Source: Source CNN Marble Freedom 1.6B", "CNN Marble Freedom 1.6B", "Source: CNN Marble Freedom 1.6B"]
 tags:
   - source
 ---

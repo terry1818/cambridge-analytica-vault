@@ -4,7 +4,7 @@ description: 688-page history of the mutual shaping of American evangelical Chri
 tags: [source, book, religious-right, patron-class, oil-industry]
 type: source
 tier: Tier-2
-aliases: ["Source: Dochuk 2019"]
+aliases: ["Source: Dochuk 2019", "Source: Dochuk 2019 - Anointed with Oil"]
 ---
 
 # Source — Anointed with Oil: How Christianity and Crude Made Modern America (Darren Dochuk, 2019)

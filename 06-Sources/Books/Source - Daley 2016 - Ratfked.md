@@ -4,7 +4,7 @@ description: Daley exposes REDMAP — the Republican State Leadership Committee'
 tags: [source, book, gerrymandering, redistricting, minority-rule]
 type: source
 tier: Tier-2
-aliases: ["Source: Daley 2016"]
+aliases: ["Source: Daley 2016", "Source: Daley 2016 - Ratfked"]
 ---
 
 # Source — Ratf**ked: The True Story Behind the Secret Plan to Steal America's Democracy (David Daley, 2016)

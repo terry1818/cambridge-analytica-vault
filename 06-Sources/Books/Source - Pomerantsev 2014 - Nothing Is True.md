@@ -4,7 +4,7 @@ description: First-person account by a British-Russian television producer worki
 tags: [source, book, russia, active-measures, surkovism]
 type: source
 tier: Tier-2
-aliases: ["Source: Pomerantsev 2014"]
+aliases: ["Source: Pomerantsev 2014", "Source: Pomerantsev 2014 - Nothing Is True"]
 ---
 
 # Source — Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia (Peter Pomerantsev, 2014)

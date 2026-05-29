@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source X - vault navigation node.
-aliases: ["Source: Source X"]
+aliases: ["Source: Source X", "Source: X"]
 tags:
   - entity
 ---

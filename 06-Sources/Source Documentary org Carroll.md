@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Documentary org Carroll - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Documentary org Carroll"]
+aliases: ["Source: Source Documentary org Carroll", "Source: Documentary org Carroll"]
 tags:
   - source
 ---

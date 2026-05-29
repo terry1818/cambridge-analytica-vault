@@ -4,7 +4,7 @@ description: Du Mez's revisionist history of white evangelicalism shows how mili
 tags: [source, book, christian-nationalism, evangelicalism, masculinity]
 type: source
 tier: Tier-2
-aliases: ["Source: Du Mez 2020"]
+aliases: ["Source: Du Mez 2020", "Source: Du Mez 2020 - Jesus and John Wayne"]
 ---
 
 # Source — Jesus and John Wayne: How White Evangelicals Corrupted a Faith and Fractured a Nation (Kristin Kobes Du Mez, 2020)

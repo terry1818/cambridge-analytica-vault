@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - AggregateIQ - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - AggregateIQ"]
+aliases: ["Source: Source Wikipedia - AggregateIQ", "Source: Wikipedia - AggregateIQ"]
 tags:
   - source
 ---

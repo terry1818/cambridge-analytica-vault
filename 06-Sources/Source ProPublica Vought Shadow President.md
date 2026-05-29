@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source ProPublica Vought Shadow President - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source ProPublica Vought Shadow President"]
+aliases: ["Source: Source ProPublica Vought Shadow President", "Source: ProPublica Vought Shadow President"]
 tags:
   - source
 ---

@@ -19,9 +19,7 @@ url: https://en.wikipedia.org/wiki/Oracle_Corporation
 local_path:
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Wikipedia Oracle Corporation
-  - "Wikipedia - Oracle Corporation"
+aliases: ["Wikipedia Oracle Corporation", "Wikipedia - Oracle Corporation", "Source: Wikipedia - Oracle Corporation", "Source: Wikipedia Oracle Corporation"]
 ---
 
 # Source Wikipedia - Oracle Corporation

@@ -4,7 +4,7 @@ description: Authoritative corporate history of Koch Industries tracing how Char
 tags: [source, book, patron-wing, koch-network, climate-denial]
 type: source
 tier: Tier-2
-aliases: ["Source: Leonard 2019"]
+aliases: ["Source: Leonard 2019", "Source: Leonard 2019 - Kochland"]
 ---
 
 # Source — Kochland: The Secret History of Koch Industries and Corporate Power in America (Christopher Leonard, 2019)

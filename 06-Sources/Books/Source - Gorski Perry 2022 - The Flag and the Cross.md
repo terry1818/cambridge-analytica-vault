@@ -4,7 +4,7 @@ description: Sociological analysis of white Christian nationalism's deep history
 tags: [source, book, christian-nationalism, white-supremacy, democracy]
 type: source
 tier: Tier-2
-aliases: ["Source: Gorski Perry 2022"]
+aliases: ["Source: Gorski Perry 2022", "Source: Gorski Perry 2022 - The Flag and the Cross"]
 ---
 
 # Source — The Flag and the Cross: White Christian Nationalism and the Threat to American Democracy (Philip S. Gorski & Samuel L. Perry, 2022)

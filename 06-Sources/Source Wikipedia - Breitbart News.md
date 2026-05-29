@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Breitbart News - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Breitbart News"]
+aliases: ["Source: Source Wikipedia - Breitbart News", "Source: Wikipedia - Breitbart News"]
 tags:
   - source
 ---

@@ -4,7 +4,7 @@ description: Journalistic investigation of how American evangelicalism became ca
 tags: [source, book, christian-nationalism, evangelicalism, religious-right]
 type: source
 tier: Tier-2
-aliases: ["Source: Alberta 2023"]
+aliases: ["Source: Alberta 2023", "Source: Alberta 2023 - The Kingdom the Power and the Glory"]
 ---
 
 # Source — The Kingdom, the Power, and the Glory: American Evangelicals in an Age of Extremism (Tim Alberta, 2023)

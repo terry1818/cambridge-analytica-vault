@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source NBC News 2024 Leo Koch second Trump admin - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source NBC News 2024 Leo Koch second Trump admin"]
+aliases: ["Source: Source NBC News 2024 Leo Koch second Trump admin", "Source: NBC News 2024 Leo Koch second Trump admin"]
 tags:
   - source
 ---

@@ -4,7 +4,7 @@ description: Historical account of the attention economy from penny-press newspa
 tags: [source, book, attention-economy, advertising-history, media-economics]
 type: source
 tier: Tier-2
-aliases: ["Source: Wu 2016"]
+aliases: ["Source: Wu 2016", "Source: Wu 2016 - The Attention Merchants"]
 ---
 
 # Source — The Attention Merchants: The Epic Scramble to Get Inside Our Heads (Tim Wu, 2016)

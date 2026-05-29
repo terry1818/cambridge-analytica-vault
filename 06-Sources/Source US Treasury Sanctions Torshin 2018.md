@@ -12,7 +12,7 @@ tags:
   - topic/info-warfare
   - topic/comparative-authoritarianism
 type: source
-aliases: ["US Treasury Sanctions Torshin 2018"]
+aliases: ["US Treasury Sanctions Torshin 2018", "Source: US Treasury Sanctions Torshin 2018"]
 source_type: primary-document
 title: "OFAC Designation of Russian Oligarchs, Officials, and Entities (6 April 2018)"
 author: US Department of the Treasury, Office of Foreign Assets Control

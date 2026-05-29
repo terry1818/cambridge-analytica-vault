@@ -4,7 +4,7 @@ description: Former MEP and Stanford fellow argues that Silicon Valley firms hav
 tags: [source, book, tech-power, regulation, democracy]
 type: source
 tier: Tier-2
-aliases: ["Source: Schaake 2024"]
+aliases: ["Source: Schaake 2024", "Source: Schaake 2024 - The Tech Coup"]
 ---
 
 # Source — The Tech Coup: How to Save Democracy from Silicon Valley (Marietje Schaake, 2024)

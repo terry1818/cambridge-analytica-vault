@@ -4,7 +4,7 @@ description: 'Archival history of how corporate America in the 1930s–1950s eng
 tags: [source, book, religious-right, patron-class, christian-nationalism]
 type: source
 tier: Tier-2
-aliases: ["Source: Kruse 2015"]
+aliases: ["Source: Kruse 2015", "Source: Kruse 2015 - One Nation Under God"]
 ---
 
 # Source — One Nation Under God: How Corporate America Invented Christian America (Kevin M. Kruse, 2015)

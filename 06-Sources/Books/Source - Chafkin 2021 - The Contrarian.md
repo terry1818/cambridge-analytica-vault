@@ -4,7 +4,7 @@ description: Authoritative biography of Peter Thiel tracing his ideological form
 tags: [source, book, tech-right, thiel, palantir]
 type: source
 tier: Tier-2
-aliases: ["Source: Chafkin 2021"]
+aliases: ["Source: Chafkin 2021", "Source: Chafkin 2021 - The Contrarian"]
 ---
 
 # Source — The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power (Max Chafkin, 2021)

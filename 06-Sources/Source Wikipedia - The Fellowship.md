@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - The Fellowship - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - The Fellowship"]
+aliases: ["Source: Source Wikipedia - The Fellowship", "Source: Wikipedia - The Fellowship"]
 tags:
   - source
 ---

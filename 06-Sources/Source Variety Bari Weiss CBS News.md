@@ -20,6 +20,7 @@ accessed: 2026-05-23
 reliability: high
 aliases:
   - Variety Bari Weiss CBS News
+  - "Source: Variety Bari Weiss CBS News"
 ---
 
 # Source Variety Bari Weiss CBS News

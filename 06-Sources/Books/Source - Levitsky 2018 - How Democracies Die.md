@@ -4,7 +4,7 @@ description: Comparative political science analysis of democratic erosion via in
 tags: [source, book, democratic-backsliding, authoritarianism, comparative-politics]
 type: source
 tier: Tier-2
-aliases: ["Source: Levitsky 2018", "How Democracies Die (Levitsky 2018)"]
+aliases: ["Source: Levitsky 2018", "How Democracies Die (Levitsky 2018)", "Source: Levitsky 2018 - How Democracies Die", "Source: How Democracies Die (Levitsky 2018)"]
 ---
 
 # Source — How Democracies Die (Steven Levitsky & Daniel Ziblatt, 2018)

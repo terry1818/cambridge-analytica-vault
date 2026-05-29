@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - State Policy Network - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - State Policy Network", "Wikipedia - State Policy Network"]
+aliases: ["Source: Source Wikipedia - State Policy Network", "Wikipedia - State Policy Network", "Source: Wikipedia - State Policy Network"]
 tags:
   - source
 ---

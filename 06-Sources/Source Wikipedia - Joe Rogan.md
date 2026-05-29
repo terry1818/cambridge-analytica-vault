@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Joe Rogan - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Joe Rogan"]
+aliases: ["Source: Source Wikipedia - Joe Rogan", "Source: Wikipedia - Joe Rogan"]
 tags:
   - source
 ---

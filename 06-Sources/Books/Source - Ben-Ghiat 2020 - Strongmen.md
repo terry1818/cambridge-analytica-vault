@@ -4,7 +4,7 @@ description: Ben-Ghiat's comparative century-long study of authoritarian strongm
 tags: [source, book, authoritarianism, comparative-history, strongmen]
 type: source
 tier: Tier-2
-aliases: ["Source: Ben-Ghiat 2020"]
+aliases: ["Source: Ben-Ghiat 2020", "Source: Ben-Ghiat 2020 - Strongmen"]
 ---
 
 # Source — Strongmen: Mussolini to the Present (Ruth Ben-Ghiat, 2020)

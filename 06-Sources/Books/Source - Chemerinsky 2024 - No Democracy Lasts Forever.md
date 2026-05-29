@@ -4,7 +4,7 @@ description: Chemerinsky, dean of Berkeley Law, argues the Constitution's struct
 tags: [source, book, counter-majoritarian, constitutional-reform, Article-V]
 type: source
 tier: Tier-2
-aliases: ["Source: Chemerinsky 2024"]
+aliases: ["Source: Chemerinsky 2024", "Source: Chemerinsky 2024 - No Democracy Lasts Forever"]
 ---
 
 # Source — No Democracy Lasts Forever: How the Constitution Threatens the United States (Erwin Chemerinsky, 2024)

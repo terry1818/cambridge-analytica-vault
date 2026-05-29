@@ -4,7 +4,7 @@ description: Scholarly analysis of Facebook as a globally destabilizing force, a
 tags: [source, book, facebook, global-disinformation, platform-power]
 type: source
 tier: Tier-2
-aliases: ["Source: Vaidhyanathan 2018", "Source Vaidhyanathan 2018 Antisocial Media"]
+aliases: ["Source: Vaidhyanathan 2018", "Source Vaidhyanathan 2018 Antisocial Media", "Source: Vaidhyanathan 2018 - Antisocial Media"]
 ---
 
 # Source — Antisocial Media: How Facebook Disconnects Us and Undermines Democracy (Siva Vaidhyanathan, 2018)

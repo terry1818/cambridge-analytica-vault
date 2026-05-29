@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source NewsTracs 2024-07 Rebekah Mercer Update - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source NewsTracs 2024-07 Rebekah Mercer Update"]
+aliases: ["Source: Source NewsTracs 2024-07 Rebekah Mercer Update", "Source: NewsTracs 2024-07 Rebekah Mercer Update"]
 tags:
   - source
 ---

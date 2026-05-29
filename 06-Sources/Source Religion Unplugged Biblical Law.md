@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Religion Unplugged Biblical Law - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Religion Unplugged Biblical Law"]
+aliases: ["Source: Source Religion Unplugged Biblical Law", "Source: Religion Unplugged Biblical Law"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source CBS News 2018-04-21 Who is Kogan - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source CBS News 2018-04-21 Who is Kogan"]
+aliases: ["Source: Source CBS News 2018-04-21 Who is Kogan", "Source: CBS News 2018-04-21 Who is Kogan"]
 tags:
   - source
 ---

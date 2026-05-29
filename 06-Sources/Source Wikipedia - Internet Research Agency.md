@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Internet Research Agency - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Internet Research Agency"]
+aliases: ["Source: Source Wikipedia - Internet Research Agency", "Source: Wikipedia - Internet Research Agency"]
 tags:
   - source
 ---

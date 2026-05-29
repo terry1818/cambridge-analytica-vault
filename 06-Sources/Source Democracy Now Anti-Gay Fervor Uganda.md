@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Democracy Now Anti-Gay Fervor Uganda - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Democracy Now Anti-Gay Fervor Uganda"]
+aliases: ["Source: Source Democracy Now Anti-Gay Fervor Uganda", "Source: Democracy Now Anti-Gay Fervor Uganda"]
 tags:
   - source
 ---

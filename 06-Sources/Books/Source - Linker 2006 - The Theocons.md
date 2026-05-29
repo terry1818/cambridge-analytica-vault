@@ -4,7 +4,7 @@ description: Insider account of how Catholic neoconservatives built the intellec
 tags: [source, book, catholic-integralism, religious-right, neoconservatism]
 type: source
 tier: Tier-2
-aliases: ["Source: Linker 2006"]
+aliases: ["Source: Linker 2006", "Source: Linker 2006 - The Theocons"]
 ---
 
 # Source — The Theocons: Secular America Under Siege (Damon Linker, 2006)

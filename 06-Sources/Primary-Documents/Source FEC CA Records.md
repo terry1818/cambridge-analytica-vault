@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: Primary US Federal Election Commission filings showing CA payments by campaigns and Super PACs
-aliases: ["Source: Source FEC CA Records"]
+aliases: ["Source: Source FEC CA Records", "Source: FEC CA Records"]
 tags: [source, evidence/primary-document, topic/cambridge-analytica, era/2014-2016, era/2016-2018, jurisdiction/us]
 type: source
 source_type: primary-document

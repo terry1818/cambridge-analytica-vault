@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Texas Monthly Trump Self-Proclaimed Prophets - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Texas Monthly Trump Self-Proclaimed Prophets", "Texas Monthly Trump Self-Proclaimed Prophets"]
+aliases: ["Source: Source Texas Monthly Trump Self-Proclaimed Prophets", "Texas Monthly Trump Self-Proclaimed Prophets", "Source: Texas Monthly Trump Self-Proclaimed Prophets"]
 tags:
   - source
 ---

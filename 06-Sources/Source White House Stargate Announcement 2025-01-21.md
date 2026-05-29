@@ -18,9 +18,7 @@ url: https://openai.com/index/announcing-the-stargate-project/
 local_path:
 accessed: 2026-05-23
 reliability: high
-aliases:
-  - White House Stargate Announcement
-  - "White House Stargate Announcement 2025-01-21"
+aliases: ["White House Stargate Announcement", "White House Stargate Announcement 2025-01-21", "Source: White House Stargate Announcement 2025-01-21", "Source: White House Stargate Announcement"]
 ---
 
 # Source White House Stargate Announcement 2025-01-21

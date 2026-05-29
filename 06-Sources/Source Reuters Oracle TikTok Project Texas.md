@@ -20,6 +20,7 @@ accessed: 2026-05-23
 reliability: high
 aliases:
   - Reuters Oracle TikTok Project Texas
+  - "Source: Reuters Oracle TikTok Project Texas"
 ---
 
 # Source Reuters Oracle TikTok Project Texas

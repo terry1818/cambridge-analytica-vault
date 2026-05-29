@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Dissident Voice 2025 Drollinger Christian Nationalist - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Dissident Voice 2025 Drollinger Christian Nationalist"]
+aliases: ["Source: Source Dissident Voice 2025 Drollinger Christian Nationalist", "Source: Dissident Voice 2025 Drollinger Christian Nationalist"]
 tags:
   - source
 ---

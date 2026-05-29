@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Cadwalladr 2018-03-17 Guardian - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Cadwalladr 2018-03-17 Guardian"]
+aliases: ["Source: Source Cadwalladr 2018-03-17 Guardian", "Source: Cadwalladr 2018-03-17 Guardian"]
 tags:
   - source
 ---

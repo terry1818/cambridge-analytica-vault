@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source DeSmog 2024-08-14 6 Billionaire Fortunes - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source DeSmog 2024-08-14 6 Billionaire Fortunes"]
+aliases: ["Source: Source DeSmog 2024-08-14 6 Billionaire Fortunes", "Source: DeSmog 2024-08-14 6 Billionaire Fortunes"]
 tags:
   - source
 ---

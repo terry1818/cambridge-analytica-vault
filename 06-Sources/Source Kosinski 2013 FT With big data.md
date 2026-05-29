@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Kosinski 2013 FT With big data - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Kosinski 2013 FT With big data"]
+aliases: ["Source: Source Kosinski 2013 FT With big data", "Source: Kosinski 2013 FT With big data"]
 tags:
   - source
 ---

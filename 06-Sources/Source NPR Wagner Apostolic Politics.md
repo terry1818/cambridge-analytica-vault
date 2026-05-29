@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source NPR Wagner Apostolic Politics - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source NPR Wagner Apostolic Politics"]
+aliases: ["Source: Source NPR Wagner Apostolic Politics", "Source: NPR Wagner Apostolic Politics"]
 tags:
   - source
 ---

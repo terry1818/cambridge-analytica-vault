@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Democracy Now 2025-10-21 Vought Shadow President - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Democracy Now 2025-10-21 Vought Shadow President"]
+aliases: ["Source: Source Democracy Now 2025-10-21 Vought Shadow President", "Source: Democracy Now 2025-10-21 Vought Shadow President"]
 tags:
   - source
 ---

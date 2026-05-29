@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Ralph Drollinger - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Ralph Drollinger"]
+aliases: ["Source: Source Wikipedia - Ralph Drollinger", "Source: Wikipedia - Ralph Drollinger"]
 tags:
   - source
 ---

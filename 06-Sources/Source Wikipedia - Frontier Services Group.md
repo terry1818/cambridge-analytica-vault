@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Frontier Services Group - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Frontier Services Group"]
+aliases: ["Source: Source Wikipedia - Frontier Services Group", "Source: Wikipedia - Frontier Services Group"]
 tags:
   - source
 ---

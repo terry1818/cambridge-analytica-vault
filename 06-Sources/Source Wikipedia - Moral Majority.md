@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Moral Majority - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Moral Majority"]
+aliases: ["Source: Source Wikipedia - Moral Majority", "Source: Wikipedia - Moral Majority"]
 tags:
   - source
 ---

@@ -4,7 +4,7 @@ description: Ethnographic and investigative account of how far-right online comm
 tags: [source, book, disinformation, online-radicalization, memes]
 type: source
 tier: Tier-2
-aliases: ["Source: Donovan 2022"]
+aliases: ["Source: Donovan 2022", "Source: Donovan Dreyfuss Friedberg 2022 - Meme Wars"]
 ---
 
 # Source — Meme Wars: The Untold Story of the Online Battles Upending Democracy in America (Joan Donovan, Emily Dreyfuss & Brian Friedberg, 2022)

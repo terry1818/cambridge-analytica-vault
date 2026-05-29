@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Yevgeny Prigozhin - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Yevgeny Prigozhin"]
+aliases: ["Source: Source Wikipedia - Yevgeny Prigozhin", "Source: Wikipedia - Yevgeny Prigozhin"]
 tags:
   - source
 ---

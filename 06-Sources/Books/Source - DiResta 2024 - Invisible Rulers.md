@@ -4,7 +4,7 @@ description: Former Stanford Internet Observatory research manager's account of 
 tags: [source, book, disinformation, influence-ops, platform-algorithms]
 type: source
 tier: Tier-2
-aliases: ["Source: DiResta 2024", "Source DiResta 2024 Invisible Rulers"]
+aliases: ["Source: DiResta 2024", "Source DiResta 2024 Invisible Rulers", "Source: DiResta 2024 - Invisible Rulers"]
 ---
 
 # Source — Invisible Rulers: The People Who Turn Lies into Reality (Renée DiResta, 2024)

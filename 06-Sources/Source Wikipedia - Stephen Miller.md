@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Stephen Miller - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Stephen Miller"]
+aliases: ["Source: Source Wikipedia - Stephen Miller", "Source: Wikipedia - Stephen Miller"]
 tags:
   - source
 ---

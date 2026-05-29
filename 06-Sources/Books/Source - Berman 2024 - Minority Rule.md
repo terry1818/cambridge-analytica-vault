@@ -4,7 +4,7 @@ description: Berman traces how counter-majoritarian institutions, voter suppress
 tags: [source, book, voter-suppression, counter-majoritarian, minority-rule]
 type: source
 tier: Tier-2
-aliases: ["Source: Berman 2024"]
+aliases: ["Source: Berman 2024", "Source: Berman 2024 - Minority Rule"]
 ---
 
 # Source — Minority Rule: The Right-Wing Attack on the Will of the People—and the Fight to Resist It (Ari Berman, 2024)

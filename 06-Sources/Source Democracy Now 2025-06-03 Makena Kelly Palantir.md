@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Democracy Now 2025-06-03 Makena Kelly Palantir - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Democracy Now 2025-06-03 Makena Kelly Palantir"]
+aliases: ["Source: Source Democracy Now 2025-06-03 Makena Kelly Palantir", "Source: Democracy Now 2025-06-03 Makena Kelly Palantir"]
 tags:
   - source
 ---

@@ -4,7 +4,7 @@ description: Pulitzer Prize-winning historian argues that illiberalism is not an
 tags: [source, book, american-illiberalism, historical-continuity, homegrown-authoritarianism]
 type: source
 tier: Tier-2
-aliases: ["Source: Hahn 2024"]
+aliases: ["Source: Hahn 2024", "Source: Hahn 2024 - Illiberal America"]
 ---
 
 # Source — Illiberal America: A History (Steven Hahn, 2024)

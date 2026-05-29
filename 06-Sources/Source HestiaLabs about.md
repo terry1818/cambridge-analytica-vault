@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source HestiaLabs about - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source HestiaLabs about"]
+aliases: ["Source: Source HestiaLabs about", "Source: HestiaLabs about"]
 tags:
   - source
 ---

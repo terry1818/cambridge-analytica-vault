@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source National Review 2025-12 Heritage Implodes - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source National Review 2025-12 Heritage Implodes", "National Review 2025-12 Heritage Implodes"]
+aliases: ["Source: Source National Review 2025-12 Heritage Implodes", "National Review 2025-12 Heritage Implodes", "Source: National Review 2025-12 Heritage Implodes"]
 tags:
   - source
 ---

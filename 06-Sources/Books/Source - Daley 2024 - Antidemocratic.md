@@ -4,7 +4,7 @@ description: Daley's sequel to Ratf**ked traces a 50-year conservative legal pro
 tags: [source, book, voter-suppression, Voting-Rights-Act, judicial-capture]
 type: source
 tier: Tier-2
-aliases: ["Source: Daley 2024"]
+aliases: ["Source: Daley 2024", "Source: Daley 2024 - Antidemocratic"]
 ---
 
 # Source — Antidemocratic: Inside the Far Right's 50-Year Plot to Control American Elections (David Daley, 2024)

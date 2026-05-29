@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Washington Post CNP God Trump - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Washington Post CNP God Trump"]
+aliases: ["Source: Source Washington Post CNP God Trump", "Source: Washington Post CNP God Trump"]
 tags:
   - source
 ---

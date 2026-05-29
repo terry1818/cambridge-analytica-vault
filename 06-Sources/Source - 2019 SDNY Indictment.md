@@ -6,7 +6,7 @@ tier: 1
 status: stub
 date_created: 2026-05-28
 tags: [source, epstein, stub]
-aliases: ["2019 SDNY Indictment"]
+aliases: ["Source: 2019 SDNY Indictment", "2019 SDNY Indictment"]
 ---
 
 # Source: 2019 SDNY Indictment

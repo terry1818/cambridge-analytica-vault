@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Catholic News Agency Farris ADF - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Catholic News Agency Farris ADF"]
+aliases: ["Source: Source Catholic News Agency Farris ADF", "Source: Catholic News Agency Farris ADF"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Children's Health Defense vaccine litigation - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Children's Health Defense vaccine litigation"]
+aliases: ["Source: Source Children's Health Defense vaccine litigation", "Source: Children's Health Defense vaccine litigation"]
 tags:
   - source
 ---

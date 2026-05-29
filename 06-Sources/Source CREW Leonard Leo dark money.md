@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source CREW Leonard Leo dark money - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source CREW Leonard Leo dark money"]
+aliases: ["Source: Source CREW Leonard Leo dark money", "Source: CREW Leonard Leo dark money"]
 tags:
   - source
 ---

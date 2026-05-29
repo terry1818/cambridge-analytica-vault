@@ -18,9 +18,7 @@ url: https://en.wikipedia.org/wiki/CBS_News
 local_path:
 accessed: 2026-05-23
 reliability: medium
-aliases:
-  - Wikipedia CBS News
-  - "Wikipedia - CBS News"
+aliases: ["Wikipedia CBS News", "Wikipedia - CBS News", "Source: Wikipedia - CBS News", "Source: Wikipedia CBS News"]
 ---
 
 # Source Wikipedia - CBS News

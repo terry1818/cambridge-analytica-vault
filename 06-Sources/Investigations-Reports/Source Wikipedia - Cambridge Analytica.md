@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: Wikipedia article on Cambridge Analytica — the vault's most-cited tertiary anchor; backbone for 60+ derivative claims; chase its primary references for source-of-truth verification
-aliases: ["Source: Source Wikipedia - Cambridge Analytica", "Wikipedia - Cambridge Analytica"]
+aliases: ["Source: Source Wikipedia - Cambridge Analytica", "Wikipedia - Cambridge Analytica", "Source: Wikipedia - Cambridge Analytica"]
 tags: [source, evidence/investigation-report, evidence/wikipedia, topic/cambridge-analytica, era/2014-2016, era/2016-2018, era/2018-2020]
 type: source
 source_type: tertiary

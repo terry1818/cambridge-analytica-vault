@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Stanford Internet Observatory deepfake research - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Stanford Internet Observatory deepfake research"]
+aliases: ["Source: Source Stanford Internet Observatory deepfake research", "Source: Stanford Internet Observatory deepfake research"]
 tags:
   - source
 ---

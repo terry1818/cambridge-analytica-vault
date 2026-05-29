@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Walters 2018 Telegraph - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Walters 2018 Telegraph"]
+aliases: ["Source: Source Walters 2018 Telegraph", "Source: Walters 2018 Telegraph"]
 tags:
   - source
 ---

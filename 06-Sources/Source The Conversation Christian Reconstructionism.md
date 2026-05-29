@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source The Conversation Christian Reconstructionism - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source The Conversation Christian Reconstructionism"]
+aliases: ["Source: Source The Conversation Christian Reconstructionism", "Source: The Conversation Christian Reconstructionism"]
 tags:
   - source
 ---

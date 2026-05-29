@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source National Observer AIQ denies CA link - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source National Observer AIQ denies CA link"]
+aliases: ["Source: Source National Observer AIQ denies CA link", "Source: National Observer AIQ denies CA link"]
 tags:
   - source
 ---

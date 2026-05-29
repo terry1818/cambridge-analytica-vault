@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Maine Morning Star 2026-04-27 Leonard Leo dark money - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Maine Morning Star 2026-04-27 Leonard Leo dark money"]
+aliases: ["Source: Source Maine Morning Star 2026-04-27 Leonard Leo dark money", "Source: Maine Morning Star 2026-04-27 Leonard Leo dark money"]
 tags:
   - source
 ---

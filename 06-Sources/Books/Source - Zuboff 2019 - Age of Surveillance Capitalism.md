@@ -4,7 +4,7 @@ description: 'Foundational theoretical work arguing that Google and Facebook ext
 tags: [source, book, surveillance-capitalism, psychographics, behavioral-modification]
 type: source
 tier: Tier-2
-aliases: ["Source: Zuboff 2019", "Source Zuboff 2019 Age of Surveillance Capitalism"]
+aliases: ["Source: Zuboff 2019", "Source Zuboff 2019 Age of Surveillance Capitalism", "Source: Zuboff 2019 - Age of Surveillance Capitalism"]
 ---
 
 # Source — The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power (Shoshana Zuboff, 2019)

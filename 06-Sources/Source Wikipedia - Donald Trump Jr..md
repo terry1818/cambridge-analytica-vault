@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Donald Trump Jr. - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Donald Trump Jr."]
+aliases: ["Source: Source Wikipedia - Donald Trump Jr.", "Source: Wikipedia - Donald Trump Jr."]
 tags:
   - source
 ---

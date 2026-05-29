@@ -9,7 +9,7 @@ tags:
   - topic/info-warfare
   - topic/election-interference
 type: source
-aliases: ["NYT October 7 Anniversary US Politics"]
+aliases: ["NYT October 7 Anniversary US Politics", "Source: NYT October 7 Anniversary US Politics"]
 source_type: journalism
 title: "The New York Times — Coverage of the October 7 Anniversary and the 2024 Campaign"
 author: New York Times staff (politics desk)

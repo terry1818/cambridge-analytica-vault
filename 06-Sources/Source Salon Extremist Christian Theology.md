@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Salon Extremist Christian Theology - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Salon Extremist Christian Theology"]
+aliases: ["Source: Source Salon Extremist Christian Theology", "Source: Salon Extremist Christian Theology"]
 tags:
   - source
 ---

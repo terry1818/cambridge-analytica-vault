@@ -4,7 +4,7 @@ description: 'Paxton''s landmark behavioral-historical definition of fascism bui
 tags: [source, book, fascism, historical-analysis, analytical-framework]
 type: source
 tier: Tier-2
-aliases: ["Source: Paxton 2004", "Source Paxton 2004 Anatomy of Fascism"]
+aliases: ["Source: Paxton 2004", "Source Paxton 2004 Anatomy of Fascism", "Source: Paxton 2004 - Anatomy of Fascism"]
 ---
 
 # Source — The Anatomy of Fascism (Robert O. Paxton, 2004)

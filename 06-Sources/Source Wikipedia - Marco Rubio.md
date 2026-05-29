@@ -13,7 +13,7 @@ tags:
   - jurisdiction/us
   - topic/comparative-authoritarianism
 type: source
-aliases: ["Wikipedia - Marco Rubio"]
+aliases: ["Wikipedia - Marco Rubio", "Source: Wikipedia - Marco Rubio"]
 source_type: journalism
 title: "Marco Rubio (Wikipedia article)"
 author: Wikipedia contributors

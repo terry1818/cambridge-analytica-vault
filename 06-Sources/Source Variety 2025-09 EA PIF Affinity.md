@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Variety 2025-09 EA PIF Affinity - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Variety 2025-09 EA PIF Affinity"]
+aliases: ["Source: Source Variety 2025-09 EA PIF Affinity", "Source: Variety 2025-09 EA PIF Affinity"]
 tags:
   - source
 ---

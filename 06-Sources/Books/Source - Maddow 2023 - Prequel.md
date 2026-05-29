@@ -4,7 +4,7 @@ description: History of organized American fascist movements in the 1930s–40s 
 tags: [source, book, american-fascism, homegrown-authoritarianism, 1930s-1940s]
 type: source
 tier: Tier-2
-aliases: ["Source: Maddow 2023"]
+aliases: ["Source: Maddow 2023", "Source: Maddow 2023 - Prequel"]
 ---
 
 # Source — Prequel: An American Fight Against Fascism (Rachel Maddow, 2023)

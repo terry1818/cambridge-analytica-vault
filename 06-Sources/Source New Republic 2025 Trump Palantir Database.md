@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source New Republic 2025 Trump Palantir Database - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source New Republic 2025 Trump Palantir Database"]
+aliases: ["Source: Source New Republic 2025 Trump Palantir Database", "Source: New Republic 2025 Trump Palantir Database"]
 tags:
   - source
 ---

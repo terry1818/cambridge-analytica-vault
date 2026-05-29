@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - OpenAI - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - OpenAI"]
+aliases: ["Source: Source Wikipedia - OpenAI", "Source: Wikipedia - OpenAI"]
 tags:
   - source
 ---

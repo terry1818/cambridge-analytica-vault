@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source VPM 2025-10-09 Virginia Flock Immigration - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source VPM 2025-10-09 Virginia Flock Immigration"]
+aliases: ["Source: Source VPM 2025-10-09 Virginia Flock Immigration", "Source: VPM 2025-10-09 Virginia Flock Immigration"]
 tags:
   - source
 ---

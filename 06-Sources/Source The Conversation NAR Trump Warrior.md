@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source The Conversation NAR Trump Warrior - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source The Conversation NAR Trump Warrior", "The Conversation NAR Trump Warrior"]
+aliases: ["Source: Source The Conversation NAR Trump Warrior", "The Conversation NAR Trump Warrior", "Source: The Conversation NAR Trump Warrior"]
 tags:
   - source
 ---

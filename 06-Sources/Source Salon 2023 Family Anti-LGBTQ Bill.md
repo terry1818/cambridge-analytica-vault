@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Salon 2023 Family Anti-LGBTQ Bill - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Salon 2023 Family Anti-LGBTQ Bill"]
+aliases: ["Source: Source Salon 2023 Family Anti-LGBTQ Bill", "Source: Salon 2023 Family Anti-LGBTQ Bill"]
 tags:
   - source
 ---

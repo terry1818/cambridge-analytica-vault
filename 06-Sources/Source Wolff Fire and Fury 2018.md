@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wolff Fire and Fury 2018 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wolff Fire and Fury 2018"]
+aliases: ["Source: Source Wolff Fire and Fury 2018", "Source: Wolff Fire and Fury 2018"]
 tags:
   - source
 ---

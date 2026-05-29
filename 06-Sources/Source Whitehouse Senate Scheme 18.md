@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Whitehouse Senate Scheme 18 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Whitehouse Senate Scheme 18"]
+aliases: ["Source: Source Whitehouse Senate Scheme 18", "Source: Whitehouse Senate Scheme 18"]
 tags:
   - source
 ---

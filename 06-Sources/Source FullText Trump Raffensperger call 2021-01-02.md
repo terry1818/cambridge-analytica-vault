@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source FullText Trump Raffensperger call 2021-01-02 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source FullText Trump Raffensperger call 2021-01-02"]
+aliases: ["Source: Source FullText Trump Raffensperger call 2021-01-02", "Source: FullText Trump Raffensperger call 2021-01-02"]
 tags:
   - source
 ---

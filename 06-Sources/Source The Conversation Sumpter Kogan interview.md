@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source The Conversation Sumpter Kogan interview - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source The Conversation Sumpter Kogan interview"]
+aliases: ["Source: Source The Conversation Sumpter Kogan interview", "Source: The Conversation Sumpter Kogan interview"]
 tags:
   - source
 ---

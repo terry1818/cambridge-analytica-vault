@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Government Accountability Institute - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Government Accountability Institute"]
+aliases: ["Source: Source Wikipedia - Government Accountability Institute", "Source: Wikipedia - Government Accountability Institute"]
 tags:
   - source
 ---

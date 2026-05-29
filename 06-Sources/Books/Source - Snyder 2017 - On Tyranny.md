@@ -4,7 +4,7 @@ description: Twenty lessons for resisting authoritarianism drawn from 20th-centu
 tags: [source, book, anti-authoritarianism, resistance, civic-action]
 type: source
 tier: Tier-2
-aliases: ["Source: Snyder 2017"]
+aliases: ["Source: Snyder 2017", "Source: Snyder 2017 - On Tyranny"]
 ---
 
 # Source — On Tyranny: Twenty Lessons from the Twentieth Century (Timothy Snyder, 2017)

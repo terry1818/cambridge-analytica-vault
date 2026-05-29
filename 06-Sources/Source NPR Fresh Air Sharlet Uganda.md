@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source NPR Fresh Air Sharlet Uganda - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source NPR Fresh Air Sharlet Uganda"]
+aliases: ["Source: Source NPR Fresh Air Sharlet Uganda", "Source: NPR Fresh Air Sharlet Uganda"]
 tags:
   - source
 ---

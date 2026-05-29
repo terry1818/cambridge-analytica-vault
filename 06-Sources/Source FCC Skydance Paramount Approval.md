@@ -20,6 +20,7 @@ accessed: 2026-05-23
 reliability: high
 aliases:
   - FCC Skydance Paramount Approval
+  - "Source: FCC Skydance Paramount Approval"
 ---
 
 # Source FCC Skydance Paramount Approval

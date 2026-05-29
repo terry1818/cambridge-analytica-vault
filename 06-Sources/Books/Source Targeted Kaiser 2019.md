@@ -1,7 +1,7 @@
 ---
 date: 2026-05-16
 description: Kaiser firsthand memoir of Cambridge Analytica from business-development side
-aliases: ["Source: Source Targeted Kaiser 2019"]
+aliases: ["Source: Source Targeted Kaiser 2019", "Source: Targeted Kaiser 2019"]
 tags: [source, evidence/book, evidence/whistleblower-testimony, topic/cambridge-analytica]
 type: source
 source_type: book

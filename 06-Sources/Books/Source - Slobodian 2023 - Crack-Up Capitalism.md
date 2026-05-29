@@ -4,7 +4,7 @@ description: 'Intellectual and political history of market-radical "zone" strate
 tags: [source, book, tech-right, zones, anti-democracy]
 type: source
 tier: Tier-2
-aliases: ["Source: Slobodian 2023"]
+aliases: ["Source: Slobodian 2023", "Source: Slobodian 2023 - Crack-Up Capitalism"]
 ---
 
 # Source — Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy (Quinn Slobodian, 2023)

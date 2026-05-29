@@ -20,6 +20,7 @@ accessed: 2026-05-23
 reliability: high
 aliases:
   - Reuters Trump 60 Minutes Settlement
+  - "Source: Reuters Trump 60 Minutes Settlement"
 ---
 
 # Source Reuters Trump 60 Minutes Settlement

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source SPLC New Dominionism Tries to Rule - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source SPLC New Dominionism Tries to Rule"]
+aliases: ["Source: Source SPLC New Dominionism Tries to Rule", "Source: SPLC New Dominionism Tries to Rule"]
 tags:
   - source
 ---

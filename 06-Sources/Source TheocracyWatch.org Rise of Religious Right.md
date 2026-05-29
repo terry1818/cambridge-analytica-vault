@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source TheocracyWatch.org Rise of Religious Right - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source TheocracyWatch.org Rise of Religious Right"]
+aliases: ["Source: Source TheocracyWatch.org Rise of Religious Right", "Source: TheocracyWatch.org Rise of Religious Right"]
 tags:
   - source
 ---

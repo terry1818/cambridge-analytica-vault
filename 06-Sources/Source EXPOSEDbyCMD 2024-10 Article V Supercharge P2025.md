@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source EXPOSEDbyCMD 2024-10 Article V Supercharge P2025 - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source EXPOSEDbyCMD 2024-10 Article V Supercharge P2025"]
+aliases: ["Source: Source EXPOSEDbyCMD 2024-10 Article V Supercharge P2025", "Source: EXPOSEDbyCMD 2024-10 Article V Supercharge P2025"]
 tags:
   - source
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source NextGov 2025-06 Democrats Palantir IRS - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source NextGov 2025-06 Democrats Palantir IRS"]
+aliases: ["Source: Source NextGov 2025-06 Democrats Palantir IRS", "Source: NextGov 2025-06 Democrats Palantir IRS"]
 tags:
   - source
 ---

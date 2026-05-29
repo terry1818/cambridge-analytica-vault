@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Democracy High 2025 TheocracyWatch Removed - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Democracy High 2025 TheocracyWatch Removed"]
+aliases: ["Source: Source Democracy High 2025 TheocracyWatch Removed", "Source: Democracy High 2025 TheocracyWatch Removed"]
 tags:
   - source
 ---

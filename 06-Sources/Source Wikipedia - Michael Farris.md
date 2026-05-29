@@ -1,7 +1,7 @@
 ---
 date: 2026-05-17
 description: Source Wikipedia - Michael Farris - vault note (auto-populated from cross-referenced wikilink).
-aliases: ["Source: Source Wikipedia - Michael Farris"]
+aliases: ["Source: Source Wikipedia - Michael Farris", "Source: Wikipedia - Michael Farris"]
 tags:
   - source
 ---
