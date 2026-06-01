@@ -1,24 +1,36 @@
-﻿---
-date: 2026-05-17
-description: Rudy Giuliani - vault note (auto-populated from cross-referenced wikilink).
-tags:
-  - entity
+---
+title: Rudy Giuliani
+type: person
+date: 2026-06-01
+tags: [person, lawyer, trump, election-denial, georgia-rico, disbarred]
+aliases: ['Rudy Giuliani','Rudolph Giuliani','Rudolph W Giuliani']
 ---
 
 # Rudy Giuliani
 
-## Entity-tier vault note
+Former Mayor of New York City (1994-2001). Trump personal attorney 2018-2024. Central figure in the Trump-Ukraine pressure campaign and the post-2020 election-denial litigation.
 
-This entity sits inside the Cambridge Analytica research vault network because its actions, relationships, money, or testimony connect at least one CA-era actor to the present-day continuation of the same operational playbook through tech-right, religious-right, or state-sponsored information operations infrastructure.
+## Tier 1 consequences
 
-## Vault function and cross-cluster position
+- 2019: Trump-Ukraine pressure campaign (basis of [[First Impeachment of Donald Trump]])
+- 2020: Led the post-election "stop the steal" litigation
+- 2021: NY Bar suspended (interim)
+- 2023:  defamation judgment against him in [[Freeman v Giuliani Verdict December 2023]]
+- 2023: NY Bar disbarred him
+- 2023: Filed Chapter 11 bankruptcy
+- August 14, 2023: Indicted in [[Georgia RICO Case]]
+- April 24, 2024: Indicted in Arizona fake-electors case
 
-The entity is referenced from substantive notes across multiple vault clusters. The cluster positioning may include the CA-era operator cluster (Cambridge Analytica, SCL Group, AggregateIQ and successor structures), the patron-wing funder architecture (Mercer family, DeVos family, Koch network, and adjacent large-donor infrastructure), the religious-right institutional infrastructure (Council for National Policy, the Fellowship, Heritage Foundation, Project 2025), the tech-right data-and-AI infrastructure (Peter Thiel, Palantir, Elon Musk, DOGE), or the state-actor foreign-government adjacencies (Russia, China, UAE, Saudi Arabia, Israel commercial-intelligence sector).
+## Significance
 
-## Open research threads
+Giuliani's trajectory - from credentialed federal prosecutor and "America's Mayor" to disbarred, bankrupt criminal defendant - is the documented arc of the institutional cost of post-2020 election-denial litigation conducted in bad faith.
 
-Outstanding questions for expansion of this node include: what is the earliest documented connection between this entity and any other vault entity, what are the documented money flows in and out, in which campaigns or operations did this entity appear, are there sworn statements or primary documents that contradict the public narrative, and what contemporaneous actors knew of this entity at the time but are not yet in the vault.
+## See also
 
-## Methodology and cross-reference function
+[[Donald Trump]] | [[First Impeachment of Donald Trump]] | [[Stop the Steal]] | [[Lev Parnas]] | [[Igor Fruman]] | [[Georgia RICO Case]] | [[Freeman v Giuliani Verdict December 2023]] | [[Ruby Freeman]]
 
-Where claims about this entity are contested, the vault prefers primary documents (court filings, sworn testimony, regulator findings, FEC and Companies House records) over secondary reporting. The Methodology - Verifying a CA claim and Evidence Tiers framework govern how claims about this entity should be evaluated. The vault Master Timeline and the relevant cluster MOC provide the principal navigation context.
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

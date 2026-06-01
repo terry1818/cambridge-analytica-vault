@@ -1,24 +1,38 @@
-﻿---
-date: 2026-05-17
-description: Tom Homan - vault note (auto-populated from cross-referenced wikilink).
-tags:
-  - entity
+---
+title: Tom Homan
+type: person
+date: 2026-06-01
+tags: [person, secondterm, ice, borderczar, deportation]
+aliases: ['Tom Homan','Thomas Homan']
 ---
 
 # Tom Homan
 
-## Entity-tier vault note
+US "Border Czar" in Trump's 2nd term. Former acting director of [[ICE]] (2017-2018, Trump 1st term).
 
-This entity sits inside the Cambridge Analytica research vault network because its actions, relationships, money, or testimony connect at least one CA-era actor to the present-day continuation of the same operational playbook through tech-right, religious-right, or state-sponsored information operations infrastructure.
+## Background
 
-## Vault function and cross-cluster position
+- Border Patrol agent from 1984
+- Promoted through ICE ERO to ERO executive associate director
+- Acting ICE director 2017-2018
+- Architect of the 2018 family-separation policy at the southern border ([[Stephen Miller]]-driven policy, Homan operational executor)
 
-The entity is referenced from substantive notes across multiple vault clusters. The cluster positioning may include the CA-era operator cluster (Cambridge Analytica, SCL Group, AggregateIQ and successor structures), the patron-wing funder architecture (Mercer family, DeVos family, Koch network, and adjacent large-donor infrastructure), the religious-right institutional infrastructure (Council for National Policy, the Fellowship, Heritage Foundation, Project 2025), the tech-right data-and-AI infrastructure (Peter Thiel, Palantir, Elon Musk, DOGE), or the state-actor foreign-government adjacencies (Russia, China, UAE, Saudi Arabia, Israel commercial-intelligence sector).
+## 2nd term role
 
-## Open research threads
+- "Border Czar" position created by Trump
+- Coordinates ICE, CBP, military immigration enforcement
+- Public face of the [[Mass deportation operation 2025]]
 
-Outstanding questions for expansion of this node include: what is the earliest documented connection between this entity and any other vault entity, what are the documented money flows in and out, in which campaigns or operations did this entity appear, are there sworn statements or primary documents that contradict the public narrative, and what contemporaneous actors knew of this entity at the time but are not yet in the vault.
+## Significance
 
-## Methodology and cross-reference function
+Homan is the operational pair to Stephen Miller's policy direction. Their re-pairing is the central operational engine of the mass-deportation agenda.
 
-Where claims about this entity are contested, the vault prefers primary documents (court filings, sworn testimony, regulator findings, FEC and Companies House records) over secondary reporting. The Methodology - Verifying a CA claim and Evidence Tiers framework govern how claims about this entity should be evaluated. The vault Master Timeline and the relevant cluster MOC provide the principal navigation context.
+## See also
+
+[[ICE]] | [[Stephen Miller]] | [[Mass deportation operation 2025]] | [[Family separation policy]] | [[CECOT]] | [[Project 2025]] | [[Alien Enemies Act]]
+
+---
+
+## Master synthesis
+
+This node is one of the structural anchors of [[Master Theses MOC]] - the vault's top-level synthesis of the three converging theses (Structural Capture / Demographic Defensiveness / Post-Liberal Constitutional Replacement) that tie the vault clusters together.

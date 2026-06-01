@@ -8,7 +8,11 @@ aliases: ['Sequoia Capital']
 
 # Sequoia Capital
 
-US venture capital firm. Founded 1972 by Don Valentine. Among the most-successful US VC firms by historical returns. Managing partner: [[Roelof Botha]] (PayPal Mafia).
+US venture capital firm founded 1972 by Don Valentine. Among the most-successful US VC firms by historical returns. Managing partner: [[Roelof Botha]] (PayPal Mafia).
+
+## Vault relevance
+
+Sequoia is more politically diversified than [[Founders Fund]] / [[Andreessen Horowitz]] / [[8VC]] in the Tech right cohort. The firm's portfolio includes both establishment-tech successes (Google, WhatsApp, Stripe) and more Tech-right-aligned bets (Klarna, Bridgewater).
 
 ## See also
 
