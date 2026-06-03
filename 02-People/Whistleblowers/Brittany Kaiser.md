@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Brittany_Kaiser
 
 ## Summary
 
-American whistleblower and former Director of Business Development at [[Cambridge Analytica]]. Came forward in March 2018 contradicting CA's public denials about work for [[Leave.EU]]: "In my opinion, I was lying." Released the **[[HindsightFiles]]** on January 4, 2020 â€” over 100,000 documents showing CA work in 68 countries. Author of [[Source Targeted (Kaiser 2019)|*Targeted*]] (2019). Founded the **Own Your Data Foundation** and coined **#OwnYourData**. Featured in [[Source The Great Hack (2019)|The Great Hack]] documentary. ([[Source Wikipedia - Cambridge Analytica]])
+American whistleblower and former Director of Business Development at [[Cambridge Analytica]]. Came forward in March 2018 contradicting CA's public denials about work for [[Leave.EU]]: "In my opinion, I was lying." Released the **[[HindsightFiles]]** on January 4, 2020 -- over 100,000 documents showing CA work in 68 countries. Author of [[Source Targeted (Kaiser 2019)|*Targeted*]] (2019). Founded the **Own Your Data Foundation** and coined **#OwnYourData**. Featured in [[Source The Great Hack (2019)|The Great Hack]] documentary. ([[Source Wikipedia - Cambridge Analytica]])
 
 ## Key facts
 
@@ -28,8 +28,8 @@ American whistleblower and former Director of Business Development at [[Cambridg
 
 ## Quotes
 
-- "In my opinion, I was lying. In my opinion I felt like we should say, 'this is exactly what we did'." â€” re: Leave.EU
-- "Democracy is under threat from the influence of groups like Cambridge Analytica." â€” France 24, 2019
+- "In my opinion, I was lying. In my opinion I felt like we should say, 'this is exactly what we did'." -- re: Leave.EU
+- "Democracy is under threat from the influence of groups like Cambridge Analytica." -- France 24, 2019
 
 ## Connections
 
@@ -39,12 +39,12 @@ American whistleblower and former Director of Business Development at [[Cambridg
 
 ## Timeline
 
-- `~2015-2018` â€” Director of Business Development at CA
-- `2018-03-23` â€” Goes public contradicting CA's Leave.EU denials
-- `2019` â€” Publishes [[Source Targeted (Kaiser 2019)|*Targeted*]]
-- `2019` â€” Featured prominently in [[Source The Great Hack (2019)]]
-- `2020-01-04` â€” [[HindsightFiles]] release begins via @HindsightFiles Twitter account
-- `2020` â€” Allegations re: Bongbong Marcos approach
+- `~2015-2018` -- Director of Business Development at CA
+- `2018-03-23` -- Goes public contradicting CA's Leave.EU denials
+- `2019` -- Publishes [[Source Targeted (Kaiser 2019)|*Targeted*]]
+- `2019` -- Featured prominently in [[Source The Great Hack (2019)]]
+- `2020-01-04` -- [[HindsightFiles]] release begins via @HindsightFiles Twitter account
+- `2020` -- Allegations re: Bongbong Marcos approach
 
 ## Open questions
 
@@ -88,7 +88,7 @@ Kaiser's account has been contested on several specific points by other former C
 
 ## Detailed career inside SCL/CA
 
-Kaiser joined SCL Group in February 2015 as business development director, after a career path that included Obama-campaign volunteer work (2008), human rights research at Amnesty International, and an MA in Human Rights at Birkbeck University of London. Her recruitment into SCL was facilitated by [[Alexander Nix]]'s relationship network; her function at the firm was principally commercial â€” closing political-consulting deals on behalf of CA across North America, Africa, and the Caribbean.
+Kaiser joined SCL Group in February 2015 as business development director, after a career path that included Obama-campaign volunteer work (2008), human rights research at Amnesty International, and an MA in Human Rights at Birkbeck University of London. Her recruitment into SCL was facilitated by [[Alexander Nix]]'s relationship network; her function at the firm was principally commercial -- closing political-consulting deals on behalf of CA across North America, Africa, and the Caribbean.
 
 Her client-facing role gave her operational visibility across the [[Cambridge Analytica]] caseload that the more technical staff did not have. Through 2015-2017 she pitched and helped close engagements with [[Leave.EU]] / [[Arron Banks]], with the [[Ted Cruz Campaign]] (in the early phase before the Mercer-side handoff to direct CA management), with the Nigerian APC presidential operation, with multiple US Senate and gubernatorial campaigns, and with commercial-political consulting clients in the Caribbean and parts of Africa.
 

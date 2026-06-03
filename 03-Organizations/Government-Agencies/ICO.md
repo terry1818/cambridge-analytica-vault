@@ -20,7 +20,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Information_Commissioner%27s_Office
 
 **UK independent data-protection regulator**. Founded 1984 as Data Protection Registrar; renamed Information Commissioner's Office in 2001. **The lead investigative agency on Cambridge Analytica / Facebook / Leave.EU** between 2017-2020 under then-Commissioner **Elizabeth Denham**. Conducted multi-year investigation that resulted in:
 
-- **2018-10:** Â£500K fine against **Facebook** for CA-data breach (the maximum then-available under pre-GDPR UK law)
+- **2018-10:** £500K fine against **Facebook** for CA-data breach (the maximum then-available under pre-GDPR UK law)
 - **2018-2019:** Multi-year investigation of **Leave.EU + Arron Banks + Eldon Insurance** (ultimately found no CA-direct breach but documented multiple data-protection violations)
 - **2019-2020:** Investigation of **AggregateIQ** found Canadian-side breaches
 - **Multiple referrals + warnings** across the CA-era ecosystem
@@ -37,7 +37,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Information_Commissioner%27s_Office
 
 ## CA-era investigations + outcomes
 
-- **CA / Facebook:** Â£500K Facebook fine (maximum then-available); CA had already collapsed
+- **CA / Facebook:** £500K Facebook fine (maximum then-available); CA had already collapsed
 - **Leave.EU + Banks:** No significant CA-direct breach; multiple data-protection findings
 - **AggregateIQ:** Canadian Privacy Commissioner parallel investigation found AIQ broke law
 - **Cambridge Psychometric Centre:** investigations + report

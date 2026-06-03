@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Co-founder of Council for National Policy 1981; Left Behind series author; Christian-right organizer
 tags: [person, role/theocratic-wing, role/author, era/1970-2016]
@@ -33,9 +33,9 @@ Baptist minister, author, and Christian-right organizer. **Co-founded the [[Coun
 
 ## Related vault entries
 
-- [[Council for National Policy]] ÃƒÂ¢Ã¢â€šÂ¬" co-founded
-- [[Moral Majority]] ÃƒÂ¢Ã¢â€šÂ¬" member
-- [[Theocratic Wing Infrastructure 1935-2026]] ÃƒÂ¢Ã¢â€šÂ¬" historical-layer figure
+- [[Council for National Policy]] â€" co-founded
+- [[Moral Majority]] â€" member
+- [[Theocratic Wing Infrastructure 1935-2026]] â€" historical-layer figure
 
 ## Sources
 

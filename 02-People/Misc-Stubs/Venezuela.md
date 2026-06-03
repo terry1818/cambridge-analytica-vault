@@ -8,7 +8,7 @@ aliases: ['Venezuela']
 
 # Venezuela
 
-South American republic. Under President NicolÃ¡s Maduro since 2013.
+South American republic. Under President Nicolás Maduro since 2013.
 
 ## Vault relevance
 

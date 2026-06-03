@@ -15,9 +15,9 @@ status: active
 
 ## Summary
 
-British psychological researcher at the [[Cambridge Psychometrics Centre]]. Built the **MyPersonality** application starting in 2007 â€” a Facebook personality quiz that ultimately recruited approximately **6 million users** who completed Big Five questionnaires and shared their Facebook profile data. The dataset became the foundation for the seminal [[Source Kosinski Stillwell Graepel 2013 PNAS]] paper demonstrating that personal attributes could be predicted from Facebook Likes.
+British psychological researcher at the [[Cambridge Psychometrics Centre]]. Built the **MyPersonality** application starting in 2007 -- a Facebook personality quiz that ultimately recruited approximately **6 million users** who completed Big Five questionnaires and shared their Facebook profile data. The dataset became the foundation for the seminal [[Source Kosinski Stillwell Graepel 2013 PNAS]] paper demonstrating that personal attributes could be predicted from Facebook Likes.
 
-Stillwell refused [[Cambridge Analytica]]'s requests to access MyPersonality for political use. CA then hired Centre insider [[Aleksandr Kogan]] to clone the methodology via [[Global Science Research (GSR)]] â€” using a new Facebook app ("This Is Your Digital Life") to collect a fresh dataset.
+Stillwell refused [[Cambridge Analytica]]'s requests to access MyPersonality for political use. CA then hired Centre insider [[Aleksandr Kogan]] to clone the methodology via [[Global Science Research (GSR)]] -- using a new Facebook app ("This Is Your Digital Life") to collect a fresh dataset.
 
 ## Sources
 

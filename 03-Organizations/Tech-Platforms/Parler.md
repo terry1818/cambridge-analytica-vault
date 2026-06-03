@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Right-wing alternative social platform; Rebekah Mercer disclosed as major investor; de-platformed post Jan 6 then revived
 tags: [org, org/tech-platform, topic/cambridge-analytica, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -19,20 +19,20 @@ Right-wing alternative social media platform founded in **2018** by John Matze a
 
 ## Timeline
 
-- **2018** â€” Founded
-- **2020** â€” Rapid growth as Twitter / Facebook tightened content moderation; major migration of right-wing users
-- **November 2020** â€” Rebekah Mercer publicly discloses major investment stake
-- **January 7, 2021** â€” Apple, Google, Amazon (AWS) all withdraw services from Parler in the days after the January 6 Capitol attack, citing failure to moderate violent content. Parler offline for weeks
-- **2021-02** â€” Returns online with new hosting
+- **2018** -- Founded
+- **2020** -- Rapid growth as Twitter / Facebook tightened content moderation; major migration of right-wing users
+- **November 2020** -- Rebekah Mercer publicly discloses major investment stake
+- **January 7, 2021** -- Apple, Google, Amazon (AWS) all withdraw services from Parler in the days after the January 6 Capitol attack, citing failure to moderate violent content. Parler offline for weeks
+- **2021-02** -- Returns online with new hosting
 - **John Matze fired** as CEO in early 2021 after dispute with Mercer over content moderation policies
-- **2023-04** â€” Parler acquired by Starboard (later rebranded "Parlement Technologies"); operating service shut down briefly
-- **2024+** â€” Various revival attempts; platform persists in some form but with much smaller user base than 2020 peak
+- **2023-04** -- Parler acquired by Starboard (later rebranded "Parlement Technologies"); operating service shut down briefly
+- **2024+** -- Various revival attempts; platform persists in some form but with much smaller user base than 2020 peak
 
 ## Mercer pattern
 
 Parler represents the **platform-ownership layer** of the Mercer political infrastructure:
 
-1. **Targeting tool:** [[Cambridge Analytica]] â†’ [[Emerdata Limited]] (2013-2018+)
+1. **Targeting tool:** [[Cambridge Analytica]] → [[Emerdata Limited]] (2013-2018+)
 2. **Opposition research:** [[Government Accountability Institute]] (2012-present)
 3. **Narrative distribution:** [[Breitbart News]] (2012-present)
 4. **Direct political vehicles:** [[Make America Number 1 Super PAC]]

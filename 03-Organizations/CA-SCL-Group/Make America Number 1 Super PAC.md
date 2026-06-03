@@ -15,7 +15,7 @@ status: dissolved
 
 ## Summary
 
-US Super PAC formed in **2016** by the **Mercer family** initially to support [[Ted Cruz]]'s presidential candidacy, then re-purposed in **August 2016** to support [[Donald Trump]] after Cruz dropped out. **Paid [[Cambridge Analytica]] millions of dollars** for data and targeting services during the 2016 general election. The MA1-CA relationship raised significant **FEC campaign-coordination concerns** because the same firm (CA) was simultaneously working for the Trump campaign â€” campaigns and Super PACs are legally prohibited from coordinating strategy.
+US Super PAC formed in **2016** by the **Mercer family** initially to support [[Ted Cruz]]'s presidential candidacy, then re-purposed in **August 2016** to support [[Donald Trump]] after Cruz dropped out. **Paid [[Cambridge Analytica]] millions of dollars** for data and targeting services during the 2016 general election. The MA1-CA relationship raised significant **FEC campaign-coordination concerns** because the same firm (CA) was simultaneously working for the Trump campaign -- campaigns and Super PACs are legally prohibited from coordinating strategy.
 
 ## Operational role
 

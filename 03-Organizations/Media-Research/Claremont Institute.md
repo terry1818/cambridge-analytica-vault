@@ -16,20 +16,20 @@ wikipedia_url: https://en.wikipedia.org/wiki/Claremont_Institute
 
 ## Summary
 
-US conservative think tank founded in **1979** by students of political philosopher Harry V. Jaffa at Claremont McKenna College in California. Has evolved into **the intellectual home of MAGA conservatism** â€” providing the philosophical framework for Trump-era populist conservatism that bridges between traditional conservatism and the broader [[Curtis Yarvin]] neoreactionary movement.
+US conservative think tank founded in **1979** by students of political philosopher Harry V. Jaffa at Claremont McKenna College in California. Has evolved into **the intellectual home of MAGA conservatism** -- providing the philosophical framework for Trump-era populist conservatism that bridges between traditional conservatism and the broader [[Curtis Yarvin]] neoreactionary movement.
 
 ## Intellectual contribution
 
-Claremont publishes **The Claremont Review of Books** â€” one of the most influential conservative intellectual publications. Key intellectual contributions:
+Claremont publishes **The Claremont Review of Books** -- one of the most influential conservative intellectual publications. Key intellectual contributions:
 
-- **"The Flight 93 Election"** (2016) â€” Michael Anton (pseudonym Publius Decius Mus) essay arguing 2016 election was binary survival-or-doom choice for conservatives. Became a foundational MAGA intellectual text.
-- **The "American mind"** â€” Claremont-derived intellectual framework emphasizing American founders' political philosophy
-- **Post-liberal conservatism** â€” bridging between traditional conservatism and Yarvin-style critique
-- **Anti-administrative-state** thinking â€” aligned with Trump 2.0 DOGE / Schedule F approach
+- **"The Flight 93 Election"** (2016) -- Michael Anton (pseudonym Publius Decius Mus) essay arguing 2016 election was binary survival-or-doom choice for conservatives. Became a foundational MAGA intellectual text.
+- **The "American mind"** -- Claremont-derived intellectual framework emphasizing American founders' political philosophy
+- **Post-liberal conservatism** -- bridging between traditional conservatism and Yarvin-style critique
+- **Anti-administrative-state** thinking -- aligned with Trump 2.0 DOGE / Schedule F approach
 
 ## John Eastman and the 2020 election
 
-[[John Eastman]] â€” Claremont Institute affiliate and constitutional law professor â€” became central to the **legal strategy attempting to overturn the 2020 presidential election**:
+[[John Eastman]] -- Claremont Institute affiliate and constitutional law professor -- became central to the **legal strategy attempting to overturn the 2020 presidential election**:
 
 - Authored the **"Eastman memos"** outlining theory that VP Pence could refuse to certify electoral votes on January 6, 2021
 - Spoke at the January 6, 2021 Trump rally before the Capitol attack
@@ -40,15 +40,15 @@ Claremont publishes **The Claremont Review of Books** â€” one of the most i
 ## Connection to Trump 2.0
 
 Multiple Claremont-affiliated figures hold positions in Trump 2.0:
-- **Michael Anton** â€” National Security Council director under Trump first term; now various advisory roles
+- **Michael Anton** -- National Security Council director under Trump first term; now various advisory roles
 - Various Claremont fellows in Trump 2.0 administration
 - Claremont intellectual framework substantially shapes Trump 2.0 ideology
 
 ## Connections
 
-- **John Eastman** â€” most notorious affiliate
-- **Michael Anton** â€” Flight 93 Election author; Trump first-term NSC
-- **Charles Kesler** â€” Claremont Review of Books editor
+- **John Eastman** -- most notorious affiliate
+- **Michael Anton** -- Flight 93 Election author; Trump first-term NSC
+- **Charles Kesler** -- Claremont Review of Books editor
 - **Adjacent intellectuals:** [[Curtis Yarvin]] (less direct but ideologically aligned), Patrick Deneen
 
 ## Sources

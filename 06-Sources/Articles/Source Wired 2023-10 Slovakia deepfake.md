@@ -19,7 +19,7 @@ Meaker, Morgan. (2023-10-03). "A Deepfake Threatens to Disrupt a Slovakian Elect
 
 ## Significance
 
-Major contemporaneous Wired reporting on the [[Slovakia 2023 Deepfake Audio]] incident â€” the first European election where a deepfake had plausible material impact on the result.
+Major contemporaneous Wired reporting on the [[Slovakia 2023 Deepfake Audio]] incident — the first European election where a deepfake had plausible material impact on the result.
 
 ## Why this source matters in the vault
 

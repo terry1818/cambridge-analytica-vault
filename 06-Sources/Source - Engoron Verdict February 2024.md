@@ -28,13 +28,13 @@ aliases: ["Engoron Verdict February 2024", "Source: Engoron Verdict February 202
 
 ## Causes of action
 
-Filed under NY Executive Law Â§ 63(12). Seven causes:
-1. Persistent and repeated fraud (Â§ 63(12))
-2. Falsifying business records (Penal Law Â§ 175.05)
-3. Conspiracy to falsify business records (Â§ 105.05)
-4. Issuing false financial statements (Â§ 175.45)
+Filed under NY Executive Law § 63(12). Seven causes:
+1. Persistent and repeated fraud (§ 63(12))
+2. Falsifying business records (Penal Law § 175.05)
+3. Conspiracy to falsify business records (§ 105.05)
+4. Issuing false financial statements (§ 175.45)
 5. Conspiracy to issue false financial statements
-6. Insurance fraud (Â§ 176.05)
+6. Insurance fraud (§ 176.05)
 7. Conspiracy to commit insurance fraud
 
 ## Defendants
@@ -80,9 +80,9 @@ Engoron granted partial summary judgment on Cause of Action 1 (persistent fraud)
 
 > "When the Defendants conjured for the Statements of Financial Condition fanciful values for Mar-a-Lago, 40 Wall Street, the Triplex and other properties...they were creating a false reality, a fantasy world."
 
-The pre-trial summary judgment substantially defined the legal framework â€” the trial focused on causes 2-7 and on damages.
+The pre-trial summary judgment substantially defined the legal framework -- the trial focused on causes 2-7 and on damages.
 
-## Trial verdict (February 16, 2024) â€” key findings
+## Trial verdict (February 16, 2024) -- key findings
 
 Engoron's 92-page decision:
 
@@ -114,17 +114,17 @@ Plus pre-judgment interest at 9% per annum from various dates (totals approximat
 
 ## Appeal
 
-- NY Appellate Division reduced required bond from $464M to $175M (Trump posted via Knight Specialty Insurance) â€” March 2024
+- NY Appellate Division reduced required bond from $464M to $175M (Trump posted via Knight Specialty Insurance) -- March 2024
 - Oral argument before NY Appellate Division First Department: September 26, 2024
 - Decision pending as of 2026-05
 
 ## Connections in this vault
 
-- [[NY AG v Trump Organization Civil Fraud 2024]] â€” case event note
-- [[Donald Trump]] Â· [[Donald Trump Jr]] Â· [[Eric Trump]] Â· [[Allen Weisselberg]] â€” defendants
-- [[Letitia James]] â€” NY AG
-- [[Arthur Engoron]] â€” trial judge
+- [[NY AG v Trump Organization Civil Fraud 2024]] -- case event note
+- [[Donald Trump]] · [[Donald Trump Jr]] · [[Eric Trump]] · [[Allen Weisselberg]] -- defendants
+- [[Letitia James]] -- NY AG
+- [[Arthur Engoron]] -- trial judge
 - [[Trump Organization]]
-- [[Michael Cohen]] â€” key witness
-- [[Trump Organization NY Criminal Trial 2022]] â€” parallel criminal case
-- [[Trump Foundation NY AG Settlement 2019]] â€” predecessor NY AG action
+- [[Michael Cohen]] -- key witness
+- [[Trump Organization NY Criminal Trial 2022]] -- parallel criminal case
+- [[Trump Foundation NY AG Settlement 2019]] -- predecessor NY AG action

@@ -14,13 +14,13 @@ status: closed
 
 ## Summary
 
-US-based academic [[David Carroll]] (Parsons School of Design / The New School) filed a **UK Data Protection Act subject access request** against [[Cambridge Analytica]] in early 2017 â€” invoking UK data law since CA's parent SCL was UK-registered. Carroll's request asked CA to disclose what personal data it held on him as an individual US citizen.
+US-based academic [[David Carroll]] (Parsons School of Design / The New School) filed a **UK Data Protection Act subject access request** against [[Cambridge Analytica]] in early 2017 -- invoking UK data law since CA's parent SCL was UK-registered. Carroll's request asked CA to disclose what personal data it held on him as an individual US citizen.
 
 When CA failed to comply fully, Carroll filed a complaint with the UK [[Information Commissioner's Office (ICO)]] and ultimately pursued legal action.
 
 ## Significance
 
-- Established that **non-UK citizens could exercise UK data rights against UK-registered firms** â€” a precedent for international data sovereignty
+- Established that **non-UK citizens could exercise UK data rights against UK-registered firms** -- a precedent for international data sovereignty
 - Became the **narrative spine of [[Source The Great Hack (2019)]]**
 - Demonstrated CA's refusal to comply with basic data-disclosure law even when legally required
 

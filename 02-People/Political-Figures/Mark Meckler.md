@@ -16,7 +16,7 @@ status: active
 
 ## Summary
 
-California attorney. **Co-founded Tea Party Patriots in 2009** (resigned 2012). **Founded [[Citizens for Self-Governance]] in 2012**, the 501(c)(3) that operates as parent of [[Convention of States Action]] (co-founded 2013 with [[Michael Farris]]). **Served as interim CEO of [[Parler]] from February through May 2021** Ã¢â‚¬â€ after the board fired founding CEO John Matze. Parler was Mercer-financed at the time. **Meckler's Parler tenure puts him directly inside the [[Rebekah Mercer]]-controlled media infrastructure** during the post-Jan-6 reboot Ã¢â‚¬â€ the most direct evidentiary link between the Article V capture vector and the broader Mercer architecture.
+California attorney. **Co-founded Tea Party Patriots in 2009** (resigned 2012). **Founded [[Citizens for Self-Governance]] in 2012**, the 501(c)(3) that operates as parent of [[Convention of States Action]] (co-founded 2013 with [[Michael Farris]]). **Served as interim CEO of [[Parler]] from February through May 2021** -- after the board fired founding CEO John Matze. Parler was Mercer-financed at the time. **Meckler's Parler tenure puts him directly inside the [[Rebekah Mercer]]-controlled media infrastructure** during the post-Jan-6 reboot -- the most direct evidentiary link between the Article V capture vector and the broader Mercer architecture.
 
 ## Key facts
 
@@ -27,13 +27,13 @@ California attorney. **Co-founded Tea Party Patriots in 2009** (resigned 2012). 
 
 ## Timeline
 
-- `~2009` Ã¢â‚¬â€ Co-founds Tea Party Patriots
-- `2012` Ã¢â‚¬â€ Resigns from Tea Party Patriots; founds [[Citizens for Self-Governance]]
-- `2013` Ã¢â‚¬â€ With [[Michael Farris]], launches Convention of States Project
-- `2021-02-15` Ã¢â‚¬â€ Becomes interim CEO of [[Parler]] after board fires John Matze; Parler is in middle of post-Jan-6 reboot under Rebekah Mercer
-- `2021-05` Ã¢â‚¬â€ Steps down from Parler interim CEO role
-- `2023-08` Ã¢â‚¬â€ CSG holds Williamsburg mock convention
-- `2025-2026` Ã¢â‚¬â€ COSA pushes states 19, 20 (Indiana, SC, SD, Kansas)
+- `~2009` -- Co-founds Tea Party Patriots
+- `2012` -- Resigns from Tea Party Patriots; founds [[Citizens for Self-Governance]]
+- `2013` -- With [[Michael Farris]], launches Convention of States Project
+- `2021-02-15` -- Becomes interim CEO of [[Parler]] after board fires John Matze; Parler is in middle of post-Jan-6 reboot under Rebekah Mercer
+- `2021-05` -- Steps down from Parler interim CEO role
+- `2023-08` -- CSG holds Williamsburg mock convention
+- `2025-2026` -- COSA pushes states 19, 20 (Indiana, SC, SD, Kansas)
 
 ## Relationships
 
@@ -45,7 +45,7 @@ California attorney. **Co-founded Tea Party Patriots in 2009** (resigned 2012). 
 
 ## Public statements
 
-- Meckler frames COS as a "bipartisan self-governance movement" Ã¢â‚¬â€ disputed by the documented funder profile
+- Meckler frames COS as a "bipartisan self-governance movement" -- disputed by the documented funder profile
 
 ## Open questions
 

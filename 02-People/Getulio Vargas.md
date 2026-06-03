@@ -3,10 +3,10 @@ title: Getulio Vargas
 type: person
 date: 2026-05-29
 tags: [person, brazil, historical, populism, deceased]
-aliases: ['Getulio Vargas','GetÃºlio Vargas']
+aliases: ['Getulio Vargas','Getúlio Vargas']
 ---
 
-# GetÃºlio Vargas (1882-1954)
+# Getúlio Vargas (1882-1954)
 
 President of Brazil (1930-1945, 1951-1954). Architect of the Estado Novo (1937-1945) authoritarian period.
 

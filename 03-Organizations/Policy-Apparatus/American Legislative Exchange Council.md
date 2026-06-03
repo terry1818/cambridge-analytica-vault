@@ -17,7 +17,7 @@ status: active
 
 ## Summary
 
-Right-wing **model legislation factory** founded 1973. ~2,000 state legislator members; pairs them with corporate donors to draft "model bills" then enacted across multiple states. Long-running infrastructure for the **Koch network**'s state-level policy capture. Published a **how-to manual** for Article V constitutional amendments and offers a **model "Balanced Budget Amendment Resolution."** **ALEC was on the advisory board of [[Project 2025]]** ([[Source EXPOSEDbyCMD 2024-10 Article V Supercharge P2025]]). **ALEC published its own Project 2025 for the states in February 2025** Ã¢â‚¬â€ a state-level analog policy playbook.
+Right-wing **model legislation factory** founded 1973. ~2,000 state legislator members; pairs them with corporate donors to draft "model bills" then enacted across multiple states. Long-running infrastructure for the **Koch network**'s state-level policy capture. Published a **how-to manual** for Article V constitutional amendments and offers a **model "Balanced Budget Amendment Resolution."** **ALEC was on the advisory board of [[Project 2025]]** ([[Source EXPOSEDbyCMD 2024-10 Article V Supercharge P2025]]). **ALEC published its own Project 2025 for the states in February 2025** -- a state-level analog policy playbook.
 
 ## Identity
 
@@ -35,17 +35,17 @@ Right-wing **model legislation factory** founded 1973. ~2,000 state legislator m
 
 ## Funding
 
-- Corporate underwriting from major US corporations (historically Big Tobacco, fossil fuels, pharma, tech Ã¢â‚¬â€ many have withdrawn after public exposure)
+- Corporate underwriting from major US corporations (historically Big Tobacco, fossil fuels, pharma, tech -- many have withdrawn after public exposure)
 - Koch network direct + via DAFs
 - Heritage Foundation aligned
 
 ## Related entities
 
-- [[Convention of States Action]] Ã¢â‚¬â€ COS uses ALEC's model legislation
-- [[The Heritage Foundation]] Ã¢â‚¬â€ aligned think tank; both on P2025
-- [[Project 2025]] Ã¢â‚¬â€ ALEC on advisory board
-- [[Koch network]] Ã¢â‚¬â€ patron
-- [[Mark Meckler]] Ã¢â‚¬â€ ALEC speaker
+- [[Convention of States Action]] -- COS uses ALEC's model legislation
+- [[The Heritage Foundation]] -- aligned think tank; both on P2025
+- [[Project 2025]] -- ALEC on advisory board
+- [[Koch network]] -- patron
+- [[Mark Meckler]] -- ALEC speaker
 
 ## Open questions
 

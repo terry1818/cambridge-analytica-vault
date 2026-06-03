@@ -1,6 +1,6 @@
-﻿---
+---
 date: 2026-05-16
-description: Northern Ireland Democratic Unionist Party; major Brexit-Leave-aligned party; received Ã‚Â£435K via Constitutional Research Council (Richard Cook) for AIQ services
+description: Northern Ireland Democratic Unionist Party; major Brexit-Leave-aligned party; received £435K via Constitutional Research Council (Richard Cook) for AIQ services
 tags: [org, org/political-party, topic/brexit, era/1971-2026, jurisdiction/uk]
 type: organization
 legal_name: Democratic Unionist Party
@@ -18,14 +18,14 @@ wikipedia_url: https://en.wikipedia.org/wiki/Democratic_Unionist_Party
 
 ## Summary
 
-**Northern Irish unionist (pro-UK) political party** founded **September 30, 1971** by Ian Paisley. Major Brexit-Leave-aligned party. **Brexit relevance:** Received **Ã‚Â£435,000 from Constitutional Research Council (CRC) Ã¢â‚¬â€ Scottish/British donor cluster led by Richard Cook Ã¢â‚¬â€ for [[AggregateIQ]] services** during Brexit referendum (the **largest single political donation in DUP history at the time**). UK Electoral Commission documented the funding flow; ICO investigated.
+**Northern Irish unionist (pro-UK) political party** founded **September 30, 1971** by Ian Paisley. Major Brexit-Leave-aligned party. **Brexit relevance:** Received **£435,000 from Constitutional Research Council (CRC) -- Scottish/British donor cluster led by Richard Cook -- for [[AggregateIQ]] services** during Brexit referendum (the **largest single political donation in DUP history at the time**). UK Electoral Commission documented the funding flow; ICO investigated.
 
 **Post-2017:** Held kingmaker role in Theresa May's minority Conservative government (2017-2019) via confidence-and-supply agreement. **Significantly diminished post-Northern Ireland power-sharing collapse 2022-2024**.
 
 ## Connection to vault entities
 
 - [[Brexit Referendum 2016]]
-- [[AggregateIQ]] - received DUP Ã‚Â£435K
+- [[AggregateIQ]] - received DUP £435K
 - [[Constitutional Research Council]] (needs file) - funding intermediary
 - [[Richard Cook]] (needs file) - CRC principal
 - [[Hypothesis - Defense-to-elections pipeline]]

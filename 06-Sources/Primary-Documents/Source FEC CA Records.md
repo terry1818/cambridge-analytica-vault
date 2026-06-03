@@ -12,7 +12,7 @@ url: https://www.fec.gov/data/disbursements/?recipient_name=cambridge+analytica
 reliability: high
 ---
 
-# Source: FEC â€” Cambridge Analytica Records
+# Source: FEC — Cambridge Analytica Records
 
 ## Citation
 

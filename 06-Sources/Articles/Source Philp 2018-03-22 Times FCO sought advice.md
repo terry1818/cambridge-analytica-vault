@@ -31,7 +31,7 @@ Five days after the Wylie disclosures broke, Times reporter Catherine Philp docu
 
 This is the **most direct documented contact between CA leadership and senior UK government officials at ministerial level**. Demonstrates that CA was not merely a fringe political-consulting firm but had **access to and engagement with the British state** at high level.
 
-The Philp story has never been formally followed up â€” the actual content of FCO-CA exchanges remains undisclosed despite multiple Freedom of Information Act requests.
+The Philp story has never been formally followed up — the actual content of FCO-CA exchanges remains undisclosed despite multiple Freedom of Information Act requests.
 
 ## Why this source matters in the vault
 

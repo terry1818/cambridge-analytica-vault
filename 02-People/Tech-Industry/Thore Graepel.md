@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-German computer scientist. Co-author with [[Michal Kosinski]] and [[David Stillwell]] of [[Source Kosinski Stillwell Graepel 2013 PNAS]] â€” the foundational paper demonstrating personal-attribute prediction from Facebook Likes. At time of publication was at Microsoft Research Cambridge. Later moved to DeepMind / Google DeepMind where he worked on AlphaGo and other reinforcement-learning research. Continues academic affiliation with UCL.
+German computer scientist. Co-author with [[Michal Kosinski]] and [[David Stillwell]] of [[Source Kosinski Stillwell Graepel 2013 PNAS]] -- the foundational paper demonstrating personal-attribute prediction from Facebook Likes. At time of publication was at Microsoft Research Cambridge. Later moved to DeepMind / Google DeepMind where he worked on AlphaGo and other reinforcement-learning research. Continues academic affiliation with UCL.
 
 ## Sources
 

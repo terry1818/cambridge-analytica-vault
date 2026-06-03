@@ -17,7 +17,7 @@ status: active
 
 American political operative; **contractor for [[Cambridge Analytica]]** during 2014-2018 period. Pleaded guilty (August 31, 2018) to a one-count criminal information charging **violations of the Foreign Agents Registration Act** for unregistered work for a Russia-linked Ukrainian political party (the Opposition Bloc, successor to Yanukovychs Party of Regions). His work overlapped substantially with [[Paul Manafort]]'s Ukrainian operations.
 
-Per [[Source Senate Intel Vol 5 2020]], Patten was a **parallel data conduit** alongside Manafort â€” both worked the same Ukrainian political environment, both had relationships with [[Konstantin Kilimnik]], both contributed to the US-polling-data-to-Russia pipeline.
+Per [[Source Senate Intel Vol 5 2020]], Patten was a **parallel data conduit** alongside Manafort -- both worked the same Ukrainian political environment, both had relationships with [[Konstantin Kilimnik]], both contributed to the US-polling-data-to-Russia pipeline.
 
 ## Mueller resolution
 

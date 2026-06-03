@@ -15,7 +15,7 @@ Former US Department of Justice official. Served as Assistant Attorney General f
 
 ## The "Clark letter" / January 3 Oval Office meeting
 
-In late December 2020, Clark â€” through introductions facilitated by Trump-aligned Representative Scott Perry (R-PA) â€” began meeting with Trump directly outside normal DOJ chain of command. Clark drafted a December 28, 2020 letter to Georgia state officials (Speaker, Senate President, Governor) stating DOJ had "identified significant concerns" affecting the outcome of the 2020 election and urging the state legislature to convene a special session.
+In late December 2020, Clark -- through introductions facilitated by Trump-aligned Representative Scott Perry (R-PA) -- began meeting with Trump directly outside normal DOJ chain of command. Clark drafted a December 28, 2020 letter to Georgia state officials (Speaker, Senate President, Governor) stating DOJ had "identified significant concerns" affecting the outcome of the 2020 election and urging the state legislature to convene a special session.
 
 Acting AG [[Jeffrey Rosen]] and Acting Deputy AG [[Richard Donoghue]] refused to sign or send the letter, characterizing it as based on false statements unsupported by any DOJ investigation.
 
@@ -46,13 +46,13 @@ Status: active, pending Willis-replacement reassignment.
 
 ## Connections
 
-- [[Donald Trump]] â€” directing principal; co-conspirator
-- [[Jeffrey Rosen]] Â· [[Richard Donoghue]] Â· [[Steven Engel]] â€” DOJ leadership who refused
-- [[Pat Cipollone]] â€” WH Counsel who threatened resignation
-- [[Scott Perry]] â€” Rep PA who facilitated Trump-Clark introduction
-- [[Mark Meadows]] â€” coordinated White House role
-- [[Georgia v Trump RICO 2023]] â€” co-defendant
-- [[US v Trump DC Federal Election Interference Case]] â€” UCC4
+- [[Donald Trump]] -- directing principal; co-conspirator
+- [[Jeffrey Rosen]] · [[Richard Donoghue]] · [[Steven Engel]] -- DOJ leadership who refused
+- [[Pat Cipollone]] -- WH Counsel who threatened resignation
+- [[Scott Perry]] -- Rep PA who facilitated Trump-Clark introduction
+- [[Mark Meadows]] -- coordinated White House role
+- [[Georgia v Trump RICO 2023]] -- co-defendant
+- [[US v Trump DC Federal Election Interference Case]] -- UCC4
 - [[January 6 Select Committee 2021-2023]]
 - [[Trump First Impeachment 2019-2020]] (precedent of DOJ pressure)
 

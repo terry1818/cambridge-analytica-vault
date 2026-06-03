@@ -15,7 +15,7 @@ The **Israel cluster** describes the structural overlap between:
 3. **US-side Israeli-policy advocacy infrastructure** (AIPAC, JINSA, Republican Jewish Coalition, Heritage Foundation Israel-policy work)
 4. **US-side patron-class Israeli-aligned donors** (Adelson family, Bernard Marcus, Paul Singer, Mortimer Zuckerman, Ellison family)
 
-**Operational thesis:** Israeli-state intelligence sector + commercial-vendor ecosystem + US-side advocacy + US-side donor class form a tightly integrated cluster that operates parallel to (and sometimes in coordination with) Russian + Chinese state-actor influence on US politics â€” but with the critical difference that **the Israel cluster is allied with rather than adversarial to the US foreign-policy establishment**.
+**Operational thesis:** Israeli-state intelligence sector + commercial-vendor ecosystem + US-side advocacy + US-side donor class form a tightly integrated cluster that operates parallel to (and sometimes in coordination with) Russian + Chinese state-actor influence on US politics -- but with the critical difference that **the Israel cluster is allied with rather than adversarial to the US foreign-policy establishment**.
 
 ## Israeli commercial intel-for-hire + spyware vendors
 
@@ -83,9 +83,9 @@ The **Israel cluster** describes the structural overlap between:
 
 The Phase 1 Epstein notes ([[Epstein Network MOC]]) ship the most-documented public-record case of an alleged Israeli-adjacent kompromat operation in the US-elite blackmail space. The bridge content tying this to the existing Israel-cluster framing:
 
-- [[Mega Group]] â€” coordination layer; founded 1991 same year Robert Maxwell died and Ghislaine partnered with Epstein
-- [[Connection - Wexner to Mega Group to Israeli philanthropy]] â€” overlap of Wexner roles as Epstein funder, Mega Group founder, Israeli-philanthropy funder
-- [[Connection - Maxwell lineage Robert to Ghislaine to Epstein]] â€” operational lineage from alleged Mossad asset Robert Maxwell to Epstein partnership
-- [[Deep Dive - Israel-Epstein Architecture Bridge]] â€” full synthesis
+- [[Mega Group]] -- coordination layer; founded 1991 same year Robert Maxwell died and Ghislaine partnered with Epstein
+- [[Connection - Wexner to Mega Group to Israeli philanthropy]] -- overlap of Wexner roles as Epstein funder, Mega Group founder, Israeli-philanthropy funder
+- [[Connection - Maxwell lineage Robert to Ghislaine to Epstein]] -- operational lineage from alleged Mossad asset Robert Maxwell to Epstein partnership
+- [[Deep Dive - Israel-Epstein Architecture Bridge]] -- full synthesis
 
 The Epstein arc is integrated into the broader Israel cluster as a Tier 2 candidate operational node, with explicit evidence-tier discipline distinguishing what is Tier 1 documented (financial pipelines, social associations, sworn allegations of trafficking conduct) from Tier 2/3 (operational coordination, intelligence-service backing, full structural integration).

@@ -39,11 +39,11 @@ Moss left her job at Fulton County and the state election system after the haras
 
 ## Connections
 
-- [[Ruby Freeman]] â€” mother; co-plaintiff
-- [[Donald Trump]] Â· [[Rudy Giuliani]] â€” defamers
-- [[January 6 Select Committee 2021-2023]] â€” testifying body
-- [[Georgia v Trump RICO 2023]] â€” witness; case includes their harassment
-- [[Brad Raffensperger]] â€” Trump-Raffensperger call context
+- [[Ruby Freeman]] -- mother; co-plaintiff
+- [[Donald Trump]] · [[Rudy Giuliani]] -- defamers
+- [[January 6 Select Committee 2021-2023]] -- testifying body
+- [[Georgia v Trump RICO 2023]] -- witness; case includes their harassment
+- [[Brad Raffensperger]] -- Trump-Raffensperger call context
 - [[Stop the Steal]]
 
 ## Sources

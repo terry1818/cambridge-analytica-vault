@@ -17,7 +17,7 @@ status: active
 
 ## Summary
 
-Financial / investment firm co-founded by **Wall Street veteran [[Omeed Malik]]** with **[[Rebekah Mercer]]** as co-founder/investor and **Donald Trump Jr.** joining as a partner in 2024. Named for the year of the French Revolution / US Constitution adoption (ideologically loaded branding). Led the **$15M seed round into [[Tucker Carlson]]'s post-Fox media company**. Operates as a venture/PE vehicle specifically focused on backing **right-aligned media, technology, and "parallel economy" businesses** â€” investments that would not otherwise attract mainstream institutional capital.
+Financial / investment firm co-founded by **Wall Street veteran [[Omeed Malik]]** with **[[Rebekah Mercer]]** as co-founder/investor and **Donald Trump Jr.** joining as a partner in 2024. Named for the year of the French Revolution / US Constitution adoption (ideologically loaded branding). Led the **$15M seed round into [[Tucker Carlson]]'s post-Fox media company**. Operates as a venture/PE vehicle specifically focused on backing **right-aligned media, technology, and "parallel economy" businesses** -- investments that would not otherwise attract mainstream institutional capital.
 
 ## Identity
 
@@ -27,25 +27,25 @@ Financial / investment firm co-founded by **Wall Street veteran [[Omeed Malik]]*
 
 ## Investments
 
-- **Tucker Carlson Network** â€” $15M seed round
+- **Tucker Carlson Network** -- $15M seed round
 - Multiple "parallel economy" investments in conservative/right-aligned tech, media, payments
 - Reported interest in right-aligned fintech and creator infrastructure
 
 ## How it fits the architecture
 
-1789 Capital is the **media/distribution financing arm** of the post-CA Mercer infrastructure. Where [[The Heritage Foundation]] writes policy and [[Project 2025]] supplies personnel, **1789 Capital funds the channels** the resulting narrative ships through. Combined with [[Rebekah Mercer]]'s prior Parler involvement and Heritage trustee role, this completes the **patron â†’ policy â†’ personnel â†’ media-distribution** circuit.
+1789 Capital is the **media/distribution financing arm** of the post-CA Mercer infrastructure. Where [[The Heritage Foundation]] writes policy and [[Project 2025]] supplies personnel, **1789 Capital funds the channels** the resulting narrative ships through. Combined with [[Rebekah Mercer]]'s prior Parler involvement and Heritage trustee role, this completes the **patron → policy → personnel → media-distribution** circuit.
 
 ## Related entities
 
-- [[Rebekah Mercer]] â€” co-founder
-- [[The Heritage Foundation]] â€” co-patron institution (overlapping Mercer-family commitment)
-- Tucker Carlson Network â€” first major investment
-- Donald Trump Jr. â€” partner
+- [[Rebekah Mercer]] -- co-founder
+- [[The Heritage Foundation]] -- co-patron institution (overlapping Mercer-family commitment)
+- Tucker Carlson Network -- first major investment
+- Donald Trump Jr. -- partner
 
 ## Open questions
 
 - [ ] Full portfolio company list
-- [ ] LP structure â€” domestic vs. foreign capital?
+- [ ] LP structure -- domestic vs. foreign capital?
 - [ ] Co-investment patterns with Heritage-aligned donor networks
 
 ## Sources

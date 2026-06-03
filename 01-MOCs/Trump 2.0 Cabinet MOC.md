@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Index of Trump 2.0 administration cabinet and senior positions - personnel network analysis
 tags: [moc, topic/tech-right, era/2024-present, jurisdiction/us]
@@ -11,34 +11,34 @@ Index of Trump 2.0 administration cabinet and senior positions, with network-aff
 
 ## Vice President
 
-- **[[JD Vance]]** â€” Thiel network protÃ©gÃ©
+- **[[JD Vance]]** -- Thiel network protégé
 
 ## White House senior staff
 
-- **[[Susie Wiles]]** â€” Chief of Staff (1st woman)
-- **[[Stephen Miller]]** â€” Deputy Chief of Staff for Policy (America First Legal founder)
-- **[[David Sacks]]** â€” AI and Crypto Czar (PayPal Mafia)
-- **[[Elon Musk]]** â€” DOGE leader (departed mid-2025)
+- **[[Susie Wiles]]** -- Chief of Staff (1st woman)
+- **[[Stephen Miller]]** -- Deputy Chief of Staff for Policy (America First Legal founder)
+- **[[David Sacks]]** -- AI and Crypto Czar (PayPal Mafia)
+- **[[Elon Musk]]** -- DOGE leader (departed mid-2025)
 
 ## Cabinet (selected)
 
-- **[[Russell Vought]]** â€” OMB Director (Project 2025 lead author)
-- **[[Howard Lutnick]]** â€” Commerce Secretary (Cantor Fitzgerald)
-- **[[Scott Bessent]]** â€” Treasury Secretary (Key Square Group; ex-Soros)
-- **[[Kristi Noem]]** â€” DHS Secretary (former SD Governor)
-- **Brooke Rollins** â€” Agriculture Secretary (AFPI founder)
-- **Marco Rubio** â€” Secretary of State
-- **Pete Hegseth** â€” Defense Secretary
-- **Pam Bondi** â€” Attorney General (after Gaetz withdrawal)
-- **Robert F. Kennedy Jr.** â€” HHS Secretary
-- **Linda McMahon** â€” Education Secretary (Trump 2024 transition co-chair)
-- **Kash Patel** â€” FBI Director
+- **[[Russell Vought]]** -- OMB Director (Project 2025 lead author)
+- **[[Howard Lutnick]]** -- Commerce Secretary (Cantor Fitzgerald)
+- **[[Scott Bessent]]** -- Treasury Secretary (Key Square Group; ex-Soros)
+- **[[Kristi Noem]]** -- DHS Secretary (former SD Governor)
+- **Brooke Rollins** -- Agriculture Secretary (AFPI founder)
+- **Marco Rubio** -- Secretary of State
+- **Pete Hegseth** -- Defense Secretary
+- **Pam Bondi** -- Attorney General (after Gaetz withdrawal)
+- **Robert F. Kennedy Jr.** -- HHS Secretary
+- **Linda McMahon** -- Education Secretary (Trump 2024 transition co-chair)
+- **Kash Patel** -- FBI Director
 
 ## Sub-cabinet / advisory
 
-- **[[Marc Andreessen]]** â€” informal transition advisor
-- **Larry Kudlow** â€” informal economic advisor
-- **[[Peter Thiel]]** â€” informal political advisor (via Vance)
+- **[[Marc Andreessen]]** -- informal transition advisor
+- **Larry Kudlow** -- informal economic advisor
+- **[[Peter Thiel]]** -- informal political advisor (via Vance)
 
 ## Network affiliations summary
 
@@ -53,7 +53,7 @@ Index of Trump 2.0 administration cabinet and senior positions, with network-aff
 
 ## What's striking
 
-The Trump 2.0 cabinet draws from **multiple distinct right-wing infrastructures simultaneously** â€” see [[Hypothesis - Multiple right networks converged in Trump 2.0]] for analysis. The infrastructure-coordination via [[Project 2025]] and other vehicles produced **unprecedented administration-readiness**.
+The Trump 2.0 cabinet draws from **multiple distinct right-wing infrastructures simultaneously** -- see [[Hypothesis - Multiple right networks converged in Trump 2.0]] for analysis. The infrastructure-coordination via [[Project 2025]] and other vehicles produced **unprecedented administration-readiness**.
 
 ## Related
 

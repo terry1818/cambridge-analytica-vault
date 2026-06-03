@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: UK Insolvency Service disclosure of Alexander Nix's 7-year UK director disqualification undertaking â€” the principal post-scandal regulatory action against Nix personally
+description: UK Insolvency Service disclosure of Alexander Nix's 7-year UK director disqualification undertaking — the principal post-scandal regulatory action against Nix personally
 aliases: ["Source: Source gov.uk 2020-09-24 Nix disqualification"]
 tags: [source, evidence/primary-document, evidence/regulatory, topic/cambridge-analytica, era/2018-2020, jurisdiction/uk]
 type: source
@@ -26,28 +26,28 @@ The **UK government's official announcement** that [[Alexander Nix]] signed a **
 ## Key claims / findings
 
 - **Ban length and dates:** 7-year disqualification effective **2020-10-05 to 2027-10-05**
-- **Mechanism:** voluntary **disqualification undertaking** signed 2020-09-14 (i.e., Nix accepted the disqualification rather than contesting it in court â€” typical when defence costs outweigh expected outcomes)
+- **Mechanism:** voluntary **disqualification undertaking** signed 2020-09-14 (i.e., Nix accepted the disqualification rather than contesting it in court — typical when defence costs outweigh expected outcomes)
 - **Stated grounds:** the Insolvency Service cited Nix for causing or permitting [[SCL Elections]] and associated companies to "**market themselves on the basis of offering potentially unethical services**" and for **"lack of commercial probity"**
-- **Companies covered:** the document lists the **specific UK companies** where Nix had directorship â€” including SCL-related entities like [[Firecrest Technologies]], [[Emerdata Limited]], and others (precise list per Companies House cross-reference)
+- **Companies covered:** the document lists the **specific UK companies** where Nix had directorship — including SCL-related entities like [[Firecrest Technologies]], [[Emerdata Limited]], and others (precise list per Companies House cross-reference)
 - **Effect:** Nix cannot be a director of any UK company or be involved in promotion, formation, or management of any UK company for 7 years
-- **Scope limits:** the ban is **UK-only** and **director-only** â€” does not preclude Nix from non-director consulting work or operations in non-UK jurisdictions
+- **Scope limits:** the ban is **UK-only** and **director-only** — does not preclude Nix from non-director consulting work or operations in non-UK jurisdictions
 - **No criminal proceedings:** this is a **civil regulatory action**, not criminal; no criminal charges were brought by UK authorities against Nix personally
 
 ## Significance for the vault
 
-- **The single official UK government action against Nix personally** â€” distinct from the [[FTC v Cambridge Analytica]] consent order which addresses CA-the-firm and Nix-the-officer separately
+- **The single official UK government action against Nix personally** — distinct from the [[FTC v Cambridge Analytica]] consent order which addresses CA-the-firm and Nix-the-officer separately
 - **Primary evidence for the corporate-structure web** of SCL-adjacent entities under Nix's directorship (used to anchor notes on [[Firecrest Technologies]] and others)
 - **Significant for the [[Hypothesis - Successor entities preserve operational capability]] discussion**: the **scope of the ban (director-only) and the jurisdictional limit (UK-only)** mean Nix can still:
   - Operate in non-UK jurisdictions
   - Hold non-director roles in UK entities (advisor, consultant, employee)
   - Resume UK directorships after 2027-10-05
-- The disqualification framing is **regulatory rather than punitive** â€” consistent with a system that addresses corporate-governance failures but not the underlying operational pattern
+- The disqualification framing is **regulatory rather than punitive** — consistent with a system that addresses corporate-governance failures but not the underlying operational pattern
 
 ## Reliability assessment
 
 - **Type:** UK government primary document (Insolvency Service press release + underlying undertaking)
 - **Authority:** UK statutory regulator; highest evidentiary weight
-- **Caveats:** the **stated grounds** in the press release are the Insolvency Service's framing; Nix's signed undertaking does not necessarily endorse every claim â€” it accepts the disqualification consequence
+- **Caveats:** the **stated grounds** in the press release are the Insolvency Service's framing; Nix's signed undertaking does not necessarily endorse every claim — it accepts the disqualification consequence
 - **Public-record status:** the press release plus the disqualification register entry (Companies House) are both public; the underlying detailed undertaking document is more limited in distribution
 
 ## Entities mentioned
@@ -58,11 +58,11 @@ The **UK government's official announcement** that [[Alexander Nix]] signed a **
 
 ## How I'm using this
 
-- [[Alexander Nix]] (entity hub) â€” primary source for the disqualification
+- [[Alexander Nix]] (entity hub) — primary source for the disqualification
 - [[Cambridge Analytica]] (post-scandal regulatory outcomes section)
 - [[Firecrest Technologies]] (Companies House director-list evidence)
 - [[Investigations MOC]] (UK regulatory actions)
-- [[Lens - Active Successor Operations]] â€” the **scope limits** of this action are part of why successors continue operating
+- [[Lens - Active Successor Operations]] — the **scope limits** of this action are part of why successors continue operating
 
 ## Open questions
 

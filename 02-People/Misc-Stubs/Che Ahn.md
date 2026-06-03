@@ -3,10 +3,10 @@ title: Che Ahn
 type: person
 date: 2026-05-29
 tags: [person, religiousright, nar, charismatic, harvest]
-aliases: ['Che Ahn','ChÃ© Ahn','Chae-yong Ahn','ChAc Ahn']
+aliases: ['Che Ahn','Ché Ahn','Chae-yong Ahn','ChAc Ahn']
 ---
 
-# ChÃ© Ahn
+# Ché Ahn
 
 Korean-American Christian leader. Founder of Harvest Rock Church (Pasadena) and Harvest International Ministry. Senior figure in the [[New Apostolic Reformation]] / charismatic Christian network.
 

@@ -26,7 +26,7 @@ Wikipedia overview of DUP
 
 ## Key claims / findings
 
-- Founded 1971-09-30 by Ian Paisley`n- Ã‚Â£435K Brexit donation via CRC + Richard Cook for AIQ`n- 2017-2019 May minority kingmaker
+- Founded 1971-09-30 by Ian Paisley`n- £435K Brexit donation via CRC + Richard Cook for AIQ`n- 2017-2019 May minority kingmaker
 
 ## Entities mentioned
 

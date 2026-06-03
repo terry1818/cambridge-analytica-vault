@@ -4,7 +4,7 @@ description: Vault home / dashboard - quick access to all major navigation paths
 tags: [meta, home]
 ---
 
-# Cambridge Analytica Research Vault â€” Home
+# Cambridge Analytica Research Vault -- Home
 
 ## Quick start (choose your time budget)
 
@@ -14,16 +14,16 @@ tags: [meta, home]
 
 ## Primary navigation
 
-- [[Vault MOC]] â€” top-level index of every entity, MOC, and lens
-- [[How to Use the Vault]] â€” operating manual + the four-cluster framework
-- [[Tag Taxonomy]] â€” 11-axis tag schema for filtering
-- [[Open Questions]] â€” research backlog
+- [[Vault MOC]] -- top-level index of every entity, MOC, and lens
+- [[How to Use the Vault]] -- operating manual + the four-cluster framework
+- [[Tag Taxonomy]] -- 11-axis tag schema for filtering
+- [[Open Questions]] -- research backlog
 
 ## The core entities
 
-- [[Cambridge Analytica]] â€” the comprehensive entity node
-- [[SCL Group]] â€” the parent
-- [[Facebook-CA Data Scandal]] â€” the 2018 scandal as a single event
+- [[Cambridge Analytica]] -- the comprehensive entity node
+- [[SCL Group]] -- the parent
+- [[Facebook-CA Data Scandal]] -- the 2018 scandal as a single event
 
 ## Working hypotheses (the analytical spine)
 
@@ -36,14 +36,14 @@ tags: [meta, home]
 
 ## Cross-cutting views
 
-- [[Lenses MOC]] â€” analytical lenses (operators, funders, money flows, etc.)
-- [[Comparative Analysis MOC]] â€” direct comparisons (CA vs Doppelganger, etc.)
-- [[Regulatory Response MOC]] â€” post-CA legal landscape
-- [[Lens - 2024-2026 Power Map]] â€” current state of CA-lineage operations
+- [[Lenses MOC]] -- analytical lenses (operators, funders, money flows, etc.)
+- [[Comparative Analysis MOC]] -- direct comparisons (CA vs Doppelganger, etc.)
+- [[Regulatory Response MOC]] -- post-CA legal landscape
+- [[Lens - 2024-2026 Power Map]] -- current state of CA-lineage operations
 
 ## Visual aids
 
-- [[Master Timeline]] â€” full chronological spine
+- [[Master Timeline]] -- full chronological spine
 - Per-entity timelines in `10-Timeline/`
 - Three canvas files in `11-Canvases/`:
   - CA Influence Network
@@ -52,10 +52,10 @@ tags: [meta, home]
 
 ## Database views (Obsidian Bases)
 
-- `99-Bases/People.base` â€” spreadsheet of all people
-- `99-Bases/Organizations.base` â€” spreadsheet of all orgs
-- `99-Bases/Events.base` â€” spreadsheet of all events
-- `99-Bases/Sources.base` â€” spreadsheet of all sources
+- `99-Bases/People.base` -- spreadsheet of all people
+- `99-Bases/Organizations.base` -- spreadsheet of all orgs
+- `99-Bases/Events.base` -- spreadsheet of all events
+- `99-Bases/Sources.base` -- spreadsheet of all sources
 
 ## Vault statistics
 

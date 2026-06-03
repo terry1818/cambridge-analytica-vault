@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Comparison of Religious Right and Tech Right movements - alliance and tensions in Trump 2.0
 tags: [moc, lens, topic/tech-right, era/2020-2024, era/2024-present]
@@ -30,12 +30,12 @@ The contemporary US right-wing coalition is dominated by **two distinct intellec
 
 ## Where they align
 
-1. **Anti-establishment / anti-administrative state** â€” both oppose the "Cathedral" (Yarvin) / "Deep State" (MAGA)
-2. **Anti-DEI** â€” both opposed corporate and government DEI programs
-3. **Anti-mainstream-media** â€” both consider mainstream media hostile
-4. **Pro-Trump 2024-2026** â€” both supported Trump and integrated into Trump 2.0
-5. **Federalist Society judicial pipeline** â€” Religious Right priority that Tech Right tolerates and benefits from
-6. **JD Vance** is the bridge figure â€” Catholic convert (Religious Right) + Thiel protÃ©gÃ© (Tech Right)
+1. **Anti-establishment / anti-administrative state** -- both oppose the "Cathedral" (Yarvin) / "Deep State" (MAGA)
+2. **Anti-DEI** -- both opposed corporate and government DEI programs
+3. **Anti-mainstream-media** -- both consider mainstream media hostile
+4. **Pro-Trump 2024-2026** -- both supported Trump and integrated into Trump 2.0
+5. **Federalist Society judicial pipeline** -- Religious Right priority that Tech Right tolerates and benefits from
+6. **JD Vance** is the bridge figure -- Catholic convert (Religious Right) + Thiel protégé (Tech Right)
 
 ## Where they diverge
 
@@ -61,7 +61,7 @@ A defining intra-coalition rupture:
 - Musk defended Ramaswamy
 - Religious Right base argued H-1B undermines American workers / Christian families
 - Ramaswamy departed DOGE within weeks
-- **Demonstrated the underlying Tech Right â†” Religious Right tension**
+- **Demonstrated the underlying Tech Right ↔ Religious Right tension**
 
 ### Trans issues
 - Tech Right is **mostly mixed or libertarian** on trans issues
@@ -75,7 +75,7 @@ A defining intra-coalition rupture:
 
 ## Why this matters for this vault
 
-The Religious Right â†” Tech Right coalition is **structurally novel** in US political history. Previous Republican coalitions (Reagan, Bush) had Religious Right + business + foreign-policy hawks. The Trump 2.0 coalition has Religious Right + Tech Right + populist nationalists with **substantially reduced foreign-policy hawkishness and substantially increased Tech Right institutional power**.
+The Religious Right ↔ Tech Right coalition is **structurally novel** in US political history. Previous Republican coalitions (Reagan, Bush) had Religious Right + business + foreign-policy hawks. The Trump 2.0 coalition has Religious Right + Tech Right + populist nationalists with **substantially reduced foreign-policy hawkishness and substantially increased Tech Right institutional power**.
 
 The coalition's **internal tensions** (especially H-1B, trans rights, foreign policy) are likely to be **ongoing flashpoints** as the Trump 2.0 administration progresses. Future political analysis should track these tensions as more determinative than traditional left-right framing.
 

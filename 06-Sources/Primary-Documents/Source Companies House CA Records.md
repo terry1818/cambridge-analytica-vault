@@ -12,7 +12,7 @@ url: https://find-and-update.company-information.service.gov.uk/
 reliability: high
 ---
 
-# Source: Companies House â€” Cambridge Analytica Records
+# Source: Companies House — Cambridge Analytica Records
 
 ## Citation
 

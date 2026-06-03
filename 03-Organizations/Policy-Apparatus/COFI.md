@@ -3,7 +3,7 @@ date: 2026-05-16
 description: Religious charity that, with Gloo, built the church-targeting data platform per People You May Know investigation
 tags: [org, org/policy-apparatus, org/theocratic-wing, era/2010s-2026, jurisdiction/us]
 type: organization
-legal_name: '(research stub ÃƒÂ¢Ã¢â€šÂ¬" full legal name TBD)'
+legal_name: '(research stub â€" full legal name TBD)'
 aliases: [COFI, Cofi]
 founded: (unconfirmed; ~2010s)
 headquarters: US
@@ -16,7 +16,7 @@ status: active
 
 ## Summary
 
-**STUB ÃƒÂ¢Ã¢â€šÂ¬" partial information.** COFI is a religious charity referenced in [[Source People You May Know 2020]] as a partner of [[Gloo]] in building the church-targeting Insights data platform. Per Kriel's investigation, COFI was **commissioned by the Koch network** alongside Gloo to collaborate with [[Cambridge Analytica]] on church-recruitment-via-vulnerable-populations targeting.
+**STUB â€" partial information.** COFI is a religious charity referenced in [[Source People You May Know 2020]] as a partner of [[Gloo]] in building the church-targeting Insights data platform. Per Kriel's investigation, COFI was **commissioned by the Koch network** alongside Gloo to collaborate with [[Cambridge Analytica]] on church-recruitment-via-vulnerable-populations targeting.
 
 Public information about COFI's specific legal structure, full leadership, and complete activities is **thin and largely confined to the People You May Know documentary and related reporting**.
 

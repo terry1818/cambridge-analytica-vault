@@ -30,7 +30,7 @@ Wall Street Journal confirmation that **[[Julian Wheatland]] had been appointed 
 
 ## Significance
 
-The WSJ piece established the corporate-governance side of CAs immediate scandal response. Wheatlands tenure as CEO would be brief â€” CA filed for insolvency on **May 1, 2018**, just three weeks after this article. Pairs with [[Source Bernal 2019-08-07 Telegraph - The man that killed CA]] for the longer profile of Wheatland.
+The WSJ piece established the corporate-governance side of CAs immediate scandal response. Wheatlands tenure as CEO would be brief — CA filed for insolvency on **May 1, 2018**, just three weeks after this article. Pairs with [[Source Bernal 2019-08-07 Telegraph - The man that killed CA]] for the longer profile of Wheatland.
 
 ## URL
 

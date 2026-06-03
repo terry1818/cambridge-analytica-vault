@@ -18,26 +18,26 @@ wikipedia_url: https://en.wikipedia.org/wiki/The_Heritage_Foundation
 
 ## Summary
 
-Washington DC conservative think tank, founded 1973. **2023 revenue $101M, expenditures $103M** ([[Source ProPublica Heritage Nonprofit]]). Organizing body and publisher of [[Project 2025]] (the "Mandate for Leadership: The Conservative Promise"), the implementation blueprint for the second Trump administration. **[[Rebekah Mercer]] has been a Heritage trustee since 2014** â€” the structural bridge between the CA-era patron infrastructure and the present-day policy authoring layer. President since 2021 is [[Kevin Roberts]]. December 2025: notable board resignations (Robert P. George, Shane McCullar, Abby Spencer Moffat) over an internal controversy ([[Source National Review 2025-12 Heritage Implodes]]).
+Washington DC conservative think tank, founded 1973. **2023 revenue $101M, expenditures $103M** ([[Source ProPublica Heritage Nonprofit]]). Organizing body and publisher of [[Project 2025]] (the "Mandate for Leadership: The Conservative Promise"), the implementation blueprint for the second Trump administration. **[[Rebekah Mercer]] has been a Heritage trustee since 2014** -- the structural bridge between the CA-era patron infrastructure and the present-day policy authoring layer. President since 2021 is [[Kevin Roberts]]. December 2025: notable board resignations (Robert P. George, Shane McCullar, Abby Spencer Moffat) over an internal controversy ([[Source National Review 2025-12 Heritage Implodes]]).
 
 ## Identity
 
 - **Founded:** 1973
 - **HQ:** 214 Massachusetts Ave NE, Washington DC
-- **2023 financials:** $101M revenue Â· $103M expenditures
+- **2023 financials:** $101M revenue · $103M expenditures
 - **501(c)(3) status:** Active
 
 ## Leadership & key personnel
 
-- [[Kevin Roberts]] â€” President, since 2021
-- [[Rebekah Mercer]] â€” Trustee, since 2014
-- [[Larry P. Arnn]] â€” Trustee since 2002 (President of Hillsdale College)
-- [[Russ Vought]] â€” Senior fellow / Project 2025 lead architect
-- [[Paul Dans]] â€” Project 2025 director (until July 2024); editor of Mandate for Leadership
+- [[Kevin Roberts]] -- President, since 2021
+- [[Rebekah Mercer]] -- Trustee, since 2014
+- [[Larry P. Arnn]] -- Trustee since 2002 (President of Hillsdale College)
+- [[Russ Vought]] -- Senior fellow / Project 2025 lead architect
+- [[Paul Dans]] -- Project 2025 director (until July 2024); editor of Mandate for Leadership
 
 ## Funding & money flows
 
-- **Mercer Family Foundation** â€” primary patron-class donor; Rebekah Mercer is trustee
+- **Mercer Family Foundation** -- primary patron-class donor; Rebekah Mercer is trustee
 - **Koch network** (Charles Koch / Stand Together / Concord Fund)
 - **Coors family** (Adolph Coors Foundation)
 - **Bradley Foundation**, **DonorsTrust**, **Scaife Foundations**
@@ -46,7 +46,7 @@ Washington DC conservative think tank, founded 1973. **2023 revenue $101M, expen
 
 ## Activities
 
-- Publishes the **Mandate for Leadership** every presidential cycle (1981 â†’ 2025)
+- Publishes the **Mandate for Leadership** every presidential cycle (1981 → 2025)
 - Hosts the [[Project 2025]] Presidential Transition Project
 - Operates the Heritage Foundation Border Security and Immigration Center (where [[Tom Homan]] is a visiting fellow)
 - Policy authoring for Trump-aligned executive branch
@@ -64,25 +64,25 @@ Washington DC conservative think tank, founded 1973. **2023 revenue $101M, expen
 
 ## Timeline
 
-- `1973` â€” founded by Paul Weyrich, Edwin Feulner, Joseph Coors
-- `1981` â€” first Mandate for Leadership (Reagan transition)
-- `2014` â€” Rebekah Mercer joins board of trustees
-- `2021` â€” Kevin Roberts becomes president
-- `2023-04` â€” publishes Project 2025 Mandate for Leadership
-- `2024-07` â€” Paul Dans steps down as Project 2025 director amid Trump campaign distancing
-- `2025-01` â€” Trump 2.0 inauguration; 17 of 24 cabinet-level officials tied to P2025 orgs
-- `2025-12` â€” board resignations reported by National Review
+- `1973` -- founded by Paul Weyrich, Edwin Feulner, Joseph Coors
+- `1981` -- first Mandate for Leadership (Reagan transition)
+- `2014` -- Rebekah Mercer joins board of trustees
+- `2021` -- Kevin Roberts becomes president
+- `2023-04` -- publishes Project 2025 Mandate for Leadership
+- `2024-07` -- Paul Dans steps down as Project 2025 director amid Trump campaign distancing
+- `2025-01` -- Trump 2.0 inauguration; 17 of 24 cabinet-level officials tied to P2025 orgs
+- `2025-12` -- board resignations reported by National Review
 
 ## Successor / related entities
 
-- [[Project 2025]] â€” Heritage's flagship presidential-transition initiative
-- [[America First Policy Institute]] (AFPI) â€” adjacent / partly overlapping
-- [[1789 Capital]] â€” Mercer-co-founded; mirror-tier media-financing vehicle
+- [[Project 2025]] -- Heritage's flagship presidential-transition initiative
+- [[America First Policy Institute]] (AFPI) -- adjacent / partly overlapping
+- [[1789 Capital]] -- Mercer-co-founded; mirror-tier media-financing vehicle
 
 ## Open questions
 
 - [ ] What triggered the December 2025 board resignations? (National Review article unspecific)
-- [ ] How is Mercer Family Foundation funding flowing post-2024 â€” direct grants vs. dark-money intermediaries?
+- [ ] How is Mercer Family Foundation funding flowing post-2024 -- direct grants vs. dark-money intermediaries?
 - [ ] Full donor list for FY2024-2025 fiscal years (501(c)(3) disclosures lag)
 
 ## Sources

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: NATO Cognitive Warfare vs Russian Reflexive Control vs PLA Three Warfares vs JTRIG doctrines
 tags: [moc, lens, topic/info-warfare, topic/cognitive-warfare, topic/psyops]
@@ -35,7 +35,7 @@ The state-side doctrinal frameworks that shape (and were shaped by) the kind of 
 ## Gerasimov Doctrine (Russian, contested label)
 
 - Named after General Valery Gerasimov's 2013 article
-- Often (somewhat misleadingly) described as "hybrid warfare" â€” blending kinetic and informational
+- Often (somewhat misleadingly) described as "hybrid warfare" -- blending kinetic and informational
 - Western analysts dispute whether it's an actual doctrine or descriptive framework
 - Influential in Western thinking about Russian operations regardless
 
@@ -64,11 +64,11 @@ The state-side doctrinal frameworks that shape (and were shaped by) the kind of 
 
 ## Why this matters for CA
 
-CA / SCL is the **commercial face of behavioral conflict and cognitive warfare**. Its toolkit was developed for Western state clients (US DoD, UK MoD) using methods drawn from the broader Western IO doctrine. Without understanding the doctrinal background, CA looks like a one-off commercial firm â€” when in fact it's the visible manifestation of a much larger state practice.
+CA / SCL is the **commercial face of behavioral conflict and cognitive warfare**. Its toolkit was developed for Western state clients (US DoD, UK MoD) using methods drawn from the broader Western IO doctrine. Without understanding the doctrinal background, CA looks like a one-off commercial firm -- when in fact it's the visible manifestation of a much larger state practice.
 
 ## Sources
 
 - [[Source Briant 2015 Propaganda and Counter-Terrorism]]
 - [[Source Pasternack Witt 2019 Before Trump SCL psyops]]
 - [[Source Greenwald Intercept 2014 JTRIG]]
-- [[Behavioral Conflict]] Â· [[Cognitive Warfare]] Â· [[Reflexive Control]]
+- [[Behavioral Conflict]] · [[Cognitive Warfare]] · [[Reflexive Control]]

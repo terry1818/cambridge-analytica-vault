@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Trump 2.0 Department of Government Efficiency - Musk-led federal-restructuring initiative; mass firings; cross-agency data access
 tags: [org, org/government, topic/tech-right, era/2024-present, jurisdiction/us]
@@ -39,10 +39,10 @@ Per multiple journalistic accounts:
 
 DOGE's cross-agency data access has raised **substantial privacy and data-protection concerns**:
 
-- **Treasury payments data** â€” DOGE personnel reportedly gained read/write access
-- **OPM federal employee data** â€” including security-clearance information
+- **Treasury payments data** -- DOGE personnel reportedly gained read/write access
+- **OPM federal employee data** -- including security-clearance information
 - **HHS / Medicaid / Medicare data**
-- **IRS taxpayer data** â€” limited access reported but contested
+- **IRS taxpayer data** -- limited access reported but contested
 - **Multiple agency databases** centralized
 - The combination of data sources creates capability comparable to or exceeding CA-era harvest at federal-state-actor scale
 
@@ -59,13 +59,13 @@ The DOGE-Yarvin connection has been **publicly acknowledged** by [[JD Vance]] (w
 
 ## Musk falling-out and departure
 
-- **2025-05/06** â€” Musk publicly fell out with Trump over the Big Beautiful Bill, Epstein file references, and other disputes
+- **2025-05/06** -- Musk publicly fell out with Trump over the Big Beautiful Bill, Epstein file references, and other disputes
 - Musk departed DOGE
 - Continued under other leadership but with reduced political profile
 
 ## Palantir connection
 
-[[Palantir Technologies]] is reportedly **the primary technology contractor** for DOGE's data-centralization work â€” providing the software infrastructure that combines data from multiple federal agencies. This is the **direct operational realization** of the Big Tech â†” Government data convergence that the CA-era story foreshadowed.
+[[Palantir Technologies]] is reportedly **the primary technology contractor** for DOGE's data-centralization work -- providing the software infrastructure that combines data from multiple federal agencies. This is the **direct operational realization** of the Big Tech ↔ Government data convergence that the CA-era story foreshadowed.
 
 ## Connections
 
@@ -148,7 +148,7 @@ Documented or strongly indicated DOGE deployments include:
 - **OPM:** Access to federal personnel data; multiple HR-data-aggregation initiatives.
 - **HHS / CMS:** Access to Medicare and Medicaid claims data; integration with the broader Palantir-supported HHS master-database initiative.
 - **SSA:** Access to Social Security number databases; the most sensitive single dataset DOGE has touched.
-- **USAID:** The most dramatic operational intervention â€” substantial USAID staff laid off in early 2025, large portions of USAID programming cancelled or paused, the agency's continued existence as an independent entity contested.
+- **USAID:** The most dramatic operational intervention -- substantial USAID staff laid off in early 2025, large portions of USAID programming cancelled or paused, the agency's continued existence as an independent entity contested.
 - **GSA:** Federal real-estate and contracting management; substantial contract cancellation activity.
 - **Education:** Significant RIF activity, programme cancellations, the Department's continued existence contested.
 - **EPA, Interior, Energy:** Various deployments with regulatory-rollback and personnel-reduction outputs.

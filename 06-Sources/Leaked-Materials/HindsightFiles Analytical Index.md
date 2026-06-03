@@ -11,7 +11,7 @@ publication_date: 2026-05-16
 reliability: high
 ---
 
-# HindsightFiles â€” Analytical Index
+# HindsightFiles — Analytical Index
 
 ## What HindsightFiles is
 
@@ -21,11 +21,11 @@ A trove of **100,000+ documents** released by [[Brittany Kaiser]] beginning **20
 
 The release was **phased and country-themed** rather than monolithic. Documents were dropped in batches:
 
-- **2020-01-01 to 2020-01-03** â€” preliminary teasers
-- **2020-01-04** â€” first major batch (Malaysia, Kenya, Brazil)
-- **2020-01-06+** â€” continuing releases across multiple weeks
-- **2020-02 to mid-2020** â€” additional country-focused drops
-- **2020-2021** â€” sporadic continuing material via Kaiser and journalists
+- **2020-01-01 to 2020-01-03** — preliminary teasers
+- **2020-01-04** — first major batch (Malaysia, Kenya, Brazil)
+- **2020-01-06+** — continuing releases across multiple weeks
+- **2020-02 to mid-2020** — additional country-focused drops
+- **2020-2021** — sporadic continuing material via Kaiser and journalists
 
 Coverage extended to material on operations in **68 countries** per Kaiser's claim.
 
@@ -33,29 +33,29 @@ Coverage extended to material on operations in **68 countries** per Kaiser's cla
 
 Based on @HindsightFiles tweets and journalist citations:
 
-- **Malaysia** â€” work with [[Najib Razak]] / Barisan Nasional
-- **Kenya** â€” 2013 and 2017 Kenyatta campaigns
-- **Brazil** â€” pre-2018 election work
-- **India** â€” SCL India operations
-- **Trinidad and Tobago** â€” "Do So!" campaign material
-- **United States** â€” internal CA emails, Trump campaign correspondence
-- **United Kingdom** â€” Leave.EU correspondence
-- **Argentina** â€” campaign discussions
-- **Romania** â€” operational material
-- **Czech Republic** â€” operational material
-- **Italy** â€” engagement with unnamed political party
-- **Nigeria** â€” 2015 election material
-- **Mexico** â€” PRI correspondence (per @HindsightFiles)
+- **Malaysia** — work with [[Najib Razak]] / Barisan Nasional
+- **Kenya** — 2013 and 2017 Kenyatta campaigns
+- **Brazil** — pre-2018 election work
+- **India** — SCL India operations
+- **Trinidad and Tobago** — "Do So!" campaign material
+- **United States** — internal CA emails, Trump campaign correspondence
+- **United Kingdom** — Leave.EU correspondence
+- **Argentina** — campaign discussions
+- **Romania** — operational material
+- **Czech Republic** — operational material
+- **Italy** — engagement with unnamed political party
+- **Nigeria** — 2015 election material
+- **Mexico** — PRI correspondence (per @HindsightFiles)
 
 ## What has been publicly analyzed
 
 A small fraction of the archive has received journalistic analysis:
 
-- **Initial @HindsightFiles drops (Jan 2020)** â€” covered by The Guardian, NYT, AP, Reuters, BBC
-- **Trinidad "Do So!" material** â€” partially analyzed in [[Source The Great Hack (2019)]] and later reporting
-- **Brazil material** â€” covered by Folha de SÃ£o Paulo
-- **Tal Hanan / "Jorge"** mention in leaked CA emails â€” followed up by TheMarker/Radio France/Haaretz, ultimately leading to Forbidden Stories 2023 Team Jorge investigation
-- **Nigeria material** â€” partially covered by Cadwalladr
+- **Initial @HindsightFiles drops (Jan 2020)** — covered by The Guardian, NYT, AP, Reuters, BBC
+- **Trinidad "Do So!" material** — partially analyzed in [[Source The Great Hack (2019)]] and later reporting
+- **Brazil material** — covered by Folha de São Paulo
+- **Tal Hanan / "Jorge"** mention in leaked CA emails — followed up by TheMarker/Radio France/Haaretz, ultimately leading to Forbidden Stories 2023 Team Jorge investigation
+- **Nigeria material** — partially covered by Cadwalladr
 
 ## What remains unanalyzed (the opportunity)
 
@@ -72,14 +72,14 @@ The vast majority of the 100,000+ documents has **not received public journalist
 
 ## Where the archive currently lives
 
-- **@HindsightFiles Twitter/X account** â€” primary public dissemination point
-- **Own Your Data Foundation** â€” Kaiser's vehicle for documentation
+- **@HindsightFiles Twitter/X account** — primary public dissemination point
+- **Own Your Data Foundation** — Kaiser's vehicle for documentation
 - Mirror copies reportedly held by journalists at Guardian, NYT, AP
 
 ## Methodological notes for analyzing this material
 
-- Documents released are **curated by Kaiser** â€” selection bias toward what supports her public position
-- Authentic primary documents but **chain of custody from CA servers â†’ Kaiser's accounts â†’ public release** is not third-party-verified
+- Documents released are **curated by Kaiser** — selection bias toward what supports her public position
+- Authentic primary documents but **chain of custody from CA servers → Kaiser's accounts → public release** is not third-party-verified
 - Some metadata redacted / formats vary
 
 ## What this vault should do with HindsightFiles

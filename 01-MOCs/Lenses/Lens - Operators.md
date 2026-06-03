@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Lens - firms and people who DID the targeting work
 tags: [moc, lens]
@@ -11,43 +11,43 @@ The people and firms who actually built and ran psychographic / influence operat
 
 ## Core operating firms
 
-- [[Cambridge Analytica]] â€” 2013-2018
-- [[SCL Group]] â€” 1990-2018
-- [[SCL Elections]] â€” SCL's elections unit
-- [[SCL Defence]] â€” SCL's military unit (Emic successor)
-- [[AggregateIQ (AIQ)]] â€” Canada-based; Brexit work; SCL-affiliated
-- [[Global Science Research (GSR)]] â€” Kogan's data harvesting firm
+- [[Cambridge Analytica]] -- 2013-2018
+- [[SCL Group]] -- 1990-2018
+- [[SCL Elections]] -- SCL's elections unit
+- [[SCL Defence]] -- SCL's military unit (Emic successor)
+- [[AggregateIQ (AIQ)]] -- Canada-based; Brexit work; SCL-affiliated
+- [[Global Science Research (GSR)]] -- Kogan's data harvesting firm
 
 ## Successor operating firms
 
-- [[Emerdata Limited]] â€” effective successor
-- [[Auspex International]] â€” Africa/ME
-- [[Data Propria]] â€” US politics
-- [[Firecrest Technologies]] â€” Nix vehicle
-- [[Emic]] â€” SCL Defence successor; still working for governments per Briant 2020
+- [[Emerdata Limited]] -- effective successor
+- [[Auspex International]] -- Africa/ME
+- [[Data Propria]] -- US politics
+- [[Firecrest Technologies]] -- Nix vehicle
+- [[Emic]] -- SCL Defence successor; still working for governments per Briant 2020
 
 ## Parallel-track operating firms
 
-- [[Psy-Group]] â€” Israeli; MOU with CA Dec 2016
-- [[Wikistrat]] â€” Joel Zamel; pitched Trump campaign
-- [[Black Cube]] â€” Israeli, ex-Mossad
-- [[Team Jorge]] â€” Tal Hanan; exposed 2023
-- [[HBGary Federal]] â€” 2010-2011 US precursor
+- [[Psy-Group]] -- Israeli; MOU with CA Dec 2016
+- [[Wikistrat]] -- Joel Zamel; pitched Trump campaign
+- [[Black Cube]] -- Israeli, ex-Mossad
+- [[Team Jorge]] -- Tal Hanan; exposed 2023
+- [[HBGary Federal]] -- 2010-2011 US precursor
 
 ## State-side operators
 
-- [[JTRIG]] (GCHQ) â€” UK state-side parallel
+- [[JTRIG]] (GCHQ) -- UK state-side parallel
 - US Centcom "Operation Earnest Voice"
 
 ## Tech-platform-side operators (less central, but adjacent)
 
-- [[Palantir Technologies]] â€” graph analytics; engineer [[Alfredas Chmieliauskas]] worked with CA
+- [[Palantir Technologies]] -- graph analytics; engineer [[Alfredas Chmieliauskas]] worked with CA
 
 ## Individual operators (top-level)
 
-- [[Alexander Nix]] Â· [[Nigel Oakes]] Â· [[Mark Turnbull]] Â· [[Alexander Tayler]]
-- [[Aleksandr Kogan]] Â· [[Christopher Wylie]] (operator-turned-whistleblower) Â· [[Brittany Kaiser]] (operator-turned-whistleblower)
-- [[Joel Zamel]] Â· [[Tal Hanan]]
+- [[Alexander Nix]] · [[Nigel Oakes]] · [[Mark Turnbull]] · [[Alexander Tayler]]
+- [[Aleksandr Kogan]] · [[Christopher Wylie]] (operator-turned-whistleblower) · [[Brittany Kaiser]] (operator-turned-whistleblower)
+- [[Joel Zamel]] · [[Tal Hanan]]
 - [[Alfredas Chmieliauskas]]
 
 ## Vault context and open research threads

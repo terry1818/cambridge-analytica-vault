@@ -14,12 +14,12 @@ status: closed
 
 ## Summary
 
-On **August 3, 2016** â€” three weeks before [[Donald Trump]] accepted the Republican nomination â€” a meeting was held at Trump Tower attended by:
+On **August 3, 2016** -- three weeks before [[Donald Trump]] accepted the Republican nomination -- a meeting was held at Trump Tower attended by:
 
-- [[Donald Trump Jr.]] â€” Trump campaign principal
-- [[Joel Zamel]] â€” Israeli founder of [[Psy-Group]] and [[Wikistrat]]
-- [[Erik Prince]] â€” Blackwater founder, [[Frontier Services Group]] chairman
-- [[George Nader]] â€” Lebanese-American UAE backchannel
+- [[Donald Trump Jr.]] -- Trump campaign principal
+- [[Joel Zamel]] -- Israeli founder of [[Psy-Group]] and [[Wikistrat]]
+- [[Erik Prince]] -- Blackwater founder, [[Frontier Services Group]] chairman
+- [[George Nader]] -- Lebanese-American UAE backchannel
 
 **Zamel pitched the Trump campaign on a multi-million-dollar social-media manipulation plan** involving thousands of fake online personas to influence the election. The pitch was investigated by [[Mueller Investigation]] and detailed in [[Source Senate Intel Vol 5 2020]].
 

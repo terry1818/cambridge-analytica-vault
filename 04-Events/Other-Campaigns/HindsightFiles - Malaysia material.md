@@ -8,7 +8,7 @@ actors: [Cambridge Analytica, SCL Group, Najib Razak, Barisan Nasional]
 status: closed
 ---
 
-# HindsightFiles â€” Malaysia Material
+# HindsightFiles -- Malaysia Material
 
 ## What HindsightFiles documents cover
 
@@ -17,7 +17,7 @@ The Malaysian material in the [[HindsightFiles]] release (early January 2020) re
 ### Key context
 
 - Najib Razak was Prime Minister of Malaysia 2009-2018
-- After losing the 2018 election he was **convicted in the 1MDB corruption case** (2020 onwards) â€” billions misappropriated from sovereign wealth fund
+- After losing the 2018 election he was **convicted in the 1MDB corruption case** (2020 onwards) -- billions misappropriated from sovereign wealth fund
 - CA's Malaysian work overlapped with the 1MDB era
 - 1MDB funds were used for political and other purposes globally
 

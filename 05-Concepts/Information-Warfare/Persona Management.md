@@ -15,16 +15,16 @@ Software platforms and operational practices for **operating large numbers of fa
 
 ## Documented programs / platforms
 
-- **HBGary Federal (2010-2011)** â€” pitched persona-management software to Bank of America, Chamber of Commerce, and US Centcom ("Operation Earnest Voice")
-- **US Centcom "Operation Earnest Voice"** â€” fake personas managed by US military for Middle East information ops
-- **[[Team Jorge]] / AIMS** â€” Tal Hanan's Advanced Impact Media Solutions platform (exposed 2023 Forbidden Stories) â€” managing thousands of fake accounts across multiple platforms
-- **Internet Research Agency (Russia)** â€” industrial-scale persona networks documented by Mueller and Senate Intel
-- **Spamouflage / Dragonbridge** â€” Chinese state-linked persona networks (Meta/Graphika reporting)
-- **OpenAI threat reports (2024-2026)** â€” documented LLM-generated persona operations
+- **HBGary Federal (2010-2011)** -- pitched persona-management software to Bank of America, Chamber of Commerce, and US Centcom ("Operation Earnest Voice")
+- **US Centcom "Operation Earnest Voice"** -- fake personas managed by US military for Middle East information ops
+- **[[Team Jorge]] / AIMS** -- Tal Hanan's Advanced Impact Media Solutions platform (exposed 2023 Forbidden Stories) -- managing thousands of fake accounts across multiple platforms
+- **Internet Research Agency (Russia)** -- industrial-scale persona networks documented by Mueller and Senate Intel
+- **Spamouflage / Dragonbridge** -- Chinese state-linked persona networks (Meta/Graphika reporting)
+- **OpenAI threat reports (2024-2026)** -- documented LLM-generated persona operations
 
 ## Relationship to CA
 
-CA's psychographic-targeting work largely operated through *real* targeted users â€” not fake personas. But CA-style firms post-2018 frequently combine the two: profile real audiences via behavioral data, then deliver content via networks of fake personas. The boundary has blurred in the AI era.
+CA's psychographic-targeting work largely operated through *real* targeted users -- not fake personas. But CA-style firms post-2018 frequently combine the two: profile real audiences via behavioral data, then deliver content via networks of fake personas. The boundary has blurred in the AI era.
 
 ## Sources
 

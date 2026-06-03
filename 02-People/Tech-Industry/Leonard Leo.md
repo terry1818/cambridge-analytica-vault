@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Federalist Society chairman; architect of conservative federal judiciary; recipient of $1.6B Marble Freedom Trust donation
 tags: [person, role/operative, role/lawyer, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Leonard_Leo
 
 ## Summary
 
-American lawyer and conservative political operative. **Co-chairman of the [[Federalist Society]]** (the conservative legal organization that has effectively controlled Republican federal judicial nominations since the early 2000s). **Architect of the 6-3 conservative US Supreme Court** that overturned Roe v. Wade in 2022 and has dramatically reshaped US constitutional law. Recipient of **$1.6 billion donation from Barre Seid (Marble Freedom Trust) in 2021** â€” the **single largest political donation in US history** until that point.
+American lawyer and conservative political operative. **Co-chairman of the [[Federalist Society]]** (the conservative legal organization that has effectively controlled Republican federal judicial nominations since the early 2000s). **Architect of the 6-3 conservative US Supreme Court** that overturned Roe v. Wade in 2022 and has dramatically reshaped US constitutional law. Recipient of **$1.6 billion donation from Barre Seid (Marble Freedom Trust) in 2021** -- the **single largest political donation in US history** until that point.
 
 ## The Federalist Society pipeline
 
@@ -37,13 +37,13 @@ In August 2022, the New York Times revealed:
 - Largest political donation in US history at the time
 - Funds intended for conservative legal/political infrastructure
 
-The Marble Freedom Trust funding represents a **legal-architecture parallel** to the Thiel network's tech-infrastructure project â€” providing Leo with **unprecedented multi-year resources** for conservative legal-system shaping.
+The Marble Freedom Trust funding represents a **legal-architecture parallel** to the Thiel network's tech-infrastructure project -- providing Leo with **unprecedented multi-year resources** for conservative legal-system shaping.
 
 ## CRC Advisors / Judicial Crisis Network
 
 Leo also operates through:
-- **CRC Advisors** â€” public-relations / political consulting firm
-- **Judicial Crisis Network** (and successor entities) â€” judicial-nominations advocacy
+- **CRC Advisors** -- public-relations / political consulting firm
+- **Judicial Crisis Network** (and successor entities) -- judicial-nominations advocacy
 - Various 501(c)(4) and 501(c)(3) entities providing dark-money-friendly funding flows
 
 ## DeVos / Marble family note
@@ -55,7 +55,7 @@ The "Marble" in Marble Freedom Trust is unrelated to the [[Erik Prince]] / [[Bet
 Leo is **structurally parallel** to [[Peter Thiel]] in the Tech Right network:
 - Both operate vast personal-network political-influence infrastructures
 - Both have specific institutional targets (Thiel: tech, government, executive branch; Leo: judiciary)
-- Both have placed protÃ©gÃ©s in government positions
+- Both have placed protégés in government positions
 - Both have benefited from massive concentrated donations (Thiel's wealth; Leo's $1.6B grant)
 
 The 2024-2026 Tech Right consolidation has **operational coordination with Leo's legal-architecture network**:

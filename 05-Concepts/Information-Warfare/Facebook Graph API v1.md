@@ -11,7 +11,7 @@ first-documented: 2010
 
 ## Definition
 
-First major version of Facebooks developer API, in use 2010-2015. The critical feature relevant to the CA scandal: the **friends_data permission** â€” when a Facebook user installed a third-party app and granted it permission, the app could collect not only the users profile data but also the **full profile data of every Facebook friend**, *without those friends knowledge or consent*. Average user had ~300 friends.
+First major version of Facebooks developer API, in use 2010-2015. The critical feature relevant to the CA scandal: the **friends_data permission** -- when a Facebook user installed a third-party app and granted it permission, the app could collect not only the users profile data but also the **full profile data of every Facebook friend**, *without those friends knowledge or consent*. Average user had ~300 friends.
 
 ## How CA exploited it
 
@@ -22,15 +22,15 @@ First major version of Facebooks developer API, in use 2010-2015. The critical f
 
 ## Closure
 
-- 2014-04 â€” Facebook deprecated friends_data API (Graph API v2.0)
-- 2015-04 â€” API fully shut down
+- 2014-04 -- Facebook deprecated friends_data API (Graph API v2.0)
+- 2015-04 -- API fully shut down
 - But data already harvested by third-party apps remained in their possession
 
 ## Why Facebook designed it this way
 
-The friends-data API was not a security accident â€” it was a deliberate design decision to maximize the social-graph network effect of third-party apps. Facebook saw third-party developers as growth drivers; granting them access to friends data made their apps more useful (social games could see your friends; quizzes could compare you to friends; etc.). The privacy implications were understood internally but treated as secondary to growth.
+The friends-data API was not a security accident -- it was a deliberate design decision to maximize the social-graph network effect of third-party apps. Facebook saw third-party developers as growth drivers; granting them access to friends data made their apps more useful (social games could see your friends; quizzes could compare you to friends; etc.). The privacy implications were understood internally but treated as secondary to growth.
 
-By 2014, Facebook had recognized the abuse potential and started shutting it down â€” but two years of unrestricted harvest had already produced datasets like CAs.
+By 2014, Facebook had recognized the abuse potential and started shutting it down -- but two years of unrestricted harvest had already produced datasets like CAs.
 
 ## Related
 

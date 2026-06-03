@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-Israeli election manipulation operation exposed by **Forbidden Stories** "Story Killers" consortium in February 2023. Led by [[Tal Hanan]] ("Jorge"). Claimed to have intervened in 33+ presidential-level elections globally over ~25 years. Sells **AIMS (Advanced Impact Media Solutions)** â€” a platform that controls a large network of fake social media personas. Undercover journalists were shown live demos of AIMS manipulating Twitter, Facebook, Telegram, Amazon, and Gmail accounts. Hanan's pseudonym "Jorge" was found in leaked Cambridge Analytica emails (per [[TheMarker]] / Radio France / Haaretz reporting). Direct ideological and methodological successor to the CA-style election manipulation business. ([[Source Forbidden Stories 2023 Team Jorge]])
+Israeli election manipulation operation exposed by **Forbidden Stories** "Story Killers" consortium in February 2023. Led by [[Tal Hanan]] ("Jorge"). Claimed to have intervened in 33+ presidential-level elections globally over ~25 years. Sells **AIMS (Advanced Impact Media Solutions)** -- a platform that controls a large network of fake social media personas. Undercover journalists were shown live demos of AIMS manipulating Twitter, Facebook, Telegram, Amazon, and Gmail accounts. Hanan's pseudonym "Jorge" was found in leaked Cambridge Analytica emails (per [[TheMarker]] / Radio France / Haaretz reporting). Direct ideological and methodological successor to the CA-style election manipulation business. ([[Source Forbidden Stories 2023 Team Jorge]])
 
 ## Sources
 

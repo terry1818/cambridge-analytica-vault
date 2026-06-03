@@ -64,9 +64,9 @@ The theocratic wing of the [[Hypothesis - Three-wing coalition|three-wing coalit
 
 **Same Koch-network DAFs fund all four layers:**
 
-- DonorsTrust / Donors Capital Fund â†’ all four
-- Vanguard Charitable â†’ multiple layers (anonymous pass-through)
-- Bradley Foundation â†’ multiple
+- DonorsTrust / Donors Capital Fund ? all four
+- Vanguard Charitable ? multiple layers (anonymous pass-through)
+- Bradley Foundation ? multiple
 - Conservative-individual-donor network
 - Patron-class overlap with [[Mercer Family Foundation]] (Heritage; multiple layers)
 
@@ -74,7 +74,7 @@ The theocratic wing of the [[Hypothesis - Three-wing coalition|three-wing coalit
 
 The theocratic wing has been **compounding for 90 years**. The patron class can fund infrastructure but cannot conjure mass mobilization overnight. The Christian-right's deep history of relationship cultivation, parliamentary penetration, and data-driven congregant-as-voter pipeline is **the irreplaceable mass-mobilization wing of the three-wing coalition.**
 
-This is also why the Christian nationalist frame ([[Russ Vought]]) reaches deeper than its current visibility suggests Ã¢â‚¬" it has 90 years of personnel pipeline behind it.
+This is also why the Christian nationalist frame ([[Russ Vought]]) reaches deeper than its current visibility suggests -" it has 90 years of personnel pipeline behind it.
 
 ## Counter-strategy implications
 
@@ -85,15 +85,15 @@ This is also why the Christian nationalist frame ([[Russ Vought]]) reaches deepe
 
 ## Related vault entries
 
-- [[Hypothesis - Three-wing coalition]] Ã¢â‚¬" overall coalition framing
-- [[The Fellowship]] Ã¢â‚¬" Layer 1
-- [[Capitol Ministries]] Ã¢â‚¬" Layer 2
-- [[Alliance Defending Freedom]] Ã¢â‚¬" Layer 3
-- [[United in Purpose]] Ã¢â‚¬" Layer 4
-- [[Gloo]] Ã¢â‚¬" Layer 4 tech
-- [[COFI]] Ã¢â‚¬" Layer 4 partner
-- [[Doug Coe]], [[Ralph Drollinger]], [[Michael Farris]], [[Bill Dallas]] Ã¢â‚¬" layer leaders
-- [[Source The Family Netflix 2019]], [[Source The Great Hack Netflix 2019]], [[Source People You May Know 2020]] Ã¢â‚¬" documentary basis
+- [[Hypothesis - Three-wing coalition]] -" overall coalition framing
+- [[The Fellowship]] -" Layer 1
+- [[Capitol Ministries]] -" Layer 2
+- [[Alliance Defending Freedom]] -" Layer 3
+- [[United in Purpose]] -" Layer 4
+- [[Gloo]] -" Layer 4 tech
+- [[COFI]] -" Layer 4 partner
+- [[Doug Coe]], [[Ralph Drollinger]], [[Michael Farris]], [[Bill Dallas]] -" layer leaders
+- [[Source The Family Netflix 2019]], [[Source The Great Hack Netflix 2019]], [[Source People You May Know 2020]] -" documentary basis
 
 ---
 
@@ -101,33 +101,33 @@ This is also why the Christian nationalist frame ([[Russ Vought]]) reaches deepe
 
 Subsequent vault research has documented the **theological + institutional roots** that predate the four-layer model. The full lineage:
 
-### Pre-Layer (intellectual foundation) Ã¢â‚¬â€ 1965+
+### Pre-Layer (intellectual foundation) — 1965+
 - **[[Chalcedon Foundation]]** (1965) founded by [[R.J. Rushdoony]]
 - **[[Christian Reconstructionism]]** theological system developed 1960s-70s
-- **[[R.J. Rushdoony|*Institutes of Biblical Law*]]** (1973) Ã¢â‚¬" foundational text
+- **[[R.J. Rushdoony|*Institutes of Biblical Law*]]** (1973) -" foundational text
 - Theonomic + dominionist intellectual grammar
 
-### Bridge (intellectual Ã¢â€ â€™ political) Ã¢â‚¬â€ 1970s
-- **[[Seven Mountains Mandate]]** (1975) Ã¢â‚¬" Bright + Cunningham + Schaeffer; charismatic operationalization
+### Bridge (intellectual → political) — 1970s
+- **[[Seven Mountains Mandate]]** (1975) -" Bright + Cunningham + Schaeffer; charismatic operationalization
 
-### Mass-Political Layer 0 Ã¢â‚¬" 1979+
-- **[[Moral Majority]]** (1979-1989) Ã¢â‚¬" [[Jerry Falwell Sr.]] + [[Paul Weyrich]]; first major evangelical political mobilization
-- **[[Christian Coalition]]** (1989+) Ã¢â‚¬" [[Pat Robertson]] + [[Ralph Reed]]; sophisticated grassroots successor
-- **[[Faith and Freedom Coalition]]** (2009+) Ã¢â‚¬" [[Ralph Reed]]'s current vehicle; modern operational successor
+### Mass-Political Layer 0 -" 1979+
+- **[[Moral Majority]]** (1979-1989) -" [[Jerry Falwell Sr.]] + [[Paul Weyrich]]; first major evangelical political mobilization
+- **[[Christian Coalition]]** (1989+) -" [[Pat Robertson]] + [[Ralph Reed]]; sophisticated grassroots successor
+- **[[Faith and Freedom Coalition]]** (2009+) -" [[Ralph Reed]]'s current vehicle; modern operational successor
 
 ### Coordination Layer (1981+)
-- **[[Council for National Policy]]** (1981+) Ã¢â‚¬" [[Tim LaHaye]] + [[Paul Weyrich]]; the secret coordinating hub
-- **[[The Heritage Foundation]]** (1973+) Ã¢â‚¬" [[Paul Weyrich]] co-founded
-- **[[American Legislative Exchange Council]]** (1973+) Ã¢â‚¬" [[Paul Weyrich]] co-founded
+- **[[Council for National Policy]]** (1981+) -" [[Tim LaHaye]] + [[Paul Weyrich]]; the secret coordinating hub
+- **[[The Heritage Foundation]]** (1973+) -" [[Paul Weyrich]] co-founded
+- **[[American Legislative Exchange Council]]** (1973+) -" [[Paul Weyrich]] co-founded
 
 ### Documentation Layer (2000+)
-- **[[TheocracyWatch]]** (2000+) Ã¢â‚¬" [[Joan Bokaer]] / CRESP Cornell; pioneering citizen-research project
+- **[[TheocracyWatch]]** (2000+) -" [[Joan Bokaer]] / CRESP Cornell; pioneering citizen-research project
 
 ### Then the four original layers
-- Layer 1: [[The Fellowship]] (1935+) Ã¢â‚¬" relationship network
-- Layer 2: [[Capitol Ministries]] (1996+) Ã¢â‚¬" programmatic theology in government
-- Layer 3: [[Alliance Defending Freedom]] (1994+) Ã¢â‚¬" legal infrastructure
-- Layer 4: [[United in Purpose]] / [[Gloo]] / [[COFI]] (2008+) Ã¢â‚¬" data / mass-mobilization
+- Layer 1: [[The Fellowship]] (1935+) -" relationship network
+- Layer 2: [[Capitol Ministries]] (1996+) -" programmatic theology in government
+- Layer 3: [[Alliance Defending Freedom]] (1994+) -" legal infrastructure
+- Layer 4: [[United in Purpose]] / [[Gloo]] / [[COFI]] (2008+) -" data / mass-mobilization
 
 ### Key personnel through-line: Paul Weyrich
 
@@ -138,17 +138,17 @@ Subsequent vault research has documented the **theological + institutional roots
 - Council for National Policy (1981)
 - Coined "Moral Majority" name (1979)
 
-His famous 1980 statement Ã¢â‚¬" **"I don't want everybody to vote... our leverage in the elections quite candidly goes up as the voting populace goes down"** Ã¢â‚¬" is the explicit articulation of the coalition's anti-democratic intent. Current GOP voter-suppression strategy is direct execution of Weyrich's program.
+His famous 1980 statement -" **"I don't want everybody to vote... our leverage in the elections quite candidly goes up as the voting populace goes down"** -" is the explicit articulation of the coalition's anti-democratic intent. Current GOP voter-suppression strategy is direct execution of Weyrich's program.
 
 ### Why this updated lineage matters
 
 The theocratic wing's depth is **even older than the 1935 Fellowship founding** when intellectual lineage is included. The combination of:
 
-- **Generations-deep intellectual infrastructure** (Rushdoony Ã¢â€ â€™ Reconstructionism Ã¢â€ â€™ dominionism)
-- **45+ years of coordinated political organizing** (Moral Majority Ã¢â€ â€™ CNP Ã¢â€ â€™ Christian Coalition Ã¢â€ â€™ FFC)
+- **Generations-deep intellectual infrastructure** (Rushdoony → Reconstructionism → dominionism)
+- **45+ years of coordinated political organizing** (Moral Majority → CNP → Christian Coalition → FFC)
 - **90+ years of relationship cultivation** (Fellowship)
 - **30+ years of programmatic theology in government** (Capitol Ministries)
-- **30+ years of legal infrastructure** (HSLDA Ã¢â€ â€™ ADF)
+- **30+ years of legal infrastructure** (HSLDA → ADF)
 - **18+ years of CA-style data integration** (United in Purpose)
 
 ...makes the theocratic wing the **most-compounded** of the three wings in [[Hypothesis - Three-wing coalition]]. The patron class (~50 years) and tech-surveillance wing (~20 years) are operationally newer.

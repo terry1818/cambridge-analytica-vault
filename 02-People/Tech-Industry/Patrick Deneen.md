@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-American political philosopher; **professor at the University of Notre Dame**. Author of **"Why Liberalism Failed"** (Yale University Press, 2018) â€” an influential critique of contemporary liberal democracy arguing that liberalism's own internal logic has produced its current crises. Author of *Regime Change: Toward a Postliberal Future* (2023). Among the most prominent figures in the **"post-liberal" conservative intellectual movement**, alongside Adrian Vermeule and others. **Cited as an intellectual influence by [[JD Vance]]**.
+American political philosopher; **professor at the University of Notre Dame**. Author of **"Why Liberalism Failed"** (Yale University Press, 2018) -- an influential critique of contemporary liberal democracy arguing that liberalism's own internal logic has produced its current crises. Author of *Regime Change: Toward a Postliberal Future* (2023). Among the most prominent figures in the **"post-liberal" conservative intellectual movement**, alongside Adrian Vermeule and others. **Cited as an intellectual influence by [[JD Vance]]**.
 
 ## Key arguments
 

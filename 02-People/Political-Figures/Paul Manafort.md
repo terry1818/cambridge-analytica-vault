@@ -19,33 +19,33 @@ American political consultant; **Trump 2016 campaign manager** (June-August 2016
 
 ## Documented data sharing
 
-- **August 2, 2016** â€” Manafort met Kilimnik at the **Grand Havana Room cigar club** in Manhattan
+- **August 2, 2016** -- Manafort met Kilimnik at the **Grand Havana Room cigar club** in Manhattan
 - Per Mueller and Senate Intel Vol 5: shared **internal campaign polling data and battleground state strategy** with Kilimnik
-- **September 12, 2016** â€” second documented Manafort-Kilimnik meeting in Madrid
+- **September 12, 2016** -- second documented Manafort-Kilimnik meeting in Madrid
 - Senate Intel Vol 5: "a grave counterintelligence threat"
 
 ## Career history (pre-Trump)
 
-- 1980s-2000s â€” partner at **Black Manafort Stone Kelly** lobbying firm (with [[Roger Stone]] and Charlie Black)
+- 1980s-2000s -- partner at **Black Manafort Stone Kelly** lobbying firm (with [[Roger Stone]] and Charlie Black)
 - Worked for autocrats and dictators: Ferdinand Marcos (Philippines), Mobutu Sese Seko (Zaire), Jonas Savimbi (Angola), and others
-- **2004-2014** â€” worked extensively in Ukraine for President Viktor Yanukovych and the Party of Regions
+- **2004-2014** -- worked extensively in Ukraine for President Viktor Yanukovych and the Party of Regions
 - Built relationships with Russian-aligned Ukrainian oligarchs
 - By 2014-2015: in significant financial distress; debts to Russian-linked oligarchs including Oleg Deripaska
 
 ## Trump campaign role
 
-- 2016-03-29 â€” joins Trump campaign as convention manager (recommended by Roger Stone)
-- 2016-05-19 â€” promoted to campaign manager
-- 2016-08-02 â€” Grand Havana Room meeting with Kilimnik
-- 2016-08-19 â€” resigns from Trump campaign after Ukraine ledger disclosures
+- 2016-03-29 -- joins Trump campaign as convention manager (recommended by Roger Stone)
+- 2016-05-19 -- promoted to campaign manager
+- 2016-08-02 -- Grand Havana Room meeting with Kilimnik
+- 2016-08-19 -- resigns from Trump campaign after Ukraine ledger disclosures
 
 ## Mueller prosecution
 
-- 2018-08-21 â€” convicted on 8 counts (tax fraud, bank fraud, etc.) in Virginia
-- 2018-09-14 â€” pleaded guilty to 2 additional conspiracy counts in DC
-- 2019-03-13 â€” sentenced to total of 7.5 years
-- 2020-12-23 â€” **pardoned by Trump**
-- 2024+ â€” reportedly advising Trump 2024-2028 administration informally
+- 2018-08-21 -- convicted on 8 counts (tax fraud, bank fraud, etc.) in Virginia
+- 2018-09-14 -- pleaded guilty to 2 additional conspiracy counts in DC
+- 2019-03-13 -- sentenced to total of 7.5 years
+- 2020-12-23 -- **pardoned by Trump**
+- 2024+ -- reportedly advising Trump 2024-2028 administration informally
 
 ## Connections
 

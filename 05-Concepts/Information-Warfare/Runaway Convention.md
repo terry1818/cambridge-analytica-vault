@@ -11,13 +11,13 @@ first-documented: '~1787 (precedent: original 1787 convention was called to amen
 
 ## Definition
 
-**A "runaway convention"** is a scenario in which an Article V constitutional convention Ã¢â‚¬â€ nominally called to address specific subjects in the state applications (e.g. fiscal restraint, term limits) Ã¢â‚¬â€ **exceeds its stated remit** by:
+**A "runaway convention"** is a scenario in which an Article V constitutional convention -- nominally called to address specific subjects in the state applications (e.g. fiscal restraint, term limits) -- **exceeds its stated remit** by:
 
 - Adopting rules that allow broader scope
 - Proposing amendments on unrelated topics
 - Voting to ignore state-imposed delegate instructions
 
-**The original 1787 Philadelphia Convention itself was a "runaway" convention** Ã¢â‚¬â€ called to amend the Articles of Confederation, it instead drafted an entirely new Constitution.
+**The original 1787 Philadelphia Convention itself was a "runaway" convention** -- called to amend the Articles of Confederation, it instead drafted an entirely new Constitution.
 
 ## Why it's the central risk
 
@@ -37,7 +37,7 @@ In **August 2023**, [[Citizens for Self-Governance]] held a mock convention in W
 - **Federal Legislative and Executive Jurisdiction Proposal 3:** compels federal government to transfer large swaths of federal lands to the states
 - **Other proposals beyond the stated three-pillar (fiscal restraint / term limits / federal power) scope**
 
-This mock convention is **the strongest empirical evidence that a real convention would exceed stated scope** Ã¢â‚¬â€ the proponents themselves modeled an expanded-scope convention.
+This mock convention is **the strongest empirical evidence that a real convention would exceed stated scope** -- the proponents themselves modeled an expanded-scope convention.
 
 ## Legal scholarship
 
@@ -53,9 +53,9 @@ This mock convention is **the strongest empirical evidence that a real conventio
 
 ## Related concepts
 
-- [[Article V Convention]] Ã¢â‚¬â€ the mechanism
-- [[Delegate Selection]] Ã¢â‚¬â€ state-law variable
-- [[State Rescission]] Ã¢â‚¬â€ disputed remedy
+- [[Article V Convention]] -- the mechanism
+- [[Delegate Selection]] -- state-law variable
+- [[State Rescission]] -- disputed remedy
 
 ## Sources
 

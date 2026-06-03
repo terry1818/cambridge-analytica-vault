@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: 2016-11-08 election where Trump won; CA worked for Trump campaign and Mercer-funded pro-Trump Super PAC
 tags: [event, topic/2016-us-election, topic/cambridge-analytica, era/2016-2018, jurisdiction/us]
@@ -16,18 +16,18 @@ US presidential election held **2016-11-08**. [[Donald Trump]] defeated [[Hillar
 
 ## CA-relevant timeline
 
-- 2014-2015 â€” CA enters US market; 44 races in 2014 midterms
-- 2015-07 â€” Cruz partnership becomes public
-- 2016-02-20 â€” Cruz drops CA after South Carolina loss
-- 2016-05 â€” Cruz drops out; Mercers switch to Trump
-- 2016-08 â€” Trump campaign engages CA; [[Steve Bannon]] becomes campaign CEO
-- 2016-09-Oct â€” Kushner/Parscale switch to RNC data
-- 2016-09-Nov â€” Trump campaign pays CA per PolitiFact
-- 2016-11-08 â€” Trump wins
+- 2014-2015 -- CA enters US market; 44 races in 2014 midterms
+- 2015-07 -- Cruz partnership becomes public
+- 2016-02-20 -- Cruz drops CA after South Carolina loss
+- 2016-05 -- Cruz drops out; Mercers switch to Trump
+- 2016-08 -- Trump campaign engages CA; [[Steve Bannon]] becomes campaign CEO
+- 2016-09-Oct -- Kushner/Parscale switch to RNC data
+- 2016-09-Nov -- Trump campaign pays CA per PolitiFact
+- 2016-11-08 -- Trump wins
 
 ## Russia thread
 
-[[Sam Patten]] (CA contractor) â†’ [[Paul Manafort]] (Trump campaign manager) â†’ [[Konstantin Kilimnik]] (Russian agent) data conduit. [[Michael Flynn]] held CA advisory role. [[Alexander Nix]] approached [[Julian Assange]] for Clinton emails.
+[[Sam Patten]] (CA contractor) → [[Paul Manafort]] (Trump campaign manager) → [[Konstantin Kilimnik]] (Russian agent) data conduit. [[Michael Flynn]] held CA advisory role. [[Alexander Nix]] approached [[Julian Assange]] for Clinton emails.
 
 ## Sources
 
@@ -102,7 +102,7 @@ The Russian operation and the CA-side campaign operation ran on parallel tracks.
 
 ## The actual vote and the geographic mechanics
 
-Trump won the Electoral College 304-227 (after seven faithless-elector defections from the original 306-232 result). The popular vote went to Clinton by approximately 2.9 million votes. The Electoral College result hinged on three Rust Belt states (Wisconsin, Michigan, Pennsylvania) decided by combined margins of approximately 78,000 votes â€” small enough that any of several plausible counterfactuals (different CA operation, different Russian operation, different Comey letter timing, different campaign-event scheduling) could have changed the outcome.
+Trump won the Electoral College 304-227 (after seven faithless-elector defections from the original 306-232 result). The popular vote went to Clinton by approximately 2.9 million votes. The Electoral College result hinged on three Rust Belt states (Wisconsin, Michigan, Pennsylvania) decided by combined margins of approximately 78,000 votes -- small enough that any of several plausible counterfactuals (different CA operation, different Russian operation, different Comey letter timing, different campaign-event scheduling) could have changed the outcome.
 
 The vault's analytical position on the "what decided 2016" question: the result was overdetermined in the sense that multiple factors each plausibly account for the narrow margin, and the narrowness of the margin makes any single-cause attribution unreliable. The CA operation was operationally real and meaningfully sized; whether it was decisive in the sense that absent CA the result would have been different is unprovable from the available evidence.
 

@@ -35,7 +35,7 @@ Ellis agreed to the censure and admitted the violations.
 - Georgia RICO violation + additional counts including aiding and abetting false statements
 
 ### Georgia plea (October 24, 2023)
-**Pled guilty** to one felony count of aiding and abetting false statements (Georgia OCGA Â§ 16-10-20).
+**Pled guilty** to one felony count of aiding and abetting false statements (Georgia OCGA § 16-10-20).
 
 In her plea allocution, Ellis tearfully stated: "If I knew then what I know now, I would have declined to represent Donald Trump in these post-election challenges." Notable for being the first public expression of regret from a Trump 2020 legal team member.
 
@@ -48,10 +48,10 @@ Sentence:
 
 ## Connections
 
-- [[Donald Trump]] â€” client; co-conspirator
-- [[Rudy Giuliani]] â€” primary collaborator on state-level challenges
-- [[Sidney Powell]] Â· [[Kenneth Chesebro]] Â· [[John Eastman]] â€” Trump legal team
-- [[Georgia v Trump RICO 2023]] â€” co-defendant; pled guilty
+- [[Donald Trump]] -- client; co-conspirator
+- [[Rudy Giuliani]] -- primary collaborator on state-level challenges
+- [[Sidney Powell]] · [[Kenneth Chesebro]] · [[John Eastman]] -- Trump legal team
+- [[Georgia v Trump RICO 2023]] -- co-defendant; pled guilty
 - [[Stop the Steal]]
 
 ## Sources

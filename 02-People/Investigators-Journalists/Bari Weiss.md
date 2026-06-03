@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Bari_Weiss
 
 ## Summary
 
-American journalist; **founder of The Free Press** (2021) â€” a subscription-based newsletter / media organization that has become one of the most prominent **center-right contrarian** journalism outlets. Former opinion editor at The New York Times; resigned in 2020 with a public letter alleging hostile work environment for centrist/conservative views. Previously at The Wall Street Journal. One of the **selected journalists who published [[Twitter Files Release 2022-2023]] threads** for Elon Musk in 2022-2023.
+American journalist; **founder of The Free Press** (2021) -- a subscription-based newsletter / media organization that has become one of the most prominent **center-right contrarian** journalism outlets. Former opinion editor at The New York Times; resigned in 2020 with a public letter alleging hostile work environment for centrist/conservative views. Previously at The Wall Street Journal. One of the **selected journalists who published [[Twitter Files Release 2022-2023]] threads** for Elon Musk in 2022-2023.
 
 ## The Free Press
 
@@ -51,9 +51,9 @@ Weiss occupies a **distinct ideological niche**:
 
 Weiss / The Free Press represents the **"respectable" face** of the broader anti-content-moderation and anti-establishment-media project. Functions as:
 
-1. **Twitter Files amplifier** â€” gave the Musk-orchestrated disclosure mainstream-press credibility
-2. **Anti-NYT counternarrative** â€” provides outlet for ex-mainstream-press figures
-3. **Soft Tech Right adjacency** â€” overlaps audience with Tech Right without being explicitly part of it
+1. **Twitter Files amplifier** -- gave the Musk-orchestrated disclosure mainstream-press credibility
+2. **Anti-NYT counternarrative** -- provides outlet for ex-mainstream-press figures
+3. **Soft Tech Right adjacency** -- overlaps audience with Tech Right without being explicitly part of it
 
 ## Connections
 

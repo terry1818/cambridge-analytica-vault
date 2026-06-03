@@ -21,8 +21,8 @@ Psychologist and lecturer at the University of Cambridge (2012-2018); founder of
 
 ## Key facts
 
-- **University role:** Lecturer at University of Cambridge, 2012â€“2018
-- **Company:** [[Global Science Research (GSR)]] â€” built the harvest app
+- **University role:** Lecturer at University of Cambridge, 2012-2018
+- **Company:** [[Global Science Research (GSR)]] -- built the harvest app
 - **Russia ties:** named on a grant at Saint Petersburg State University (cyberbullying research, post-2013 visit); maintains role was limited to occasional lectures
 - **App user count:** ~270,000 downloaded; harvested data on up to 87M friends
 - **2016-01:** signed Facebook certification that data was deleted (later proven false)
@@ -41,16 +41,16 @@ Psychologist and lecturer at the University of Cambridge (2012-2018); founder of
 
 ## Timeline
 
-- `2012-2018` â€” Lecturer, University of Cambridge
-- `~2013` â€” Visits Saint Petersburg State University; later named on grant
-- `2013` â€” Founds GSR; builds "This Is Your Digital Life" app
-- `2014` â€” Sells dataset to [[Cambridge Analytica]]
-- `2014-04` â€” Facebook deprecates friends-data API
-- `2015-04` â€” Facebook shuts API entirely
-- `2016-01` â€” Signs Facebook certification of data deletion
-- `2018-03` â€” Exposed in Wylie disclosures
-- `2018-04` â€” Testifies before UK Parliament
-- `2019` â€” FTC consent order; renamed to Aleksandr Spectre by this time
+- `2012-2018` -- Lecturer, University of Cambridge
+- `~2013` -- Visits Saint Petersburg State University; later named on grant
+- `2013` -- Founds GSR; builds "This Is Your Digital Life" app
+- `2014` -- Sells dataset to [[Cambridge Analytica]]
+- `2014-04` -- Facebook deprecates friends-data API
+- `2015-04` -- Facebook shuts API entirely
+- `2016-01` -- Signs Facebook certification of data deletion
+- `2018-03` -- Exposed in Wylie disclosures
+- `2018-04` -- Testifies before UK Parliament
+- `2019` -- FTC consent order; renamed to Aleksandr Spectre by this time
 
 ## Open questions
 

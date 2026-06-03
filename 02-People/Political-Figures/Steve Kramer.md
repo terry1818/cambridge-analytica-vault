@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-American political consultant who **admitted commissioning the [[NH Biden AI Robocall 2024]]** â€” the AI-cloned Biden voice telling NH Democrats not to vote in the 2024 primary. Was working at the time for the **Dean Phillips campaign**, a Biden primary challenger (Phillips disavowed the act). Fined **$6 million by the FCC** in May 2024 and indicted in New Hampshire on multiple counts including voter suppression. Established that voice-cloning a candidate is enforceable under existing US law.
+American political consultant who **admitted commissioning the [[NH Biden AI Robocall 2024]]** -- the AI-cloned Biden voice telling NH Democrats not to vote in the 2024 primary. Was working at the time for the **Dean Phillips campaign**, a Biden primary challenger (Phillips disavowed the act). Fined **$6 million by the FCC** in May 2024 and indicted in New Hampshire on multiple counts including voter suppression. Established that voice-cloning a candidate is enforceable under existing US law.
 
 ## Sources
 

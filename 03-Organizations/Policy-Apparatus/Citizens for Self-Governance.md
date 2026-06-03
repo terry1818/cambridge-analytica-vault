@@ -17,7 +17,7 @@ status: active
 
 ## Summary
 
-**501(c)(3) tax-exempt parent** of [[Convention of States Action]]. Founded 2012 by **[[Mark Meckler]]** (Tea Party Patriots co-founder) with **[[Eric O'Keefe]]** (Wisconsin Club for Growth director, Koch operative) as founding board member. Does business as **Convention of States Foundation**. Originally named **John Hancock Committee of the States**. Receives most of its funding through **donor-advised fund (DAF) pass-throughs** Ã¢â‚¬â€ Vanguard Charitable, DonorsTrust, Donors Capital Fund Ã¢â‚¬â€ which preserve donor anonymity. **Received nearly $7.6M from Vanguard Charitable Endowment Program alone from 2012-2018.** Held the **August 2023 Williamsburg mock convention** that drafted expanded-scope amendment proposals.
+**501(c)(3) tax-exempt parent** of [[Convention of States Action]]. Founded 2012 by **[[Mark Meckler]]** (Tea Party Patriots co-founder) with **[[Eric O'Keefe]]** (Wisconsin Club for Growth director, Koch operative) as founding board member. Does business as **Convention of States Foundation**. Originally named **John Hancock Committee of the States**. Receives most of its funding through **donor-advised fund (DAF) pass-throughs** -- Vanguard Charitable, DonorsTrust, Donors Capital Fund -- which preserve donor anonymity. **Received nearly $7.6M from Vanguard Charitable Endowment Program alone from 2012-2018.** Held the **August 2023 Williamsburg mock convention** that drafted expanded-scope amendment proposals.
 
 ## Identity
 
@@ -29,14 +29,14 @@ status: active
 
 ## Leadership
 
-- [[Mark Meckler]] Ã¢â‚¬â€ Founder, President
-- [[Eric O'Keefe]] Ã¢â‚¬â€ Founding board member; Wisconsin Club for Growth director
+- [[Mark Meckler]] -- Founder, President
+- [[Eric O'Keefe]] -- Founding board member; Wisconsin Club for Growth director
 
 ## Funding (per 990 records + IRS filings)
 
-- **Vanguard Charitable Endowment Program** Ã¢â‚¬â€ $7.6M (2012-2018, anonymous pass-through)
-- **[[Mercer Family Foundation]]** Ã¢â‚¬â€ $500K founding grant + more
-- **DonorsTrust + Donors Capital Fund** Ã¢â‚¬â€ Koch-network DAFs
+- **Vanguard Charitable Endowment Program** -- $7.6M (2012-2018, anonymous pass-through)
+- **[[Mercer Family Foundation]]** -- $500K founding grant + more
+- **DonorsTrust + Donors Capital Fund** -- Koch-network DAFs
 - **Armrod Charitable Foundation**
 - **Judicial Education Project** (Leonard Leo)
 - 2019: two donors = 36% of total support ($2.47M)
@@ -44,7 +44,7 @@ status: active
 ## Activities
 
 - Funds and supports the [[Convention of States Action]] political arm
-- Holds **mock conventions** (Williamsburg, Virginia Ã¢â‚¬â€ August 2023) to road-test convention rules, delegate behavior, expanded-scope amendments
+- Holds **mock conventions** (Williamsburg, Virginia -- August 2023) to road-test convention rules, delegate behavior, expanded-scope amendments
 - Publishes educational materials, model state legislation
 - Maintains the COS Action grassroots organizing infrastructure
 
@@ -58,12 +58,12 @@ The mock convention proposed amendments including:
 
 ## Related entities
 
-- [[Convention of States Action]] Ã¢â‚¬â€ the 501(c)(4) advocacy arm
-- [[Mark Meckler]] Ã¢â‚¬â€ Founder
-- [[Eric O'Keefe]] Ã¢â‚¬â€ Founding board
-- [[Mercer Family Foundation]] Ã¢â‚¬â€ patron
-- [[The Heritage Foundation]] Ã¢â‚¬â€ aligned policy authoring institution
-- [[American Legislative Exchange Council|ALEC]] Ã¢â‚¬â€ strategic partner
+- [[Convention of States Action]] -- the 501(c)(4) advocacy arm
+- [[Mark Meckler]] -- Founder
+- [[Eric O'Keefe]] -- Founding board
+- [[Mercer Family Foundation]] -- patron
+- [[The Heritage Foundation]] -- aligned policy authoring institution
+- [[American Legislative Exchange Council|ALEC]] -- strategic partner
 
 ## Open questions
 

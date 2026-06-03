@@ -21,7 +21,7 @@ Mueller, Robert S. III. (2019). *Report On The Investigation Into Russian Interf
 
 ## Structure
 
-**Volume 1** â€” Russian interference operations:
+**Volume 1** — Russian interference operations:
 - Internet Research Agency (IRA) social media operations
 - GRU hacking operations (DNC, Podesta emails)
 - Russian government contacts with Trump campaign
@@ -29,7 +29,7 @@ Mueller, Robert S. III. (2019). *Report On The Investigation Into Russian Interf
 - The Manafort-Kilimnik relationship
 - The Trump Tower June 2016 meeting
 
-**Volume 2** â€” Obstruction of justice:
+**Volume 2** — Obstruction of justice:
 - 10 separate episodes investigated for obstruction
 - Mueller declined to make a prosecutorial decision (DOJ OLC opinion: sitting president cannot be indicted)
 - Explicit statement: "While this report does not conclude that the President committed a crime, it also does not exonerate him."

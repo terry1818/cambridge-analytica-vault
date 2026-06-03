@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Russ Vought-founded conservative think tank 2021; primary policy vehicle behind Project 2025; Conservative Partnership Institute-affiliated
 tags: [org, org/policy-apparatus, org/project-2025, era/2021-2026, jurisdiction/us]
@@ -22,7 +22,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Center_for_Renewing_America
 
 **Notable for explicit Christian-nationalist framing** - Vought self-identifies as Christian nationalist; CRA policy materials reflect this orientation. **Major Trump 2.0 personnel pipeline:**
 
-- **Vought** Ã¢â€ â€™ OMB Director (returned to Trump 2.0)
+- **Vought** -- OMB Director (returned to Trump 2.0)
 - Multiple CRA personnel placed in Trump 2.0 sub-cabinet + agency roles
 
 ## Identity

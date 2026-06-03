@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-Hong Kong businessman and Frontier Services Group officer. **Appointed director of [[Emerdata Limited]] in March 2018** alongside [[Rebekah Mercer]], Jennifer Mercer, and [[Alexander Nix]] â€” the direct successor entity to [[Cambridge Analytica]]. Ko is described in public reporting as linked to [[Erik Prince]] via [[Frontier Services Group]]. His Emerdata appointment is the most direct documented connection between CA's successor and the Prince/Blackwater-China private military intelligence ecosystem. ([[Source Wikipedia - SCL Group]], [[Source Ghosh BI 2018-03-21 power players]])
+Hong Kong businessman and Frontier Services Group officer. **Appointed director of [[Emerdata Limited]] in March 2018** alongside [[Rebekah Mercer]], Jennifer Mercer, and [[Alexander Nix]] -- the direct successor entity to [[Cambridge Analytica]]. Ko is described in public reporting as linked to [[Erik Prince]] via [[Frontier Services Group]]. His Emerdata appointment is the most direct documented connection between CA's successor and the Prince/Blackwater-China private military intelligence ecosystem. ([[Source Wikipedia - SCL Group]], [[Source Ghosh BI 2018-03-21 power players]])
 
 ## Connections
 

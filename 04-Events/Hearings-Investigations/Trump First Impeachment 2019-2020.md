@@ -11,13 +11,13 @@ aliases: ["First Trump impeachment", "Ukraine impeachment", "Trump impeachment 2
 
 # Trump First Impeachment (2019-2020)
 
-The impeachment of [[Donald Trump]] by the US House of Representatives on December 18, 2019 on two articles relating to the Ukraine matter â€” pressuring President Volodymyr Zelensky to announce investigations into Joe Biden and the 2016 election in exchange for release of congressionally-appropriated military aid and a White House meeting. Trump was acquitted by the US Senate on February 5, 2020. Senator [[Mitt Romney]] (R-UT) voted to convict on Article I, becoming the first US Senator to vote to convict a President of his own party in an impeachment trial.
+The impeachment of [[Donald Trump]] by the US House of Representatives on December 18, 2019 on two articles relating to the Ukraine matter -- pressuring President Volodymyr Zelensky to announce investigations into Joe Biden and the 2016 election in exchange for release of congressionally-appropriated military aid and a White House meeting. Trump was acquitted by the US Senate on February 5, 2020. Senator [[Mitt Romney]] (R-UT) voted to convict on Article I, becoming the first US Senator to vote to convict a President of his own party in an impeachment trial.
 
 ## Articles of impeachment
 
-**Article I â€” Abuse of Power**: that Trump corruptly solicited the Government of Ukraine to interfere in the 2020 presidential election by pressuring the announcement of investigations beneficial to Trump's political prospects, conditioning official acts (release of military aid; White House meeting) on those announcements.
+**Article I -- Abuse of Power**: that Trump corruptly solicited the Government of Ukraine to interfere in the 2020 presidential election by pressuring the announcement of investigations beneficial to Trump's political prospects, conditioning official acts (release of military aid; White House meeting) on those announcements.
 
-**Article II â€” Obstruction of Congress**: that Trump directed defiance of subpoenas and refused to allow administration officials to comply with the House impeachment inquiry.
+**Article II -- Obstruction of Congress**: that Trump directed defiance of subpoenas and refused to allow administration officials to comply with the House impeachment inquiry.
 
 ## Timeline
 
@@ -45,7 +45,7 @@ The impeachment of [[Donald Trump]] by the US House of Representatives on Decemb
 
 ### Key testimony (Tier 1)
 - **Marie Yovanovitch** (US Ambassador to Ukraine, removed): testified to the smear campaign against her
-- **Bill Taylor** (ChargÃ© d'Affaires Ukraine): testified to the linkage between aid and announcements
+- **Bill Taylor** (Chargé d'Affaires Ukraine): testified to the linkage between aid and announcements
 - **Gordon Sondland** (US Ambassador to EU): testified "Was there a quid pro quo? With regard to the requested White House call and White House meeting, the answer is yes."
 - **Fiona Hill** (former NSC Russia/Europe director): testified to the irregular channel
 - **Alexander Vindman** (NSC Ukraine director, on Trump-Zelensky call): testified to his immediate concerns
@@ -80,15 +80,15 @@ Acquittal margins:
 
 ## Connections
 
-- [[Donald Trump]] â€” impeached; acquitted
-- [[Rudy Giuliani]] â€” operative in Ukraine track
-- [[Mick Mulvaney]] â€” chief of staff; conduit
-- [[John Bolton]] â€” NSA who later published account
-- [[Volodymyr Zelensky]] â€” counterparty
-- [[Mitt Romney]] â€” only Republican Senator to vote guilty on any article
-- [[Marie Yovanovitch]] Â· [[Bill Taylor]] Â· [[Gordon Sondland]] Â· [[Fiona Hill]] Â· [[Alexander Vindman]] â€” key witnesses
-- [[Mueller Investigation]] â€” predecessor investigation
-- [[Trump Second Impeachment 2021]] â€” second impeachment
+- [[Donald Trump]] -- impeached; acquitted
+- [[Rudy Giuliani]] -- operative in Ukraine track
+- [[Mick Mulvaney]] -- chief of staff; conduit
+- [[John Bolton]] -- NSA who later published account
+- [[Volodymyr Zelensky]] -- counterparty
+- [[Mitt Romney]] -- only Republican Senator to vote guilty on any article
+- [[Marie Yovanovitch]] · [[Bill Taylor]] · [[Gordon Sondland]] · [[Fiona Hill]] · [[Alexander Vindman]] -- key witnesses
+- [[Mueller Investigation]] -- predecessor investigation
+- [[Trump Second Impeachment 2021]] -- second impeachment
 
 ## Sources
 

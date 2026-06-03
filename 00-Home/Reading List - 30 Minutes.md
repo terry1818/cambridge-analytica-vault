@@ -17,7 +17,7 @@ Start with the [[Vault MOC]] to see the shape of the graph and the featured-node
 
 ## Minute 5-12: Network architecture
 
-Read [[Lens - 2024-2026 Power Map]] (13.7KB) â€” this is the principal current-state analytical frame. It documents the present-day three-wing coalition (patron / theocratic / tech-surveillance) that the rest of the vault is built to analyse.
+Read [[Lens - 2024-2026 Power Map]] (13.7KB) -- this is the principal current-state analytical frame. It documents the present-day three-wing coalition (patron / theocratic / tech-surveillance) that the rest of the vault is built to analyse.
 
 ## Minute 12-18: Core CA story
 
@@ -25,7 +25,7 @@ Skim [[Cambridge Analytica]] (the entity node, 11.9KB) for the operational summa
 
 ## Minute 18-22: Hypothesis-tier analysis
 
-Read [[Hypothesis - Three-wing coalition]] (12.9KB) and [[Hypothesis - Federal database supersedes CA model]] â€” these are the load-bearing analytical claims the rest of the vault is structured to test.
+Read [[Hypothesis - Three-wing coalition]] (12.9KB) and [[Hypothesis - Federal database supersedes CA model]] -- these are the load-bearing analytical claims the rest of the vault is structured to test.
 
 ## Minute 22-28: Operational continuity from CA to present
 

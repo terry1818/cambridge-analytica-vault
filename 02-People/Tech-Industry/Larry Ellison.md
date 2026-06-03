@@ -48,14 +48,14 @@ Ellison's Trump alignment is **less ideologically motivated** than younger Tech 
 
 ## The Oracle / TikTok / ByteDance thread
 
-A defining **multi-year Big Tech â†” Trump policy negotiation**:
+A defining **multi-year Big Tech ↔ Trump policy negotiation**:
 
-- 2020 â€” Trump first term ordered TikTok divestment from ByteDance
+- 2020 -- Trump first term ordered TikTok divestment from ByteDance
 - Oracle emerged as US-side acquirer candidate
 - Trump first-term deal never closed; Biden administration largely shelved the issue
-- 2022 â€” Oracle began hosting ALL US TikTok user data via "Project Texas" in Oracle Cloud Texas data centers
-- 2024 â€” TikTok divestment legislation passed (PAFACA)
-- 2025+ â€” Trump 2.0 evolved position: complex deal involving Oracle as US partner
+- 2022 -- Oracle began hosting ALL US TikTok user data via "Project Texas" in Oracle Cloud Texas data centers
+- 2024 -- TikTok divestment legislation passed (PAFACA)
+- 2025+ -- Trump 2.0 evolved position: complex deal involving Oracle as US partner
 - The Oracle-TikTok arrangement is the **template for "national security through US-partner control"** of Chinese-owned platforms
 
 ## Stargate role
@@ -87,7 +87,7 @@ The Oracle-OpenAI-SoftBank-MGX (UAE) **Stargate consortium** represents the larg
 
 ## Why Ellison matters for this vault
 
-Ellison illustrates the **older, more establishment Tech Right** â€” distinct from the younger Thiel-Musk-Sacks-Andreessen network but coordinating closely with it on operational matters. The Oracle-TikTok-Stargate complex represents the **operational realization of Tech-Right + Trump 2.0 + Gulf-capital convergence** at major financial scale. **The Paramount Skydance acquisition (via David) extends Ellison-family operational reach into broadcast media** at a scale unprecedented in recent US history.
+Ellison illustrates the **older, more establishment Tech Right** -- distinct from the younger Thiel-Musk-Sacks-Andreessen network but coordinating closely with it on operational matters. The Oracle-TikTok-Stargate complex represents the **operational realization of Tech-Right + Trump 2.0 + Gulf-capital convergence** at major financial scale. **The Paramount Skydance acquisition (via David) extends Ellison-family operational reach into broadcast media** at a scale unprecedented in recent US history.
 
 ## Sources
 

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Russian oligarch; Tsargrad media network founder; sanctioned; conservative-Christian backed
 tags: [person, role/donor-funder, role/operative, topic/info-warfare, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/russia]
@@ -36,7 +36,7 @@ Malofeev has reportedly:
 
 ## Connection to CA-era story
 
-Malofeev represents the **Russian-side analog** to the US-side Religious Right â†” Tech Right â†” Mercer-Thiel infrastructure:
+Malofeev represents the **Russian-side analog** to the US-side Religious Right ↔ Tech Right ↔ Mercer-Thiel infrastructure:
 
 - Russian Orthodox conservative funding network
 - Media infrastructure (Tsargrad)

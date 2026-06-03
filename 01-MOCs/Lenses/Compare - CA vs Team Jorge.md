@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Direct lineage comparison - Tal Hanan appeared in leaked CA emails before founding/expanding Team Jorge
 tags: [moc, lens, topic/cambridge-analytica, topic/info-warfare]
@@ -20,9 +20,9 @@ type: moc
 ## What separates them
 
 - **CA** had a research-derived methodology (Cambridge Psychometrics Centre lineage) and tried to claim quasi-academic legitimacy
-- **Team Jorge** is openly mercenary â€” sells AIMS (Advanced Impact Media Solutions) as a manipulation platform without scientific pretense
+- **Team Jorge** is openly mercenary -- sells AIMS (Advanced Impact Media Solutions) as a manipulation platform without scientific pretense
 - **CA** harvested real-user data; **Team Jorge** operates large networks of fake personas
-- **CA** was destroyed by exposure; **Team Jorge** continues despite the 2023 Forbidden Stories exposÃ©
+- **CA** was destroyed by exposure; **Team Jorge** continues despite the 2023 Forbidden Stories exposé
 
 ## The bridge: post-CA personnel migration
 
@@ -30,7 +30,7 @@ Per [[Source Forbidden Stories 2023 Team Jorge]] reporting, multiple ex-Israeli-
 
 ## Implications
 
-If the same human operators move from CA â†’ Team Jorge, the **post-CA "afterlife" includes private-intel firms outside the obvious Emerdata/Auspex/Data Propria successor list**. Investigation has to follow personnel, not just corporate filings.
+If the same human operators move from CA → Team Jorge, the **post-CA "afterlife" includes private-intel firms outside the obvious Emerdata/Auspex/Data Propria successor list**. Investigation has to follow personnel, not just corporate filings.
 
 ## Sources
 

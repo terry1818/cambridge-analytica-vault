@@ -17,20 +17,20 @@ Soviet/Russian military-psychological doctrine of **shaping the adversary's info
 
 The reflexive control method:
 
-1. **Model the adversary's decision-making framework** â€” their values, biases, information sources, decision processes
+1. **Model the adversary's decision-making framework** -- their values, biases, information sources, decision processes
 2. **Inject targeted information** designed to fit that framework while leading to desired conclusions
 3. **The adversary "freely" chooses** the path you wanted because the information environment has been shaped
 
-The key innovation vs. traditional propaganda: reflexive control doesn't try to force or persuade â€” it **uses the adversary's own decision-making machinery** to produce the desired result.
+The key innovation vs. traditional propaganda: reflexive control doesn't try to force or persuade -- it **uses the adversary's own decision-making machinery** to produce the desired result.
 
 ## Modern Russian operational use
 
 Reflexive control is widely cited in analysis of contemporary Russian operations including:
 
-- **2014 Ukraine** â€” Russian information operations during Crimea annexation
-- **2016 US election** â€” IRA operations and broader influence campaign
-- **2022+ Ukraine war** â€” extensive reflexive-control operations targeting Western publics and decision-makers
-- **[[Doppelganger]] operation** (2022+) â€” clones Western media to shape Western information environment
+- **2014 Ukraine** -- Russian information operations during Crimea annexation
+- **2016 US election** -- IRA operations and broader influence campaign
+- **2022+ Ukraine war** -- extensive reflexive-control operations targeting Western publics and decision-makers
+- **[[Doppelganger]] operation** (2022+) -- clones Western media to shape Western information environment
 
 ## Relevance to CA
 
@@ -44,10 +44,10 @@ The civilian-commercial form of reflexive control is what CA marketed. The CA sc
 
 ## Western analog frameworks
 
-- **Behavioral economics** (Kahneman, Thaler) â€” academic basis for "nudging"
-- **Behavioral conflict** ([[SCL Group]] doctrine) â€” direct CA-era ancestor
-- **Cognitive warfare** ([[Cognitive Warfare]] / NATO ACT 2020-2021) â€” broader framework
-- **PSYOPS** â€” traditional military psychological operations
+- **Behavioral economics** (Kahneman, Thaler) -- academic basis for "nudging"
+- **Behavioral conflict** ([[SCL Group]] doctrine) -- direct CA-era ancestor
+- **Cognitive warfare** ([[Cognitive Warfare]] / NATO ACT 2020-2021) -- broader framework
+- **PSYOPS** -- traditional military psychological operations
 
 These frameworks differ in origin but converge on similar operational methods.
 
@@ -55,7 +55,7 @@ These frameworks differ in origin but converge on similar operational methods.
 
 - [[Cognitive Warfare]]
 - [[Behavioral Conflict]]
-- [[Three Warfares]] (PLA Chinese doctrine â€” partial parallel)
+- [[Three Warfares]] (PLA Chinese doctrine -- partial parallel)
 - [[Gerasimov Doctrine]]
 - [[Persona Management]]
 

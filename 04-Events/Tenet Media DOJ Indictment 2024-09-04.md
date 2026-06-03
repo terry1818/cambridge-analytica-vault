@@ -68,7 +68,7 @@ Per indictment, the Russian principals provided **content direction and topic-st
 - [[Dave Rubin]] - paid influencer
 - [[Lauren Southern]] - paid influencer
 - [[RT (Russia Today)]] - state-media parent
-- [[DoppelgÃ¢Ë†Å¡Ã‚Â§nger]] - parallel Russian influence-operations apparatus
+- [[Doppelg√§nger]] - parallel Russian influence-operations apparatus
 - [[Lens - 2024-2026 Power Map]] - foreign-influence layer
 - [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]]
 

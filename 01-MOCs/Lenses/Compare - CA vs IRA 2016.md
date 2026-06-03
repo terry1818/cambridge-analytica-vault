@@ -16,7 +16,7 @@ Two influence operations targeting the **same election** with **fundamentally di
 | **Country of operation** | UK (with US arm) | Russia (St. Petersburg) |
 | **Funding** | Mercer family ($15M+) + Trump campaign + MA1 PAC | Russian state via Yevgeny Prigozhin |
 | **Personnel** | ~100 staff | ~80+ "Translator" department US-focused |
-| **Approach** | **Microtargeting** real users with tailored content | **Persona networks** â€” fake accounts impersonating Americans |
+| **Approach** | **Microtargeting** real users with tailored content | **Persona networks** -- fake accounts impersonating Americans |
 | **Audience access** | 87M Facebook profiles harvested + targeted political ads | 126M Facebook users reached via fake-persona content |
 | **Content creation** | Mostly human-produced; targeted via psychographic clusters | Mostly human-produced by IRA staff impersonating Americans |
 | **Ad spending** | Tens of millions (CA + Trump campaign + MA1 PAC combined) | $100K+ on Facebook ads (publicly known); plus organic reach |

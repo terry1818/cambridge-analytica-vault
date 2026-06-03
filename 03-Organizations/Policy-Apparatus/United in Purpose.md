@@ -17,7 +17,7 @@ status: active
 
 ## Summary
 
-Christian-right voter-data organization founded ~2008 by **[[Bill Dallas]]** (convicted embezzler turned evangelical operative Ã¢â‚¬â€ served 2.5 years of a 5-year sentence for embezzlement at San Quentin in the 1990s) with collaboration from evangelical pollster **[[George Barna]]**. **Collected voter data from conservative churches** and used it to mobilize "pro-family, limited-government" voters in swing states. **Organized the closed-door June 2016 Times Square hotel conclave** at which evangelical leaders publicly swung their support behind candidate Donald Trump. Later integrated with **[[COFI]]** and **[[Gloo]]** to build the "Insights" data platform Ã¢â‚¬â€ described as **"Cambridge Analytica on steroids"** Ã¢â‚¬â€ targeting people with mental illness, grief, addiction for recruitment to evangelical churches and far-right political mobilization. **The operational fusion point of the tech-surveillance wing and the theocratic wing.**
+Christian-right voter-data organization founded ~2008 by **[[Bill Dallas]]** (convicted embezzler turned evangelical operative -- served 2.5 years of a 5-year sentence for embezzlement at San Quentin in the 1990s) with collaboration from evangelical pollster **[[George Barna]]**. **Collected voter data from conservative churches** and used it to mobilize "pro-family, limited-government" voters in swing states. **Organized the closed-door June 2016 Times Square hotel conclave** at which evangelical leaders publicly swung their support behind candidate Donald Trump. Later integrated with **[[COFI]]** and **[[Gloo]]** to build the "Insights" data platform -- described as **"Cambridge Analytica on steroids"** -- targeting people with mental illness, grief, addiction for recruitment to evangelical churches and far-right political mobilization. **The operational fusion point of the tech-surveillance wing and the theocratic wing.**
 
 ## Identity
 
@@ -40,7 +40,7 @@ Christian-right voter-data organization founded ~2008 by **[[Bill Dallas]]** (co
 
 Per [[Source People You May Know 2020]] and [[Source Bucks County Beacon United in Purpose]]:
 
-- Same psychographic targeting Cambridge Analytica used on voters Ã¢â‚¬â€ applied to **church congregants and seekers**
+- Same psychographic targeting Cambridge Analytica used on voters -- applied to **church congregants and seekers**
 - **Targets vulnerable populations:** people experiencing mental illness, grief, addiction, financial distress
 - Recruits them into evangelical congregations
 - **Then mobilizes them politically** through pre-existing church communication channels
@@ -48,14 +48,14 @@ Per [[Source People You May Know 2020]] and [[Source Bucks County Beacon United 
 
 ## Connection to other vault entities
 
-- [[Bill Dallas]] Ã¢â‚¬â€ founder
-- [[George Barna]] Ã¢â‚¬â€ evangelical pollster collaborator
-- [[Gloo]] Ã¢â‚¬â€ church-targeting tech platform partner
-- [[COFI]] Ã¢â‚¬â€ religious-charity partner
-- [[Cambridge Analytica]] Ã¢â‚¬â€ methodological source; per People You May Know documentary, direct collaboration occurred
-- [[Koch network]] Ã¢â‚¬â€ reported commissioner of the COFI-Gloo-CA collaboration
-- [[Steve Bannon]] Ã¢â‚¬â€ attended the June 2016 evangelical conclave UIP organized
-- [[Hypothesis - Three-wing coalition]] Ã¢â‚¬â€ UIP is the operational fusion point of tech-wing methods + theocratic-wing distribution
+- [[Bill Dallas]] -- founder
+- [[George Barna]] -- evangelical pollster collaborator
+- [[Gloo]] -- church-targeting tech platform partner
+- [[COFI]] -- religious-charity partner
+- [[Cambridge Analytica]] -- methodological source; per People You May Know documentary, direct collaboration occurred
+- [[Koch network]] -- reported commissioner of the COFI-Gloo-CA collaboration
+- [[Steve Bannon]] -- attended the June 2016 evangelical conclave UIP organized
+- [[Hypothesis - Three-wing coalition]] -- UIP is the operational fusion point of tech-wing methods + theocratic-wing distribution
 
 ## Why UIP matters specifically
 

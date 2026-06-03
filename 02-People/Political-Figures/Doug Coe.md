@@ -18,12 +18,12 @@ wikipedia_url: https://en.wikipedia.org/wiki/Douglas_Coe
 
 ## Summary
 
-Long-time leader of **[[The Fellowship]]** from 1969 (Abraham Vereide's death) until **his own death in February 2017**. Architected the Fellowship's **"invisibility doctrine"** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â instructed members to avoid public acknowledgment, use their own letterhead in Fellowship business, and **cultivate the appearance of government sponsorship of the National Prayer Breakfast** (its only public event). **Personal spiritual mentor** to dozens of US senators, representatives, governors, and foreign leaders across both parties for ~48 years. Called by Time magazine "the most powerful man in Washington you've never heard of" (2005).
+Long-time leader of **[[The Fellowship]]** from 1969 (Abraham Vereide's death) until **his own death in February 2017**. Architected the Fellowship's **"invisibility doctrine"** â€" instructed members to avoid public acknowledgment, use their own letterhead in Fellowship business, and **cultivate the appearance of government sponsorship of the National Prayer Breakfast** (its only public event). **Personal spiritual mentor** to dozens of US senators, representatives, governors, and foreign leaders across both parties for ~48 years. Called by Time magazine "the most powerful man in Washington you've never heard of" (2005).
 
 ## Key facts
 
 - **Role:** Associate Director then de facto Leader, Fellowship Foundation
-- **Active period:** 1959 (joined) ÃƒÂ¢Ã¢â€šÂ¬" 2017 (death)
+- **Active period:** 1959 (joined) â€" 2017 (death)
 - **Notable for:** Built the most influential under-the-radar evangelical network in US politics
 - **Born:** 1928-10-20, Salem, OR
 - **Died:** 2017-02-21
@@ -33,17 +33,17 @@ Long-time leader of **[[The Fellowship]]** from 1969 (Abraham Vereide's death) u
 - Cultivated **personal relationships with politicians** rather than public advocacy
 - Hosted small prayer groups, retreats at The Cedars
 - Mentored politicians one-on-one over years
-- Frequently invoked **Jesus as model of "leadership" detached from doctrinal Christianity** ÃƒÂ¢Ã¢â€šÂ¬" intentionally vague theology to maximize cross-party reach
+- Frequently invoked **Jesus as model of "leadership" detached from doctrinal Christianity** â€" intentionally vague theology to maximize cross-party reach
 - Avoided printed materials, official membership rolls, formal structure
 
 ## Documented mentorship / relationships
 
-- **Hillary Clinton** ÃƒÂ¢Ã¢â€šÂ¬" attended weekly Capitol Hill prayer meeting led by Coe during her Senate years
-- **[[Tom Coburn]]** ÃƒÂ¢Ã¢â€šÂ¬" Fellowship-affiliated; later [[Convention of States Action]] senior advisor (direct theocratic-to-COS bridge)
-- **[[Jim Inhofe]]** ÃƒÂ¢Ã¢â€šÂ¬" longtime ally; Uganda visits
-- **[[John Ashcroft]]** ÃƒÂ¢Ã¢â€šÂ¬" associate
-- **Mark Hatfield** ÃƒÂ¢Ã¢â€šÂ¬" longtime Senator-ally
-- **Sam Brownback** ÃƒÂ¢Ã¢â€šÂ¬" Senator and Kansas Governor
+- **Hillary Clinton** â€" attended weekly Capitol Hill prayer meeting led by Coe during her Senate years
+- **[[Tom Coburn]]** â€" Fellowship-affiliated; later [[Convention of States Action]] senior advisor (direct theocratic-to-COS bridge)
+- **[[Jim Inhofe]]** â€" longtime ally; Uganda visits
+- **[[John Ashcroft]]** â€" associate
+- **Mark Hatfield** â€" longtime Senator-ally
+- **Sam Brownback** â€" Senator and Kansas Governor
 - Many others across multiple decades
 
 ## International work
@@ -54,7 +54,7 @@ Long-time leader of **[[The Fellowship]]** from 1969 (Abraham Vereide's death) u
 
 ## Why this matters in the 2024-2026 architecture
 
-Coe is the **architect of the theocratic wing's invisible-network model**. The methodology he built ÃƒÂ¢Ã¢â€šÂ¬" relationship cultivation, avoid press, work through power, never disclose affiliations ÃƒÂ¢Ã¢â€šÂ¬" is now visible in:
+Coe is the **architect of the theocratic wing's invisible-network model**. The methodology he built â€" relationship cultivation, avoid press, work through power, never disclose affiliations â€" is now visible in:
 
 - [[Conservative Partnership Institute]] (DeMint) personnel-pipeline operations
 - [[Heritage Foundation]] internal "Sentinel" program
@@ -73,7 +73,7 @@ Coe is the **architect of the theocratic wing's invisible-network model**. The m
 
 ## Operational role at the Fellowship
 
-Doug Coe (1928-2017) succeeded Abraham Vereide as the dominant leader of [[The Fellowship]] from the 1960s onward and continued in that role through his death in 2017. His operational style â€” deliberate public invisibility, prayer-cell network-building at the highest levels of US and foreign government, the pan-ideological premise that political authority comes from God whether or not the political figure is publicly Christian â€” is the operational core of the Fellowship's distinctive position.
+Doug Coe (1928-2017) succeeded Abraham Vereide as the dominant leader of [[The Fellowship]] from the 1960s onward and continued in that role through his death in 2017. His operational style -- deliberate public invisibility, prayer-cell network-building at the highest levels of US and foreign government, the pan-ideological premise that political authority comes from God whether or not the political figure is publicly Christian -- is the operational core of the Fellowship's distinctive position.
 
 The Coe-era Fellowship operated across multiple US administrations and across substantial international government networks. Coe personally maintained relationships with US presidents from Eisenhower onward, with substantial House and Senate membership across multiple decades, and with foreign-government leadership including across Africa, parts of Latin America, and parts of Asia. The relationship-network was the principal operational asset; the formal institutional infrastructure (the Fellowship Foundation as 501(c)(3) plus various affiliated entities) was instrumental to maintaining the relationship-network.
 

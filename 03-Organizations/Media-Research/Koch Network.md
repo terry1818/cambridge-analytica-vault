@@ -20,10 +20,10 @@ US conservative political infrastructure built by industrialist brothers **Charl
 
 The Koch network operates through multiple visible and dark-money entities:
 
-- **Americans for Prosperity (AFP)** â€” flagship advocacy organization
-- **Stand Together** â€” newer integrated branding (post-2019)
-- **Cato Institute** â€” libertarian think tank
-- **Mercatus Center** â€” economics policy research at George Mason University
+- **Americans for Prosperity (AFP)** -- flagship advocacy organization
+- **Stand Together** -- newer integrated branding (post-2019)
+- **Cato Institute** -- libertarian think tank
+- **Mercatus Center** -- economics policy research at George Mason University
 - **Multiple state-level affiliates and donor networks**
 - **Various 501(c)(4) and 501(c)(3) entities**
 
@@ -34,7 +34,7 @@ The Koch network has been **distinctively libertarian** rather than traditional 
 - Free market economics emphasis
 - Skeptical of trade restrictions
 - Pro-immigration historically
-- **Skeptical of Trump's populist nationalism** â€” initially refused to endorse Trump in 2016
+- **Skeptical of Trump's populist nationalism** -- initially refused to endorse Trump in 2016
 - Opposed Trump's trade wars and tariffs
 - Opposed Trump's immigration restrictions
 
@@ -62,7 +62,7 @@ The Koch-Trump relationship is **structurally different** from Mercer-Trump or T
 
 The Koch network is **structurally important** because it represents the **older libertarian conservative donor model** that the **newer populist-nationalist networks (Mercer, Thiel) have substantially displaced** in Trump-era Republican politics.
 
-The Koch network's reduced influence relative to Mercer-Thiel-DeVos in the Trump 2.0 era illustrates how **right-wing donor politics has transformed** â€” from Koch libertarianism to Mercer-Thiel populist nationalism with Tech Right alignment.
+The Koch network's reduced influence relative to Mercer-Thiel-DeVos in the Trump 2.0 era illustrates how **right-wing donor politics has transformed** -- from Koch libertarianism to Mercer-Thiel populist nationalism with Tech Right alignment.
 
 ## Connections
 
@@ -73,7 +73,7 @@ The Koch network's reduced influence relative to Mercer-Thiel-DeVos in the Trump
 ## Sources
 
 - Multiple Koch network journalism over decades
-- *Dark Money* by Jane Mayer (2016) â€” foundational Koch network history
+- *Dark Money* by Jane Mayer (2016) -- foundational Koch network history
 - AFP / Stand Together public records
 
 

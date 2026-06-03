@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Blackwater successor PMC; recently won ICE Omniplex contract to hunt immigrants; arms-length from Erik Prince per Constellis statements
 tags: [org, org/private-military, org/ice-contractor, era/2014-2026, jurisdiction/us]
@@ -17,11 +17,11 @@ status: active
 
 ## Summary
 
-Direct corporate-lineage descendant of **Blackwater** (founded 1997 by Erik Prince Ã¢â€ â€™ Academi 2011 Ã¢â€ â€™ Constellis 2014 via merger). **Erik Prince resigned 2009**; Constellis publicly maintains it has no relationship with him. **2026: Constellis's Omniplex subsidiary won an ICE contract to hunt immigrants nationwide** per Intercept reporting. **The Blackwater-Academi-Constellis lineage is the most operationally consequential PMC in US-government contracting**.
+Direct corporate-lineage descendant of **Blackwater** (founded 1997 by Erik Prince -- Academi 2011 -- Constellis 2014 via merger). **Erik Prince resigned 2009**; Constellis publicly maintains it has no relationship with him. **2026: Constellis's Omniplex subsidiary won an ICE contract to hunt immigrants nationwide** per Intercept reporting. **The Blackwater-Academi-Constellis lineage is the most operationally consequential PMC in US-government contracting**.
 
 ## Identity
 
-- **Founded:** Blackwater 1997 Ã¢â€ â€™ Academi 2011 Ã¢â€ â€™ Constellis 2014
+- **Founded:** Blackwater 1997 -- Academi 2011 -- Constellis 2014
 - **HQ:** Reston, VA
 - **Current ownership:** Multiple private-equity holders
 - **Notable products:** Omniplex (subsidiary; recently ICE contract)

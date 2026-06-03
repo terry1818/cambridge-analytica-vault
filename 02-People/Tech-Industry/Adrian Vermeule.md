@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-American legal scholar; **Ralph S. Tyler, Jr. Professor of Constitutional Law at Harvard Law School**. Prominent figure in the **Catholic integralist movement** â€” advocating for the integration of Catholic moral teaching into political and legal institutions. Author of **"Common Good Constitutionalism"** (Polity, 2022), proposing an alternative to both originalism and living constitutionalism rooted in Catholic political theory. **Converted to Catholicism in 2016.** Ideologically aligned with [[Patrick Deneen]] post-liberalism.
+American legal scholar; **Ralph S. Tyler, Jr. Professor of Constitutional Law at Harvard Law School**. Prominent figure in the **Catholic integralist movement** -- advocating for the integration of Catholic moral teaching into political and legal institutions. Author of **"Common Good Constitutionalism"** (Polity, 2022), proposing an alternative to both originalism and living constitutionalism rooted in Catholic political theory. **Converted to Catholicism in 2016.** Ideologically aligned with [[Patrick Deneen]] post-liberalism.
 
 ## Common Good Constitutionalism
 

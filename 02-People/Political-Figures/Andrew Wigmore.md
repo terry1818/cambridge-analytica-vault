@@ -15,25 +15,25 @@ status: active
 
 ## Summary
 
-British businessman; co-founder of [[Leave.EU]] alongside [[Arron Banks]]. Author of **The Bad Boys of Brexit** (2016) â€” the campaign memoir of Leave.EU. Former Honorary Consul of Belize in the UK (resigned 2017 after Belizean government repudiated his "diplomatic" claims regarding Russia meetings).
+British businessman; co-founder of [[Leave.EU]] alongside [[Arron Banks]]. Author of **The Bad Boys of Brexit** (2016) -- the campaign memoir of Leave.EU. Former Honorary Consul of Belize in the UK (resigned 2017 after Belizean government repudiated his "diplomatic" claims regarding Russia meetings).
 
 ## Russian Embassy contacts
 
-**Multiple documented contacts with Russian Embassy officials during the Brexit campaign period** â€” including:
+**Multiple documented contacts with Russian Embassy officials during the Brexit campaign period** -- including:
 
-- **2015-09-06** â€” Wigmore arranged a meeting between Banks and **Alexander Yakovenko**, Russian Ambassador to the UK, at the Russian Embassy
-- **2016-08** â€” second meeting at the Russian Embassy with Yakovenko
-- **2017-11** â€” third meeting at the Russian Embassy
+- **2015-09-06** -- Wigmore arranged a meeting between Banks and **Alexander Yakovenko**, Russian Ambassador to the UK, at the Russian Embassy
+- **2016-08** -- second meeting at the Russian Embassy with Yakovenko
+- **2017-11** -- third meeting at the Russian Embassy
 - Various social engagements
 
 Per multiple journalistic investigations and the UK National Crime Agency probe, Wigmore acted as the contact-facilitator for these meetings. Wigmore initially denied the meetings, then minimized them, then in some cases acknowledged them with revised explanations.
 
-The Russian Embassy reportedly offered Banks **business opportunities including discounted Russian gold-mining concessions** â€” Banks ultimately did not pursue.
+The Russian Embassy reportedly offered Banks **business opportunities including discounted Russian gold-mining concessions** -- Banks ultimately did not pursue.
 
 ## NCA investigation
 
-- **2018-2019** â€” UK National Crime Agency investigated Wigmore and Banks over the source of Brexit funding
-- **2019-09** â€” NCA closed investigation finding no offenses had been committed
+- **2018-2019** -- UK National Crime Agency investigated Wigmore and Banks over the source of Brexit funding
+- **2019-09** -- NCA closed investigation finding no offenses had been committed
 - The NCA closure has been criticized by Cadwalladr and others as inadequate
 - Subject of [[Cadwalladr v Banks 2022]] libel case (Banks sued Cadwalladr; she largely won on public interest defense)
 

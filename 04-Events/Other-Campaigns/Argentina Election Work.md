@@ -34,7 +34,7 @@ Several reasons Argentine CA operations are less well-documented:
 
 ## Argentina in the AI era
 
-Argentinas 2023 presidential election (Javier Milei) was widely reported as featuring **significant AI-generated political imagery** â€” both pro-Milei and anti-Milei content. The continuity from CA-era operations to the 2023 AI-era information environment in Argentina is plausible but undocumented.
+Argentinas 2023 presidential election (Javier Milei) was widely reported as featuring **significant AI-generated political imagery** -- both pro-Milei and anti-Milei content. The continuity from CA-era operations to the 2023 AI-era information environment in Argentina is plausible but undocumented.
 
 ## Open questions
 

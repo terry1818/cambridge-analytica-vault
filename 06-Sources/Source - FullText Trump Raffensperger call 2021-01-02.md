@@ -44,7 +44,7 @@ aliases: ["FullText Trump Raffensperger call 2021-01-02", "Source: FullText Trum
 
 ### Repeated naming of [[Ruby Freeman]]:
 
-Trump named Ruby Freeman 18 times during the call as a "professional vote scammer" and "hustler" â€” referring to the false claim about State Farm Arena ballots.
+Trump named Ruby Freeman 18 times during the call as a "professional vote scammer" and "hustler" -- referring to the false claim about State Farm Arena ballots.
 
 ### Raffensperger's calm response (representative):
 
@@ -52,7 +52,7 @@ Trump named Ruby Freeman 18 times during the call as a "professional vote scamme
 
 ### Germany's evidence-based pushback:
 
-> GERMANY: "Mr. President, the problem you have with social media, they â€” people can say anything... The challenge that you have is the data you have is wrong."
+> GERMANY: "Mr. President, the problem you have with social media, they -- people can say anything... The challenge that you have is the data you have is wrong."
 
 ## How the call became evidence
 
@@ -60,10 +60,10 @@ The recording was made by Raffensperger's office. Trump was speaking on a record
 
 The *Washington Post* obtained the recording from a source on the Georgia side and published the next day, January 3, 2021. The recording became immediate Tier 1 documentary evidence in:
 
-- [[Trump Second Impeachment 2021]] â€” central evidence
-- [[January 6 Select Committee 2021-2023]] â€” Hearing 4 (June 21, 2022) featured this call
-- [[US v Trump DC Federal Election Interference Case]] â€” Smith indictment cited the call
-- [[Georgia v Trump RICO 2023]] â€” the call is a direct predicate act in the Georgia indictment
+- [[Trump Second Impeachment 2021]] -- central evidence
+- [[January 6 Select Committee 2021-2023]] -- Hearing 4 (June 21, 2022) featured this call
+- [[US v Trump DC Federal Election Interference Case]] -- Smith indictment cited the call
+- [[Georgia v Trump RICO 2023]] -- the call is a direct predicate act in the Georgia indictment
 
 ## Trump's denials
 
@@ -75,12 +75,12 @@ These framings do not survive comparison with the recorded text.
 
 ## Connections in this vault
 
-- [[Donald Trump]] â€” caller
-- [[Brad Raffensperger]] â€” recipient
-- [[Mark Meadows]] Â· Cleta Mitchell Â· Ryan Germany â€” call participants
-- [[Ruby Freeman]] Â· [[Shaye Moss]] â€” election workers Trump named
-- [[Georgia v Trump RICO 2023]] â€” predicate act
-- [[US v Trump DC Federal Election Interference Case]] â€” evidence
-- [[Trump Second Impeachment 2021]] â€” central evidence
-- [[January 6 Select Committee 2021-2023]] â€” Hearing 4
+- [[Donald Trump]] -- caller
+- [[Brad Raffensperger]] -- recipient
+- [[Mark Meadows]] · Cleta Mitchell · Ryan Germany -- call participants
+- [[Ruby Freeman]] · [[Shaye Moss]] -- election workers Trump named
+- [[Georgia v Trump RICO 2023]] -- predicate act
+- [[US v Trump DC Federal Election Interference Case]] -- evidence
+- [[Trump Second Impeachment 2021]] -- central evidence
+- [[January 6 Select Committee 2021-2023]] -- Hearing 4
 - [[Stop the Steal]]

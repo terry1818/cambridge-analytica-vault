@@ -52,15 +52,15 @@ American evangelical clergyman, former professional basketball player. **Founded
 - **Operational arm of the theocratic wing inside government**
 - Parallel to [[The Fellowship]] but more programmatic and public
 - Complement to [[Conservative Partnership Institute]] (which targets personnel) by targeting **theological grounding of already-placed personnel**
-- Pipeline: Project 2025 places personnel Ã¢â€ â€™ Drollinger gives them theological reinforcement
+- Pipeline: Project 2025 places personnel -- Drollinger gives them theological reinforcement
 
 ## Related entities
 
-- [[Capitol Ministries]] Ã¢â‚¬" his org
-- [[The Fellowship]] Ã¢â‚¬" parallel; older
-- [[Mike Pence]] Ã¢â‚¬" longtime attendee
-- [[Project 2025]] Ã¢â‚¬" ideologically aligned
-- [[Hypothesis - Three-wing coalition]] Ã¢â‚¬" Drollinger is theocratic-wing operations
+- [[Capitol Ministries]] -" his org
+- [[The Fellowship]] -" parallel; older
+- [[Mike Pence]] -" longtime attendee
+- [[Project 2025]] -" ideologically aligned
+- [[Hypothesis - Three-wing coalition]] -" Drollinger is theocratic-wing operations
 
 ## Sources
 

@@ -22,10 +22,10 @@ US cryptocurrency exchange founded in **2012** by **Brian Armstrong** and Fred E
 
 Coinbase + the broader crypto industry collectively became the **single largest industry political-spending sector in 2024**:
 
-- **[[Fairshake PAC]]** â€” the principal crypto industry political-spending vehicle
+- **[[Fairshake PAC]]** -- the principal crypto industry political-spending vehicle
 - Coinbase contributed **$75 million+** to Fairshake and related entities
 - Other major crypto industry donors: a16z, Ripple, others
-- Total crypto industry political spending 2024: ~$245M+ â€” largest of any single industry
+- Total crypto industry political spending 2024: ~$245M+ -- largest of any single industry
 - Targeted defeat of "anti-crypto" Senators (notably Sherrod Brown in Ohio, defeated by Bernie Moreno)
 - Targeted "pro-crypto" candidates regardless of party
 
@@ -34,17 +34,17 @@ Coinbase + the broader crypto industry collectively became the **single largest 
 - Brian Armstrong: $1M+ donations to Trump 2024
 - Coinbase: $1M+ to Trump inaugural fund
 - Coinbase senior figures: multiple meetings with Trump transition team
-- 2025 â€” [[David Sacks]] appointed AI/Crypto Czar (Coinbase-aligned position)
-- 2025 â€” Trump 2.0 SEC dropped enforcement actions against Coinbase and others
-- 2025+ â€” crypto-favorable regulatory environment established
+- 2025 -- [[David Sacks]] appointed AI/Crypto Czar (Coinbase-aligned position)
+- 2025 -- Trump 2.0 SEC dropped enforcement actions against Coinbase and others
+- 2025+ -- crypto-favorable regulatory environment established
 
 ## SEC battle history
 
 Pre-Trump-2.0 context: Coinbase was in **prolonged regulatory battle** with the SEC under Chair Gary Gensler:
 
-- 2023 â€” SEC sued Coinbase for operating as unregistered securities exchange
-- 2024 â€” Coinbase counterargued aggressively; case proceedings
-- 2025 â€” Trump 2.0 SEC withdrew the lawsuit (consistent with broader crypto deregulation)
+- 2023 -- SEC sued Coinbase for operating as unregistered securities exchange
+- 2024 -- Coinbase counterargued aggressively; case proceedings
+- 2025 -- Trump 2.0 SEC withdrew the lawsuit (consistent with broader crypto deregulation)
 
 ## Why Coinbase matters for this vault
 

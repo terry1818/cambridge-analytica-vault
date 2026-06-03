@@ -7,7 +7,7 @@ type: moc
 
 # Compare: Cambridge Analytica vs. HBGary Federal
 
-[[HBGary Federal]] was the **conceptual ancestor of Cambridge Analytica** â€” the same toolkit (persona management, behavioral profiling, targeted influence operations) marketed to the same kinds of clients (corporate, military, intelligence-adjacent) **3-5 years earlier**.
+[[HBGary Federal]] was the **conceptual ancestor of Cambridge Analytica** -- the same toolkit (persona management, behavioral profiling, targeted influence operations) marketed to the same kinds of clients (corporate, military, intelligence-adjacent) **3-5 years earlier**.
 
 ## Side-by-side
 
@@ -26,9 +26,9 @@ type: moc
 
 ## What HBGary Federal pitched (revealed in 2011 leaks)
 
-- **Bank of America** â€” campaign to discredit [[WikiLeaks]] supporters, use of social-media personas to inject disinformation
-- **US Chamber of Commerce** â€” campaign against labor unions and progressive groups
-- **US Military / Centcom** â€” "Operation Earnest Voice" persona-management for Middle East information operations
+- **Bank of America** -- campaign to discredit [[WikiLeaks]] supporters, use of social-media personas to inject disinformation
+- **US Chamber of Commerce** -- campaign against labor unions and progressive groups
+- **US Military / Centcom** -- "Operation Earnest Voice" persona-management for Middle East information operations
 
 ## What CA pitched (revealed 2015-2018)
 
@@ -39,18 +39,18 @@ type: moc
 
 ## What's different
 
-- **Scale** â€” CA orders of magnitude larger
-- **Data architecture** â€” HBGary Federal worked from open-source intel; CA built proprietary psychographic models
-- **Public impact** â€” HBGary Federal scandal was tech-press; CA scandal was global political
-- **Successor continuity** â€” HBGary Federal's afterlife is harder to trace; CA's is well-documented
+- **Scale** -- CA orders of magnitude larger
+- **Data architecture** -- HBGary Federal worked from open-source intel; CA built proprietary psychographic models
+- **Public impact** -- HBGary Federal scandal was tech-press; CA scandal was global political
+- **Successor continuity** -- HBGary Federal's afterlife is harder to trace; CA's is well-documented
 
 ## What's the same
 
-- **Same toolkit philosophy** â€” model audiences, deliver targeted influence content
-- **Same client mix** â€” government, corporate, political
-- **Same plausible-deniability structure** â€” multiple entities, government work alongside commercial
-- **Same exposure mechanism** â€” leak (HBGary) and whistleblower (CA)
-- **Lessons not learned** â€” the 2011 HBGary scandal did not prevent CA
+- **Same toolkit philosophy** -- model audiences, deliver targeted influence content
+- **Same client mix** -- government, corporate, political
+- **Same plausible-deniability structure** -- multiple entities, government work alongside commercial
+- **Same exposure mechanism** -- leak (HBGary) and whistleblower (CA)
+- **Lessons not learned** -- the 2011 HBGary scandal did not prevent CA
 
 ## Implication
 

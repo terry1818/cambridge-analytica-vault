@@ -13,19 +13,19 @@ aliases: ["The Mega Group", "Mega"]
 
 A private association of Jewish-American billionaire businessmen and philanthropists formed circa 1991, reportedly at the initiative of [[Charles Bronfman]] and [[Leslie Wexner]]. The group met semi-annually with no publicly disclosed agenda. The existence and membership of the group are Tier 1 documented; the operational character beyond philanthropic coordination is contested (Tier 2 per Webb synthesis; mainstream press treats it as a private philanthropic network).
 
-The group is structurally relevant to the Epstein arc because (a) [[Leslie Wexner]] â€” Epstein's primary documented funder â€” was a founding member, (b) the group's formation in 1991 coincided exactly with [[Robert Maxwell]]'s death and [[Ghislaine Maxwell]]'s relocation to NYC to begin partnership with Epstein, and (c) the group's documented overlap with US-Israel philanthropic and political-influence infrastructure overlaps the alleged intelligence-service hypothesis space.
+The group is structurally relevant to the Epstein arc because (a) [[Leslie Wexner]] -- Epstein's primary documented funder -- was a founding member, (b) the group's formation in 1991 coincided exactly with [[Robert Maxwell]]'s death and [[Ghislaine Maxwell]]'s relocation to NYC to begin partnership with Epstein, and (c) the group's documented overlap with US-Israel philanthropic and political-influence infrastructure overlaps the alleged intelligence-service hypothesis space.
 
 ## Documented members
 
-- [[Charles Bronfman]] â€” Seagram heir
-- [[Edgar Bronfman Sr.]] â€” Seagram CEO; World Jewish Congress president
-- [[Leslie Wexner]] â€” L Brands founder; Epstein primary funder
-- [[Michael Steinhardt]] â€” hedge fund founder
-- [[Max Fisher]] â€” Detroit financier
-- [[Lester Crown]] â€” General Dynamics
-- [[Laurence Tisch]] â€” Loews / CBS
-- [[Stephen Schwartz]] â€” Blackstone (later joined per some reporting)
-- [[Ronald Lauder]] â€” EstÃ©e Lauder; later WJC president
+- [[Charles Bronfman]] -- Seagram heir
+- [[Edgar Bronfman Sr.]] -- Seagram CEO; World Jewish Congress president
+- [[Leslie Wexner]] -- L Brands founder; Epstein primary funder
+- [[Michael Steinhardt]] -- hedge fund founder
+- [[Max Fisher]] -- Detroit financier
+- [[Lester Crown]] -- General Dynamics
+- [[Laurence Tisch]] -- Loews / CBS
+- [[Stephen Schwartz]] -- Blackstone (later joined per some reporting)
+- [[Ronald Lauder]] -- Estée Lauder; later WJC president
 
 ## Key facts
 
@@ -40,7 +40,7 @@ The group is structurally relevant to the Epstein arc because (a) [[Leslie Wexne
 The Mega Group is a candidate connective node between:
 - The post-WWII [[Meyer Lansky]] / organized-crime / blackmail-architecture lineage (via the Bronfman family)
 - The US-Israel philanthropic and intelligence-adjacent infrastructure
-- The [[Leslie Wexner]] â†’ [[Jeffrey Epstein]] documented financial pipeline
+- The [[Leslie Wexner]] → [[Jeffrey Epstein]] documented financial pipeline
 - The timing convergence (1991 founding, Robert Maxwell death, Ghislaine relocation, Epstein operational ramp-up)
 
 If the operational-coordination hypothesis is substantially correct, Mega Group is the structural bridge that explains why [[Wexner]] transferred extraordinary assets to [[Epstein]] without recovery action, and why the Epstein operation enjoyed the protection profile it did. See [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]] and [[Hypothesis - Epstein had intelligence-service connections]].
@@ -53,12 +53,12 @@ If the operational-coordination hypothesis is substantially correct, Mega Group 
 
 ## Connections
 
-- [[Leslie Wexner]] Â· [[Charles Bronfman]] Â· [[Edgar Bronfman Sr.]] â€” founding members
-- [[Jeffrey Epstein]] â€” adjacent through Wexner pipeline
-- [[Israeli-American Council]] â€” overlapping philanthropic network
-- [[Wexner Foundation]] â€” Wexner's philanthropic vehicle, overlapping Israel-related funding
-- [[Meyer Lansky]] â€” historical Bronfman family lineage
-- [[Robert Maxwell]] â€” death and asset transfer to family preceded Mega Group founding by months
+- [[Leslie Wexner]] · [[Charles Bronfman]] · [[Edgar Bronfman Sr.]] -- founding members
+- [[Jeffrey Epstein]] -- adjacent through Wexner pipeline
+- [[Israeli-American Council]] -- overlapping philanthropic network
+- [[Wexner Foundation]] -- Wexner's philanthropic vehicle, overlapping Israel-related funding
+- [[Meyer Lansky]] -- historical Bronfman family lineage
+- [[Robert Maxwell]] -- death and asset transfer to family preceded Mega Group founding by months
 - [[Hypothesis - Epstein had intelligence-service connections]]
 
 ## Sources

@@ -180,7 +180,7 @@ status: active
 - [ ] **Tether** (2 refs)
 - [ ] **Auspex** (2 refs)
 - [ ] **Active Clubs** (2 refs)
-- [ ] **BjÃ¶rn HÃ¶cke** (2 refs)
+- [ ] **Bj-rn H-cke** (2 refs)
 - [ ] **Compact magazine** (2 refs)
 - [ ] **Eduardo Bolsonaro** (2 refs)
 - [ ] **Bo Hines** (2 refs)
@@ -217,7 +217,7 @@ status: active
 - [ ] **Hungary CPAC** (2 refs)
 - [ ] **Tides Foundation** (2 refs)
 - [ ] **Internet Research Agency (IRA)** (2 refs)
-- [ ] **ChÃ© Ahn** (2 refs)
+- [ ] **Ch- Ahn** (2 refs)
 - [ ] **Hillsdale K-12 Charter School Network** (2 refs)
 - [ ] **Donald Trump Campaign 2016** (2 refs)
 - [ ] **McKenzie Funk** (1 refs)
@@ -410,7 +410,7 @@ status: active
 - [ ] **Clinton Cash** (1 refs)
 - [ ] **1776 Commission** (1 refs)
 - [ ] **Alex Karp** (1 refs)
-- [ ] **Cluster 1 â€” Defense Pipeline** (1 refs)
+- [ ] **Cluster 1 -- Defense Pipeline** (1 refs)
 - [ ] **Gavin McInnes** (1 refs)
 - [ ] **Reid Hoffman** (1 refs)
 - [ ] **CCPA** (1 refs)
@@ -801,8 +801,8 @@ status: active
 - CA Influence Network.canvas
 - Connection: Other Link
 - Connection: X to Y
-- DoppelgâˆšÂ§nger
-- DoppelgÃ¢Ë†Å¡Ã‚Â§nger
+- Doppelg?-nger
+- Doppelg√§nger
 - Event.schema
 - Events
 - Events.base

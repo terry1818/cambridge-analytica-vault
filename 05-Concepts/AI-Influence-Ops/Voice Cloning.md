@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: AI synthesis of human voices from short reference audio - rapidly maturing 2022-2024
 tags: [concept, topic/llm-propaganda, topic/deepfakes, era/2020-2024, era/2024-present]
@@ -11,13 +11,13 @@ first-documented: 2017 (Lyrebird research)
 
 ## Definition
 
-AI synthesis of a target individual's voice from **short reference audio** (sometimes <60 seconds). Quality matured rapidly from 2017 (Lyrebird research) â†’ 2020 commercial services â†’ 2023 photo-realistic real-time synthesis. Allows generation of arbitrary speech in the cloned voice.
+AI synthesis of a target individual's voice from **short reference audio** (sometimes <60 seconds). Quality matured rapidly from 2017 (Lyrebird research) → 2020 commercial services → 2023 photo-realistic real-time synthesis. Allows generation of arbitrary speech in the cloned voice.
 
 ## Political weaponization
 
-- **[[NH Biden AI Robocall 2024]]** â€” Joe Biden voice cloned to suppress NH primary turnout
-- **[[Slovakia 2023 Deepfake Audio]]** â€” Michal Simecka voice synthesized to fabricate election-rigging confession
-- **2024 multiple cases** â€” AI-cloned voices used in robocalls and audio attacks across global elections
+- **[[NH Biden AI Robocall 2024]]** -- Joe Biden voice cloned to suppress NH primary turnout
+- **[[Slovakia 2023 Deepfake Audio]]** -- Michal Simecka voice synthesized to fabricate election-rigging confession
+- **2024 multiple cases** -- AI-cloned voices used in robocalls and audio attacks across global elections
 
 ## Commercial services with documented misuse
 

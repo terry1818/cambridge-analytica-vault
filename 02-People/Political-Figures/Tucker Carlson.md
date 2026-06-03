@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Former Fox News host; Tucker Carlson Network (1789 Capital-funded); Trump-aligned media operator; major Russia + Hungary alignment; key right-wing influencer
 tags: [person, role/media, role/influencer, era/2010-2026]
@@ -18,7 +18,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Tucker_Carlson
 
 ## Summary
 
-American conservative political commentator. **Largest-audience cable news host in US history during Fox News tenure (2016-2023)**. Fired by Fox April 2023 (over multiple controversies including private texts disparaging Fox management). **Launched Tucker Carlson Network (2024)** with **$15M seed round from [[1789 Capital]]** (Rebekah Mercer + Donald Trump Jr.-backed). **Interviewed Putin in Russia February 2024**. Member of **[[Turning Point USA]] board**. Regular speaker at **[[National Conservatism]] conferences**. Visited **Hungary multiple times**; pro-OrbÃƒÂ¡n framing. **Major pro-Trump 2024 cycle positioning**.
+American conservative political commentator. **Largest-audience cable news host in US history during Fox News tenure (2016-2023)**. Fired by Fox April 2023 (over multiple controversies including private texts disparaging Fox management). **Launched Tucker Carlson Network (2024)** with **$15M seed round from [[1789 Capital]]** (Rebekah Mercer + Donald Trump Jr.-backed). **Interviewed Putin in Russia February 2024**. Member of **[[Turning Point USA]] board**. Regular speaker at **[[National Conservatism]] conferences**. Visited **Hungary multiple times**; pro-Orbán framing. **Major pro-Trump 2024 cycle positioning**.
 
 **The single most operationally consequential right-wing media operator** of the contemporary US right by combined audience reach + intellectual-influence-on-coalition + foreign-policy framing.
 
@@ -34,7 +34,7 @@ American conservative political commentator. **Largest-audience cable news host 
 
 - **Pro-Trump** from 2016 onward (with some 2020-2022 critical interludes)
 - **Russia/Putin-favorable** framing (substantial; Hungary parallel)
-- **Hungary/OrbÃƒÂ¡n-favorable** framing
+- **Hungary/Orbán-favorable** framing
 - **Anti-Ukraine-aid**
 - **Anti-immigration restrictionist**
 - **Anti-Big-Tech** (Little Tech-aligned)

@@ -19,7 +19,7 @@ status: active
 
 **Federal Make America Healthy Again Commission** established by **Trump executive order in 2025**. Chaired by **[[Robert F. Kennedy Jr.]]** as HHS Secretary. Charged with **addressing chronic-disease rates particularly in children**, **promoting healthy lifestyles and nutrition**, and **identifying root causes of US chronic-disease crisis**. **Produced the MAHA Report on Children's Health (September 2025)** + subsequent policy initiatives.
 
-**Operationally:** functions as the **federal-level coordinating entity** for the broader [[Lens - Make America Healthy Again|MAHA movement]] â€” providing official-government framing for what was previously outside-government anti-vaccine / anti-pharma advocacy. **Five MAHA-named entities operate in coordination**: MAHA Commission (federal) + MAHA Action (501(c)(4)) + MAHA PAC + MAHA Institute + MAHA Holdings.
+**Operationally:** functions as the **federal-level coordinating entity** for the broader [[Lens - Make America Healthy Again|MAHA movement]] -- providing official-government framing for what was previously outside-government anti-vaccine / anti-pharma advocacy. **Five MAHA-named entities operate in coordination**: MAHA Commission (federal) + MAHA Action (501(c)(4)) + MAHA PAC + MAHA Institute + MAHA Holdings.
 
 ## Identity
 

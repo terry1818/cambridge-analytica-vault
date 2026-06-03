@@ -21,14 +21,14 @@ US conservative youth-organizing 501(c)(3) founded in **2012** by [[Charlie Kirk
 
 ## Programs / activities
 
-- **Campus chapters** â€” university and high school clubs nationwide
-- **Professor Watchlist** â€” tracks "liberal" professors
-- **AmericaFest** â€” annual major conference (Phoenix; 10,000+ attendees)
-- **Student Action Summit** â€” biannual student gathering
-- **Kirk podcast / radio show** â€” daily Charlie Kirk programming
-- **TPUSA Action** â€” election mobilization (separate 501(c)(4))
-- **TPUSA Faith** â€” church-focused programming
-- **BLEXIT** â€” Black conservative outreach
+- **Campus chapters** -- university and high school clubs nationwide
+- **Professor Watchlist** -- tracks "liberal" professors
+- **AmericaFest** -- annual major conference (Phoenix; 10,000+ attendees)
+- **Student Action Summit** -- biannual student gathering
+- **Kirk podcast / radio show** -- daily Charlie Kirk programming
+- **TPUSA Action** -- election mobilization (separate 501(c)(4))
+- **TPUSA Faith** -- church-focused programming
+- **BLEXIT** -- Black conservative outreach
 
 ## 2024 election operational role
 

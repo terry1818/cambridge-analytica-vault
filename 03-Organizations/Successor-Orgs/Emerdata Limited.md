@@ -29,11 +29,11 @@ UK holding company established **August 2017** by [[Alexander Tayler]] (CA Chief
 
 ## Directors / leadership
 
-- [[Alexander Tayler]] â€” appointed 2018-03-28
-- [[Rebekah Mercer]] â€” appointed March 2018
-- Jennifer Mercer â€” appointed March 2018
-- [[Alexander Nix]] â€” appointed director (later disqualified UK director 2020)
-- [[Johnson Chun Shun Ko]] â€” Hong Kong businessman; Frontier Services Group officer; linked to [[Erik Prince]]
+- [[Alexander Tayler]] -- appointed 2018-03-28
+- [[Rebekah Mercer]] -- appointed March 2018
+- Jennifer Mercer -- appointed March 2018
+- [[Alexander Nix]] -- appointed director (later disqualified UK director 2020)
+- [[Johnson Chun Shun Ko]] -- Hong Kong businessman; Frontier Services Group officer; linked to [[Erik Prince]]
 
 ## Sources
 

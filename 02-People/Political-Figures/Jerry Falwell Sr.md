@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Founded Moral Majority 1979; built Liberty University; pioneered direct-mail political mobilization of evangelical voters
 tags: [person, role/theocratic-wing, role/founder, era/1979-2007]
@@ -32,10 +32,10 @@ First to **systematically convert evangelical Christians into a reliable Republi
 
 ## Related vault entries
 
-- [[Moral Majority]] ÃƒÂ¢Ã¢â€šÂ¬" founded
-- [[Paul Weyrich]] ÃƒÂ¢Ã¢â€šÂ¬" co-strategist
-- [[Council for National Policy]] ÃƒÂ¢Ã¢â€šÂ¬" member
-- [[Theocratic Wing Infrastructure 1935-2026]] ÃƒÂ¢Ã¢â€šÂ¬" historical-layer figure
+- [[Moral Majority]] â€" founded
+- [[Paul Weyrich]] â€" co-strategist
+- [[Council for National Policy]] â€" member
+- [[Theocratic Wing Infrastructure 1935-2026]] â€" historical-layer figure
 
 ## Sources
 

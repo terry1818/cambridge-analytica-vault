@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Peter_Thiel
 
 ## Summary
 
-German-born American billionaire investor; **the single most important node in the Tech Right network**. Co-founded **PayPal** (1998) and **[[Palantir Technologies]]** (2003). First major outside investor in Facebook (2004, ~$500K for 10.2% stake); sat on Facebook board from 2005 until **May 2022**. Founded multiple investment vehicles including **[[Founders Fund]]** and **[[Mithril Capital]]**. **First Silicon Valley billionaire to publicly back Trump** in 2016. Patron of **[[JD Vance]]** â€” funded Vances Senate campaign with ~$15M and recommended him as Trumps 2024 VP nominee; Vance became **Vice President of the United States** in January 2025.
+German-born American billionaire investor; **the single most important node in the Tech Right network**. Co-founded **PayPal** (1998) and **[[Palantir Technologies]]** (2003). First major outside investor in Facebook (2004, ~$500K for 10.2% stake); sat on Facebook board from 2005 until **May 2022**. Founded multiple investment vehicles including **[[Founders Fund]]** and **[[Mithril Capital]]**. **First Silicon Valley billionaire to publicly back Trump** in 2016. Patron of **[[JD Vance]]** -- funded Vances Senate campaign with ~$15M and recommended him as Trumps 2024 VP nominee; Vance became **Vice President of the United States** in January 2025.
 
 ## Why Thiel matters for this vault
 
@@ -26,33 +26,33 @@ Thiel is the **single most important contemporary connector** between:
 3. **The 2024-2026 Tech Right consolidation** (Thiel's JD Vance is now VP; Thiel-backed Anduril is central to Trump 2.0 defense procurement)
 4. **The intellectual / political-philosophical movement** that justifies all of this ([[Curtis Yarvin]] / Neoreactionary movement; Thiel-aligned)
 
-If the CA scandal was the **public exposure** of one corner of the Western influence-operations ecosystem in 2018, **Thiel-network consolidation in 2024-2026 is the operational triumph** of that same ecosystem â€” Big Tech â†” Government convergence at unprecedented scale, with Tech Right figures occupying executive-branch positions.
+If the CA scandal was the **public exposure** of one corner of the Western influence-operations ecosystem in 2018, **Thiel-network consolidation in 2024-2026 is the operational triumph** of that same ecosystem -- Big Tech ↔ Government convergence at unprecedented scale, with Tech Right figures occupying executive-branch positions.
 
 ## Companies / investments
 
-- **PayPal** (1998-2002) â€” co-founder, sold to eBay for $1.5B
-- **Founders Fund** (2005-) â€” co-founded; portfolio includes SpaceX, Airbnb, Stripe, Palantir, Anduril
-- **Palantir Technologies** (2003-) â€” co-founder; major shareholder; major defense/intel/government contractor
-- **Mithril Capital** (2012-) â€” co-founded; mid-stage venture
-- **Anduril Industries** (2017-) â€” early investor; Palmer Luckey founder; defense AI
-- **Meta / Facebook** â€” board member 2005-2022; early investor (sold most of his stake during board tenure)
-- **OpenAI** â€” early investor (pre-2018)
+- **PayPal** (1998-2002) -- co-founder, sold to eBay for $1.5B
+- **Founders Fund** (2005-) -- co-founded; portfolio includes SpaceX, Airbnb, Stripe, Palantir, Anduril
+- **Palantir Technologies** (2003-) -- co-founder; major shareholder; major defense/intel/government contractor
+- **Mithril Capital** (2012-) -- co-founded; mid-stage venture
+- **Anduril Industries** (2017-) -- early investor; Palmer Luckey founder; defense AI
+- **Meta / Facebook** -- board member 2005-2022; early investor (sold most of his stake during board tenure)
+- **OpenAI** -- early investor (pre-2018)
 - Many other portfolio companies via Founders Fund
 
 ## Political activity
 
-### 2016 â€” first Silicon Valley billionaire Trump backer
+### 2016 -- first Silicon Valley billionaire Trump backer
 
-- 2016-07 â€” gave $1.25M to pro-Trump efforts
-- 2016-07 â€” spoke at Republican National Convention (unusual for a major Silicon Valley figure at the time)
-- 2016-11 â€” member of Trump transition team
+- 2016-07 -- gave $1.25M to pro-Trump efforts
+- 2016-07 -- spoke at Republican National Convention (unusual for a major Silicon Valley figure at the time)
+- 2016-11 -- member of Trump transition team
 
-### 2018-2024 â€” JD Vance patronage and the long game
+### 2018-2024 -- JD Vance patronage and the long game
 
-- 2018+ â€” funded JD Vances pre-political activities at Mithril Capital, then Narya Capital
-- **2022** â€” funded JD Vances Ohio Senate campaign with **~$15 million** (largest single Senate-race donation in US history at the time)
-- 2024-07 â€” Thiel reportedly key in pushing Trump to select JD Vance as VP nominee
-- 2025-01 â€” JD Vance inaugurated as 50th Vice President of the United States
+- 2018+ -- funded JD Vances pre-political activities at Mithril Capital, then Narya Capital
+- **2022** -- funded JD Vances Ohio Senate campaign with **~$15 million** (largest single Senate-race donation in US history at the time)
+- 2024-07 -- Thiel reportedly key in pushing Trump to select JD Vance as VP nominee
+- 2025-01 -- JD Vance inaugurated as 50th Vice President of the United States
 
 ### CA / Palantir adjacency
 
@@ -63,22 +63,22 @@ Per [[Source DCMS Final Report 2019]] and DCMS Committee testimony:
 - Acknowledged Chmieliauskass involvement was "informal"
 - **Reports of early Palantir-CA company-level discussions** never resulted in formal contract
 
-The Thiel position â€” **simultaneously on Facebooks board (2005-2022), founding Palantirs surveillance work, funding Trump 2016, and patronizing JD Vance** â€” represents a **structural conflict-of-interest cluster** that received less attention than it deserved during the CA scandal.
+The Thiel position -- **simultaneously on Facebooks board (2005-2022), founding Palantirs surveillance work, funding Trump 2016, and patronizing JD Vance** -- represents a **structural conflict-of-interest cluster** that received less attention than it deserved during the CA scandal.
 
 ## Intellectual movement / philosophical alignment
 
-- 2009 essay "**The Education of a Libertarian**" â€” questioned compatibility of democracy and freedom; key text of the modern Tech Right
+- 2009 essay "**The Education of a Libertarian**" -- questioned compatibility of democracy and freedom; key text of the modern Tech Right
 - Long-time supporter of **[[Curtis Yarvin]]** (neoreactionary / "Dark Enlightenment" political philosopher)
-- Aligned with **[[Patri Friedman]]** (seasteading) â€” Thiel funded early seasteading efforts
+- Aligned with **[[Patri Friedman]]** (seasteading) -- Thiel funded early seasteading efforts
 - Aligned with **[[Balaji Srinivasan]]** (network states)
 - Funder of the **Thiel Foundation** and **Thiel Fellowship** (paying young people to drop out of college and start companies)
 
 ## The Hulk Hogan / Gawker lawsuit (precedent-setting)
 
-- 2016 â€” Thiel secretly funded **Hulk Hogan's lawsuit against Gawker Media** that ultimately bankrupted the publication
+- 2016 -- Thiel secretly funded **Hulk Hogan's lawsuit against Gawker Media** that ultimately bankrupted the publication
 - Thiel had personal animus against Gawker for outing him as gay in 2007
 - The lawsuit was **the first major example of a billionaire using litigation funding to destroy a media outlet**
-- Established a template â€” third-party-funded litigation as a political weapon â€” that has continued through the Trump 2.0 era
+- Established a template -- third-party-funded litigation as a political weapon -- that has continued through the Trump 2.0 era
 
 ## Connections
 
@@ -126,11 +126,11 @@ The Bari Weiss interview and the various Hoover-Institution panel appearances ar
 
 ## Political donations and PAC activity
 
-Thiel was a 2016 Trump campaign donor ($1.25M to the Trump Victory Committee plus smaller direct contributions) and a 2016 RNC speaker. He largely withdrew from direct political giving in 2018-2020, then returned aggressively in 2022 with the Vance Senate PAC commitment and the Masters Senate PAC commitment ($15M each, the two largest single-candidate PAC commitments in 2022 cycle outside the very top tier). His 2024 cycle giving was deliberately less visible than 2022 â€” the public reporting suggests he largely stepped back from direct candidate giving while continuing portfolio-company government-relations work.
+Thiel was a 2016 Trump campaign donor ($1.25M to the Trump Victory Committee plus smaller direct contributions) and a 2016 RNC speaker. He largely withdrew from direct political giving in 2018-2020, then returned aggressively in 2022 with the Vance Senate PAC commitment and the Masters Senate PAC commitment ($15M each, the two largest single-candidate PAC commitments in 2022 cycle outside the very top tier). His 2024 cycle giving was deliberately less visible than 2022 -- the public reporting suggests he largely stepped back from direct candidate giving while continuing portfolio-company government-relations work.
 
 ## Why the vault treats Thiel as a top connector
 
-Thiel is the single human node that connects: the PayPal-mafia founder pool ([[Elon Musk]], [[David Sacks]], [[Chamath Palihapitiya]], [[Reid Hoffman]] â€” though Hoffman is now ideologically opposed), [[Palantir Technologies]] and the federal data-integration infrastructure, the [[Anduril]] / defence-tech cluster ([[Palmer Luckey]]), the Vance-and-protege political pipeline into Trump 2.0, the [[Network States]] / [[Seasteading]] / [[Patri Friedman]] adjacency, the [[Catholic Integralism]] intellectual right via shared funders and frame, the [[Effective Accelerationism]] / Marc Andreessen [[a16z (Andreessen Horowitz)]] adjacency, and the [[Hoover Institution]] / [[American Enterprise Institute]] traditional-right think-tank base. Removing Thiel from the network graph would disconnect the Tech Right cluster from the political-power layer.
+Thiel is the single human node that connects: the PayPal-mafia founder pool ([[Elon Musk]], [[David Sacks]], [[Chamath Palihapitiya]], [[Reid Hoffman]] -- though Hoffman is now ideologically opposed), [[Palantir Technologies]] and the federal data-integration infrastructure, the [[Anduril]] / defence-tech cluster ([[Palmer Luckey]]), the Vance-and-protege political pipeline into Trump 2.0, the [[Network States]] / [[Seasteading]] / [[Patri Friedman]] adjacency, the [[Catholic Integralism]] intellectual right via shared funders and frame, the [[Effective Accelerationism]] / Marc Andreessen [[a16z (Andreessen Horowitz)]] adjacency, and the [[Hoover Institution]] / [[American Enterprise Institute]] traditional-right think-tank base. Removing Thiel from the network graph would disconnect the Tech Right cluster from the political-power layer.
 
 ## Open research threads
 
@@ -158,8 +158,8 @@ This is a documented social/intellectual association, not an allegation. Same ev
 **Related:**
 - [[Epstein Network MOC]]
 - [[Connection - Thiel-Epstein scientific gatherings]]
-- [[Tech Right MOC]] â€” broader ecosystem context
-- [[MIT]] â€” institutional setting for some gatherings
+- [[Tech Right MOC]] -- broader ecosystem context
+- [[MIT]] -- institutional setting for some gatherings
 
 ---
 

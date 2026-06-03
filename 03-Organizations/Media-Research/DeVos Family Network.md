@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Amway billionaire family; Betsy DeVos Trump first-term Education Secretary; Erik Prince sister; major right-wing donor network
 tags: [org, org/research-institute, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -14,15 +14,15 @@ status: active
 
 ## Summary
 
-US billionaire family deriving wealth from **Amway** (multi-level marketing company founded 1959). One of the most consequential **conservative donor networks in US political history** alongside the Mercer, Koch, and Thiel networks. The **DeVos family is also Erik Prince's family** â€” Betsy DeVos (Erik Prince's sister) was Trump's first-term Education Secretary, providing a **direct family connection between the CA-successor ecosystem (via Prince-Frontier Services Group-Emerdata) and Trump-administration governance.**
+US billionaire family deriving wealth from **Amway** (multi-level marketing company founded 1959). One of the most consequential **conservative donor networks in US political history** alongside the Mercer, Koch, and Thiel networks. The **DeVos family is also Erik Prince's family** -- Betsy DeVos (Erik Prince's sister) was Trump's first-term Education Secretary, providing a **direct family connection between the CA-successor ecosystem (via Prince-Frontier Services Group-Emerdata) and Trump-administration governance.**
 
 ## Key family members
 
-- **Richard DeVos** (1926-2018) â€” Amway co-founder; family patriarch
-- **Helen DeVos** (1927-2017) â€” wife of Richard
-- **Dick DeVos** â€” son; Amway successor leadership; Michigan Republican
-- **Betsy DeVos** â€” wife of Dick; **Trump first-term Education Secretary (2017-2021)**
-- **[[Erik Prince]]** â€” Betsy DeVos's brother; Blackwater founder; Trump-orbit figure
+- **Richard DeVos** (1926-2018) -- Amway co-founder; family patriarch
+- **Helen DeVos** (1927-2017) -- wife of Richard
+- **Dick DeVos** -- son; Amway successor leadership; Michigan Republican
+- **Betsy DeVos** -- wife of Dick; **Trump first-term Education Secretary (2017-2021)**
+- **[[Erik Prince]]** -- Betsy DeVos's brother; Blackwater founder; Trump-orbit figure
 - Multiple other family members in Republican politics and philanthropy
 
 ## Betsy DeVos as Education Secretary
@@ -45,11 +45,11 @@ The DeVos family has been one of the **largest right-wing donor networks** for d
 
 The DeVos network connects to **multiple vault threads**:
 
-1. **Erik Prince â†’ Frontier Services Group â†’ Emerdata Limited** â€” direct CA-successor connection
-2. **Trump first-term Education Secretary** â€” family in Trump cabinet
-3. **Leonard Leo network funding** â€” DeVos family among major donors
-4. **Religious right alignment** â€” DeVos family long-time Christian conservative donors
-5. **Long-term right-wing infrastructure investment** â€” multi-decade donor network
+1. **Erik Prince → Frontier Services Group → Emerdata Limited** -- direct CA-successor connection
+2. **Trump first-term Education Secretary** -- family in Trump cabinet
+3. **Leonard Leo network funding** -- DeVos family among major donors
+4. **Religious right alignment** -- DeVos family long-time Christian conservative donors
+5. **Long-term right-wing infrastructure investment** -- multi-decade donor network
 
 The DeVos family represents a **bridge between**:
 - The CA-successor private military intelligence ecosystem (via Prince)

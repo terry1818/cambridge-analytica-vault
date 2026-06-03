@@ -29,12 +29,12 @@ aliases: ["Carroll v Trump II Jury Verdict May 2023", "Source: Carroll v Trump I
 ## Claims
 
 Two claims tried:
-1. **Battery** (sexual assault) â€” based on approximately 1996 Bergdorf Goodman incident
-2. **Defamation** â€” based on Trump's October 12, 2022 Truth Social statements denying
+1. **Battery** (sexual assault) -- based on approximately 1996 Bergdorf Goodman incident
+2. **Defamation** -- based on Trump's October 12, 2022 Truth Social statements denying
 
 ## Statute basis
 
-Filed under New York Adult Survivors Act (CPLR Â§ 214-j), which opened a one-year lookback window allowing civil suits for sexual abuse beyond normal statute of limitations.
+Filed under New York Adult Survivors Act (CPLR § 214-j), which opened a one-year lookback window allowing civil suits for sexual abuse beyond normal statute of limitations.
 
 ## The jury verdict (May 9, 2023)
 
@@ -89,10 +89,10 @@ US Court of Appeals for the Second Circuit affirmed the verdict in December 2024
 
 ## Connections in this vault
 
-- [[Carroll v Trump Civil Cases]] â€” case event note
-- [[Donald Trump]] â€” defendant
-- [[E. Jean Carroll]] â€” plaintiff
-- [[Lewis Kaplan]] â€” judge
-- [[Jessica Leeds]] Â· [[Natasha Stoynoff]] â€” Rule 415 witnesses
-- [[Access Hollywood tape]] â€” Rule 415 evidence
-- Subsequent Carroll I damages verdict â€” separate $83.3M
+- [[Carroll v Trump Civil Cases]] -- case event note
+- [[Donald Trump]] -- defendant
+- [[E. Jean Carroll]] -- plaintiff
+- [[Lewis Kaplan]] -- judge
+- [[Jessica Leeds]] · [[Natasha Stoynoff]] -- Rule 415 witnesses
+- [[Access Hollywood tape]] -- Rule 415 evidence
+- Subsequent Carroll I damages verdict -- separate $83.3M

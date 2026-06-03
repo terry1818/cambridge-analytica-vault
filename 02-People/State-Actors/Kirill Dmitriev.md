@@ -37,7 +37,7 @@ Russian businessman; CEO of the **Russian Direct Investment Fund (RDIF)** since 
 
 Per [[Source Mueller Report 2019]] and [[Source Senate Intel Vol 5 2020]]:
 
-- **2017-01-11** â€” meeting in Seychelles between Dmitriev, [[Erik Prince]], [[George Nader]] (UAE intermediary)
+- **2017-01-11** -- meeting in Seychelles between Dmitriev, [[Erik Prince]], [[George Nader]] (UAE intermediary)
 - Subject of Mueller investigation
 - Prince claimed meeting was incidental; Mueller documented evidence contradicting this
 - Topic per multiple sources: establishing back-channel between Trump and Russia
@@ -46,7 +46,7 @@ Per [[Source Mueller Report 2019]] and [[Source Senate Intel Vol 5 2020]]:
 ## 2024-2026 Trump 2.0 engagement
 
 - Reported as continuing back-channel role in Trump 2.0 Russia-Ukraine negotiations
-- 2025+ â€” appears in journalism on Trump 2.0 Russia engagement
+- 2025+ -- appears in journalism on Trump 2.0 Russia engagement
 - Dmitriev remains under US Treasury sanctions but reportedly conducts informal diplomacy
 
 ## Connections

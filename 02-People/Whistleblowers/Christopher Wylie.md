@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Christopher_Wylie
 
 ## Summary
 
-Canadian data scientist who served as Director of Research at [[Cambridge Analytica]] from its founding period. **Primary whistleblower** of the [[Facebook-CA Data Scandal|Facebookâ€“Cambridge Analytica data scandal]] in March 2018; anonymous source for [[Carole Cadwalladr]]'s 2017 reporting before going on the record. Coined the description of CA's tools as "Steve Bannon's psychological warfare mindfuck tool". Author of [[Source Mindfck (Wylie 2019)]] (2019, Random House). ([[Source Wikipedia - Cambridge Analytica]], [[Source Cadwalladr Graham-Harrison 2018-03-17 Guardian]])
+Canadian data scientist who served as Director of Research at [[Cambridge Analytica]] from its founding period. **Primary whistleblower** of the [[Facebook-CA Data Scandal|Facebook-Cambridge Analytica data scandal]] in March 2018; anonymous source for [[Carole Cadwalladr]]'s 2017 reporting before going on the record. Coined the description of CA's tools as "Steve Bannon's psychological warfare mindfuck tool". Author of [[Source Mindfck (Wylie 2019)]] (2019, Random House). ([[Source Wikipedia - Cambridge Analytica]], [[Source Cadwalladr Graham-Harrison 2018-03-17 Guardian]])
 
 ## Key facts
 
@@ -31,7 +31,7 @@ Canadian data scientist who served as Director of Research at [[Cambridge Analyt
 
 ## Quotes
 
-- "I made Steve Bannon's psychological warfare mindfuck tool" â€” Guardian, 2018-03-17
+- "I made Steve Bannon's psychological warfare mindfuck tool" -- Guardian, 2018-03-17
 
 ## Connections
 
@@ -42,12 +42,12 @@ Canadian data scientist who served as Director of Research at [[Cambridge Analyt
 
 ## Timeline
 
-- `~2013-2014` â€” Director of Research at CA; helps build psychographic infrastructure
-- `2017` â€” anonymous source for Cadwalladr's Observer/Guardian work
-- `2018-03-17` â€” Goes on record; story breaks in Guardian/Observer/NYT
-- `2018-03` â€” Testifies before UK Parliament's DCMS Committee
-- `2018-05-16` â€” Testifies before US Senate Judiciary Committee
-- `2019` â€” Publishes [[Source Mindfck (Wylie 2019)|*Mindf*ck*]] (Random House)
+- `~2013-2014` -- Director of Research at CA; helps build psychographic infrastructure
+- `2017` -- anonymous source for Cadwalladr's Observer/Guardian work
+- `2018-03-17` -- Goes on record; story breaks in Guardian/Observer/NYT
+- `2018-03` -- Testifies before UK Parliament's DCMS Committee
+- `2018-05-16` -- Testifies before US Senate Judiciary Committee
+- `2019` -- Publishes [[Source Mindfck (Wylie 2019)|*Mindf*ck*]] (Random House)
 
 ## Open questions
 

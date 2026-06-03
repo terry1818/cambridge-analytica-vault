@@ -12,7 +12,7 @@ url: https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/our-views-
 reliability: high
 ---
 
-# Source: UK Electoral Commission â€” Vote Leave 2018 Report
+# Source: UK Electoral Commission — Vote Leave 2018 Report
 
 ## Citation
 
@@ -20,11 +20,11 @@ UK Electoral Commission. (2018-07-17). *Report of an investigation in respect of
 
 ## Significance
 
-The Electoral Commission's formal finding that **Vote Leave broke UK campaign finance law** by funneling Â£625,000 to BeLeave (a youth-targeted Brexit group) to spend with [[AggregateIQ (AIQ)]] â€” exceeding Vote Leave's Â£7M spending limit. Vote Leave fined Â£61,000.
+The Electoral Commission's formal finding that **Vote Leave broke UK campaign finance law** by funneling £625,000 to BeLeave (a youth-targeted Brexit group) to spend with [[AggregateIQ (AIQ)]] — exceeding Vote Leave's £7M spending limit. Vote Leave fined £61,000.
 
 ## Key findings
 
-- Vote Leave's Â£675K spending in name of BeLeave constituted joint spending
+- Vote Leave's £675K spending in name of BeLeave constituted joint spending
 - AIQ used as common contractor across Vote Leave, BeLeave, Veterans for Britain, DUP
 - Joint spending exceeded combined limits
 - Vote Leave knew or ought to have known

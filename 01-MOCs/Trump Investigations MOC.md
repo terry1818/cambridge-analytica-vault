@@ -47,8 +47,8 @@ A structured index of every formal investigation, indictment, civil action, and 
 
 | Case | Body | Charge | Outcome |
 |---|---|---|---|
-| [[Trump First Impeachment 2019-2020]] | House â†’ Senate trial | Abuse of power + obstruction of Congress (Ukraine) | Impeached Dec 18 2019; acquitted Feb 5 2020 |
-| [[Trump Second Impeachment 2021]] | House â†’ Senate trial | Incitement of insurrection (Jan 6) | Impeached Jan 13 2021; acquitted Feb 13 2021 (57-43, short of 67-vote threshold) |
+| [[Trump First Impeachment 2019-2020]] | House → Senate trial | Abuse of power + obstruction of Congress (Ukraine) | Impeached Dec 18 2019; acquitted Feb 5 2020 |
+| [[Trump Second Impeachment 2021]] | House → Senate trial | Incitement of insurrection (Jan 6) | Impeached Jan 13 2021; acquitted Feb 13 2021 (57-43, short of 67-vote threshold) |
 
 ## Federal investigations (closed) and committees
 
@@ -61,23 +61,23 @@ A structured index of every formal investigation, indictment, civil action, and 
 
 (In addition to those tied to specific cases above):
 
-- [[John Eastman]] â€” Trump attorney; Jan 6 coup memo author; Georgia indictee; bar disbarment proceedings
-- [[Mark Meadows]] â€” Trump chief of staff; J6 Committee defied; Georgia indictee
-- [[Rudy Giuliani]] â€” Trump attorney; J6 election challenge architect; Georgia indictee; bar disbarred; $148M Freeman/Moss defamation verdict
-- [[Sidney Powell]] â€” Trump attorney; Kraken cases; Georgia indictee; pled guilty Oct 2023
-- [[Kenneth Chesebro]] â€” Trump attorney; alternate-electors memo author; Georgia indictee; pled guilty Oct 2023
-- [[Jenna Ellis]] â€” Trump attorney; Georgia indictee; pled guilty Oct 2023
-- [[Roger Stone]] â€” Trump ally; Mueller indictee; convicted seven counts; pardoned
-- [[Paul Manafort]] â€” Trump campaign chair; Mueller indictee; convicted; pardoned
-- [[Michael Cohen]] â€” Trump personal attorney; multiple convictions; key witness in NY hush-money trial
-- [[Steve Bannon]] â€” Trump strategist; contempt of Congress conviction (J6 Committee subpoena); pardoned-era separate fraud case
-- [[Peter Navarro]] â€” Trump trade advisor; served prison for contempt of Congress (J6 Committee)
-- [[Allen Weisselberg]] â€” Trump Organization CFO; tax fraud guilty plea; served prison
+- [[John Eastman]] -- Trump attorney; Jan 6 coup memo author; Georgia indictee; bar disbarment proceedings
+- [[Mark Meadows]] -- Trump chief of staff; J6 Committee defied; Georgia indictee
+- [[Rudy Giuliani]] -- Trump attorney; J6 election challenge architect; Georgia indictee; bar disbarred; $148M Freeman/Moss defamation verdict
+- [[Sidney Powell]] -- Trump attorney; Kraken cases; Georgia indictee; pled guilty Oct 2023
+- [[Kenneth Chesebro]] -- Trump attorney; alternate-electors memo author; Georgia indictee; pled guilty Oct 2023
+- [[Jenna Ellis]] -- Trump attorney; Georgia indictee; pled guilty Oct 2023
+- [[Roger Stone]] -- Trump ally; Mueller indictee; convicted seven counts; pardoned
+- [[Paul Manafort]] -- Trump campaign chair; Mueller indictee; convicted; pardoned
+- [[Michael Cohen]] -- Trump personal attorney; multiple convictions; key witness in NY hush-money trial
+- [[Steve Bannon]] -- Trump strategist; contempt of Congress conviction (J6 Committee subpoena); pardoned-era separate fraud case
+- [[Peter Navarro]] -- Trump trade advisor; served prison for contempt of Congress (J6 Committee)
+- [[Allen Weisselberg]] -- Trump Organization CFO; tax fraud guilty plea; served prison
 
 ## Convictions, settlements, and findings summary
 
 **As of January 2025:**
-- **Trump personally convicted**: 1 (NY hush money â€” 34 felony counts; unconditional discharge)
+- **Trump personally convicted**: 1 (NY hush money -- 34 felony counts; unconditional discharge)
 - **Trump personally found civilly liable**: 2 (Carroll II + NY civil fraud)
 - **Trump-affiliated entities convicted**: Trump Organization (2022 NY); Trump Foundation (2019 settled + dissolved)
 - **Trump aides convicted**: 8+ (Cohen, Manafort, Stone, Bannon, Navarro, Weisselberg, Powell plea, Chesebro plea, Ellis plea, others)
@@ -104,12 +104,12 @@ A structured index of every formal investigation, indictment, civil action, and 
 ## Connections
 
 - [[Donald Trump]]
-- [[Investigations MOC]] â€” broader vault investigations index
+- [[Investigations MOC]] -- broader vault investigations index
 - [[Lens - Investigations Concluded]]
 - [[Lens - Election Denial Infrastructure]]
 - [[Mueller Investigation]]
 - [[Stop the Steal]]
-- [[Connection - Trump-Epstein social association 1987-2004]] â€” adjacent context
+- [[Connection - Trump-Epstein social association 1987-2004]] -- adjacent context
 
 ## Sources backbone
 

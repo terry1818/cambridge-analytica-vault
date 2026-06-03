@@ -30,14 +30,14 @@ American Republican donor and board member; daughter of [[Robert Mercer]]. Inves
 
 - **Family:** [[Robert Mercer]] (father), Jennifer Mercer (sister)
 - **CA leadership:** [[Alexander Nix]], [[Steve Bannon]]
-- **Successor company:** [[Emerdata Limited]] â€” co-director with [[Johnson Chun Shun Ko]] (Erik Princeâ€“linked)
+- **Successor company:** [[Emerdata Limited]] -- co-director with [[Johnson Chun Shun Ko]] (Erik Prince-linked)
 - **Funded:** [[Make America Number 1 Super PAC]]
 
 ## Timeline
 
-- `2014-2018` â€” CA investor / board direction
-- `2018-03` â€” Becomes Emerdata director
-- (post-2018) â€” Continued conservative donor activity, Parler funding
+- `2014-2018` -- CA investor / board direction
+- `2018-03` -- Becomes Emerdata director
+- (post-2018) -- Continued conservative donor activity, Parler funding
 
 ## Open questions
 
@@ -85,7 +85,7 @@ Her operational style is distinctive: low public profile, deep board penetration
 
 ## Operational role across the Mercer apparatus
 
-Rebekah Mercer's distinctive operational style â€” board penetration, conditional funding, low public profile â€” is the template for the Mercer family's political-influence model. Where her father [[Robert Mercer]] supplied the capital and the strategic vision, Rebekah ran the day-to-day relationships: vetting recipients, sitting on the boards of the entities the family funded, attending the strategy meetings, and acting as the principal liaison between the Mercer family and [[Steve Bannon]]'s organisational sprawl.
+Rebekah Mercer's distinctive operational style -- board penetration, conditional funding, low public profile -- is the template for the Mercer family's political-influence model. Where her father [[Robert Mercer]] supplied the capital and the strategic vision, Rebekah ran the day-to-day relationships: vetting recipients, sitting on the boards of the entities the family funded, attending the strategy meetings, and acting as the principal liaison between the Mercer family and [[Steve Bannon]]'s organisational sprawl.
 
 Documented board memberships and operational roles:
 
@@ -112,13 +112,13 @@ The Parler episode is operationally instructive: the Mercer family attempted to 
 
 The Mercer Family Foundation (501(c)(3)) is the philanthropic vehicle that handles a portion of family political-aligned giving. Foundation 990s (publicly available) document substantial annual disbursements to: [[Heritage Foundation]], the [[Government Accountability Institute]], various climate-skeptic policy organisations (Heartland Institute, CO2 Coalition), various judicial-pipeline organisations (Federalist Society-adjacent), various anti-abortion and religious-right organisations, and a long tail of smaller conservative-movement organisations.
 
-The Foundation's 2018-2024 disbursement map (the post-Bannon-break period) shows substantial continuity with the pre-break disbursement pattern at the foundation-tier giving, even as the direct family-office giving shifted. This pattern â€” formal foundation giving more stable than informal personal giving â€” is consistent with what tax law and foundation-governance rules would predict.
+The Foundation's 2018-2024 disbursement map (the post-Bannon-break period) shows substantial continuity with the pre-break disbursement pattern at the foundation-tier giving, even as the direct family-office giving shifted. This pattern -- formal foundation giving more stable than informal personal giving -- is consistent with what tax law and foundation-governance rules would predict.
 
 ## Why the vault treats Rebekah Mercer as a top connector
 
 Rebekah Mercer is the operational liaison between the Mercer capital base and the conservative-movement operator network. Removing her from the network graph would force her father to either operate the political-influence apparatus directly (which his publicly reticent style suggests he would decline) or to find an alternative liaison (which the post-2018 Mercer political-influence reduction suggests has not been done at the same scale).
 
-She is also the principal direct-experience source for the inside of [[Cambridge Analytica]] from the board level â€” a vantage point neither Wylie (data-side staff) nor Kaiser (BD-side staff) nor Nix (CEO) had. Her formal cooperation with regulatory and investigative authorities has been limited, but the public-record characterisation of her operational role is substantial.
+She is also the principal direct-experience source for the inside of [[Cambridge Analytica]] from the board level -- a vantage point neither Wylie (data-side staff) nor Kaiser (BD-side staff) nor Nix (CEO) had. Her formal cooperation with regulatory and investigative authorities has been limited, but the public-record characterisation of her operational role is substantial.
 
 ## Open research threads
 

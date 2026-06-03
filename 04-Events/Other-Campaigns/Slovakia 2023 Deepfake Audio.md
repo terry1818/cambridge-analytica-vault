@@ -10,11 +10,11 @@ outcome: Simecka lost; Fico (pro-Russian) won
 status: closed
 ---
 
-# Slovakia 2023 â€” Deepfake Audio Incident
+# Slovakia 2023 -- Deepfake Audio Incident
 
 ## Summary
 
-**Two days before Slovakia's parliamentary election (2023-09-30)**, fake AI-generated audio purportedly featuring **[[Michal Simecka]]** (leader of Progressive Slovakia) and journalist Monika Todova discussing rigging the election was posted to Facebook. The audio was a **deepfake** â€” Simecka's voice was synthesized. Distribution fell into Slovakia's mandated 48-hour pre-election quiet period, limiting official corrections. **Progressive Slovakia lost; pro-Russian/Putin-aligned Robert Fico's SMER-SD party won.**
+**Two days before Slovakia's parliamentary election (2023-09-30)**, fake AI-generated audio purportedly featuring **[[Michal Simecka]]** (leader of Progressive Slovakia) and journalist Monika Todova discussing rigging the election was posted to Facebook. The audio was a **deepfake** -- Simecka's voice was synthesized. Distribution fell into Slovakia's mandated 48-hour pre-election quiet period, limiting official corrections. **Progressive Slovakia lost; pro-Russian/Putin-aligned Robert Fico's SMER-SD party won.**
 
 ## Significance
 

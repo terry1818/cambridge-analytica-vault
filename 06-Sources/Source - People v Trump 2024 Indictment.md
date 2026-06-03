@@ -15,8 +15,8 @@ aliases: ["People v Trump 2024 Indictment", "Source: People v Trump 2024 Indictm
 **Judge**: [[Juan Merchan]]
 **Indictment unsealed**: April 4, 2023 (returned March 30, 2023)
 **Trial**: April 15 - May 30, 2024
-**Verdict**: May 30, 2024 â€” **guilty on all 34 counts**
-**Sentencing**: January 10, 2025 â€” unconditional discharge
+**Verdict**: May 30, 2024 -- **guilty on all 34 counts**
+**Sentencing**: January 10, 2025 -- unconditional discharge
 
 ## Where to find it (primary source URLs)
 
@@ -28,7 +28,7 @@ aliases: ["People v Trump 2024 Indictment", "Source: People v Trump 2024 Indictm
 
 ## The 34 counts
 
-All 34 counts charged: **falsifying business records in the first degree** (NY Penal Law Â§ 175.10).
+All 34 counts charged: **falsifying business records in the first degree** (NY Penal Law § 175.10).
 
 Each count corresponded to a specific business record:
 - 9 counts: invoices (Cohen's invoices to Trump Org for "legal services")
@@ -36,9 +36,9 @@ Each count corresponded to a specific business record:
 - 12 counts: ledger entries (Trump Organization general ledger)
 - 2 counts: additional vouchers
 
-First-degree (felony) enhancement required proof of intent to commit or conceal **another crime** â€” argued as violation of NY Election Law Â§ 17-152 (conspiracy to promote a candidacy by unlawful means) including federal campaign finance violations and state tax violations.
+First-degree (felony) enhancement required proof of intent to commit or conceal **another crime** -- argued as violation of NY Election Law § 17-152 (conspiracy to promote a candidacy by unlawful means) including federal campaign finance violations and state tax violations.
 
-## Statement of Facts â€” key passages
+## Statement of Facts -- key passages
 
 The Statement of Facts filed with the indictment laid out the scheme:
 
@@ -63,11 +63,11 @@ Specific scheme elements:
 
 ### Witness testimony
 
-- **[[Michael Cohen]]** â€” key witness; 6 days of testimony April-May 2024
-- **[[Stormy Daniels]]** â€” testified to 2006 encounter + 2016 negotiation
-- **[[David Pecker]]** (AMI CEO) â€” testified to August 2015 Trump Tower agreement; granted immunity
-- **[[Hope Hicks]]** â€” former Trump WH communications director; campaign awareness
-- **[[Madeleine Westerhout]]** â€” former Trump assistant; Trump Org workflow
+- **[[Michael Cohen]]** -- key witness; 6 days of testimony April-May 2024
+- **[[Stormy Daniels]]** -- testified to 2006 encounter + 2016 negotiation
+- **[[David Pecker]]** (AMI CEO) -- testified to August 2015 Trump Tower agreement; granted immunity
+- **[[Hope Hicks]]** -- former Trump WH communications director; campaign awareness
+- **[[Madeleine Westerhout]]** -- former Trump assistant; Trump Org workflow
 - Trump Organization accountants
 - FBI agents
 
@@ -83,7 +83,7 @@ Trump's response statement, immediately after verdict:
 
 ## Sentencing (January 10, 2025)
 
-Judge Merchan imposed **unconditional discharge** â€” no incarceration, no probation, no fine. Sentence rationale included consideration of Trump's election to a second presidential term and constitutional concerns about restricting a President-elect.
+Judge Merchan imposed **unconditional discharge** -- no incarceration, no probation, no fine. Sentence rationale included consideration of Trump's election to a second presidential term and constitutional concerns about restricting a President-elect.
 
 Important: unconditional discharge **preserves the conviction itself**. Trump remains a convicted felon as a matter of law.
 
@@ -106,10 +106,10 @@ Trump filed notice of appeal. Multiple appellate filings have proceeded; status 
 
 ## Connections in this vault
 
-- [[People v Trump NY Hush Money 2024]] â€” case event note
-- [[Donald Trump]] â€” convicted defendant
-- [[Michael Cohen]] Â· [[Stormy Daniels]] Â· [[David Pecker]] Â· [[Karen McDougal]] Â· [[Hope Hicks]] Â· [[Madeleine Westerhout]] â€” witnesses
-- [[Alvin Bragg]] â€” Manhattan DA
-- [[Juan Merchan]] â€” trial judge
-- [[AMI]] Â· [[National Enquirer]] â€” catch-and-kill corporate vehicles
+- [[People v Trump NY Hush Money 2024]] -- case event note
+- [[Donald Trump]] -- convicted defendant
+- [[Michael Cohen]] · [[Stormy Daniels]] · [[David Pecker]] · [[Karen McDougal]] · [[Hope Hicks]] · [[Madeleine Westerhout]] -- witnesses
+- [[Alvin Bragg]] -- Manhattan DA
+- [[Juan Merchan]] -- trial judge
+- [[AMI]] · [[National Enquirer]] -- catch-and-kill corporate vehicles
 - [[Trump Investigations MOC]]

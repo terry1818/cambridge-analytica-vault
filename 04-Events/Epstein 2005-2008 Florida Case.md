@@ -13,7 +13,7 @@ aliases: ["Epstein NPA", "2007 NPA", "Acosta Plea Deal"]
 
 The Palm Beach County investigation, federal grand jury, and ultimate Non-Prosecution Agreement that allowed [[Jeffrey Epstein]] to avoid federal charges and plead to two state counts in exchange for 13 months in a county jail with 12-hour-per-day work release.
 
-This is the single most consequential failure-of-prosecution event in the Epstein arc. The 2007 NPA's terms â€” particularly the co-conspirator immunity clause â€” are widely treated as evidence of a level of protection that exceeded normal prosecutorial discretion.
+This is the single most consequential failure-of-prosecution event in the Epstein arc. The 2007 NPA's terms -- particularly the co-conspirator immunity clause -- are widely treated as evidence of a level of protection that exceeded normal prosecutorial discretion.
 
 ## Timeline
 
@@ -34,7 +34,7 @@ This is the single most consequential failure-of-prosecution event in the Epstei
 
 - **Co-conspirator immunity clause** (tier 1): NPA granted immunity from federal prosecution to "any potential co-conspirators of Epstein," naming [[Sarah Kellen]], [[Adriana Ross]], [[Lesley Groff]], [[Nadia Marcinkova]]. Extraordinarily unusual prospective immunity for unnamed parties. [[Source: 2007 Non-Prosecution Agreement]].
 - **Sealing** (tier 1): NPA was sealed; victims were not notified per CVRA requirements.
-- **Plea**: Epstein pled to (1) solicitation of prostitution and (2) solicitation of prostitution from a minor â€” both Florida state charges, not federal sex trafficking.
+- **Plea**: Epstein pled to (1) solicitation of prostitution and (2) solicitation of prostitution from a minor -- both Florida state charges, not federal sex trafficking.
 - **Sentence**: 13 months county jail with 12-hour-per-day work release at his Palm Beach office; only 1 year actually served at Palm Beach County Stockade.
 - **Restitution / civil settlements**: NPA acknowledged ~40 victim civil claims; Epstein settled most for undisclosed sums.
 
@@ -44,15 +44,15 @@ The 2008 NPA is the structural anchor of the Epstein arc. The level of protectio
 - Federal sex trafficking charges with the documentary evidence in hand carried decades of potential prison time
 - The co-conspirator immunity clause is essentially never granted in trafficking cases
 - The CVRA violation (no victim notification) is a procedural failure of the kind that prompts investigation
-- Acosta later allegedly told the Trump transition team that "Epstein belonged to intelligence" â€” though Acosta has denied this. See [[Hypothesis - Epstein had intelligence-service connections]].
+- Acosta later allegedly told the Trump transition team that "Epstein belonged to intelligence" -- though Acosta has denied this. See [[Hypothesis - Epstein had intelligence-service connections]].
 
 ## Connections
 
-- [[Alex Acosta]] â€” US Attorney SDFL who signed the NPA
-- [[Jeffrey Epstein]] â€” defendant
-- [[Sarah Kellen]] Â· [[Nadia Marcinkova]] Â· [[Lesley Groff]] Â· [[Adriana Ross]] â€” named co-conspirators granted immunity
-- [[Michael Reiter]] Â· [[Joe Recarey]] â€” Palm Beach PD lead investigators who escalated to FBI
-- [[Kenneth Marra]] â€” federal judge who ruled the NPA violated CVRA in 2019
+- [[Alex Acosta]] -- US Attorney SDFL who signed the NPA
+- [[Jeffrey Epstein]] -- defendant
+- [[Sarah Kellen]] · [[Nadia Marcinkova]] · [[Lesley Groff]] · [[Adriana Ross]] -- named co-conspirators granted immunity
+- [[Michael Reiter]] · [[Joe Recarey]] -- Palm Beach PD lead investigators who escalated to FBI
+- [[Kenneth Marra]] -- federal judge who ruled the NPA violated CVRA in 2019
 
 ## Open questions
 

@@ -20,7 +20,7 @@ American hedge fund manager (co-CEO of Renaissance Technologies until November 2
 
 ## Key facts
 
-- **Investment in CA:** â‰¥$15M (NYT estimate)
+- **Investment in CA:** ≥$15M (NYT estimate)
 - **Trump support:** initially via Cruz; switched after May 2016 with daughter Rebekah
 - **Vehicle:** [[Make America Number 1 Super PAC]] (pro-Trump, paid CA)
 - **Foundation:** [[Mercer Family Foundation]] (former CA-staff member [[Jacquelyn James-Varga]] later joined SCL as director)
@@ -28,21 +28,21 @@ American hedge fund manager (co-CEO of Renaissance Technologies until November 2
 
 ## Connections
 
-- **Daughter:** [[Rebekah Mercer]] â€” also CA investor, Emerdata director
-- **Daughter:** Jennifer Mercer â€” Emerdata director (March 2018)
-- **Political ally:** [[Steve Bannon]] â€” CA VP, co-funder strategy
+- **Daughter:** [[Rebekah Mercer]] -- also CA investor, Emerdata director
+- **Daughter:** Jennifer Mercer -- Emerdata director (March 2018)
+- **Political ally:** [[Steve Bannon]] -- CA VP, co-funder strategy
 - **Major donee:** [[Ted Cruz]] presidential campaign (2016)
 - **Major donee:** [[Donald Trump]] presidential campaign (2016)
 - **Supported publication:** [[Breitbart News]] (via Steve Bannon)
 
 ## Timeline
 
-- `2014-2016` â€” Funds CA buildout; SCL/CA enters US market
-- `2015-2016` â€” Backs Ted Cruz primary campaign
-- `2016-05` â€” Cruz drops out; Mercers switch support to Trump
-- `2017-02-26` â€” Cadwalladr profile in The Observer
-- `2017-11` â€” Steps down as co-CEO of Renaissance Technologies
-- `2018-03` â€” Daughters Jennifer and Rebekah become directors of [[Emerdata Limited]]
+- `2014-2016` -- Funds CA buildout; SCL/CA enters US market
+- `2015-2016` -- Backs Ted Cruz primary campaign
+- `2016-05` -- Cruz drops out; Mercers switch support to Trump
+- `2017-02-26` -- Cadwalladr profile in The Observer
+- `2017-11` -- Steps down as co-CEO of Renaissance Technologies
+- `2018-03` -- Daughters Jennifer and Rebekah become directors of [[Emerdata Limited]]
 
 ## Open questions
 
@@ -95,7 +95,7 @@ Renaissance Technologies (founded 1982 by James Simons) is the source of the wea
 
 The wealth source matters because it explains the operational style: Mercer's training as a Bayesian statistician (originally at IBM Research, where he worked on machine translation and speech recognition before joining Renaissance) is what produced his preference for data-driven persuasion infrastructure over traditional broadcast advertising. The CA bet, in particular, reads as a quant-finance executive applying the same analytical posture to political markets that Renaissance applied to financial markets.
 
-Renaissance has been in long-running IRS litigation over "basket options" tax structures it used to convert short-term gains into long-term capital gains â€” a dispute that produced a $7 billion settlement in 2021. The case is outside the vault's primary scope but is contextually relevant because it documents the family-office structures through which Mercer wealth has moved into the political-money pipeline.
+Renaissance has been in long-running IRS litigation over "basket options" tax structures it used to convert short-term gains into long-term capital gains -- a dispute that produced a $7 billion settlement in 2021. The case is outside the vault's primary scope but is contextually relevant because it documents the family-office structures through which Mercer wealth has moved into the political-money pipeline.
 
 ## Specific political-money disbursements
 

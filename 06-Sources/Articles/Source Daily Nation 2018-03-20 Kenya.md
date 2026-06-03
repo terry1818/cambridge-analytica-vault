@@ -19,7 +19,7 @@ Daily Nation. (2018-03-20). "Revealed: Cambridge Analytica says it worked for Uh
 
 ## What this article established
 
-In the days after the Wylie disclosures and Channel 4 sting, Kenyas Daily Nation â€” the countrys largest daily newspaper â€” reported on CAs documented work for President [[Uhuru Kenyatta]]s campaigns. The article:
+In the days after the Wylie disclosures and Channel 4 sting, Kenyas Daily Nation — the countrys largest daily newspaper — reported on CAs documented work for President [[Uhuru Kenyatta]]s campaigns. The article:
 
 - Confirmed CAs role in both 2013 and 2017 Kenyatta campaigns
 - Reported the [[360 Media]] partnership
@@ -28,9 +28,9 @@ In the days after the Wylie disclosures and Channel 4 sting, Kenyas Daily Nation
 
 ## Significance
 
-Kenyan press coverage carries particular weight because the Daily Nation operates under [[Tom Mshindi]] (Editor-in-Chief of Nation Media Group) â€” and Mshindi himself was a co-founder of 360 Media, the CA-partner firm. The acknowledgment in Mshindis own paper of the CA work is striking.
+Kenyan press coverage carries particular weight because the Daily Nation operates under [[Tom Mshindi]] (Editor-in-Chief of Nation Media Group) — and Mshindi himself was a co-founder of 360 Media, the CA-partner firm. The acknowledgment in Mshindis own paper of the CA work is striking.
 
-The Kenya story is also significant as part of the **developing-world test bed** thesis â€” CAs methods were refined in African elections years before being exported to the West. See [[Lens - Developing World Test Bed]].
+The Kenya story is also significant as part of the **developing-world test bed** thesis — CAs methods were refined in African elections years before being exported to the West. See [[Lens - Developing World Test Bed]].
 
 ## Why this source matters in the vault
 

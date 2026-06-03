@@ -18,7 +18,7 @@ The three wings:
 |---|---|---|---|
 | **Patron class** | Mercer, Koch, Thiel, Heritage Foundation donors, Saudi PIF via [[Affinity Partners]] | Permanent regulatory rollback; constitutional capture of property / contract law; tax structure; deregulation | Multi-generational |
 | **Theocratic / mass-mobilization** | Christian nationalists; [[Russ Vought]], [[Michael Farris]], [[Alliance Defending Freedom|ADF]], [[The Fellowship]] / Family, [[Capitol Ministries]] / Drollinger, [[United in Purpose]] / Dallas, Heritage social-policy wing | End separation of church and state; restrict reproductive rights, LGBTQ+ rights, civil rights enforcement; education capture | Generational (Dobbs was proof of concept) |
-| **Tech / surveillance** | Thiel network, [[Palantir Technologies]], [[Flock Safety]], DOGE personnel, A16Z | State-scale data integration; AI-mediated population control; private contractors as state apparatus | Decadal Ã¢â‚¬â€ betting on permanence |
+| **Tech / surveillance** | Thiel network, [[Palantir Technologies]], [[Flock Safety]], DOGE personnel, A16Z | State-scale data integration; AI-mediated population control; private contractors as state apparatus | Decadal — betting on permanence |
 
 ## Why these are best understood as separate wings
 
@@ -59,7 +59,7 @@ The vault has gathered substantial evidence matching scholarly fascism criteria 
 
 Most current scholarship places the US 2025-26 on the **descending slope but pre-consolidation**. Robert Paxton himself flipped to using "fascism" after Jan 6; Levitsky and Ziblatt prefer "competitive authoritarianism"; Snyder, Stanley, and Ben-Ghiat use "fascism" directly.
 
-**The honest analytical term:** "Patron-class authoritarianism with theocratic and surveillance components" ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â a coalition rather than a unified ideology. Whether it consolidates into textbook fascism is the open empirical question.
+**The honest analytical term:** "Patron-class authoritarianism with theocratic and surveillance components" â€” a coalition rather than a unified ideology. Whether it consolidates into textbook fascism is the open empirical question.
 
 ## Strategic implication for counter-strategy
 
@@ -77,13 +77,13 @@ The patrons would drop the theocrats if financial costs got high enough (recall:
 
 This hypothesis draws additional evidence from three documentaries now catalogued in the vault:
 
-- [[Source The Family Netflix 2019]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â documents the theocratic wing's pre-existing infrastructure (the [[The Fellowship]]; [[Doug Coe]]; National Prayer Breakfast; C Street; Uganda Anti-Homosexuality Act lineage)
-- [[Source The Great Hack Netflix 2019]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â documents the tech-surveillance wing's CA-era origin and methodology
-- [[Source People You May Know 2020]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â documents the **direct operational fusion** of the tech and theocratic wings via [[United in Purpose]], [[Gloo]], [[COFI]], and Koch-funded church-targeting infrastructure
+- [[Source The Family Netflix 2019]] â€” documents the theocratic wing's pre-existing infrastructure (the [[The Fellowship]]; [[Doug Coe]]; National Prayer Breakfast; C Street; Uganda Anti-Homosexuality Act lineage)
+- [[Source The Great Hack Netflix 2019]] â€” documents the tech-surveillance wing's CA-era origin and methodology
+- [[Source People You May Know 2020]] â€” documents the **direct operational fusion** of the tech and theocratic wings via [[United in Purpose]], [[Gloo]], [[COFI]], and Koch-funded church-targeting infrastructure
 
 ## Current confidence
 
-`#confidence/high` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â supported by:
+`#confidence/high` â€” supported by:
 1. Documented institutional separation (different orgs, different funding sources, different personnel)
 2. Documented institutional bridges (Heritage; ALEC; Conservative Partnership Institute as coordinator)
 3. Documented internal tensions (theocrats vs Thiel atheism; patron class vs religious frame)
@@ -107,13 +107,13 @@ The app's threat-model should:
 
 ## Related vault notes
 
-- [[Lens - 2024-2026 Power Map]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the architecture this hypothesis interprets
-- [[Hypothesis - COS is the permanent capture arm of Project 2025]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the specific permanent-capture vector
-- [[Hypothesis - Federal database supersedes CA model]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the tech-wing operational thesis
-- [[Counter-COS Strategy for the Left]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â counter-strategy infrastructure spec
-- [[The Fellowship]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â theocratic-wing deep infrastructure
-- [[Capitol Ministries]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â theocratic-wing Trump-era operating arm
-- [[United in Purpose]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â fusion point: theocratic + tech wings
+- [[Lens - 2024-2026 Power Map]] â€” the architecture this hypothesis interprets
+- [[Hypothesis - COS is the permanent capture arm of Project 2025]] â€” the specific permanent-capture vector
+- [[Hypothesis - Federal database supersedes CA model]] â€” the tech-wing operational thesis
+- [[Counter-COS Strategy for the Left]] â€” counter-strategy infrastructure spec
+- [[The Fellowship]] â€” theocratic-wing deep infrastructure
+- [[Capitol Ministries]] â€” theocratic-wing Trump-era operating arm
+- [[United in Purpose]] â€” fusion point: theocratic + tech wings
 
 ## Sources
 
@@ -180,7 +180,7 @@ See [[Hypothesis - Crypto as direct foreign-payments vehicle]] and [[Lens - The 
 Originally [[Alliance Defending Freedom]] was the only judicial-infrastructure entity. Added: [[Federalist Society]] (~70K members, all 3 Trump SCOTUS appointments), [[Leonard Leo]] ($1.6B Marble Freedom Trust war chest), [[Marble Freedom Trust]] (largest single political donation in US history). This is **the judicial spine** of the broader coalition.
 
 ### International dimension now mapped
-[[International Parallel Networks]] documents the global circuit. The US movement is part of an international coalition coordinated through [[CPAC International]] franchises, [[National Conservatism]] conferences, and personal Trump-OrbÃ¡n-Milei relationships. Counter-strategy must operate internationally.
+[[International Parallel Networks]] documents the global circuit. The US movement is part of an international coalition coordinated through [[CPAC International]] franchises, [[National Conservatism]] conferences, and personal Trump-Orb-n-Milei relationships. Counter-strategy must operate internationally.
 
 ### Counter-architecture gap quantified
 [[Democracy Alliance]] is the closest Left analog to [[Council for National Policy]]. **Operationally 10-20x weaker** by funding, personnel pipeline, media infrastructure, state-level coverage. **The counter-architecture asymmetry is the central structural problem** for any Left counter-strategy.
@@ -209,7 +209,7 @@ See [[Hypothesis - Crypto as direct foreign-payments vehicle]] and [[Lens - The 
 Originally [[Alliance Defending Freedom]] was the only judicial-infrastructure entity. Added: [[Federalist Society]] (~70K members, all 3 Trump SCOTUS appointments), [[Leonard Leo]] ($1.6B Marble Freedom Trust war chest), [[Marble Freedom Trust]] (largest single political donation in US history). This is **the judicial spine** of the broader coalition.
 
 ### International dimension now mapped
-[[International Parallel Networks]] documents the global circuit. The US movement is part of an international coalition coordinated through [[CPAC International]] franchises, [[National Conservatism]] conferences, and personal Trump-OrbÃ¡n-Milei relationships. Counter-strategy must operate internationally.
+[[International Parallel Networks]] documents the global circuit. The US movement is part of an international coalition coordinated through [[CPAC International]] franchises, [[National Conservatism]] conferences, and personal Trump-Orb-n-Milei relationships. Counter-strategy must operate internationally.
 
 ### Counter-architecture gap quantified
 [[Democracy Alliance]] is the closest Left analog to [[Council for National Policy]]. **Operationally 10-20x weaker** by funding, personnel pipeline, media infrastructure, state-level coverage. **The counter-architecture asymmetry is the central structural problem** for any Left counter-strategy.

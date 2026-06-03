@@ -21,25 +21,25 @@ US data analytics company specializing in **big-data integration and intelligenc
 
 ## Two main product lines
 
-- **Gotham** â€” for government / intelligence / military clients; combines disparate data sources for analysis
-- **Foundry** â€” for commercial clients; same architecture applied to enterprise data
+- **Gotham** -- for government / intelligence / military clients; combines disparate data sources for analysis
+- **Foundry** -- for commercial clients; same architecture applied to enterprise data
 
 ## Government contract scope (expanding dramatically 2024-2026)
 
 Historical (2003-2020s):
-- **CIA** â€” early major customer (In-Q-Tel investment)
-- **NSA** â€” surveillance work
-- **FBI** â€” counterterrorism
-- **ICE** â€” immigration enforcement / deportation operations (massive controversy)
-- **US Army, Air Force, Marines** â€” operational intelligence
-- **State Department, DHS** â€” various contracts
+- **CIA** -- early major customer (In-Q-Tel investment)
+- **NSA** -- surveillance work
+- **FBI** -- counterterrorism
+- **ICE** -- immigration enforcement / deportation operations (massive controversy)
+- **US Army, Air Force, Marines** -- operational intelligence
+- **State Department, DHS** -- various contracts
 - **NHS UK** (COVID-era contracts; controversial)
 
 Expanded under Trump 2.0 (2025-2026):
-- **DOGE** â€” reportedly primary contractor for cross-agency data centralization
-- **IRS** â€” taxpayer data systems
-- **HHS / Medicare / Medicaid** â€” patient data systems
-- **OPM** â€” federal employee data
+- **DOGE** -- reportedly primary contractor for cross-agency data centralization
+- **IRS** -- taxpayer data systems
+- **HHS / Medicare / Medicaid** -- patient data systems
+- **OPM** -- federal employee data
 - Multiple new domestic-agency contracts
 
 ## CA-adjacency (the under-reported thread)
@@ -56,18 +56,18 @@ Per [[Source DCMS Final Report 2019]] and DCMS Committee testimony:
 
 Palantir is structurally relevant on multiple dimensions:
 
-1. **Methodology overlap with CA** â€” both built graph-based audience-segmentation and targeting infrastructure (Palantir for government/military; CA for political/commercial)
-2. **Thiel network** â€” Palantir is the **largest revenue-generating Thiel-network entity** and the financial engine of the broader network
-3. **DOGE-era data state** â€” Palantir is reportedly the **primary technology contractor for the Trump 2.0 federal data centralization**
-4. **ICE / deportation enforcement** â€” Palantir-built systems are central to mass-deportation operations under Trump 2.0
-5. **Convergence with CA-style targeting** â€” Palantir's government infrastructure now does at federal-state-actor scale what CA was doing at political-campaign scale
+1. **Methodology overlap with CA** -- both built graph-based audience-segmentation and targeting infrastructure (Palantir for government/military; CA for political/commercial)
+2. **Thiel network** -- Palantir is the **largest revenue-generating Thiel-network entity** and the financial engine of the broader network
+3. **DOGE-era data state** -- Palantir is reportedly the **primary technology contractor for the Trump 2.0 federal data centralization**
+4. **ICE / deportation enforcement** -- Palantir-built systems are central to mass-deportation operations under Trump 2.0
+5. **Convergence with CA-style targeting** -- Palantir's government infrastructure now does at federal-state-actor scale what CA was doing at political-campaign scale
 
 ## Leadership
 
-- **Alex Karp** â€” CEO since founding; eccentric self-described "progressive liberal" who has nonetheless aligned Palantir with right-wing government priorities
-- **[[Peter Thiel]]** â€” co-founder; chairman; ideological direction
-- **Stephen Cohen, Joe Lonsdale** â€” co-founders (Lonsdale later founded 8VC)
-- **Shyam Sankar** â€” President; key business development leader
+- **Alex Karp** -- CEO since founding; eccentric self-described "progressive liberal" who has nonetheless aligned Palantir with right-wing government priorities
+- **[[Peter Thiel]]** -- co-founder; chairman; ideological direction
+- **Stephen Cohen, Joe Lonsdale** -- co-founders (Lonsdale later founded 8VC)
+- **Shyam Sankar** -- President; key business development leader
 
 ## Connections
 

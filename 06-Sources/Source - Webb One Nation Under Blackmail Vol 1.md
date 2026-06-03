@@ -28,25 +28,25 @@ aliases: ["Webb - One Nation Under Blackmail Vol 1", "Source: Webb - One Nation 
 
 ## Volume structure (16 chapters)
 
-**Part I â€” The Mob and the Hidden Hand (Chapters 1-4)**:
+**Part I -- The Mob and the Hidden Hand (Chapters 1-4)**:
 - Prohibition-era organized crime
 - WWII-era intelligence collaboration with the Mob (Operation Underworld, Lansky)
 - Post-WWII OSS-to-CIA transition
 - The Mob-Israel-CIA nexus
 
-**Part II â€” The Anti-Communist Underground (Chapters 5-8)**:
+**Part II -- The Anti-Communist Underground (Chapters 5-8)**:
 - John Birch Society / Western Goals Institute
 - Lewis Rosenstiel and the Hoover compromise (the "Plaza Hotel Blue Room")
 - Roy Cohn as nexus figure
 - The American Christian/right-wing/intelligence overlap
 
-**Part III â€” The Bronfman and Mega Group Era (Chapters 9-12)**:
+**Part III -- The Bronfman and Mega Group Era (Chapters 9-12)**:
 - The Bronfman family lineage from Prohibition
 - Edgar Bronfman Sr. and the World Jewish Congress
 - Mega Group founding
 - The 1980s-1990s Israeli intelligence reorientation in US elite networks
 
-**Part IV â€” Pre-Epstein Setting (Chapters 13-16)**:
+**Part IV -- Pre-Epstein Setting (Chapters 13-16)**:
 - Robert Maxwell era
 - Bear Stearns and Epstein origins
 - Wexner connection
@@ -69,7 +69,7 @@ The synthesis argument is Tier 2 (inferential pattern from substantial primary-s
 
 Webb on the [[Hoover Blue Room Allegation]]:
 
-> "Anthony Summers' source for the Hoover blackmail story, Susan Rosenstiel, was the fourth wife of Lewis Rosenstiel... While Susan Rosenstiel's perjury conviction has been used to dismiss her account, the larger pattern â€” that Rosenstiel and Roy Cohn ran a blackmail operation that included sexual material from the Plaza Hotel suites â€” is corroborated by multiple independent sources including law enforcement officers who pursued various of these networks."
+> "Anthony Summers' source for the Hoover blackmail story, Susan Rosenstiel, was the fourth wife of Lewis Rosenstiel... While Susan Rosenstiel's perjury conviction has been used to dismiss her account, the larger pattern -- that Rosenstiel and Roy Cohn ran a blackmail operation that included sexual material from the Plaza Hotel suites -- is corroborated by multiple independent sources including law enforcement officers who pursued various of these networks."
 
 ### Quoted passage on Mega Group
 
@@ -81,7 +81,7 @@ Webb on the Mega Group's founding moment:
 
 Webb on the Maxwell-Mossad allegation:
 
-> "The strongest contemporary evidence for Robert Maxwell's Mossad role comes not from Ari Ben-Menashe alone â€” though Ben-Menashe's account is substantial â€” but from the convergence of multiple independent sources including Seymour Hersh's pre-Maxwell-death reporting, Thomas and Dillon's Israel's Superspy account, and the structural pattern of Maxwell's burial on the Mt. of Olives attended by Israeli intelligence chiefs."
+> "The strongest contemporary evidence for Robert Maxwell's Mossad role comes not from Ari Ben-Menashe alone -- though Ben-Menashe's account is substantial -- but from the convergence of multiple independent sources including Seymour Hersh's pre-Maxwell-death reporting, Thomas and Dillon's Israel's Superspy account, and the structural pattern of Maxwell's burial on the Mt. of Olives attended by Israeli intelligence chiefs."
 
 ## Tier framework for Webb's claims in this vault
 
@@ -105,11 +105,11 @@ Webb operates the independent reporting outlet *Unlimited Hangout* (https://unli
 
 ## Connections in this vault
 
-- [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]] â€” primary hypothesis based on this source
+- [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]] -- primary hypothesis based on this source
 - [[Hypothesis - Epstein had intelligence-service connections]]
 - [[Deep Dive - Epstein as Capstone of the Blackmail Architecture]]
 - [[Deep Dive - Israel-Epstein Architecture Bridge]]
-- [[Robert Maxwell]] Â· [[Ghislaine Maxwell]] Â· [[Jeffrey Epstein]] Â· [[Leslie Wexner]] Â· [[Mega Group]] â€” entities heavily covered
-- [[Hoover Blue Room Allegation]] Â· [[Meyer Lansky]] Â· [[Roy Cohn]] Â· [[Lewis Rosenstiel]] â€” predecessor architecture
-- [[Source: Webb - One Nation Under Blackmail Vol 2]] â€” Epstein operational era continuation
-- [[Source: Ben-Menashe - Profits of War]] Â· [[Source: Thomas and Dillon - Israel's Superspy]] Â· [[Source: Hersh - The Samson Option]] â€” corroborating sources
+- [[Robert Maxwell]] · [[Ghislaine Maxwell]] · [[Jeffrey Epstein]] · [[Leslie Wexner]] · [[Mega Group]] -- entities heavily covered
+- [[Hoover Blue Room Allegation]] · [[Meyer Lansky]] · [[Roy Cohn]] · [[Lewis Rosenstiel]] -- predecessor architecture
+- [[Source: Webb - One Nation Under Blackmail Vol 2]] -- Epstein operational era continuation
+- [[Source: Ben-Menashe - Profits of War]] · [[Source: Thomas and Dillon - Israel's Superspy]] · [[Source: Hersh - The Samson Option]] -- corroborating sources

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Philosophical/social movement; influenced AI safety funding; SBF largest pre-2022 donor; substantially discredited post-FTX
 tags: [concept, topic/llm-propaganda, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present]
@@ -15,7 +15,7 @@ Philosophical and social movement that argues people should use **evidence and r
 
 1. Some philanthropy is dramatically more effective than other philanthropy
 2. People should use reason to identify highest-impact giving opportunities
-3. **"Longtermism"** â€” humanity's far future is highly morally significant
+3. **"Longtermism"** -- humanity's far future is highly morally significant
 4. **Existential risk reduction** is among the highest-impact priorities
 5. **AI safety** is a leading existential risk concern
 
@@ -23,44 +23,44 @@ Philosophical and social movement that argues people should use **evidence and r
 
 EA is operationally relevant to the broader story because:
 
-1. **AI safety funding** â€” major EA donors funded AI safety research that became Anthropic and other AI labs
-2. **[[Sam Bankman-Fried]] as largest donor** â€” pre-2022 collapse, SBF was the single largest EA funder
-3. **Anthropic founding** â€” SBF's ~$500M investment came from EA-aligned motivation
-4. **Post-FTX collapse** â€” EA institutionally devastated; but operational outputs (Anthropic, AI labs, research infrastructure) survived
-5. **Tech Right co-option** â€” by 2023-2024, a16z and others attacked "AI safety" as EA-aligned regulatory capture; Trump 2.0 administration largely de-prioritized AI safety
+1. **AI safety funding** -- major EA donors funded AI safety research that became Anthropic and other AI labs
+2. **[[Sam Bankman-Fried]] as largest donor** -- pre-2022 collapse, SBF was the single largest EA funder
+3. **Anthropic founding** -- SBF's ~$500M investment came from EA-aligned motivation
+4. **Post-FTX collapse** -- EA institutionally devastated; but operational outputs (Anthropic, AI labs, research infrastructure) survived
+5. **Tech Right co-option** -- by 2023-2024, a16z and others attacked "AI safety" as EA-aligned regulatory capture; Trump 2.0 administration largely de-prioritized AI safety
 
-## EA â†’ AI safety â†’ Anthropic pipeline
+## EA → AI safety → Anthropic pipeline
 
-The EA â†’ AI safety â†’ Anthropic causal chain:
+The EA → AI safety → Anthropic causal chain:
 
 ```
 EA philosophy (2009+)
-    â†“ argues AI safety is high-priority cause
+    ↓ argues AI safety is high-priority cause
 EA-aligned researchers fund AI safety work
-    â†“ at Oxford (Future of Humanity Institute), MIRI, etc.
+    ↓ at Oxford (Future of Humanity Institute), MIRI, etc.
 OpenAI founded (2015) with mixed motivations including AI safety
-    â†“
+    ↓
 EA-aligned ex-OpenAI researchers found Anthropic (2021)
-    â†“ Dario + Daniela Amodei plus others
+    ↓ Dario + Daniela Amodei plus others
 SBF / FTX provides major early funding (~$500M)
-    â†“
+    ↓
 Anthropic becomes major AI lab
-    â†“
+    ↓
 SBF collapses 2022; Anthropic continues
-    â†“
+    ↓
 2023-2024: Tech Right (a16z, Andreessen) attacks AI safety as regulatory capture
-    â†“
+    ↓
 Trump 2.0 administration de-prioritizes AI safety
 ```
 
 ## EA-adjacent figures
 
-- **William MacAskill** â€” philosophical leader; *What We Owe the Future* (2022)
-- **Toby Ord** â€” Oxford philosopher
-- **Open Philanthropy** â€” Dustin Moskovitz / Cari Tuna foundation; major EA funder
-- **80,000 Hours** â€” EA career advising organization
+- **William MacAskill** -- philosophical leader; *What We Owe the Future* (2022)
+- **Toby Ord** -- Oxford philosopher
+- **Open Philanthropy** -- Dustin Moskovitz / Cari Tuna foundation; major EA funder
+- **80,000 Hours** -- EA career advising organization
 - **Center for Effective Altruism**
-- **MIRI** (Machine Intelligence Research Institute) â€” AI safety; long EA-funded
+- **MIRI** (Machine Intelligence Research Institute) -- AI safety; long EA-funded
 
 ## Post-FTX trajectory
 
@@ -76,8 +76,8 @@ After FTX collapse (November 2022):
 - AI safety (broader concept)
 - Longtermism
 - Existential risk
-- TESCREAL (critical framework for EA-adjacent ideology â€” coined by Ã‰mile Torres and Timnit Gebru)
-- Effective Accelerationism (e/acc) â€” the Tech Right anti-EA framework
+- TESCREAL (critical framework for EA-adjacent ideology -- coined by Émile Torres and Timnit Gebru)
+- Effective Accelerationism (e/acc) -- the Tech Right anti-EA framework
 
 ## Sources
 
@@ -88,7 +88,7 @@ After FTX collapse (November 2022):
 
 [[Effective Altruism]] (EA) is the philanthropic and intellectual movement whose institutional infrastructure intersects the vault network at several points. [[Sam Bankman-Fried]]'s FTX collapse exposed the degree of EA financial dependence on a single funder; the post-FTX EA realignment redistributed influence across [[Open Philanthropy]], [[GiveWell]]-adjacent vehicles, and the AI-safety wing including organisations like the [[Future of Humanity Institute]] (before its 2024 closure) and various adjacent AI-policy organisations.
 
-The AI-safety wing of EA overlaps personnel and funding with [[Anthropic]], [[OpenAI]] (historically), and the broader frontier-AI policy ecosystem. The [[TESCREAL]] critique (Ã‰mile Torres and Timnit Gebru) catalogues this overlap in the form of a (contested) ideological frame; the vault references the TESCREAL framing as one analytical lens without endorsing its full polemical scope.
+The AI-safety wing of EA overlaps personnel and funding with [[Anthropic]], [[OpenAI]] (historically), and the broader frontier-AI policy ecosystem. The [[TESCREAL]] critique (Émile Torres and Timnit Gebru) catalogues this overlap in the form of a (contested) ideological frame; the vault references the TESCREAL framing as one analytical lens without endorsing its full polemical scope.
 
 EA's relationship to the Tech Right is partially convergent (shared funder pools, shared interest in AI-safety-via-governance framings) and partially divergent (EA's stated political neutrality vs the Tech Right's explicit political alignment). The vault treats this as a research thread rather than a settled finding.
 

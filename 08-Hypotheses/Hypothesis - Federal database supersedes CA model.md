@@ -35,7 +35,7 @@ If true, threat-modeling and political-app design that still centers on "find th
 - Flock Safety 4,000+ ICE "side door" lookups in 2025 = distributed sensor mesh active
 - 17 of 24 cabinet-level officials tied to [[Project 2025]] organizations
 - [[Stephen Miller]] disclosed Palantir stockholding at time of ICE contract award
-- State of Surveillance 2025 reporting: "the Cambridge Analytica playbook is industry-standard" â€” meaning the *technique* has diffused while the *vendor structure* has reorganized ([[Source State of Surveillance 2025 CA Playbook]])
+- State of Surveillance 2025 reporting: "the Cambridge Analytica playbook is industry-standard" — meaning the *technique* has diffused while the *vendor structure* has reorganized ([[Source State of Surveillance 2025 CA Playbook]])
 
 ## Disconfirming evidence
 
@@ -46,7 +46,7 @@ If true, threat-modeling and political-app design that still centers on "find th
 
 ## Current confidence
 
-`#confidence/high` â€” multiple independent primary sources confirm both the capability transfer and the personnel pipeline. The structural shift is documented.
+`#confidence/high` — multiple independent primary sources confirm both the capability transfer and the personnel pipeline. The structural shift is documented.
 
 ## What would falsify this
 
@@ -56,7 +56,7 @@ If true, threat-modeling and political-app design that still centers on "find th
 
 ## Implications for the Political app
 
-The app's data model should **center the new architecture** â€” `Patron`, `Policy_Authoring_Org`, `Tech_Integrator`, `Sensor_Mesh`, `Federal_Contract`, `Coordinating_Hub` â€” and treat CA-style entities as **historical** rather than current threats. Track:
+The app's data model should **center the new architecture** — `Patron`, `Policy_Authoring_Org`, `Tech_Integrator`, `Sensor_Mesh`, `Federal_Contract`, `Coordinating_Hub` — and treat CA-style entities as **historical** rather than current threats. Track:
 
 - Federal contracts by agency-vendor pair (Palantir, Axon, Parsons, etc.)
 - Privacy Act lawsuit status

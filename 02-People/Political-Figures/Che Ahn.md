@@ -4,7 +4,7 @@ description: NAR apostle; HRock Church (Pasadena) founder; Harvest International
 tags: [person, role/theocratic-wing, role/nar, era/1973-2026]
 type: person
 full_name: Che Ahn
-aliases: [ChÃ© Ahn]
+aliases: [Ché Ahn]
 born: 1956
 nationality: American (Korean-American)
 roles: [Apostle (NAR), Founder HRock Church + Harvest International Ministry]
@@ -13,13 +13,13 @@ notable_for: Major NAR apostolic figure; refused 2022 NAR + Christian Nationalis
 status: active
 ---
 
-# ChÃ© Ahn
+# Ché Ahn
 
 ## Summary
 
-Korean-American **NAR apostle**. Founder of **HRock Church** (Pasadena, CA) + **Harvest International Ministry (HIM)** apostolic network. **Major politically-extreme NAR figure** â€” **refused to sign the October 2022 NAR and Christian Nationalism Statement** that 60+ Charismatic figures used to denounce Christian nationalism. **Refusal placed him explicitly in the politically-extreme wing** (alongside [[Lance Wallnau]], [[Cindy Jacobs]], Dutch Sheets) rather than the moderating-charismatic wing.
+Korean-American **NAR apostle**. Founder of **HRock Church** (Pasadena, CA) + **Harvest International Ministry (HIM)** apostolic network. **Major politically-extreme NAR figure** -- **refused to sign the October 2022 NAR and Christian Nationalism Statement** that 60+ Charismatic figures used to denounce Christian nationalism. **Refusal placed him explicitly in the politically-extreme wing** (alongside [[Lance Wallnau]], [[Cindy Jacobs]], Dutch Sheets) rather than the moderating-charismatic wing.
 
-**HRock Church Pasadena** is one of the most operationally consequential NAR-aligned congregations in California â€” provides apostolic-network infrastructure across the US + internationally. **Harvest International Ministry** apostolic network claims **20,000+ affiliated churches** in 65+ countries (per HIM materials; not independently verified).
+**HRock Church Pasadena** is one of the most operationally consequential NAR-aligned congregations in California -- provides apostolic-network infrastructure across the US + internationally. **Harvest International Ministry** apostolic network claims **20,000+ affiliated churches** in 65+ countries (per HIM materials; not independently verified).
 
 ## Key facts
 
@@ -30,13 +30,13 @@ Korean-American **NAR apostle**. Founder of **HRock Church** (Pasadena, CA) + **
 
 ## Connection to vault entities
 
-- [[New Apostolic Reformation]] â€” core figure
-- [[C. Peter Wagner]] â€” mentor / commissioning apostle
-- [[Lance Wallnau]] â€” peer NAR figure (politically-extreme wing)
-- [[Cindy Jacobs]] â€” peer NAR figure (politically-extreme wing)
-- [[NAR Christian Nationalism Statement 2022]] â€” refused to sign
-- [[Counter-NAR Strategy for the Left]] â€” Track 3 exposure target
-- [[NAR Megachurch State-by-State Concentration]] â€” HRock cluster
+- [[New Apostolic Reformation]] -- core figure
+- [[C. Peter Wagner]] -- mentor / commissioning apostle
+- [[Lance Wallnau]] -- peer NAR figure (politically-extreme wing)
+- [[Cindy Jacobs]] -- peer NAR figure (politically-extreme wing)
+- [[NAR Christian Nationalism Statement 2022]] -- refused to sign
+- [[Counter-NAR Strategy for the Left]] -- Track 3 exposure target
+- [[NAR Megachurch State-by-State Concentration]] -- HRock cluster
 
 ## Sources
 

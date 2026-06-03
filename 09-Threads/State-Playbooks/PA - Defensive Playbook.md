@@ -6,9 +6,9 @@ type: thread
 status: active
 ---
 
-# Defensive Playbook Ã¢â‚¬â€ Pennsylvania
+# Defensive Playbook — Pennsylvania
 
-**Priority: CRITICAL.** PA has TWO active COS resolutions (HR 206, HR 125) and is on COSA's 2026 target list. **Split chamber control creates leverage** Ã¢â‚¬â€ Democrats hold the House by a slim margin; this is the **operational path to defense.**
+**Priority: CRITICAL.** PA has TWO active COS resolutions (HR 206, HR 125) and is on COSA's 2026 target list. **Split chamber control creates leverage** — Democrats hold the House by a slim margin; this is the **operational path to defense.**
 
 ## Current bills (as of 2026-05-16)
 
@@ -24,18 +24,18 @@ status: active
 
 ## Three-track strategy
 
-### Track 1 Ã¢â‚¬â€ Speaker McClinton holds
+### Track 1 — Speaker McClinton holds
 - Direct coordination with McClinton's office
 - Provide her with legal briefings, polling, and political cover for blocking floor votes
 - National media pressure if needed (rare)
-- Critical: this is mostly a HOLD strategy Ã¢â‚¬â€ McClinton's instincts are already correct
+- Critical: this is mostly a HOLD strategy — McClinton's instincts are already correct
 
-### Track 2 Ã¢â‚¬â€ Apply pressure on Republican co-sponsors of HR 125 (R 20-2)
+### Track 2 — Apply pressure on Republican co-sponsors of HR 125 (R 20-2)
 Two Republicans broke ranks on HR 125. Identify them and amplify their position publicly. Apply suburban-Republican pressure on remaining 20 sponsors.
 
-### Track 3 Ã¢â‚¬â€ Watch the swing-D vote
+### Track 3 — Watch the swing-D vote
 PA House Dems include some conservative-leaning members. Identify and pre-empt any defection:
-- **Frank Burns** (D-72, Cambria County) Ã¢â‚¬â€ most likely defection risk; conservative D
+- **Frank Burns** (D-72, Cambria County) — most likely defection risk; conservative D
 - Other "Blue Dog" PA Dems
 
 If McClinton DOES schedule a vote (against expectation), the floor count matters. Whip the Dem caucus + 2-3 moderate-R defectors.

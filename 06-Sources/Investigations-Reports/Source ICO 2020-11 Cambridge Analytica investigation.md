@@ -24,8 +24,8 @@ UK Information Commissioner's Office (Elizabeth Denham). (2020-10-02). Letter to
 
 ## What the ICO did find
 
-- Confirmed Facebook had inadequate safeguards (resulting in the Â£500,000 fine, October 2019)
-- Found data protection failures by [[Leave.EU]] and [[Eldon Insurance]] â€” fined separately
+- Confirmed Facebook had inadequate safeguards (resulting in the £500,000 fine, October 2019)
+- Found data protection failures by [[Leave.EU]] and [[Eldon Insurance]] — fined separately
 - Found that SCL/CA's actual UK operations were less extensive than the Wylie/Kaiser characterization
 
 ## Disputed conclusions

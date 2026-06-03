@@ -1,12 +1,12 @@
 ---
 date: 2026-05-16
-description: Comprehensive deep-dive synthesizing the three-wing coalition structure (patron / theocratic / tech-surveillance) â€” origins, principals, operational logic, money mechanisms, time horizons, inter-wing tensions, fourth/fifth wing questions, coordination machinery, counter-strategy implications
+description: Comprehensive deep-dive synthesizing the three-wing coalition structure (patron / theocratic / tech-surveillance) — origins, principals, operational logic, money mechanisms, time horizons, inter-wing tensions, fourth/fifth wing questions, coordination machinery, counter-strategy implications
 tags: [thread, deep-dive, topic/coalition-structure, topic/three-wing, era/1935-2026]
 type: thread
 status: synthesis
 ---
 
-# Deep Dive â€” Three-Wing Coalition Anatomy
+# Deep Dive — Three-Wing Coalition Anatomy
 
 > Companion synthesis to [[Hypothesis - Three-wing coalition]] (the claim), [[Lens - 2024-2026 Power Map]] (the architecture), [[Patron Wing MOC]], [[Theocratic Wing Infrastructure 1935-2026]], and [[Three-wing coalition operational coordination mechanism]] (the mechanism). This file is the structural anatomy.
 
@@ -26,7 +26,7 @@ This deep dive walks through each wing's anatomy, the coordination machinery tha
 
 ---
 
-## Wing 1 â€” The Patron Class
+## Wing 1 — The Patron Class
 
 > **Operational function:** Supplies the capital substrate that capitalizes the operational infrastructure of the other two wings. Without sustained large-donor capital, the religious right's institutional infrastructure does not scale, and the tech right's frontier-AI / data-integration build-out does not happen.
 
@@ -36,7 +36,7 @@ The patron wing has the deepest temporal roots. It traces through:
 
 - **Bradley Foundation / Lynde and Harry Bradley Foundation** (Milwaukee; reorganized 1985 from Allen-Bradley sale to Rockwell)
 - **Sarah Scaife Foundation / Richard Mellon Scaife** (Pittsburgh; Mellon banking + Gulf Oil heir; ~1973 onward funded Heritage Foundation, AEI, multiple conservative-movement institutions)
-- **John M. Olin Foundation** (Olin Industries; chemicals + munitions; funded Federalist Society 1982 founding, multiple law-school chairs, "law and economics" movement â€” dissolved 2005 per founder's plan)
+- **John M. Olin Foundation** (Olin Industries; chemicals + munitions; funded Federalist Society 1982 founding, multiple law-school chairs, "law and economics" movement — dissolved 2005 per founder's plan)
 - **Koch network** (Charles + David Koch; Koch Industries energy wealth; built Cato Institute 1977, Americans for Prosperity 2004, comprehensive donor network 2010+)
 - **Bradley + Scaife + Olin** = the **"four sisters"** of original conservative-movement infrastructure funding 1970s-2000s (along with Lynde and Harry Bradley Foundation)
 
@@ -48,7 +48,7 @@ The **Mercer family** entrance changed patron-wing operational character:
 - [[Robert Mercer]] (Renaissance Technologies; quantitative-trading wealth)
 - [[Rebekah Mercer]] (operational liaison)
 - Funded Breitbart News (2011 onward), Cambridge Analytica (2014), Government Accountability Institute (Bannon/Schweizer), multiple Tea Party-era infrastructure
-- **Operational signature:** Mercers funded entities that produced **direct political effects** rather than just policy papers â€” operational rather than intellectual conservative-movement funding
+- **Operational signature:** Mercers funded entities that produced **direct political effects** rather than just policy papers — operational rather than intellectual conservative-movement funding
 - **Brought CA-era data-targeting methodology into US political-finance ecosystem**
 - **Pioneered the post-Citizens-United super-PAC era** (Make America Number 1 super PAC 2016)
 
@@ -56,25 +56,25 @@ The **Mercer family** entrance changed patron-wing operational character:
 
 The patron wing expanded substantially after Citizens United (2010), Dobbs (2022), and Trump 2024:
 
-- **[[Elon Musk]]** â€” $260M+ to Trump 2024 via [[America PAC]]; ongoing DOGE positioning
-- **[[Larry Ellison]] / [[David Ellison]]** â€” Oracle wealth; Stargate participation; Paramount Skydance media-empire acquisition (~$6B+ Larry equity)
-- **[[Peter Thiel]]** â€” Palantir / Founders Fund / Mithril Capital / Narya Capital (Vance-anchored)
-- **[[Marc Andreessen]]** â€” a16z; Techno-Optimist Manifesto 2023; Little Tech Agenda 2024
-- **David Sacks** â€” Trump 2.0 "AI and crypto czar"
-- **[[Wilks brothers]]** (Dan + Farris) â€” Texas oil; major PragerU + Christian-right funding
-- **[[Uihlein family]]** (Dick + Liz; Uline packaging) â€” heavy 2020-2026 election-administration-restriction funding
+- **[[Elon Musk]]** — $260M+ to Trump 2024 via [[America PAC]]; ongoing DOGE positioning
+- **[[Larry Ellison]] / [[David Ellison]]** — Oracle wealth; Stargate participation; Paramount Skydance media-empire acquisition (~$6B+ Larry equity)
+- **[[Peter Thiel]]** — Palantir / Founders Fund / Mithril Capital / Narya Capital (Vance-anchored)
+- **[[Marc Andreessen]]** — a16z; Techno-Optimist Manifesto 2023; Little Tech Agenda 2024
+- **David Sacks** — Trump 2.0 "AI and crypto czar"
+- **[[Wilks brothers]]** (Dan + Farris) — Texas oil; major PragerU + Christian-right funding
+- **[[Uihlein family]]** (Dick + Liz; Uline packaging) — heavy 2020-2026 election-administration-restriction funding
 - **[[Adelson family]]** ([[Sheldon Adelson]] died 2021; [[Miriam Adelson]] continued; $100M+ Trump 2024)
-- **[[Kushner family]] / [[Affinity Partners]]** â€” Saudi PIF $2B; sovereign-wealth crossover
+- **[[Kushner family]] / [[Affinity Partners]]** — Saudi PIF $2B; sovereign-wealth crossover
 
 ### Sovereign-wealth crossover (the structurally new vector)
 
 Post-2017 has seen **direct foreign-sovereign-wealth integration into the US patron-wing architecture** in ways that prior eras did not have:
 
-- **Saudi PIF â†’ [[Affinity Partners]]** ($2B; Jared Kushner)
-- **UAE MGX â†’ [[Project Stargate]]** ($100B+ slice of $500B AI infrastructure)
-- **Qatar Investment Authority** â€” various US real-estate + media positions
-- **Russia state-adjacent** â€” historical (Maria Butina / Torshin / NRA pre-2018; Tenet Media indictment 2024-09)
-- **PRC state-adjacent** â€” Emerdata / FSG / Hong Kong CITIC linkage (Erik Prince adjacency)
+- **Saudi PIF → [[Affinity Partners]]** ($2B; Jared Kushner)
+- **UAE MGX → [[Project Stargate]]** ($100B+ slice of $500B AI infrastructure)
+- **Qatar Investment Authority** — various US real-estate + media positions
+- **Russia state-adjacent** — historical (Maria Butina / Torshin / NRA pre-2018; Tenet Media indictment 2024-09)
+- **PRC state-adjacent** — Emerdata / FSG / Hong Kong CITIC linkage (Erik Prince adjacency)
 
 The structural significance: **the patron wing is no longer purely domestic large-donor architecture**. Foreign-sovereign capital is operationally integrated through specific named vehicles, and US political-finance regulation has not adapted.
 
@@ -83,8 +83,8 @@ The structural significance: **the patron wing is no longer purely domestic larg
 The patron wing operates through specific named capital-deployment structures:
 
 - **Donor-advised funds (DAFs):** [[DonorsTrust]] (the "Dark Money ATM"; routes ~$2B+ cumulative to conservative-movement orgs while anonymizing donor identity)
-- **[[Donors Capital Fund]]** â€” DonorsTrust sister vehicle
-- **[[Marble Freedom Trust]]** â€” $1.6B Barre Seid â†’ Leonard Leo 2020-21 transaction; **largest single political donation in US history**
+- **[[Donors Capital Fund]]** — DonorsTrust sister vehicle
+- **[[Marble Freedom Trust]]** — $1.6B Barre Seid → Leonard Leo 2020-21 transaction; **largest single political donation in US history**
 - **501(c)(4) advocacy arms:** [[Heritage Action]], [[CNP Action]], [[Faith and Freedom Coalition]], [[Americans for Prosperity]]
 - **PACs + super PACs:** [[Make America Number 1]] (Mercer 2016), [[America PAC]] (Musk 2024), [[Fairshake PAC]] (crypto industry 2024), [[Preserve America PAC]] (Miriam Adelson 2024)
 - **VC + PE vehicles:** [[Founders Fund]] (Thiel), [[Mithril Capital]] (Thiel), [[Narya Capital]] (Vance/Thiel Cincinnati), [[1789 Capital]] (Vance-adjacent), [[a16z]] (Andreessen Horowitz), [[Affinity Partners]] (Kushner Saudi PIF)
@@ -107,13 +107,13 @@ The patron wing operates through specific named capital-deployment structures:
 
 The patron wing is itself not monolithic. Sub-clusters with distinct character:
 
-1. **Legacy industrial-fortune dynastic** (Bradley, Scaife, Olin legacy, Koch) â€” multi-generational; ideologically libertarian-leaning; institutional-funder posture
-2. **New tech wealth** (Thiel, Musk, Ellison, Andreessen, Sacks) â€” first-generation; ideologically heterogeneous (Thiel atheist-rightist; Musk technocrat; Ellison establishment-Republican); operational posture
-3. **Quant / hedge-fund wealth** (Mercer, Paul Singer, others) â€” first-generation; data-driven; operational rather than ideological
-4. **Energy / extractive wealth** (Koch, Wilks brothers, Continental Resources / Harold Hamm) â€” multi-generational; geographically Texas/Oklahoma/Kansas; aligned with Christian-right on social policy
-5. **Israel-policy-aligned patron-class** (Adelson family, Bernard Marcus, Paul Singer, Mortimer Zuckerman, Ellison family) â€” cross-cuts with [[Israel Cluster MOC]]
-6. **Sovereign-wealth-adjacent** (Saudi PIF/Affinity Partners, UAE MGX, Qatar QIA) â€” new vector post-2017
-7. **Crypto-industry** ([[Fairshake PAC]], coinbase + ripple + a16z crypto, Tyler/Cameron Winklevoss) â€” distinct policy program; emerging fourth-wing candidate
+1. **Legacy industrial-fortune dynastic** (Bradley, Scaife, Olin legacy, Koch) — multi-generational; ideologically libertarian-leaning; institutional-funder posture
+2. **New tech wealth** (Thiel, Musk, Ellison, Andreessen, Sacks) — first-generation; ideologically heterogeneous (Thiel atheist-rightist; Musk technocrat; Ellison establishment-Republican); operational posture
+3. **Quant / hedge-fund wealth** (Mercer, Paul Singer, others) — first-generation; data-driven; operational rather than ideological
+4. **Energy / extractive wealth** (Koch, Wilks brothers, Continental Resources / Harold Hamm) — multi-generational; geographically Texas/Oklahoma/Kansas; aligned with Christian-right on social policy
+5. **Israel-policy-aligned patron-class** (Adelson family, Bernard Marcus, Paul Singer, Mortimer Zuckerman, Ellison family) — cross-cuts with [[Israel Cluster MOC]]
+6. **Sovereign-wealth-adjacent** (Saudi PIF/Affinity Partners, UAE MGX, Qatar QIA) — new vector post-2017
+7. **Crypto-industry** ([[Fairshake PAC]], coinbase + ripple + a16z crypto, Tyler/Cameron Winklevoss) — distinct policy program; emerging fourth-wing candidate
 
 ### Key vault entries for Wing 1
 
@@ -121,50 +121,50 @@ The patron wing is itself not monolithic. Sub-clusters with distinct character:
 
 ---
 
-## Wing 2 â€” The Theocratic Wing
+## Wing 2 — The Theocratic Wing
 
 > **Operational function:** Supplies the popular base, the multi-decade institutional continuity, the moral-legitimacy framing, and the mass-mobilization capability that pure capital cannot purchase.
 
-### Origins (the deepest taproot â€” 90 years)
+### Origins (the deepest taproot — 90 years)
 
-The theocratic wing has the longest temporal roots of the three â€” substantially predating the patron wing's modern form. Foundational moments:
+The theocratic wing has the longest temporal roots of the three — substantially predating the patron wing's modern form. Foundational moments:
 
-**Layer 1 â€” Pre-political foundation (1935-1965)**
+**Layer 1 — Pre-political foundation (1935-1965)**
 
 - **1935:** [[The Fellowship]] (also called The Family) founded by Abraham Vereide in Seattle as an elite-prayer-network; subsequently expanded under [[Doug Coe]] (1969-2017) into a quiet bipartisan political-religious network with international reach. The Fellowship operates the [[National Prayer Breakfast]] (since 1953 every February in DC). Documented in [[Source The Family Netflix 2019]] + Jeff Sharlet's 2008 + 2010 books.
 - **1942:** National Association of Evangelicals founded
 - **1947:** [[Chalcedon Foundation]] precursor activity; **R.J. Rushdoony** would formally found Chalcedon 1965
 
-**Layer 2 â€” Theological + intellectual foundation (1965-1979)**
+**Layer 2 — Theological + intellectual foundation (1965-1979)**
 
-- **1965:** **[[R.J. Rushdoony]]** founds **[[Chalcedon Foundation]]**; later publishes *Institutes of Biblical Law* (1973) â€” foundational document of **[[Christian Reconstructionism]]**. Argues for biblical-law-as-civil-law dominion theology. Influences **Gary North**, **Greg Bahnsen**, broader **dominionist** intellectual ecosystem.
+- **1965:** **[[R.J. Rushdoony]]** founds **[[Chalcedon Foundation]]**; later publishes *Institutes of Biblical Law* (1973) — foundational document of **[[Christian Reconstructionism]]**. Argues for biblical-law-as-civil-law dominion theology. Influences **Gary North**, **Greg Bahnsen**, broader **dominionist** intellectual ecosystem.
 - **1971:** **[[Alliance Defending Freedom]]** founded (originally Alliance Defense Fund) by Bill Bright, James Dobson, Larry Burkett, and others as Christian-right legal vehicle
-- **1973:** **Roe v. Wade** decided; mobilizes evangelical-Christian political organization (paradoxically â€” evangelicals had been ambivalent on abortion pre-1973; Dobbs reversal 2022 is the eventual outcome)
+- **1973:** **Roe v. Wade** decided; mobilizes evangelical-Christian political organization (paradoxically — evangelicals had been ambivalent on abortion pre-1973; Dobbs reversal 2022 is the eventual outcome)
 - **1973:** [[Council for National Policy]] precursor activity; CNP formally founds **1981**
 
-**Layer 3 â€” Mass-mobilization institutional buildout (1979-2000)**
+**Layer 3 — Mass-mobilization institutional buildout (1979-2000)**
 
 - **1979:** [[Moral Majority]] founded by Jerry Falwell Sr. (operational until 1989)
 - **1981:** [[Council for National Policy]] formally founded; subsequently becomes the **principal cross-organizational coordination venue** for the Christian right + adjacent patron-class. Quarterly meetings. ~400 members. Membership confidential.
-- **1983:** **[[Michael Farris]]** founds **[[HSLDA]]** (Home School Legal Defense Association) â€” foundational homeschool legal-protection infrastructure
+- **1983:** **[[Michael Farris]]** founds **[[HSLDA]]** (Home School Legal Defense Association) — foundational homeschool legal-protection infrastructure
 - **1989:** [[Christian Coalition]] founded by Pat Robertson + Ralph Reed
-- **1990s:** [[New Apostolic Reformation]] coined by **[[C. Peter Wagner]]** â€” charismatic-apostolic-prophetic movement; develops Seven Mountain Mandate dominionism
+- **1990s:** [[New Apostolic Reformation]] coined by **[[C. Peter Wagner]]** — charismatic-apostolic-prophetic movement; develops Seven Mountain Mandate dominionism
 - **2000:** Michael Farris founds **[[Patrick Henry College]]** in Purcellville VA as Christian-nationalist higher-ed extension of HSLDA
 
-**Layer 4 â€” Operational hardening (2000-2020)**
+**Layer 4 — Operational hardening (2000-2020)**
 
-- **2003:** [[Capitol Ministries]] founded by Ralph Drollinger â€” conducts weekly Bible studies for members of Congress + state legislators + cabinet
-- **2009:** [[United in Purpose]] founded (Bill Dallas) â€” operational church-targeting + voter-mobilization technology
-- **2010-2018:** [[Gloo]] data platform + [[COFI]] (Church Operational Field Intelligence) â€” CA-style data-targeting methodology applied to evangelical churches (documented in [[Source People You May Know 2020]])
+- **2003:** [[Capitol Ministries]] founded by Ralph Drollinger — conducts weekly Bible studies for members of Congress + state legislators + cabinet
+- **2009:** [[United in Purpose]] founded (Bill Dallas) — operational church-targeting + voter-mobilization technology
+- **2010-2018:** [[Gloo]] data platform + [[COFI]] (Church Operational Field Intelligence) — CA-style data-targeting methodology applied to evangelical churches (documented in [[Source People You May Know 2020]])
 - **2013:** [[Convention of States Action]] founded by Mark Meckler + Michael Farris (Article V constitutional-convention vector)
-- **2017:** Project Blitz â€” coordinated state-level Christian-nationalist legislation
+- **2017:** Project Blitz — coordinated state-level Christian-nationalist legislation
 - **2017:** [[Family Research Council]] designates "Pray Vote Stand Summit" as annual conference
 - **2020:** [[ReAwaken America Tour]] launched (Michael Flynn + Clay Clark + multiple NAR figures)
 
-**Layer 5 â€” Post-Dobbs / Trump 2.0 institutional integration (2022-2026)**
+**Layer 5 — Post-Dobbs / Trump 2.0 institutional integration (2022-2026)**
 
-- **2022-06-24:** **Dobbs v. Jackson** decided â€” ADF-architected litigation pathway; proof of concept for theocratic-wing institutional capacity
-- **2023:** [[Project 2025]] mandate document published â€” substantially Russ Vought / Michael Farris / Heritage authorship
+- **2022-06-24:** **Dobbs v. Jackson** decided — ADF-architected litigation pathway; proof of concept for theocratic-wing institutional capacity
+- **2023:** [[Project 2025]] mandate document published — substantially Russ Vought / Michael Farris / Heritage authorship
 - **2024-2025:** Trump 2.0 administration; [[Russ Vought]] OMB; [[Mike Huckabee]] Israel Ambassador; [[Pete Hegseth]] DefSec; multiple Christian-nationalist appointees
 - **2025:** [[MAHA Commission]] established (potential coalition-extending vehicle for Christian-right-adjacent + alt-health populations)
 
@@ -172,74 +172,74 @@ The theocratic wing has the longest temporal roots of the three â€” substan
 
 The theocratic wing is **not theologically monolithic.** Major internal frameworks:
 
-**Christian Reconstructionism / Theonomy** (Rushdoony lineage; Chalcedon Foundation; smaller in numbers but disproportionately influential on dominionist intellectuals) â€” argues for biblical-law-as-civil-law; explicit replacement of secular constitutional order
+**Christian Reconstructionism / Theonomy** (Rushdoony lineage; Chalcedon Foundation; smaller in numbers but disproportionately influential on dominionist intellectuals) — argues for biblical-law-as-civil-law; explicit replacement of secular constitutional order
 
-**Seven Mountain Mandate / NAR dominionism** ([[Lance Wallnau]], [[Cindy Jacobs]], Dutch Sheets, [[Che Ahn]]) â€” argues believers should occupy + dominate "seven mountains" of culture: government, business, media, education, arts/entertainment, family, religion. Charismatic / apostolic-prophetic. **Largest single political-religious framework in US Christian right by 2026.**
+**Seven Mountain Mandate / NAR dominionism** ([[Lance Wallnau]], [[Cindy Jacobs]], Dutch Sheets, [[Che Ahn]]) — argues believers should occupy + dominate "seven mountains" of culture: government, business, media, education, arts/entertainment, family, religion. Charismatic / apostolic-prophetic. **Largest single political-religious framework in US Christian right by 2026.**
 
-**Calvinist Reformed / Federal Vision** (Doug Wilson; Moscow ID infrastructure; Logos Press; Christ Church) â€” magisterial-reformed; postmillennial-dominionist; influential among Reformed-evangelical professional class
+**Calvinist Reformed / Federal Vision** (Doug Wilson; Moscow ID infrastructure; Logos Press; Christ Church) — magisterial-reformed; postmillennial-dominionist; influential among Reformed-evangelical professional class
 
-**Pentecostal-Charismatic mainstream** (Assemblies of God; broader Pentecostal denominations) â€” large mass base; not all dominionist but substantial NAR overlap
+**Pentecostal-Charismatic mainstream** (Assemblies of God; broader Pentecostal denominations) — large mass base; not all dominionist but substantial NAR overlap
 
-**Mainstream evangelical** (Southern Baptist Convention; non-denominational Bible churches) â€” largest single demographic; politically variable but mostly aligned with theocratic wing on Dobbs + LGBTQ+ + religious-liberty issues
+**Mainstream evangelical** (Southern Baptist Convention; non-denominational Bible churches) — largest single demographic; politically variable but mostly aligned with theocratic wing on Dobbs + LGBTQ+ + religious-liberty issues
 
-**[[Catholic Integralism]]** ([[Patrick Deneen]], [[Adrian Vermeule]], Sohrab Ahmari; First Things magazine adjacencies) â€” Catholic intellectual movement arguing for explicit Catholic-confessional state; **structurally distinct from dominionist Protestant theological strands** but operationally aligned on Dobbs + Project 2025
+**[[Catholic Integralism]]** ([[Patrick Deneen]], [[Adrian Vermeule]], Sohrab Ahmari; First Things magazine adjacencies) — Catholic intellectual movement arguing for explicit Catholic-confessional state; **structurally distinct from dominionist Protestant theological strands** but operationally aligned on Dobbs + Project 2025
 
-**LDS (Mormon) right-wing** (significant in Utah / Idaho / Mountain West; Cleon Skousen lineage; National Center for Constitutional Studies) â€” historically distinct from evangelical-protestant Christian right but operationally aligned on social-conservative + state-rights issues
+**LDS (Mormon) right-wing** (significant in Utah / Idaho / Mountain West; Cleon Skousen lineage; National Center for Constitutional Studies) — historically distinct from evangelical-protestant Christian right but operationally aligned on social-conservative + state-rights issues
 
 ### Principal organizational ecosystem
 
 The theocratic wing operates through hundreds of organizations. The most operationally consequential:
 
 **Coordination + leadership:**
-- [[Council for National Policy]] â€” principal cross-organizational coordination
-- [[The Fellowship]] â€” quiet bipartisan elite-prayer-network
-- [[CNP Action]] â€” 501(c)(4) arm
-- [[Conservative Partnership Institute]] â€” Trump-era staff-pipeline coordination
+- [[Council for National Policy]] — principal cross-organizational coordination
+- [[The Fellowship]] — quiet bipartisan elite-prayer-network
+- [[CNP Action]] — 501(c)(4) arm
+- [[Conservative Partnership Institute]] — Trump-era staff-pipeline coordination
 
 **Legal + litigation:**
-- [[Alliance Defending Freedom]] â€” premier Christian-right legal vehicle; Dobbs architect
-- [[First Liberty Institute]] â€” religious-liberty litigation
-- [[Liberty Counsel]] â€” Mat Staver-led
-- [[Becket Fund]] â€” religious-liberty litigation (Catholic-led)
-- [[Thomas More Society]] â€” Catholic legal vehicle
-- [[Federalist Society]] â€” judicial pipeline (cross-cuts with patron wing)
+- [[Alliance Defending Freedom]] — premier Christian-right legal vehicle; Dobbs architect
+- [[First Liberty Institute]] — religious-liberty litigation
+- [[Liberty Counsel]] — Mat Staver-led
+- [[Becket Fund]] — religious-liberty litigation (Catholic-led)
+- [[Thomas More Society]] — Catholic legal vehicle
+- [[Federalist Society]] — judicial pipeline (cross-cuts with patron wing)
 
 **Mass-mobilization advocacy:**
-- [[Family Research Council]] (FRC) â€” Tony Perkins; SPLC-designated hate group 2010+
-- [[Focus on the Family]] â€” James Dobson legacy
-- [[American Family Association]] (AFA) â€” Tim Wildmon
-- [[Faith and Freedom Coalition]] â€” Ralph Reed
-- [[Concerned Women for America]] â€” Penny Nance
+- [[Family Research Council]] (FRC) — Tony Perkins; SPLC-designated hate group 2010+
+- [[Focus on the Family]] — James Dobson legacy
+- [[American Family Association]] (AFA) — Tim Wildmon
+- [[Faith and Freedom Coalition]] — Ralph Reed
+- [[Concerned Women for America]] — Penny Nance
 - [[National Right to Life Committee]]
-- [[Susan B. Anthony Pro-Life America]] (SBA List) â€” Marjorie Dannenfelser
-- [[Heritage Foundation]] (social-policy wing) â€” cross-cuts with patron wing
+- [[Susan B. Anthony Pro-Life America]] (SBA List) — Marjorie Dannenfelser
+- [[Heritage Foundation]] (social-policy wing) — cross-cuts with patron wing
 
 **Capitol-facing operational:**
-- [[Capitol Ministries]] (Ralph Drollinger) â€” weekly Bible studies for members + cabinet
-- [[The Family]] / Fellowship â€” National Prayer Breakfast + C Street
-- [[Family Research Council]] â€” congressional outreach
+- [[Capitol Ministries]] (Ralph Drollinger) — weekly Bible studies for members + cabinet
+- [[The Family]] / Fellowship — National Prayer Breakfast + C Street
+- [[Family Research Council]] — congressional outreach
 
 **Education + youth pipeline:**
-- [[HSLDA]] â€” Michael Farris; homeschool legal protection
-- [[Patrick Henry College]] â€” Christian-nationalist undergraduate pipeline
-- [[Liberty University]] â€” Falwell legacy
-- [[Hillsdale College]] â€” historically Reagan-conservative; increasingly aligned with broader Christian-right
-- [[Regent University]] â€” Pat Robertson legacy
-- [[Charlie Kirk]] / [[TPUSA]] â€” campus-organizing infrastructure (cross-cuts to broader MAGA)
-- [[PragerU Kids]] â€” K-12 curriculum injection
+- [[HSLDA]] — Michael Farris; homeschool legal protection
+- [[Patrick Henry College]] — Christian-nationalist undergraduate pipeline
+- [[Liberty University]] — Falwell legacy
+- [[Hillsdale College]] — historically Reagan-conservative; increasingly aligned with broader Christian-right
+- [[Regent University]] — Pat Robertson legacy
+- [[Charlie Kirk]] / [[TPUSA]] — campus-organizing infrastructure (cross-cuts to broader MAGA)
+- [[PragerU Kids]] — K-12 curriculum injection
 
 **Article V / constitutional capture:**
-- [[Convention of States Action]] (COSA) â€” Meckler + Farris
-- [[Citizens for Self-Governance]] (CSG) â€” Meckler's parent vehicle
+- [[Convention of States Action]] (COSA) — Meckler + Farris
+- [[Citizens for Self-Governance]] (CSG) — Meckler's parent vehicle
 
 **NAR + charismatic operational:**
 - [[New Apostolic Reformation]] (movement; not single org)
-- [[ChÃ© Ahn]] / [[HRock Church]] / [[Harvest International Ministry]]
+- [[Ché Ahn]] / [[HRock Church]] / [[Harvest International Ministry]]
 - [[Lance Wallnau]] (Seven Mountains popularizer)
 - [[Cindy Jacobs]] (NAR prophetic)
-- [[International House of Prayer (IHOPKC)]] â€” Kansas City NAR hub
+- [[International House of Prayer (IHOPKC)]] — Kansas City NAR hub
 - [[ReAwaken America Tour]]
-- [[Faith Wins]] (Chad Connelly) â€” pastor mobilization
+- [[Faith Wins]] (Chad Connelly) — pastor mobilization
 
 **International:**
 - [[CPAC International]] (especially Hungary franchise)
@@ -259,7 +259,7 @@ The theocratic wing operates through hundreds of organizations. The most operati
 6. **Religious-liberty framework expansion** (Smith-era pre-RFRA standard reversal; religious exemptions for businesses, schools, healthcare, adoption)
 7. **Constitutional capture** (Convention of States Article V; biblical-law-influenced jurisprudence)
 
-**The wing's time horizon is generational** â€” measured in **eschatological / civilizational terms.** Dobbs took 49 years from Roe; theocratic-wing actors are willing to spend decades on permanent institutional capture.
+**The wing's time horizon is generational** — measured in **eschatological / civilizational terms.** Dobbs took 49 years from Roe; theocratic-wing actors are willing to spend decades on permanent institutional capture.
 
 ### Key vault entries for Wing 2
 
@@ -267,7 +267,7 @@ The theocratic wing operates through hundreds of organizations. The most operati
 
 ---
 
-## Wing 3 â€” The Tech-Surveillance Wing
+## Wing 3 — The Tech-Surveillance Wing
 
 > **Operational function:** Supplies the technical-infrastructure layer through which the patron and theocratic wings' political objectives are operationally implemented at state-scale.
 
@@ -277,40 +277,40 @@ The tech-surveillance wing has the shortest temporal roots of the three but the 
 
 **Pre-history (1977-2000):**
 
-- **1977:** [[Oracle Corporation]] founded (Larry Ellison + Bob Miner + Ed Oates) on CIA Project Oracle contract â€” earliest documented direct US-intelligence-tech-private-vendor relationship
+- **1977:** [[Oracle Corporation]] founded (Larry Ellison + Bob Miner + Ed Oates) on CIA Project Oracle contract — earliest documented direct US-intelligence-tech-private-vendor relationship
 - **1990s:** SCL Group precursor activity (military psyops contracts since ~1993)
-- **1998:** PayPal founded (Peter Thiel + Max Levchin + others) â€” "PayPal Mafia" subsequently spawns Founders Fund, Palantir, LinkedIn, YouTube, Yelp, multiple Silicon Valley-political-finance nexus actors
+- **1998:** PayPal founded (Peter Thiel + Max Levchin + others) — "PayPal Mafia" subsequently spawns Founders Fund, Palantir, LinkedIn, YouTube, Yelp, multiple Silicon Valley-political-finance nexus actors
 
 **Foundational period (2003-2014):**
 
 - **2003:** **[[Palantir Technologies]] founded** ([[Peter Thiel]] + Alex Karp + Stephen Cohen + Joe Lonsdale + Nathan Gettings); In-Q-Tel ([[CIA]] venture arm) is **founding investor** alongside Founders Fund. Original product: counter-terrorism data-integration for IC.
 - **2003-2005:** SCL Elections established (commercial-political arm of SCL Defence)
-- **2004:** [[Charles Koch|Americans for Prosperity]] founded â€” connects patron-wing to emerging tech-political infrastructure
+- **2004:** [[Charles Koch|Americans for Prosperity]] founded — connects patron-wing to emerging tech-political infrastructure
 - **2005:** Founders Fund formally launched (Thiel)
 - **2009:** [[Anduril Industries]] precursor activity; Anduril formally founded 2017 by Palmer Luckey post-Oculus
 - **2013:** [[Cambridge Analytica]] founded by Steve Bannon + Mercer family + Alexander Nix from SCL Group
-- **2014:** [[GSR]] / Kogan Facebook data harvest â†’ CA dataset (~87M users)
+- **2014:** [[GSR]] / Kogan Facebook data harvest → CA dataset (~87M users)
 - **2014:** [[AggregateIQ]] (Canadian SCL adjacency) begins political-data services
 
 **Trump-era operational consolidation (2015-2020):**
 
 - **2015-2016:** Trump 2016 campaign uses CA + Brad Parscale digital operation + Mercer-funded infrastructure
-- **2018-03:** CA scandal breaks (Cadwalladr/NYT) â€” Cambridge Analytica formally collapses May 2018
+- **2018-03:** CA scandal breaks (Cadwalladr/NYT) — Cambridge Analytica formally collapses May 2018
 - **2018-2020:** [[Emerdata Limited]] (CA successor entity) + [[FSG]] / Erik Prince Hong Kong adjacency; CA personnel diaspora
 - **2019:** [[Palantir Technologies]] IPO preparation; multiple federal-government contract expansions
 - **2020:** [[Oracle Corporation]] / TikTok "white knight" arrangement (didn't close first term but established positioning)
 
 **Post-2020 to Trump 2.0 (2021-2026):**
 
-- **2021:** Trump-era post-Jan-6 deplatforming â†’ Tech Right realignment begins
-- **2022:** [[Project Texas]] â€” Oracle begins hosting all US TikTok user data
+- **2021:** Trump-era post-Jan-6 deplatforming → Tech Right realignment begins
+- **2022:** [[Project Texas]] — Oracle begins hosting all US TikTok user data
 - **2022-2023:** [[Founders Fund]] + [[a16z]] + [[1789 Capital]] consolidate as Trump-aligned VC infrastructure
 - **2022-2024:** [[Marc Andreessen]] writes Techno-Optimist Manifesto (2023) + Little Tech Agenda (2024); explicit Trump-alignment shift
-- **2024-08-07:** Skydance-Paramount merger closes â€” [[Ellison Media Empire]] consolidates broadcast + film + cable + streaming
+- **2024-08-07:** Skydance-Paramount merger closes — [[Ellison Media Empire]] consolidates broadcast + film + cable + streaming
 - **2024-11:** Trump wins; substantial Tech Right co-mobilization
 - **2025-01-20:** Trump 2.0 inauguration
 - **2025-01-21:** [[Project Stargate]] announced ($500B AI infrastructure; Oracle + OpenAI + SoftBank + MGX-UAE)
-- **2025-03-20:** Trump EO "Eliminating Information Silos" â€” establishes legal framework for [[Federated Master Database]]
+- **2025-03-20:** Trump EO "Eliminating Information Silos" — establishes legal framework for [[Federated Master Database]]
 - **2025-04:** [[Palantir Technologies]] / ICE [[ImmigrationOS]] contract (~$30M)
 - **2025+:** [[ELITE]] target-generation tool deployed; ImmigrationOS operational; multi-agency data integration accelerating
 
@@ -318,18 +318,18 @@ The tech-surveillance wing has the shortest temporal roots of the three but the 
 
 The tech-surveillance wing operates a multi-layer stack:
 
-**Layer 1 â€” Federal data-integration infrastructure**
+**Layer 1 — Federal data-integration infrastructure**
 - [[Federated Master Database]] (federal cross-agency integration)
 - IRS / SSA / HHS / DHS / DOJ / DOL data flows under [[Trump EO Eliminating Information Silos 2025-03-20]]
 - [[Palantir Technologies]] as principal vendor
 
-**Layer 2 â€” Targeting + enforcement tools**
+**Layer 2 — Targeting + enforcement tools**
 - [[ImmigrationOS]] (ICE platform)
 - [[ELITE]] (target-generation tool)
 - [[Flock Safety]] (automated license plate readers; cross-agency data sharing including ICE)
 - [[Federal-state data-sharing pipelines]]
 
-**Layer 3 â€” AI infrastructure**
+**Layer 3 — AI infrastructure**
 - [[Project Stargate]] ($500B Oracle + OpenAI + SoftBank + MGX-UAE)
 - [[OpenAI]] frontier-model leader
 - [[xAI]] (Musk's frontier-model lab; Grok)
@@ -338,47 +338,47 @@ The tech-surveillance wing operates a multi-layer stack:
 - [[Oracle Corporation]] (cloud + data-center infrastructure)
 - [[Microsoft]] / [[Amazon AWS]] / [[Google Cloud]] (continuing federal-cloud presence)
 
-**Layer 4 â€” Defense + dual-use**
+**Layer 4 — Defense + dual-use**
 - [[Palantir Technologies]] (defense + intelligence)
 - [[Anduril Industries]] (Palmer Luckey; autonomous defense systems)
 - [[SpaceX]] / Starlink (Musk; military communications + ISR)
 - [[Lockheed Martin]] + [[Raytheon]] + traditional primes (less Tech-Right-aligned but structural infrastructure)
 - [[General Atomics]] (drone primary)
 
-**Layer 5 â€” Platforms + media (cross-cuts with media-capture)**
-- [[X (formerly Twitter)]] â€” Musk-owned; substantially restructured editorially
-- [[Meta / Facebook]] â€” accommodation rather than alignment
-- [[TikTok]] â€” Project Texas / Oracle hosting; PAFACA divestiture process
-- [[Truth Social]] â€” Trump-affiliated; TMTG public company
-- [[Rumble]] â€” alt-tech video platform
-- [[Substack]] â€” adjacent (The Free Press, multiple right-aligned writers)
-- [[CBS News]] / [[Paramount Skydance Corporation]] â€” Ellison-controlled (see [[Ellison Media Empire]])
+**Layer 5 — Platforms + media (cross-cuts with media-capture)**
+- [[X (formerly Twitter)]] — Musk-owned; substantially restructured editorially
+- [[Meta / Facebook]] — accommodation rather than alignment
+- [[TikTok]] — Project Texas / Oracle hosting; PAFACA divestiture process
+- [[Truth Social]] — Trump-affiliated; TMTG public company
+- [[Rumble]] — alt-tech video platform
+- [[Substack]] — adjacent (The Free Press, multiple right-aligned writers)
+- [[CBS News]] / [[Paramount Skydance Corporation]] — Ellison-controlled (see [[Ellison Media Empire]])
 
-**Layer 6 â€” Personnel-pipeline operational**
-- [[DOGE]] â€” Musk-led federal-personnel restructuring
-- [[Foundation for American Innovation]] â€” Tech-Right policy organization
-- [[1789 Capital]] â€” Vance-adjacent VC; personnel-pipeline
-- [[Narya Capital]] â€” Vance/Thiel Cincinnati VC
+**Layer 6 — Personnel-pipeline operational**
+- [[DOGE]] — Musk-led federal-personnel restructuring
+- [[Foundation for American Innovation]] — Tech-Right policy organization
+- [[1789 Capital]] — Vance-adjacent VC; personnel-pipeline
+- [[Narya Capital]] — Vance/Thiel Cincinnati VC
 
 ### Principal Tech-Right people
 
 The tech-surveillance wing's principal actors:
 
-- **[[Peter Thiel]]** â€” taproot figure; Founders Fund / Palantir / Mithril / Narya; ideological architect; "Vance benefactor"
-- **[[Elon Musk]]** â€” Tesla / SpaceX / X / xAI; America PAC ~$260M Trump 2024; DOGE positioning
-- **[[Larry Ellison]]** â€” Oracle / Paramount Skydance principal backer; Stargate; older establishment-Republican Tech Right
-- **[[David Ellison]]** â€” Larry's son; Paramount Skydance CEO; media-empire operational
-- **[[Marc Andreessen]]** â€” a16z; Techno-Optimist Manifesto; Little Tech Agenda
-- **David Sacks** â€” Trump 2.0 "AI + crypto czar"; PayPal Mafia; All-In Podcast
-- **[[Palmer Luckey]]** â€” Anduril founder; Oculus founder
-- **[[Sam Altman]]** â€” OpenAI CEO; Stargate co-announcer
-- **[[Joe Lonsdale]]** â€” Palantir co-founder; 8VC; UATX (University of Austin)
-- **[[Alex Karp]]** â€” Palantir CEO; ideological (somewhat distinct from Thiel)
-- **[[Trae Stephens]]** â€” Founders Fund; Anduril board
-- **[[J.D. Vance]]** â€” Vice President; Thiel-anchored Narya VC background; **structural bridge between Tech Right + Catholic Integralism + theocratic wing**
-- **[[Vivek Ramaswamy]]** â€” Strive Asset Management; brief DOGE positioning; broader Tech Right
-- **[[Brad Parscale]]** â€” Trump 2016 digital director; ongoing political-tech operator
-- **[[Charlie Kirk]]** â€” TPUSA; cross-cuts to theocratic wing + youth-organizing (assassinated 2025-09-10)
+- **[[Peter Thiel]]** — taproot figure; Founders Fund / Palantir / Mithril / Narya; ideological architect; "Vance benefactor"
+- **[[Elon Musk]]** — Tesla / SpaceX / X / xAI; America PAC ~$260M Trump 2024; DOGE positioning
+- **[[Larry Ellison]]** — Oracle / Paramount Skydance principal backer; Stargate; older establishment-Republican Tech Right
+- **[[David Ellison]]** — Larry's son; Paramount Skydance CEO; media-empire operational
+- **[[Marc Andreessen]]** — a16z; Techno-Optimist Manifesto; Little Tech Agenda
+- **David Sacks** — Trump 2.0 "AI + crypto czar"; PayPal Mafia; All-In Podcast
+- **[[Palmer Luckey]]** — Anduril founder; Oculus founder
+- **[[Sam Altman]]** — OpenAI CEO; Stargate co-announcer
+- **[[Joe Lonsdale]]** — Palantir co-founder; 8VC; UATX (University of Austin)
+- **[[Alex Karp]]** — Palantir CEO; ideological (somewhat distinct from Thiel)
+- **[[Trae Stephens]]** — Founders Fund; Anduril board
+- **[[J.D. Vance]]** — Vice President; Thiel-anchored Narya VC background; **structural bridge between Tech Right + Catholic Integralism + theocratic wing**
+- **[[Vivek Ramaswamy]]** — Strive Asset Management; brief DOGE positioning; broader Tech Right
+- **[[Brad Parscale]]** — Trump 2016 digital director; ongoing political-tech operator
+- **[[Charlie Kirk]]** — TPUSA; cross-cuts to theocratic wing + youth-organizing (assassinated 2025-09-10)
 
 ### Operational logic of the tech-surveillance wing
 
@@ -415,7 +415,7 @@ The wings are not friction-free. **Real internal tensions exist and constitute t
 - Andreessen is functionally secular-rationalist
 
 **Theocratic discomfort with patron-class:**
-- Drollinger's [[Capitol Ministries]] materials explicitly reject "false religions" including Islam, Catholicism, Mormonism â€” implicitly puts him in tension with Adelson-family-aligned Israel policy + Catholic-aligned Vance + Mormon-aligned LDS conservatives
+- Drollinger's [[Capitol Ministries]] materials explicitly reject "false religions" including Islam, Catholicism, Mormonism — implicitly puts him in tension with Adelson-family-aligned Israel policy + Catholic-aligned Vance + Mormon-aligned LDS conservatives
 - Christian-right intellectuals (Sohrab Ahmari, Patrick Deneen at times) have publicly criticized Tech Right "post-liberal libertarianism"
 - The patron class's regulatory program (top-bracket tax reduction; deregulation) does not particularly benefit working-class evangelical base; tension between policy benefits + voter mobilization
 
@@ -456,7 +456,7 @@ The wings are not friction-free. **Real internal tensions exist and constitute t
 
 **Tension fault lines:**
 - Crypto-vs-traditional-finance regulatory questions
-- AI-replacement of high-margin industries (insurance, finance, accounting, law) â€” tension between Tech Right enthusiasm + patron-wing investment in displaced industries
+- AI-replacement of high-margin industries (insurance, finance, accounting, law) — tension between Tech Right enthusiasm + patron-wing investment in displaced industries
 - Sovereign-wealth integration (Tech Right comfortable with Gulf sovereign-wealth vs some patron-class wariness)
 
 ### How the coalition holds despite tensions
@@ -472,10 +472,10 @@ The wings remain operationally coherent because:
 ### Operational falsification
 
 The hypothesis would be substantially weakened by:
-- **Public coalition rupture** â€” none observed
-- **One wing publicly breaking from others** â€” episodes (Musk-Trump dispute early 2025) but resolved
-- **Coalition merger into single ideology** â€” not observed; wings remain operationally distinct
-- **Unitary control by one wing over others** â€” not observed
+- **Public coalition rupture** — none observed
+- **One wing publicly breaking from others** — episodes (Musk-Trump dispute early 2025) but resolved
+- **Coalition merger into single ideology** — not observed; wings remain operationally distinct
+- **Unitary control by one wing over others** — not observed
 
 ---
 
@@ -483,13 +483,13 @@ The hypothesis would be substantially weakened by:
 
 The three wings coordinate principally through four operational layers (per [[Three-wing coalition operational coordination mechanism]]):
 
-**Layer 1 â€” Council for National Policy cross-organizational membership.** CNP is the principal cross-wing coordination venue. ~400 members. Quarterly meetings. Confidential membership. Cross-wing representation: patron (Mercer family adjacencies, DeVos, Adelson, broader large-donor), theocratic (FRC, Fellowship-adjacent, ADF, religious-right leadership), increasingly tech-surveillance (Thiel-adjacent, broader Tech Right intellectual leadership). See [[CNP State-by-State Affiliate Map]].
+**Layer 1 — Council for National Policy cross-organizational membership.** CNP is the principal cross-wing coordination venue. ~400 members. Quarterly meetings. Confidential membership. Cross-wing representation: patron (Mercer family adjacencies, DeVos, Adelson, broader large-donor), theocratic (FRC, Fellowship-adjacent, ADF, religious-right leadership), increasingly tech-surveillance (Thiel-adjacent, broader Tech Right intellectual leadership). See [[CNP State-by-State Affiliate Map]].
 
-**Layer 2 â€” Project 2025 partner-organization coordination.** 100+ partner organizations. Mandate document is the operational integration text where three-wing policy priorities are reconciled. See [[P2025 COS Personnel Overlap]].
+**Layer 2 — Project 2025 partner-organization coordination.** 100+ partner organizations. Mandate document is the operational integration text where three-wing policy priorities are reconciled. See [[P2025 COS Personnel Overlap]].
 
-**Layer 3 â€” Trump administration personnel selection.** Cabinet + sub-cabinet substantially reflect three-wing balance: [[Russ Vought]] (theocratic OMB), [[J.D. Vance]] (tech-surveillance VP with Catholic Integralism positioning), [[Elon Musk]] (tech-surveillance DOGE), [[Stephen Miller]] (theocratic-adjacent policy), [[Mike Huckabee]] (theocratic Israel Ambassador), [[Brendan Carr]] (Project 2025 FCC chapter author; approved Skydance merger), [[Marco Rubio]] (Catholic Integralism-adjacent SecState).
+**Layer 3 — Trump administration personnel selection.** Cabinet + sub-cabinet substantially reflect three-wing balance: [[Russ Vought]] (theocratic OMB), [[J.D. Vance]] (tech-surveillance VP with Catholic Integralism positioning), [[Elon Musk]] (tech-surveillance DOGE), [[Stephen Miller]] (theocratic-adjacent policy), [[Mike Huckabee]] (theocratic Israel Ambassador), [[Brendan Carr]] (Project 2025 FCC chapter author; approved Skydance merger), [[Marco Rubio]] (Catholic Integralism-adjacent SecState).
 
-**Layer 4 â€” Cross-wing intellectual venues.** [[First Things magazine]] (Catholic-adjacent intellectual), [[Compact magazine]] (post-liberal), [[National Conservatism Conference]] (Yoram Hazony-organized international), [[All-In Podcast]] (tech-right principals), [[Hoover Institution]] adjacencies, [[The Free Press]] (post-acquisition), [[ARC Conference]] (Alliance for Responsible Citizenship).
+**Layer 4 — Cross-wing intellectual venues.** [[First Things magazine]] (Catholic-adjacent intellectual), [[Compact magazine]] (post-liberal), [[National Conservatism Conference]] (Yoram Hazony-organized international), [[All-In Podcast]] (tech-right principals), [[Hoover Institution]] adjacencies, [[The Free Press]] (post-acquisition), [[ARC Conference]] (Alliance for Responsible Citizenship).
 
 **Specific coordination episodes:**
 - **Project 2025 mandate document production (2022-2023)**
@@ -507,17 +507,17 @@ Per [[Lens - The Crypto Wing]] and [[Hypothesis - Crypto as direct foreign-payme
 ### Why crypto is distinct from tech-surveillance wing
 
 While there's heavy Thiel-orbit overlap, crypto has distinct operational character:
-- **Different regulatory program** â€” substantial deregulation of stablecoins ([[GENIUS Act 2025-07]]) + securities laws + AML/KYC enforcement
-- **Different financial flows** â€” enables direct presidential-family financial entanglement (Trump-affiliated tokens; World Liberty Financial)
-- **Different international integration** â€” Gulf-sovereign + adjacent capital flows through crypto channels harder to track
-- **Different operational personnel** â€” David Sacks, Marc Andreessen (a16z crypto), Tyler/Cameron Winklevoss, Brian Armstrong (Coinbase), Brad Garlinghouse (Ripple), broader [[Fairshake PAC]] base
+- **Different regulatory program** — substantial deregulation of stablecoins ([[GENIUS Act 2025-07]]) + securities laws + AML/KYC enforcement
+- **Different financial flows** — enables direct presidential-family financial entanglement (Trump-affiliated tokens; World Liberty Financial)
+- **Different international integration** — Gulf-sovereign + adjacent capital flows through crypto channels harder to track
+- **Different operational personnel** — David Sacks, Marc Andreessen (a16z crypto), Tyler/Cameron Winklevoss, Brian Armstrong (Coinbase), Brad Garlinghouse (Ripple), broader [[Fairshake PAC]] base
 
 ### Why crypto matters structurally
 
 - **First direct presidential-family financial product** in modern US politics (Trump tokens)
 - **Bypasses campaign-finance + FARA + Bank Secrecy Act** that would constrain other foreign-payments vehicles
 - **Major sovereign-wealth + foreign-state-actor adjacency** (UAE crypto positioning; Saudi PIF crypto adjacency; PRC crypto positioning)
-- **Operationally unique** â€” no prior US political-coalition has had structurally-similar direct-financial-flow vehicle
+- **Operationally unique** — no prior US political-coalition has had structurally-similar direct-financial-flow vehicle
 
 ---
 
@@ -532,7 +532,7 @@ Per [[Lens - Election Denial Infrastructure]], a paramilitary layer exists:
 - Various state-level militia networks
 - "Active clubs" + adjacent post-Charlottesville organizing
 
-**Trump's January 2025 pardon of Jan 6 convicts restored operational capacity.** Not yet documented as a unified wing â€” operates more as **enforcement-capacity-for-hire** by the other wings as needed â€” but warrants tracking as potential fifth wing.
+**Trump's January 2025 pardon of Jan 6 convicts restored operational capacity.** Not yet documented as a unified wing — operates more as **enforcement-capacity-for-hire** by the other wings as needed — but warrants tracking as potential fifth wing.
 
 **Tension:** patron + tech wings prefer not to be directly associated; theocratic wing has had operational overlap (some pastors at Jan 6; some NAR figures associated). **The paramilitary layer's relationship to the coalition is mediated through episodic operational activation rather than continuous integration.**
 
@@ -540,20 +540,20 @@ Per [[Lens - Election Denial Infrastructure]], a paramilitary layer exists:
 
 ## Catholic Integralism as adjacent intellectual layer
 
-Per [[Catholic Integralism]] â€” structurally distinct from dominionist Protestant theological strands:
+Per [[Catholic Integralism]] — structurally distinct from dominionist Protestant theological strands:
 
 - Different lineage (pre-Vatican II Catholic rather than 1965 Rushdoony Protestant)
 - Different personnel ([[Patrick Deneen]], [[Adrian Vermeule]], Sohrab Ahmari rather than Vought/Drollinger/Farris)
 - Operates at elite-institutional-capture level rather than mass-mobilization level
 - **Major influence on [[J.D. Vance]] and the 2028 succession question**
 
-Catholic Integralism may be best understood as **a distinct intellectual layer within the broader theocratic wing rather than a separate wing** â€” but represents real internal heterogeneity worth tracking.
+Catholic Integralism may be best understood as **a distinct intellectual layer within the broader theocratic wing rather than a separate wing** — but represents real internal heterogeneity worth tracking.
 
 ---
 
 ## The Israel cluster cuts across all three wings
 
-Per [[Israel Cluster MOC]] â€” Israeli-state + Israeli intel-for-hire + US-side Israeli-policy advocacy + Israeli-aligned patron-class form a cluster that cuts across all three wings rather than constituting a separate wing:
+Per [[Israel Cluster MOC]] — Israeli-state + Israeli intel-for-hire + US-side Israeli-policy advocacy + Israeli-aligned patron-class form a cluster that cuts across all three wings rather than constituting a separate wing:
 
 - **Patron-wing Israeli-aligned**: Adelson family ($500M+ lifetime; $100M+ to Trump 2024 via Preserve America PAC), Bernard Marcus, Paul Singer, Mortimer Zuckerman, [[Larry Ellison]] (personal Netanyahu relationship)
 - **Theocratic-wing Israeli-aligned**: dispensationalist evangelical theological framework (Christians United for Israel; Mike Huckabee; broader theocratic-Israel-policy coordination)
@@ -565,7 +565,7 @@ Per [[Israel Cluster MOC]] â€” Israeli-state + Israeli intel-for-hire + US-
 
 ## The MAHA experiment cuts across coalition lines
 
-Per [[Lens - Make America Healthy Again]] / [[MAHA Commission]] â€” the RFK Jr.-architected MAHA wing draws from:
+Per [[Lens - Make America Healthy Again]] / [[MAHA Commission]] — the RFK Jr.-architected MAHA wing draws from:
 
 - **Crunchy left** (alt-health; vaccine-skeptical; environmental)
 - **Patron-class** (Wellness-industry capital; supplement-industry funding)
@@ -573,7 +573,7 @@ Per [[Lens - Make America Healthy Again]] / [[MAHA Commission]] â€” the RFK
 - **Tech-surveillance-adjacent** (RFK Jr. coordination with broader anti-establishment Tech Right)
 - **Trump-2.0-administration** (RFK Jr. HHS Secretary; MAHA Commission federal vehicle)
 
-MAHA is **potentially a coalition-extending vehicle** that brings non-traditional voters into the broader coalition â€” but its operational coherence is contested + may not survive RFK Jr.'s personal political trajectory.
+MAHA is **potentially a coalition-extending vehicle** that brings non-traditional voters into the broader coalition — but its operational coherence is contested + may not survive RFK Jr.'s personal political trajectory.
 
 ---
 
@@ -629,11 +629,11 @@ The three-wing structure means **counter-strategy that targets all three wings u
 
 The most operationally consequential single targets are the coordination institutions:
 
-- **[[Council for National Policy]]** â€” principal cross-wing coordination
-- **[[Heritage Foundation]]** + **[[Project 2025]]** â€” policy-program integration
-- **[[Conservative Partnership Institute]]** â€” staff-pipeline integration
-- **[[Federalist Society]]** â€” judicial-pipeline integration
-- **[[ALEC]]** â€” state-level legislative-template integration
+- **[[Council for National Policy]]** — principal cross-wing coordination
+- **[[Heritage Foundation]]** + **[[Project 2025]]** — policy-program integration
+- **[[Conservative Partnership Institute]]** — staff-pipeline integration
+- **[[Federalist Society]]** — judicial-pipeline integration
+- **[[ALEC]]** — state-level legislative-template integration
 - **[[Leonard Leo]]** personal network ([[Concord Fund]], [[The 85 Fund]], [[Marble Freedom Trust]] $1.6B)
 
 Exposure + documentation + targeted accountability for each of these institutions degrades the coordination machinery + therefore the coalition's operational coherence.
@@ -654,7 +654,7 @@ The three-wing-coalition hypothesis treats the Trump 2.0 coalition as a structur
 
 **The tech-surveillance wing supplies operational infrastructure for governance** (Palantir + Oracle + Anduril + Flock Safety + Federated Master Database + DOGE + Stargate). Operational function: technical-infrastructure layer through which the patron + theocratic wings' political objectives are operationally implemented at state-scale.
 
-**Prior Republican coalitions did not have the tech-surveillance wing as a co-equal partner.** The 2024-2026 configuration is the first in which the tech infrastructure is treated as load-bearing rather than instrumental â€” and the first in which **direct foreign-sovereign-wealth integration** (Saudi PIF, UAE MGX, adjacent) is structurally embedded rather than peripheral.
+**Prior Republican coalitions did not have the tech-surveillance wing as a co-equal partner.** The 2024-2026 configuration is the first in which the tech infrastructure is treated as load-bearing rather than instrumental — and the first in which **direct foreign-sovereign-wealth integration** (Saudi PIF, UAE MGX, adjacent) is structurally embedded rather than peripheral.
 
 ---
 

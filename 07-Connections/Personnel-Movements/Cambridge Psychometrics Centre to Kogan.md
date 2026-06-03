@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Cambridge Psychometrics Centre research methodology cloned by Kogan/GSR for CA
 tags: [connection, confidence/high, topic/psychographics, topic/cambridge-analytica]
@@ -11,13 +11,13 @@ period: 2013-2014
 aliases: ["Connection: Cambridge Psychometrics Centre to Kogan"]
 ---
 
-# Connection: Cambridge Psychometrics Centre â†’ GSR (methodology cloned)
+# Connection: Cambridge Psychometrics Centre → GSR (methodology cloned)
 
 ## What the link is
 
-The University of Cambridge Psychometrics Centre (run by [[David Stillwell]] and others) had developed the **MyPersonality** dataset â€” ~6M Facebook users who completed personality questionnaires + shared their profiles. The Centre's published research (notably [[Source Kosinski Stillwell Graepel 2013 PNAS]]) demonstrated that personality could be predicted from Facebook Likes alone.
+The University of Cambridge Psychometrics Centre (run by [[David Stillwell]] and others) had developed the **MyPersonality** dataset — ~6M Facebook users who completed personality questionnaires + shared their profiles. The Centre's published research (notably [[Source Kosinski Stillwell Graepel 2013 PNAS]]) demonstrated that personality could be predicted from Facebook Likes alone.
 
-When [[Cambridge Analytica]] attempted to access the Centre's data for political use, the Centre refused. CA then **hired Centre insider [[Aleksandr Kogan]] to build a "clone"** of the Centre's methodology via his private side-business [[Global Science Research (GSR)]] â€” using a new app ("This Is Your Digital Life") to collect a fresh dataset under the same methodological architecture.
+When [[Cambridge Analytica]] attempted to access the Centre's data for political use, the Centre refused. CA then **hired Centre insider [[Aleksandr Kogan]] to build a "clone"** of the Centre's methodology via his private side-business [[Global Science Research (GSR)]] — using a new app ("This Is Your Digital Life") to collect a fresh dataset under the same methodological architecture.
 
 ## Evidence
 
@@ -32,13 +32,13 @@ When [[Cambridge Analytica]] attempted to access the Centre's data for political
 
 ## Implications
 
-CA's methodology has direct academic lineage to legitimate published research. The scandal isn't just about CA â€” it implicates the broader question of whether academic personality-prediction research should have been publishable given its application potential.
+CA's methodology has direct academic lineage to legitimate published research. The scandal isn't just about CA — it implicates the broader question of whether academic personality-prediction research should have been publishable given its application potential.
 
 ## Related
 
-- [[Michal Kosinski]] â€” researcher who warned about misuse
-- [[Aleksandr Kogan]] â€” Centre insider who built the clone
-- [[OCEAN Model]] â€” the underlying personality framework
+- [[Michal Kosinski]] — researcher who warned about misuse
+- [[Aleksandr Kogan]] — Centre insider who built the clone
+- [[OCEAN Model]] — the underlying personality framework
 
 ## Sources
 

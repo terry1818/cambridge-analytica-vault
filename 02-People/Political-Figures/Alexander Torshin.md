@@ -18,7 +18,7 @@ status: active (sanctioned)
 
 **Russian central banker + Putin-aligned political figure.** Served as **Deputy Governor of the Bank of Russia 2015-2018**. **Maria Butina's handler** during her cultivation of the [[NRA]] + US conservative-network ties 2011-2018. **Co-founded "Right to Bear Arms"** Russian gun-rights organization with Butina in 2012 (as cover for US conservative-outreach operation).
 
-**Sanctioned by US Treasury OFAC April 6, 2018** under the Sergei Magnitsky Act for "human rights abuses + corruption" â€” Treasury announcement was unusually specific about Torshin's role in **"acting on behalf of the Russian government against US persons."**
+**Sanctioned by US Treasury OFAC April 6, 2018** under the Sergei Magnitsky Act for "human rights abuses + corruption" -- Treasury announcement was unusually specific about Torshin's role in **"acting on behalf of the Russian government against US persons."**
 
 **Operationally:** Torshin's NRA-cultivation work included multiple Moscow trips by NRA leadership + facilitated meetings between NRA principals + Russian government officials. **Spanish-government investigation** documented Torshin's role in laundering Russian organized-crime funds (the Taiwanchik-Trincher case).
 

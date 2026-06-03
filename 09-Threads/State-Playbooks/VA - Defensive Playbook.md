@@ -6,29 +6,29 @@ type: thread
 status: active
 ---
 
-# Defensive Playbook Ã¢â‚¬â€ Virginia
+# Defensive Playbook — Virginia
 
-**Priority: HIGH.** Virginia is split control with Dem-controlled House under Speaker Don Scott. **Defense is the default posture Ã¢â‚¬â€ strategy here is to lock in protective legislation while political conditions allow.**
+**Priority: HIGH.** Virginia is split control with Dem-controlled House under Speaker Don Scott. **Defense is the default posture — strategy here is to lock in protective legislation while political conditions allow.**
 
 ## Key actors
 
-- **Speaker Don Scott** (D, VA House) Ã¢â‚¬â€ leading opposition; controls floor schedule
+- **Speaker Don Scott** (D, VA House) — leading opposition; controls floor schedule
 - Virginia State Senate also Dem-controlled
-- Governor Glenn Youngkin (R) Ã¢â‚¬â€ supports COS in principle but has limited legislative levers if both chambers oppose
+- Governor Glenn Youngkin (R) — supports COS in principle but has limited legislative levers if both chambers oppose
 
 ## Three-track strategy
 
-### Track 1 Ã¢â‚¬â€ Defensive resolution + delegate-binding statute
+### Track 1 — Defensive resolution + delegate-binding statute
 File NOW:
 - **Defensive Resolution** (blocking any future COS application)
 - **Delegate-Binding Statute** (locks in protections for any future convention scenario)
 
 Both pass in current Dem-controlled chambers. Both create durable protection that survives political shifts. **This is the "lock in while you can" strategy.**
 
-### Track 2 Ã¢â‚¬â€ Rescission of older Virginia applications
-Virginia has older Article V applications on the books (some dating to 1980s). File rescission resolution to formally withdraw any prior application Ã¢â‚¬â€ reduces the apparent COS application count nationally.
+### Track 2 — Rescission of older Virginia applications
+Virginia has older Article V applications on the books (some dating to 1980s). File rescission resolution to formally withdraw any prior application — reduces the apparent COS application count nationally.
 
-### Track 3 Ã¢â‚¬â€ 15th-Amendment frame for Virginia (esp. Black voters)
+### Track 3 — 15th-Amendment frame for Virginia (esp. Black voters)
 Virginia has a deep history with the 15th Amendment and Reconstruction. **Counter-narrative content** for Virginia voters should foreground:
 - A runaway convention could rewrite the 14th and 15th Amendments
 - These are the amendments that made Black citizenship and voting rights constitutional

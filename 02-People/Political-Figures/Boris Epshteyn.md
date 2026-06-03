@@ -38,12 +38,12 @@ Despite the indictment, reported to have continued as Trump's principal vetting 
 
 ## Connections
 
-- [[Donald Trump]] â€” principal; long-running aide
-- [[Kenneth Chesebro]] â€” primary collaborator on false elector scheme
-- [[Rudy Giuliani]] Â· [[John Eastman]] Â· [[Jenna Ellis]] â€” Trump legal team
-- [[Mark Meadows]] â€” White House counterpart
+- [[Donald Trump]] -- principal; long-running aide
+- [[Kenneth Chesebro]] -- primary collaborator on false elector scheme
+- [[Rudy Giuliani]] · [[John Eastman]] · [[Jenna Ellis]] -- Trump legal team
+- [[Mark Meadows]] -- White House counterpart
 - [[Georgia v Trump RICO 2023]] (unindicted in GA but central in coordination)
-- [[US v Trump DC Federal Election Interference Case]] â€” UCC6
+- [[US v Trump DC Federal Election Interference Case]] -- UCC6
 - Arizona indictment 2024
 - [[Stop the Steal]]
 

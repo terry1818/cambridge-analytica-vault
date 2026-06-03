@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-American political consultant. **Digital media director for Trump's 2016 presidential campaign**; **manager of Trump's 2020 campaign** until demotion in July 2020. Founded **Giles-Parscale** (later Parscale Strategy) â€” a San Antonio web design firm. Initially built Trump campaign website pro bono in 2010 for the Trump Organization; rose through Trump web work to become the 2016 digital chief.
+American political consultant. **Digital media director for Trump's 2016 presidential campaign**; **manager of Trump's 2020 campaign** until demotion in July 2020. Founded **Giles-Parscale** (later Parscale Strategy) -- a San Antonio web design firm. Initially built Trump campaign website pro bono in 2010 for the Trump Organization; rose through Trump web work to become the 2016 digital chief.
 
 ## CA position
 
@@ -27,14 +27,14 @@ American political consultant. **Digital media director for Trump's 2016 preside
 
 ## 2020 campaign
 
-- 2018 â€” appointed Trump 2020 campaign manager
+- 2018 -- appointed Trump 2020 campaign manager
 - Built large digital infrastructure including TrumpTV-style content
-- Tulsa rally (June 2020) drew much smaller crowd than predicted â€” Parscale had predicted record turnout based on RSVPs; actual attendance was a fraction
-- **2020-07-15** â€” demoted from campaign manager (replaced by Bill Stepien)
+- Tulsa rally (June 2020) drew much smaller crowd than predicted -- Parscale had predicted record turnout based on RSVPs; actual attendance was a fraction
+- **2020-07-15** -- demoted from campaign manager (replaced by Bill Stepien)
 
 ## September 2020 crisis
 
-- 2020-09-27 â€” police called to Parscale home in Fort Lauderdale; **Parscale was reportedly suicidal and armed** with multiple firearms
+- 2020-09-27 -- police called to Parscale home in Fort Lauderdale; **Parscale was reportedly suicidal and armed** with multiple firearms
 - Hospitalized under Floridas Baker Act
 - Wife alleged domestic abuse during 911 call
 - Parscale subsequently distanced from formal Trump campaign role
@@ -43,7 +43,7 @@ American political consultant. **Digital media director for Trump's 2016 preside
 
 - Various political consulting roles
 - Focus on AI/data tools for conservative campaigns
-- 2024+ â€” informal Trump campaign involvement reported
+- 2024+ -- informal Trump campaign involvement reported
 
 ## Connections
 

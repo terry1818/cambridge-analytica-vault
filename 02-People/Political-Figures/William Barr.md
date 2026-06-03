@@ -19,7 +19,7 @@ While in private practice, Barr submitted an unsolicited 19-page memo to DOJ lea
 
 ## Mueller Report framing (March 2019)
 
-[[Robert Mueller]] submitted his report to Barr March 22, 2019. On March 24, 2019, Barr released a 4-page letter to Congress summarizing what he characterized as the report's "principal conclusions" â€” specifically that:
+[[Robert Mueller]] submitted his report to Barr March 22, 2019. On March 24, 2019, Barr released a 4-page letter to Congress summarizing what he characterized as the report's "principal conclusions" -- specifically that:
 - Mueller had not established conspiracy/coordination between the Trump campaign and Russia
 - On obstruction, Mueller did not reach a conclusion; Barr (and Deputy AG Rosenstein) concluded the evidence was "not sufficient" to establish obstruction crimes
 
@@ -44,12 +44,12 @@ Barr publicly supported other Republican candidates in the 2024 primary and was 
 
 ## Connections
 
-- [[Donald Trump]] â€” boss; final-period adversary
-- [[Robert Mueller]] â€” subject of Barr's framing letter
-- [[Rod Rosenstein]] â€” Deputy AG who appointed Mueller; co-signed Barr letter conclusions
-- [[Jeffrey Rosen]] â€” successor as Acting AG
-- [[William Barr]]'s father Donald Barr â€” Dalton School headmaster who hired Jeffrey Epstein 1974-1976 (this connection is Tier 1 documented but Tier 3 in terms of operational implications)
-- [[Donald Barr]] â€” father
+- [[Donald Trump]] -- boss; final-period adversary
+- [[Robert Mueller]] -- subject of Barr's framing letter
+- [[Rod Rosenstein]] -- Deputy AG who appointed Mueller; co-signed Barr letter conclusions
+- [[Jeffrey Rosen]] -- successor as Acting AG
+- [[William Barr]]'s father Donald Barr -- Dalton School headmaster who hired Jeffrey Epstein 1974-1976 (this connection is Tier 1 documented but Tier 3 in terms of operational implications)
+- [[Donald Barr]] -- father
 - [[Mueller Investigation]]
 - [[January 6 Select Committee 2021-2023]]
 - [[Deep Dive - Mueller Report 10 Obstruction Episodes]]

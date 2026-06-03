@@ -17,7 +17,7 @@ The 10 episodes are summarized below with the elements analyzed in Volume II: ob
 
 ## Background
 
-Mueller analyzed each episode under three statutory elements common to obstruction offenses (18 USC Â§Â§ 1503, 1505, 1512):
+Mueller analyzed each episode under three statutory elements common to obstruction offenses (18 USC §§ 1503, 1505, 1512):
 1. **Obstructive act**: conduct that would naturally tend to obstruct
 2. **Nexus to an official proceeding**: connection to a pending or foreseeable proceeding
 3. **Intent**: corrupt purpose
@@ -151,14 +151,14 @@ Mueller declined the option of a "prosecution memo" that would have explicitly s
 
 ## Connections
 
-- [[Donald Trump]] â€” subject
-- [[Mueller Investigation]] â€” parent investigation
-- [[James Comey]] â€” fired FBI Director
-- [[Don McGahn]] â€” White House Counsel; refused to fire Mueller
-- [[Michael Flynn]] Â· [[Paul Manafort]] Â· [[Michael Cohen]] Â· [[Roger Stone]] â€” witnesses subject to Trump conduct
-- [[William Barr]] â€” AG who declined to charge
-- [[Rod Rosenstein]] â€” Deputy AG who appointed Mueller
-- [[Trump First Impeachment 2019-2020]] Â· [[Trump Second Impeachment 2021]] â€” subsequent impeachment proceedings
+- [[Donald Trump]] — subject
+- [[Mueller Investigation]] — parent investigation
+- [[James Comey]] — fired FBI Director
+- [[Don McGahn]] — White House Counsel; refused to fire Mueller
+- [[Michael Flynn]] · [[Paul Manafort]] · [[Michael Cohen]] · [[Roger Stone]] — witnesses subject to Trump conduct
+- [[William Barr]] — AG who declined to charge
+- [[Rod Rosenstein]] — Deputy AG who appointed Mueller
+- [[Trump First Impeachment 2019-2020]] · [[Trump Second Impeachment 2021]] — subsequent impeachment proceedings
 - [[Trump Investigations MOC]]
 
 ## Sources

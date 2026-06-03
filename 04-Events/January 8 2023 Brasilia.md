@@ -4,17 +4,17 @@ description: January 8 2023 Bolsonarist storming of Brazilian Congress + Preside
 tags: [event, topic/jan-8-brasilia, era/2023, jurisdiction/brazil]
 type: event
 event_date: 2023-01-08
-location: BrasÃ­lia Brazil (Three Powers Plaza)
+location: Brasília Brazil (Three Powers Plaza)
 actors: [Bolsonarist supporters, Steve Bannon (US-side), Eduardo Bolsonaro (Brazilian)]
 outcome: Storming of Congress + Presidential Palace + Supreme Court; 1500+ arrested; multiple subsequent prosecutions
 status: closed (prosecutions ongoing)
 ---
 
-# January 8 2023 BrasÃ­lia
+# January 8 2023 Brasília
 
 ## Summary
 
-**Bolsonarist storming of Brazilian Congress + Presidential Palace + Supreme Court buildings in BrasÃ­lia on January 8, 2023.** Occurred 8 days after Lula da Silva's inauguration (January 1, 2023) following Lula's defeat of incumbent Jair Bolsonaro in the October 2022 presidential election runoff.
+**Bolsonarist storming of Brazilian Congress + Presidential Palace + Supreme Court buildings in Brasília on January 8, 2023.** Occurred 8 days after Lula da Silva's inauguration (January 1, 2023) following Lula's defeat of incumbent Jair Bolsonaro in the October 2022 presidential election runoff.
 
 **Direct operational + ideological parallel to US January 6, 2021 Capitol storming.** Both events:
 - Followed election losses by right-populist incumbents
@@ -26,12 +26,12 @@ status: closed (prosecutions ongoing)
 
 ## Sequence
 
-- `2022-10-30` â€” Lula defeats Bolsonaro in presidential runoff
-- `2022-11-2023-01` â€” Bolsonarist encampments + protest mobilization
-- `2023-01-01` â€” Lula inaugurated; Bolsonaro flees to Florida
-- `2023-01-08` â€” Three Powers storming
-- `2023-01-08+` â€” Mass arrests (1500+); Lula declares federal intervention in Federal District
-- `2024-2026` â€” Continuing prosecutions of organizers + participants; Bolsonaro indicted
+- `2022-10-30` -- Lula defeats Bolsonaro in presidential runoff
+- `2022-11-2023-01` -- Bolsonarist encampments + protest mobilization
+- `2023-01-01` -- Lula inaugurated; Bolsonaro flees to Florida
+- `2023-01-08` -- Three Powers storming
+- `2023-01-08+` -- Mass arrests (1500+); Lula declares federal intervention in Federal District
+- `2024-2026` -- Continuing prosecutions of organizers + participants; Bolsonaro indicted
 
 ## Connection to vault entities
 

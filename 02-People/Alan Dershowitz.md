@@ -15,18 +15,18 @@ Born September 1, 1938, Brooklyn, NY. Constitutional and criminal-defense lawyer
 
 ## Documented connections to the Epstein operation
 
-### Tier 1 â€” documented
+### Tier 1 -- documented
 
 - **Epstein legal defense team member 2005-2008**: Dershowitz was a member of the legal team that negotiated the 2007 NPA with US Attorney [[Alex Acosta]]. His role on the team is fully documented in court filings. See [[Epstein 2005-2008 Florida Case]].
 - **Long-term personal association with Epstein**: documented social relationship continuing for years.
 - **Flight log presence**: documented on multiple flights on Epstein aircraft.
 - **Visits to Epstein properties**: documented.
 
-### Tier 1 â€” sworn allegations (existence of allegation; underlying facts contested)
+### Tier 1 -- sworn allegations (existence of allegation; underlying facts contested)
 
 Beginning in 2014, [[Virginia Giuffre]] alleged in court filings and subsequent sworn testimony that Epstein and Maxwell trafficked her to Dershowitz on at least seven occasions including in New York, Florida, the US Virgin Islands, and elsewhere. Dershowitz immediately and consistently denied the allegations, including providing sworn affidavit.
 
-### Tier 1 â€” defamation litigation
+### Tier 1 -- defamation litigation
 
 - 2015: Dershowitz sued Giuffre's attorneys (Cassell, Edwards) for defamation.
 - 2019: Dershowitz sued Giuffre directly for defamation; Giuffre counter-sued.
@@ -40,9 +40,9 @@ Beginning in 2014, [[Virginia Giuffre]] alleged in court filings and subsequent 
 
 ## Connections
 
-- [[Jeffrey Epstein]] â€” client; long-term associate
-- [[Virginia Giuffre]] â€” accuser; defamation cross-litigant; settled 2022
-- [[Alex Acosta]] â€” counterparty in 2007 NPA negotiation
+- [[Jeffrey Epstein]] -- client; long-term associate
+- [[Virginia Giuffre]] -- accuser; defamation cross-litigant; settled 2022
+- [[Alex Acosta]] -- counterparty in 2007 NPA negotiation
 - [[Epstein 2005-2008 Florida Case]]
 
 ## Sources

@@ -18,42 +18,42 @@ status: closed
 
 **Multiple Cambridge Analytica / SCL Group / AggregateIQ implication points** (per DCMS Final Report 2019; ICO investigation 2018-2020):
 
-- **[[Vote Leave]]** (official Leave campaign; Dominic Cummings + Boris Johnson) paid **Â£2.7M directly to [[AggregateIQ]]** + **Â£625K via BeLeave** (a youth-vote affiliate; UK Electoral Commission found this to be illegal coordinated spending)
+- **[[Vote Leave]]** (official Leave campaign; Dominic Cummings + Boris Johnson) paid **£2.7M directly to [[AggregateIQ]]** + **£625K via BeLeave** (a youth-vote affiliate; UK Electoral Commission found this to be illegal coordinated spending)
 - **[[Leave.EU]]** (unofficial Leave campaign; [[Arron Banks]] + Nigel Farage) had **multiple disputed Cambridge Analytica contacts**; ICO ultimately found no significant breach by CA-direct involvement but the connection was repeatedly investigated
 - **AIQ** worked for both Vote Leave + DUP + Veterans for Britain + BeLeave - Canadian Privacy Commissioner found AIQ broke privacy law
 - **Russian influence concerns** documented (Banks's reported meetings with Russian Embassy 2015-2016; Intelligence Committee Russia Report 2020 partially released)
 
-**Brexit substantially demonstrated the operational capability** of micro-targeted political-data operations in a major-democracy election â€” directly preceded Trump 2016 win + provided proof-of-concept for the CA-era methodology.
+**Brexit substantially demonstrated the operational capability** of micro-targeted political-data operations in a major-democracy election -- directly preceded Trump 2016 win + provided proof-of-concept for the CA-era methodology.
 
 ## Sequence (key events)
 
-- `2013-01-23` â€” Cameron pledges EU referendum if Conservatives win 2015
-- `2015-05-07` â€” Conservatives win 2015 general election outright
-- `2015-05-28` â€” European Union Referendum Act introduced
-- `2015-2016` â€” Leave.EU + Vote Leave campaign organization
-- `2015-11` â€” [[Arron Banks]] reported meetings with Russian Embassy
-- `2016-04` â€” Vote Leave designated official Leave campaign
-- `2016-05` â€” BeLeave funded by Vote Leave (later found illegal)
-- `2016-06-16` â€” Jo Cox MP murdered (Remain campaign suspended)
-- `2016-06-23` â€” Referendum held; Leave wins 51.9%
-- `2016-06-24` â€” Cameron resigns; Theresa May becomes PM July 13
-- `2017-03-29` â€” Article 50 invoked
-- `2018-03` â€” Cadwalladr Observer + NYT CA exposes
-- `2019-02` â€” DCMS Final Report on Disinformation
-- `2020-01-31` â€” UK formally exits EU
-- `2020-07` â€” UK Intelligence Committee Russia Report partially released
+- `2013-01-23` -- Cameron pledges EU referendum if Conservatives win 2015
+- `2015-05-07` -- Conservatives win 2015 general election outright
+- `2015-05-28` -- European Union Referendum Act introduced
+- `2015-2016` -- Leave.EU + Vote Leave campaign organization
+- `2015-11` -- [[Arron Banks]] reported meetings with Russian Embassy
+- `2016-04` -- Vote Leave designated official Leave campaign
+- `2016-05` -- BeLeave funded by Vote Leave (later found illegal)
+- `2016-06-16` -- Jo Cox MP murdered (Remain campaign suspended)
+- `2016-06-23` -- Referendum held; Leave wins 51.9%
+- `2016-06-24` -- Cameron resigns; Theresa May becomes PM July 13
+- `2017-03-29` -- Article 50 invoked
+- `2018-03` -- Cadwalladr Observer + NYT CA exposes
+- `2019-02` -- DCMS Final Report on Disinformation
+- `2020-01-31` -- UK formally exits EU
+- `2020-07` -- UK Intelligence Committee Russia Report partially released
 
 ## Actors
 
-- **[[Vote Leave]]** â€” official Leave; Cummings + Johnson + Michael Gove
-- **[[Leave.EU]]** â€” unofficial Leave; Arron Banks + Nigel Farage
-- **[[AggregateIQ]]** â€” data work for multiple Leave-aligned campaigns
-- **[[Cambridge Analytica]]** â€” disputed direct involvement; multiple Leave.EU contacts
-- **[[SCL Group]]** â€” CA parent
-- **Boris Johnson** â€” Leave figure; later PM 2019-2022
-- **Nigel Farage** â€” Leave.EU; later UKIP + Reform UK leader
-- **David Cameron** â€” PM; resigned post-referendum
-- **Dominic Cummings** â€” Vote Leave director; later Johnson Chief of Staff
+- **[[Vote Leave]]** -- official Leave; Cummings + Johnson + Michael Gove
+- **[[Leave.EU]]** -- unofficial Leave; Arron Banks + Nigel Farage
+- **[[AggregateIQ]]** -- data work for multiple Leave-aligned campaigns
+- **[[Cambridge Analytica]]** -- disputed direct involvement; multiple Leave.EU contacts
+- **[[SCL Group]]** -- CA parent
+- **Boris Johnson** -- Leave figure; later PM 2019-2022
+- **Nigel Farage** -- Leave.EU; later UKIP + Reform UK leader
+- **David Cameron** -- PM; resigned post-referendum
+- **Dominic Cummings** -- Vote Leave director; later Johnson Chief of Staff
 
 ## Outcomes
 
@@ -73,8 +73,8 @@ status: closed
 - [[Leave.EU]] (needs file)
 - [[Arron Banks]] (needs file)
 - [[Constitutional Research Council]] / [[Richard Cook]] / [[DUP]] (needs files)
-- [[Hypothesis - Defense-to-elections pipeline]] â€” Brexit + Trump 2016 are the operational proof-of-concepts
-- [[Hypothesis - CA data survives]] â€” Brexit-era operations are part of the methodology that the federal-database successor architecture supersedes
+- [[Hypothesis - Defense-to-elections pipeline]] -- Brexit + Trump 2016 are the operational proof-of-concepts
+- [[Hypothesis - CA data survives]] -- Brexit-era operations are part of the methodology that the federal-database successor architecture supersedes
 
 ## Sources
 

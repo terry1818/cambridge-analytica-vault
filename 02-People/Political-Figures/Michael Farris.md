@@ -16,7 +16,7 @@ status: active
 
 ## Summary
 
-Christian-nationalist legal architect. **Founded Home School Legal Defense Association (HSLDA) in 1983** and helped make homeschooling legal in all 50 states. **Founded Patrick Henry College in 2000** (Christian college specifically designed to train future political/legal operatives). **Served as CEO and General Counsel of [[Alliance Defending Freedom]] from 2017 through 2022** Ã¢â‚¬â€ the period during which ADF built and won the Dobbs case overturning Roe v Wade. **Co-founded [[Convention of States Action]] in 2013** with [[Mark Meckler]]. Specializes in constitutional appellate litigation; argued before US Supreme Court + 8 federal circuit courts of appeals + highest courts of 13 states.
+Christian-nationalist legal architect. **Founded Home School Legal Defense Association (HSLDA) in 1983** and helped make homeschooling legal in all 50 states. **Founded Patrick Henry College in 2000** (Christian college specifically designed to train future political/legal operatives). **Served as CEO and General Counsel of [[Alliance Defending Freedom]] from 2017 through 2022** -- the period during which ADF built and won the Dobbs case overturning Roe v Wade. **Co-founded [[Convention of States Action]] in 2013** with [[Mark Meckler]]. Specializes in constitutional appellate litigation; argued before US Supreme Court + 8 federal circuit courts of appeals + highest courts of 13 states.
 
 **Farris is the legal-infrastructure bridge:** the same lawyer who designed the Dobbs strategy also co-founded the Article V mechanism. The legal apparatus ready to defend constitutional amendments emerging from a COS-convened convention is the same apparatus that delivered Dobbs.
 
@@ -29,13 +29,13 @@ Christian-nationalist legal architect. **Founded Home School Legal Defense Assoc
 
 ## Timeline
 
-- `1983` Ã¢â‚¬â€ Founds Home School Legal Defense Association (HSLDA)
-- `2000` Ã¢â‚¬â€ Founds Patrick Henry College
-- `2013` Ã¢â‚¬â€ With [[Mark Meckler]], co-founds Convention of States Project
-- `2017` Ã¢â‚¬â€ Steps down from HSLDA chairman after 33 years; becomes CEO of ADF
-- `2017-2022` Ã¢â‚¬â€ CEO/General Counsel of ADF; oversees buildout of Dobbs litigation
-- `2022-06` Ã¢â‚¬â€ Dobbs v. Jackson decided; Roe overturned (legal strategy he oversaw)
-- `2022` Ã¢â‚¬â€ Steps down from ADF CEO role
+- `1983` -- Founds Home School Legal Defense Association (HSLDA)
+- `2000` -- Founds Patrick Henry College
+- `2013` -- With [[Mark Meckler]], co-founds Convention of States Project
+- `2017` -- Steps down from HSLDA chairman after 33 years; becomes CEO of ADF
+- `2017-2022` -- CEO/General Counsel of ADF; oversees buildout of Dobbs litigation
+- `2022-06` -- Dobbs v. Jackson decided; Roe overturned (legal strategy he oversaw)
+- `2022` -- Steps down from ADF CEO role
 
 ## Relationships
 

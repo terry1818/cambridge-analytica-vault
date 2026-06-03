@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: The post-2021 school-board-takeover programme coordinating Moms for Liberty, Christopher Rufo issue-framings, Hillsdale curriculum, and conservative-movement infrastructure into systematic local-government capture.
 tags:
@@ -14,14 +14,14 @@ A connection note documenting the post-2021 coordinated school-board-takeover pr
 
 ## Coordinated organisational components
 
-- **[[Moms for Liberty]]** â€” chapter-network candidate recruitment, training, and electoral coordination
-- **[[Christopher Rufo]] / [[Manhattan Institute]]** â€” issue-framing development and tactical-messaging support
-- **[[Hillsdale College]]** â€” curriculum-development and charter-school institutional infrastructure
-- **[[PragerU]]** â€” children's-content curriculum-substitute material
-- **[[Heritage Foundation]] / [[Project 2025]]** â€” policy framework and state-policy advocacy
-- **[[Alliance Defending Freedom]] / [[Liberty Counsel]]** â€” religious-liberty-litigation support for parents' rights cases
-- **[[1792 Exchange]]** and adjacent organisations â€” ESG-and-business-pressure work on adjacent corporate-policy questions
-- **[[Council for National Policy]] / [[Conservative Partnership Institute]]** â€” broader coordination infrastructure
+- **[[Moms for Liberty]]** — chapter-network candidate recruitment, training, and electoral coordination
+- **[[Christopher Rufo]] / [[Manhattan Institute]]** — issue-framing development and tactical-messaging support
+- **[[Hillsdale College]]** — curriculum-development and charter-school institutional infrastructure
+- **[[PragerU]]** — children's-content curriculum-substitute material
+- **[[Heritage Foundation]] / [[Project 2025]]** — policy framework and state-policy advocacy
+- **[[Alliance Defending Freedom]] / [[Liberty Counsel]]** — religious-liberty-litigation support for parents' rights cases
+- **[[1792 Exchange]]** and adjacent organisations — ESG-and-business-pressure work on adjacent corporate-policy questions
+- **[[Council for National Policy]] / [[Conservative Partnership Institute]]** — broader coordination infrastructure
 
 ## Operational pattern
 

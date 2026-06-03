@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Scott_Bessent
 
 ## Summary
 
-American hedge fund manager; **Trump 2.0 Treasury Secretary** (confirmed January 2025). Founder of **Key Square Group** hedge fund. Former **Chief Investment Officer of Soros Fund Management** (2011-2015) under George Soros â€” notable given Trump's frequent demonization of Soros. **First openly gay Treasury Secretary in US history.** Major Trump 2024 donor and economic advisor during the campaign.
+American hedge fund manager; **Trump 2.0 Treasury Secretary** (confirmed January 2025). Founder of **Key Square Group** hedge fund. Former **Chief Investment Officer of Soros Fund Management** (2011-2015) under George Soros -- notable given Trump's frequent demonization of Soros. **First openly gay Treasury Secretary in US history.** Major Trump 2024 donor and economic advisor during the campaign.
 
 ## Treasury Secretary role
 

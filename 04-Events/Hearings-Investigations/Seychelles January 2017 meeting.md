@@ -13,7 +13,7 @@ status: closed
 
 ## Summary
 
-On **January 11, 2017** â€” nine days before Donald Trump's inauguration â€” [[Erik Prince]] met with **Kirill Dmitriev** (head of Russian Direct Investment Fund, the Russian sovereign wealth fund) in the **Seychelles**. The meeting was reportedly arranged by [[George Nader]] (UAE backchannel) and Mohammed bin Zayed (UAE crown prince, later UAE president). The meeting was investigated by [[Mueller Investigation]] and detailed in [[Source Senate Intel Vol 5 2020]].
+On **January 11, 2017** -- nine days before Donald Trump's inauguration -- [[Erik Prince]] met with **Kirill Dmitriev** (head of Russian Direct Investment Fund, the Russian sovereign wealth fund) in the **Seychelles**. The meeting was reportedly arranged by [[George Nader]] (UAE backchannel) and Mohammed bin Zayed (UAE crown prince, later UAE president). The meeting was investigated by [[Mueller Investigation]] and detailed in [[Source Senate Intel Vol 5 2020]].
 
 ## Significance
 

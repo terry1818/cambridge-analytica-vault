@@ -19,7 +19,7 @@ The Times (UK). (2018-03-20). "Cambridge Analytica sends girls to entrap politic
 
 ## What this article established
 
-The Times coverage of the [[Channel 4 Sting 2018]] focusing on the entrapment dimensions â€” specifically [[Alexander Nix]]s hidden-camera offers to discredit politicians using "beautiful Ukrainian girls." The piece documented:
+The Times coverage of the [[Channel 4 Sting 2018]] focusing on the entrapment dimensions — specifically [[Alexander Nix]]s hidden-camera offers to discredit politicians using "beautiful Ukrainian girls." The piece documented:
 
 - The specific Nix statements offering honey-trap operations
 - The mention of "Israeli companies" (later confirmed as [[Psy-Group]])
@@ -28,7 +28,7 @@ The Times coverage of the [[Channel 4 Sting 2018]] focusing on the entrapment di
 
 ## Significance
 
-The Times right-of-center positioning gave the Channel 4 sting coverage broader UK political reach. Combined with the Channel 4 video footage itself, the print follow-up established the entrapment dimension as central to public understanding of CAs methodology â€” beyond just data harvesting.
+The Times right-of-center positioning gave the Channel 4 sting coverage broader UK political reach. Combined with the Channel 4 video footage itself, the print follow-up established the entrapment dimension as central to public understanding of CAs methodology — beyond just data harvesting.
 
 ## Why this source matters in the vault
 

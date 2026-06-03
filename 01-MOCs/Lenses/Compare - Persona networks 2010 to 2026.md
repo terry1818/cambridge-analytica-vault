@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: How persona-management infrastructure has evolved from HBGary Federal (2010) to Team Jorge AIMS (2023)
 tags: [moc, lens, topic/info-warfare, topic/disinformation]
@@ -13,7 +13,7 @@ The capability to operate **large networks of fake online identities at scale** 
 
 ### 2010-2011: HBGary Federal era
 - **[[HBGary Federal]]** pitched persona-management software to Bank of America and US Chamber of Commerce
-- **US Centcom Operation Earnest Voice** â€” military contract for managing fake personas in Middle East
+- **US Centcom Operation Earnest Voice** -- military contract for managing fake personas in Middle East
 - Each operator could manage ~10 personas
 - Required significant manual effort per persona
 - Exposed by **2011 Anonymous hack of HBGary Federal**
@@ -26,8 +26,8 @@ The capability to operate **large networks of fake online identities at scale** 
 - Documented by Mueller, Senate Intel Vol 5
 
 ### 2018-2020: Spamouflage / Doppelganger emergence
-- **[[Spamouflage Dragonbridge]]** Chinese network â€” thousands of accounts
-- **Persona accounts increasingly automated** â€” less per-operator manual work
+- **[[Spamouflage Dragonbridge]]** Chinese network -- thousands of accounts
+- **Persona accounts increasingly automated** -- less per-operator manual work
 - Cross-platform coordination
 - Identified by Graphika, Stanford Internet Observatory, Meta
 
@@ -43,7 +43,7 @@ The capability to operate **large networks of fake online identities at scale** 
 - Undercover journalists shown demos manipulating Twitter, Facebook, Telegram, Amazon, Gmail simultaneously
 - Sold as a service to any paying client
 
-## The trajectory: scale Ã— automation Ã— AI integration
+## The trajectory: scale × automation × AI integration
 
 | Year | Operator effort per persona | Personas per operator | AI involvement | Detection difficulty |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ The capability to operate **large networks of fake online identities at scale** 
 
 ## Why this matters for CA-era thinking
 
-CA itself **did NOT primarily operate persona networks** â€” it targeted real users. But the post-CA influence-operations ecosystem has **collapsed the distinction between targeting and persona networks**. Modern operations:
+CA itself **did NOT primarily operate persona networks** -- it targeted real users. But the post-CA influence-operations ecosystem has **collapsed the distinction between targeting and persona networks**. Modern operations:
 
 1. Build a persona network (AI-managed)
 2. The personas profile their own audiences (engagement-based)

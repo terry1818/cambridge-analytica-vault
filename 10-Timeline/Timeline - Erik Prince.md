@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Micro-timeline of Erik Prince relevant to CA-successor private military intelligence thread
 tags: [timeline, topic/cambridge-analytica]
@@ -6,20 +6,20 @@ tags: [timeline, topic/cambridge-analytica]
 
 # Micro-Timeline: [[Erik Prince]]
 
-- `1969` â€” Born (US)
-- `1997` â€” Founds Blackwater
-- `2007` â€” Nisour Square massacre; Blackwater scandal
-- `2009-2010` â€” Blackwater renamed Xe Services
-- `2010-2011` â€” Reflex Responses (UAE mercenary work)
-- `2011` â€” Sister Betsy DeVos increasing political activity
-- `2014` â€” Founds [[Frontier Services Group]] in Hong Kong (CITIC Group major investor)
-- `2016-08` â€” Attends Trump Tower meeting with [[Donald Trump Jr.]], [[Joel Zamel]], [[George Nader]] â€” Zamel pitches social-media manipulation plan
-- `2017-01` â€” Seychelles meeting with Russian Direct Investment Fund head Kirill Dmitriev
-- `2017` â€” Betsy DeVos becomes Trump Education Secretary
-- `2018-03` â€” [[Johnson Chun Shun Ko]] (FSG officer) appointed director of [[Emerdata Limited]]
-- `2018-2020` â€” Mueller Investigation examines Prince's contacts
-- `2020+` â€” Continues private military / intelligence work; FSG operations in Africa
-- `2024+` â€” Reported plans for new private military operations
+- `1969` — Born (US)
+- `1997` — Founds Blackwater
+- `2007` — Nisour Square massacre; Blackwater scandal
+- `2009-2010` — Blackwater renamed Xe Services
+- `2010-2011` — Reflex Responses (UAE mercenary work)
+- `2011` — Sister Betsy DeVos increasing political activity
+- `2014` — Founds [[Frontier Services Group]] in Hong Kong (CITIC Group major investor)
+- `2016-08` — Attends Trump Tower meeting with [[Donald Trump Jr.]], [[Joel Zamel]], [[George Nader]] — Zamel pitches social-media manipulation plan
+- `2017-01` — Seychelles meeting with Russian Direct Investment Fund head Kirill Dmitriev
+- `2017` — Betsy DeVos becomes Trump Education Secretary
+- `2018-03` — [[Johnson Chun Shun Ko]] (FSG officer) appointed director of [[Emerdata Limited]]
+- `2018-2020` — Mueller Investigation examines Prince's contacts
+- `2020+` — Continues private military / intelligence work; FSG operations in Africa
+- `2024+` — Reported plans for new private military operations
 
 ## Vault context and open research threads
 

@@ -18,7 +18,7 @@ Christian nonprofit legal organization founded **1989** by Mathew Staver. Litiga
 - COVID-related public health measures challenges
 - Education-related religious-establishment claims
 
-Headquartered in Orlando, FL. Founder/Chairman: Mathew Staver. Annual budget approximately $7-10M. One of several major Religious Right litigation infrastructure organizations alongside [[Alliance Defending Freedom]] Â· [[First Liberty Institute]] Â· [[American Center for Law and Justice]].
+Headquartered in Orlando, FL. Founder/Chairman: Mathew Staver. Annual budget approximately $7-10M. One of several major Religious Right litigation infrastructure organizations alongside [[Alliance Defending Freedom]] · [[First Liberty Institute]] · [[American Center for Law and Justice]].
 
 ## Major cases
 
@@ -40,11 +40,11 @@ Liberty Counsel is one of the operational litigation nodes in the [[Religious Ri
 
 ## Connections
 
-- [[Mathew Staver]] â€” founder
-- [[Liberty University]] â€” adjacent institution
-- [[Family Research Council]] Â· [[Council for National Policy]] â€” coordination
-- [[Alliance Defending Freedom]] Â· [[First Liberty Institute]] â€” adjacent legal infrastructure
-- [[Religious Right MOC]] Â· [[Lens - COS as Constitutional Capture Vector]]
+- [[Mathew Staver]] -- founder
+- [[Liberty University]] -- adjacent institution
+- [[Family Research Council]] · [[Council for National Policy]] -- coordination
+- [[Alliance Defending Freedom]] · [[First Liberty Institute]] -- adjacent legal infrastructure
+- [[Religious Right MOC]] · [[Lens - COS as Constitutional Capture Vector]]
 - [[Christian Nationalism]]
 
 ## Sources

@@ -9,7 +9,7 @@ tags: [connection, wexner, epstein-funder, mega-group, israel-network, philanthr
 aliases: ["Wexner Mega Israel pipeline"]
 ---
 
-# Connection: Wexner â†’ Mega Group â†’ Israeli philanthropy
+# Connection: Wexner → Mega Group → Israeli philanthropy
 
 ## What this connection establishes
 
@@ -33,7 +33,7 @@ aliases: ["Wexner Mega Israel pipeline"]
 ### Role 3: Wexner Foundation and Israeli-network philanthropy
 
 - 1983: Wexner Foundation founded with Abigail Wexner
-- 1989: Wexner Israel Fellowship founded at Harvard Kennedy School â€” leadership development for Israeli public-sector mid-careerists
+- 1989: Wexner Israel Fellowship founded at Harvard Kennedy School — leadership development for Israeli public-sector mid-careerists
 - Major funder of [[Israeli-American Council]] (IAC) and related Israeli-network organizations
 - Substantial Hillel International funding
 - Wexner Foundation operates across US-Israel leadership-development space at scale
@@ -55,14 +55,14 @@ It DOES document that the same actor (Wexner) operated all three roles concurren
 
 ## Connections
 
-- [[Leslie Wexner]] â€” central node
-- [[Mega Group]] â€” coordination layer
-- [[Israeli-American Council]] â€” Wexner-funded organization
-- [[Wexner Foundation]] â€” Wexner's philanthropic vehicle
-- [[Jeffrey Epstein]] â€” recipient of asset transfer
-- [[L Brands]] â€” corporate vehicle
+- [[Leslie Wexner]] — central node
+- [[Mega Group]] — coordination layer
+- [[Israeli-American Council]] — Wexner-funded organization
+- [[Wexner Foundation]] — Wexner's philanthropic vehicle
+- [[Jeffrey Epstein]] — recipient of asset transfer
+- [[L Brands]] — corporate vehicle
 - [[Hypothesis - Epstein had intelligence-service connections]]
-- [[Lens - Israel]] â€” broader Israel-network context
+- [[Lens - Israel]] — broader Israel-network context
 
 ## Sources
 

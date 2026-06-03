@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Analysis of HindsightFiles documents covering CAs Brazil operations
 tags: [event, topic/cambridge-analytica, era/2016-2018, jurisdiction/other]
@@ -8,11 +8,11 @@ actors: [Cambridge Analytica, SCL Group, Brittany Kaiser]
 status: closed
 ---
 
-# HindsightFiles â€” Brazil Material
+# HindsightFiles -- Brazil Material
 
 ## What HindsightFiles documents cover
 
-[[Brittany Kaiser]]'s [[HindsightFiles]] release included a substantial chunk of material on **CA's Brazilian operations** â€” material covered most extensively by **Folha de SÃ£o Paulo** following the January 2020 release.
+[[Brittany Kaiser]]'s [[HindsightFiles]] release included a substantial chunk of material on **CA's Brazilian operations** -- material covered most extensively by **Folha de São Paulo** following the January 2020 release.
 
 ### Key disclosures
 
@@ -39,7 +39,7 @@ Brazil is significant because:
 
 - [[Source HindsightFiles 2020]]
 - [[HindsightFiles Analytical Index]]
-- Folha de SÃ£o Paulo reporting on HindsightFiles release (January 2020)
+- Folha de São Paulo reporting on HindsightFiles release (January 2020)
 
 ## Vault context and open research threads
 

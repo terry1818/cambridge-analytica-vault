@@ -16,7 +16,7 @@ The US House Select Committee to Investigate the January 6th Attack on the Unite
 ## Members
 
 **Chair**: [[Bennie Thompson]] (D-MS)
-**Vice Chair**: [[Liz Cheney]] (R-WY) â€” one of two Republican members appointed by Speaker Pelosi after McCarthy withdrew his picks
+**Vice Chair**: [[Liz Cheney]] (R-WY) -- one of two Republican members appointed by Speaker Pelosi after McCarthy withdrew his picks
 
 **Other members**:
 - Zoe Lofgren (D-CA)
@@ -51,7 +51,7 @@ McCarthy withdrew his five Republican picks (including Jim Jordan and Jim Banks)
 3. **June 16**: pressure on VP Pence; Greg Jacob and Michael Luttig testimony
 4. **June 21**: pressure on state officials; Brad Raffensperger, Rusty Bowers (AZ), Shaye Moss testimony
 5. **June 23**: pressure on DOJ; Jeff Rosen, Richard Donoghue, Steven Engel testimony
-6. **June 28** (surprise hearing): [[Cassidy Hutchinson]] testimony â€” Meadows aide; testified to Trump's knowledge of armed crowd, struggle in the presidential SUV, and other accounts
+6. **June 28** (surprise hearing): [[Cassidy Hutchinson]] testimony -- Meadows aide; testified to Trump's knowledge of armed crowd, struggle in the presidential SUV, and other accounts
 7. **July 12**: connections to extremist groups (Proud Boys, Oath Keepers)
 8. **July 21** (prime time): Trump's 187 minutes of inaction
 9. **October 13**: synthesis; vote to subpoena Trump
@@ -122,11 +122,11 @@ Mark Meadows's senior aide Hutchinson testified:
 
 ## Connections
 
-- [[Donald Trump]] â€” primary investigative subject; criminal referral
-- [[Bennie Thompson]] Â· [[Liz Cheney]] â€” chair / vice chair
+- [[Donald Trump]] -- primary investigative subject; criminal referral
+- [[Bennie Thompson]] · [[Liz Cheney]] -- chair / vice chair
 - [[Adam Kinzinger]]
-- [[Cassidy Hutchinson]] â€” key witness
-- [[John Eastman]] Â· [[Rudy Giuliani]] Â· [[Mark Meadows]] Â· [[Jeffrey Clark]] Â· [[Sidney Powell]] Â· [[Kenneth Chesebro]] â€” investigated figures
+- [[Cassidy Hutchinson]] -- key witness
+- [[John Eastman]] · [[Rudy Giuliani]] · [[Mark Meadows]] · [[Jeffrey Clark]] · [[Sidney Powell]] · [[Kenneth Chesebro]] -- investigated figures
 - [[Stop the Steal]]
 - [[Trump Second Impeachment 2021]]
 - [[US v Trump DC Federal Election Interference Case]]

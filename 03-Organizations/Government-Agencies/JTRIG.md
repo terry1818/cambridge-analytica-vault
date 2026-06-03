@@ -15,8 +15,8 @@ wikipedia_url: https://en.wikipedia.org/wiki/Joint_Threat_Research_Intelligence_
 
 ## Summary
 
-Joint Threat Research Intelligence Group â€” a unit of the UK signals intelligence agency [[GCHQ]] revealed by Snowden documents in 2014 (The Intercept). JTRIG operated **CA-style influence operations from inside a Western state intelligence agency** during the same period CA was being built commercially. JTRIG tools and tactics included:
-- "False flag operations" â€” posting material online while pretending to be someone else
+Joint Threat Research Intelligence Group -- a unit of the UK signals intelligence agency [[GCHQ]] revealed by Snowden documents in 2014 (The Intercept). JTRIG operated **CA-style influence operations from inside a Western state intelligence agency** during the same period CA was being built commercially. JTRIG tools and tactics included:
+- "False flag operations" -- posting material online while pretending to be someone else
 - Honey traps to discredit targets
 - Manipulating online polls and social media
 - "JTRIG Tools and Techniques" leak revealed dozens of capabilities

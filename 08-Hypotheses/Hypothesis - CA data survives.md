@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Working theory that CAs harvested data and derived models survived deletion certifications
 tags: [hypothesis, topic/cambridge-analytica, confidence/medium]
@@ -22,7 +22,7 @@ If true, the post-2018 collapse of CA was substantively cosmetic. The data infra
 
 ## Supporting evidence
 
-- NYT viewed extant data samples in March 2018 ([[Source Rosenberg et al 2018-03-17 NYT]]) â€” proving deletion certifications were false
+- NYT viewed extant data samples in March 2018 ([[Source Rosenberg et al 2018-03-17 NYT]]) — proving deletion certifications were false
 - [[Christopher Wylie]] confirmed data persisted on company servers
 - Multiple successor firms continue with same core personnel
 - [[Brittany Kaiser]]'s [[HindsightFiles]] released only a slice of her archive
@@ -36,11 +36,11 @@ If true, the post-2018 collapse of CA was substantively cosmetic. The data infra
 
 ## Current confidence
 
-`#confidence/medium` â€” direct evidence of persistence existed in 2018; subsequent operational use is plausible but not publicly documented.
+`#confidence/medium` — direct evidence of persistence existed in 2018; subsequent operational use is plausible but not publicly documented.
 
 ## What would falsify this
 
-Verified independent audit showing destruction of all data and derived models across all successor entities â€” has not occurred.
+Verified independent audit showing destruction of all data and derived models across all successor entities — has not occurred.
 
 ## Next steps
 

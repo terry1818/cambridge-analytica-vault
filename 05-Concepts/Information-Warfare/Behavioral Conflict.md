@@ -11,20 +11,20 @@ first-documented: ~1990s
 
 ## Definition
 
-Doctrinal framework developed and marketed by [[SCL Group]] â€” applying academic psychology and anthropology to population-scale behavior modification in conflict and election environments. Distinct from kinetic warfare ("physical conflict") and traditional information operations ("psy ops") in framing the *individual mind* as the strategic terrain.
+Doctrinal framework developed and marketed by [[SCL Group]] -- applying academic psychology and anthropology to population-scale behavior modification in conflict and election environments. Distinct from kinetic warfare ("physical conflict") and traditional information operations ("psy ops") in framing the *individual mind* as the strategic terrain.
 
 ## Origins
 
 - Concept emerges from [[SCL Group]]'s 1990s strategic communication research at the [[Behavioural Dynamics Institute]]
 - Operationalized for UK MoD and US DoD war-on-terror contracts in the 2000s
-- 2005 â€” SCL demonstrated capability at DSEI (UK military trade show) for "mass deception" of a city
+- 2005 -- SCL demonstrated capability at DSEI (UK military trade show) for "mass deception" of a city
 
 ## Mechanism
 
-1. Audience research â€” segment populations by psychological/cultural cluster
-2. Targeted messaging â€” design content specifically for each cluster's susceptibility
-3. Delivery â€” through trusted local channels (media, religious networks, social platforms)
-4. Iteration â€” measure behavior change, adjust
+1. Audience research -- segment populations by psychological/cultural cluster
+2. Targeted messaging -- design content specifically for each cluster's susceptibility
+3. Delivery -- through trusted local channels (media, religious networks, social platforms)
+4. Iteration -- measure behavior change, adjust
 
 ## How CA inherited it
 

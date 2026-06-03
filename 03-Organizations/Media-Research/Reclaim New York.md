@@ -19,7 +19,7 @@ US 501(c)(4) advocacy organization founded in **2013**, operating primarily in N
 
 ## Purpose / activities
 
-Officially framed as a **Freedom-of-Information-Law focused transparency project** â€” filing FOIL requests with New York state and local governments to expose government spending and operations. The actual operational role was broader:
+Officially framed as a **Freedom-of-Information-Law focused transparency project** -- filing FOIL requests with New York state and local governments to expose government spending and operations. The actual operational role was broader:
 
 - **Personnel network hub** for the emerging Mercer political infrastructure during 2013-2016
 - Provided Bannon, Conway, and other Mercer-aligned figures with formal organizational positions
@@ -33,13 +33,13 @@ Reclaim New York is part of the **broader Mercer-funded political infrastructure
 - Overlapping personnel (Bannon, Conway, others rotated through)
 - Coordinated with [[Breitbart News]] and [[Government Accountability Institute]]
 
-The org represents the **state-level / local operations** layer of the Mercer infrastructure â€” distinct from the federal-targeting layer that CA provided.
+The org represents the **state-level / local operations** layer of the Mercer infrastructure -- distinct from the federal-targeting layer that CA provided.
 
 ## Decline
 
-- 2016 â€” Conway departs to run Trump campaign
-- 2017 â€” Bannon departs to White House
-- 2018+ â€” wound down operations as key personnel moved on
+- 2016 -- Conway departs to run Trump campaign
+- 2017 -- Bannon departs to White House
+- 2018+ -- wound down operations as key personnel moved on
 - Effectively dissolved in late 2010s
 
 ## Connections

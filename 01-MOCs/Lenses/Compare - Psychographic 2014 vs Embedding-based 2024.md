@@ -32,15 +32,15 @@ CA's psychographic targeting was the cutting edge in 2014. By 2024 the methodolo
 ## AI-era embedding-based targeting (2022-present)
 
 **Methodology:**
-1. Collect any behavioral signal (posts, comments, engagement, browsing â€” whatever's available)
+1. Collect any behavioral signal (posts, comments, engagement, browsing -- whatever's available)
 2. Generate high-dimensional embeddings using a foundation model (LLM or vision-language model)
 3. Cluster embedding space using unsupervised methods
 4. Generate tailored content for each cluster (either AI-generated or AI-selected)
 5. Test, iterate, optimize via engagement signals
 
 **Strengths:**
-- Doesn't need explicit personality framework â€” embeddings capture latent dimensions automatically
-- Doesn't need supervised training data â€” works on whatever signals are available
+- Doesn't need explicit personality framework -- embeddings capture latent dimensions automatically
+- Doesn't need supervised training data -- works on whatever signals are available
 - Far higher dimensionality than Big Five
 - Generates content on-the-fly
 - Operates at full platform scale
@@ -66,7 +66,7 @@ CA's psychographic targeting was the cutting edge in 2014. By 2024 the methodolo
 
 ## What this means for investigation
 
-CA-era investigation could **audit psychographic claims** by checking the underlying personality framework. Modern operations are largely **post-auditable** â€” you can identify the network and content but cannot reverse-engineer the targeting logic, because there is no human-interpretable targeting logic.
+CA-era investigation could **audit psychographic claims** by checking the underlying personality framework. Modern operations are largely **post-auditable** -- you can identify the network and content but cannot reverse-engineer the targeting logic, because there is no human-interpretable targeting logic.
 
 ## Related
 

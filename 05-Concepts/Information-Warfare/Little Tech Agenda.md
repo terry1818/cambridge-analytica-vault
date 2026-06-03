@@ -13,9 +13,9 @@ first-documented: 2023 (Andreessen Techno-Optimist Manifesto); 2024 (Little Tech
 
 **The Little Tech Agenda** is the explicit framing introduced by **[[Marc Andreessen]]** and **[[Ben Horowitz]]** (Andreessen Horowitz / a16z) in 2024 positioning **"Little Tech" (startups, crypto, defense-tech, AI startups) against "Big Tech" (Google, Apple, Meta, Amazon, Microsoft)**. The framing claims Big Tech operates as **regulatory capture coordinated with Democratic Party priorities** to **suppress startup competition**, while Little Tech needs **deregulation + protection from antitrust + access to government contracts**.
 
-**Operationally aligned with Trump 2.0** Ã¢â‚¬â€ Andreessen + Horowitz endorsed Trump 2024. Coordinates with **[[Peter Thiel]]** (Founders Fund), **[[David Sacks]]** (White House AI/Crypto Czar), **Elon Musk** (now operationally independent of Big Tech via X / xAI), and broader Trump-aligned tech-right.
+**Operationally aligned with Trump 2.0** -- Andreessen + Horowitz endorsed Trump 2024. Coordinates with **[[Peter Thiel]]** (Founders Fund), **[[David Sacks]]** (White House AI/Crypto Czar), **Elon Musk** (now operationally independent of Big Tech via X / xAI), and broader Trump-aligned tech-right.
 
-**The most consequential public schism in US tech politics in the 2020s** Ã¢â‚¬â€ explicitly fracturing what was previously Democratic-leaning Silicon Valley.
+**The most consequential public schism in US tech politics in the 2020s** -- explicitly fracturing what was previously Democratic-leaning Silicon Valley.
 
 ## Documented framing
 
@@ -69,7 +69,7 @@ first-documented: 2023 (Andreessen Techno-Optimist Manifesto); 2024 (Little Tech
 
 - **Big Tech becomes structural Democratic ally** by default (not by ideological choice)
 - **Antitrust enforcement against Big Tech** may continue under Trump 2.0 but selectively
-- **Tech-right vs Big-Tech fracture is exploitable** Ã¢â‚¬â€ Big Tech has resources to fund counter-coalition
+- **Tech-right vs Big-Tech fracture is exploitable** -- Big Tech has resources to fund counter-coalition
 
 ## Related vault entries
 

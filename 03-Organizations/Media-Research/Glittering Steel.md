@@ -18,7 +18,7 @@ US film production company founded by [[Steve Bannon]] with [[Mercer Family Foun
 
 ## Notable productions
 
-- ***Clinton Cash* (2016)** â€” documentary film adaptation of Peter Schweizers book of the same name (which was published by [[Government Accountability Institute]] also Mercer-funded). Released July 2016 ahead of the Democratic National Convention. Central anti-Hillary content piece for the 2016 election cycle
+- ***Clinton Cash* (2016)** -- documentary film adaptation of Peter Schweizers book of the same name (which was published by [[Government Accountability Institute]] also Mercer-funded). Released July 2016 ahead of the Democratic National Convention. Central anti-Hillary content piece for the 2016 election cycle
 - Various other shorter documentary projects through the Trump 2016 cycle
 
 ## Role in the Mercer-Bannon infrastructure

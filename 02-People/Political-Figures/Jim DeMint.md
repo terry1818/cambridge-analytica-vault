@@ -27,10 +27,10 @@ Former **US Senator from South Carolina (2005-2013)**. Resigned from Senate to b
 
 ## Timeline
 
-- `2005-2013` Ã¢â‚¬â€ US Senator (SC)
-- `2013-2017` Ã¢â‚¬â€ President, Heritage Foundation
-- `2017` Ã¢â‚¬â€ Ousted by Heritage board over leadership concerns
-- `2017+` Ã¢â‚¬â€ Joins Conservative Partnership Institute; senior advisor to COS
+- `2005-2013` -- US Senator (SC)
+- `2013-2017` -- President, Heritage Foundation
+- `2017` -- Ousted by Heritage board over leadership concerns
+- `2017+` -- Joins Conservative Partnership Institute; senior advisor to COS
 
 ## Relationships
 

@@ -8,7 +8,7 @@ actors: [SCL Group, Alexander Nix, United National Congress, Jack Warner]
 status: closed
 ---
 
-# HindsightFiles â€” Trinidad Material
+# HindsightFiles -- Trinidad Material
 
 ## What HindsightFiles documents cover
 
@@ -17,7 +17,7 @@ The Trinidad material in [[HindsightFiles]] provided **operational detail** on t
 ### Disclosures
 
 - Documents reportedly include the **internal SCL planning memos** for the "Do So!" voter-suppression campaign
-- Material on the **ethnic targeting strategy** â€” explicit segmentation of Afro-Trinidadian vs. Indo-Trinidadian voters
+- Material on the **ethnic targeting strategy** -- explicit segmentation of Afro-Trinidadian vs. Indo-Trinidadian voters
 - References to [[Jack Warner]]'s funding role
 - Internal SCL discussion of "Do So!" as a **template** for future similar operations
 
@@ -29,11 +29,11 @@ Trinidad 2010 is the **methodological template** for what CA later sold in the W
 - Faux-grassroots aesthetic to disguise commercial-political origin
 - Opaque international money
 
-The HindsightFiles material **proves Trinidad was not improvisational** â€” it was a deliberate, planned voter-suppression campaign with internal documentation establishing intent.
+The HindsightFiles material **proves Trinidad was not improvisational** -- it was a deliberate, planned voter-suppression campaign with internal documentation establishing intent.
 
 ## Open questions
 
-- [ ] Full SCL planning memos for "Do So!" â€” partial release only
+- [ ] Full SCL planning memos for "Do So!" -- partial release only
 - [ ] Were similar voter-suppression playbooks documented for other countries?
 - [ ] Did Trinidad-specific personnel transfer to later CA operations?
 

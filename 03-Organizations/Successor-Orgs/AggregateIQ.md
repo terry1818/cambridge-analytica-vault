@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Canadian digital firm; CA-linked; key Brexit campaign contractor; helped Vote Leave circumvent finance law
 tags: [org, org/data-firm, topic/cambridge-analytica, topic/brexit, era/2014-2016, era/2016-2018, era/2018-2020, jurisdiction/canada]
@@ -16,32 +16,32 @@ status: active
 
 ## Summary
 
-Canadian digital advertising and data services firm based in Victoria, British Columbia. Founded in 2013 by **Jeff Silvester** and **Zackary Massingham**. [[Christopher Wylie]] testified to UK Parliament that AIQ was effectively "**SCL Canada**" â€” built with assistance from [[SCL Group]] / [[Cambridge Analytica]] and operating as an arm of the SCL family.
+Canadian digital advertising and data services firm based in Victoria, British Columbia. Founded in 2013 by **Jeff Silvester** and **Zackary Massingham**. [[Christopher Wylie]] testified to UK Parliament that AIQ was effectively "**SCL Canada**" -- built with assistance from [[SCL Group]] / [[Cambridge Analytica]] and operating as an arm of the SCL family.
 
 ## Brexit campaign finance scheme (the central legal case)
 
 Per [[Source UK Electoral Commission Vote Leave 2018]] and [[Source DCMS Final Report 2019]]:
 
-- **[[Vote Leave]] paid AIQ ~Â£2.7M** directly out of their Â£7M campaign budget
-- **[[BeLeave]]** (youth Brexit group) reportedly directed by Vote Leave to spend **Â£625K with AIQ**
-- **[[DUP]]** spent **Â£435K** (largest in party history) on Brexit ads via AIQ
+- **[[Vote Leave]] paid AIQ ~£2.7M** directly out of their £7M campaign budget
+- **[[BeLeave]]** (youth Brexit group) reportedly directed by Vote Leave to spend **£625K with AIQ**
+- **[[DUP]]** spent **£435K** (largest in party history) on Brexit ads via AIQ
 - **Veterans for Britain** also paid AIQ
 
-**UK Electoral Commission found this constituted illegal coordination** of spending â€” the BeLeave funnel effectively allowed Vote Leave to exceed its Â£7M spending cap. Vote Leave fined Â£61,000.
+**UK Electoral Commission found this constituted illegal coordination** of spending -- the BeLeave funnel effectively allowed Vote Leave to exceed its £7M spending cap. Vote Leave fined £61,000.
 
 ## CA / SCL relationship
 
-- Wylie testimony: AIQ was effectively "SCL Canada" â€” founded with SCL technical and methodological assistance
+- Wylie testimony: AIQ was effectively "SCL Canada" -- founded with SCL technical and methodological assistance
 - Shared infrastructure with CA
 - Multiple CA executives publicly minimized the AIQ-CA relationship
 - The 2018 DCMS investigation documented operational and personnel overlap
 
 ## Investigations and enforcement
 
-- 2018 â€” UK Electoral Commission found Vote Leave/BeLeave/AIQ illegal coordination; Â£61K fine on Vote Leave
-- 2018 â€” Facebook briefly suspended AIQ from platform
-- 2019+ â€” UK ICO investigation
-- 2019+ â€” BC (Canada) Information and Privacy Commissioner investigation
+- 2018 -- UK Electoral Commission found Vote Leave/BeLeave/AIQ illegal coordination; £61K fine on Vote Leave
+- 2018 -- Facebook briefly suspended AIQ from platform
+- 2019+ -- UK ICO investigation
+- 2019+ -- BC (Canada) Information and Privacy Commissioner investigation
 
 ## Operations post-2018
 
@@ -126,7 +126,7 @@ The post-2018 AIQ continuation is the cleanest documented case in the vault of C
 
 ## Why the vault treats AIQ as a top connector
 
-AIQ is the operational arm that connects the SCL/CA story to the Brexit story specifically. Without AIQ, the documentation of CA-style methodology being deployed in the UK referendum cycle would be substantially thinner. With AIQ, the cross-jurisdictional pattern (a CA-adjacent firm doing analogous work for two ideologically aligned campaigns â€” Trump 2016 and Brexit 2016 â€” in the same year) is the strongest single piece of evidence that what happened in 2016 was an operational programme, not a pair of coincidences.
+AIQ is the operational arm that connects the SCL/CA story to the Brexit story specifically. Without AIQ, the documentation of CA-style methodology being deployed in the UK referendum cycle would be substantially thinner. With AIQ, the cross-jurisdictional pattern (a CA-adjacent firm doing analogous work for two ideologically aligned campaigns -- Trump 2016 and Brexit 2016 -- in the same year) is the strongest single piece of evidence that what happened in 2016 was an operational programme, not a pair of coincidences.
 
 ## Open research threads
 

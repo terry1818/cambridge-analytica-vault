@@ -17,9 +17,9 @@ status: active
 
 ## Summary
 
-**Companion DAF to [[DonorsTrust]]**, founded **1999 by same Whitney Ball network**. **~$500M+ in assets** as of mid-2020s. Operationally indistinguishable from DonorsTrust in practice Ã¢â‚¬â€ **same office (44 Canal Center Plaza, Alexandria VA), same CEO (Lawson Bader since 2015), same operational model**. **Distinct legal entity** structured for **larger-grant capacity** + slightly different donor base (DCF accepts larger minimum contributions than DonorsTrust).
+**Companion DAF to [[DonorsTrust]]**, founded **1999 by same Whitney Ball network**. **~$500M+ in assets** as of mid-2020s. Operationally indistinguishable from DonorsTrust in practice -- **same office (44 Canal Center Plaza, Alexandria VA), same CEO (Lawson Bader since 2015), same operational model**. **Distinct legal entity** structured for **larger-grant capacity** + slightly different donor base (DCF accepts larger minimum contributions than DonorsTrust).
 
-Per Center for Media and Democracy + Mother Jones research, **DonorsTrust + Donors Capital Fund together function as the single most consequential dark-money distribution apparatus** of the post-2000 conservative coalition Ã¢â‚¬â€ distributing **~$2B+ combined** since founding through to mid-2020s.
+Per Center for Media and Democracy + Mother Jones research, **DonorsTrust + Donors Capital Fund together function as the single most consequential dark-money distribution apparatus** of the post-2000 conservative coalition -- distributing **~$2B+ combined** since founding through to mid-2020s.
 
 ## Structural distinction from DonorsTrust
 

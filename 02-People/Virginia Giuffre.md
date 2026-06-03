@@ -29,22 +29,22 @@ Born Sacramento, CA, August 9, 1983. Died April 25, 2025, reported by family as 
 | 2021 Aug | Filed civil suit against Prince Andrew in SDNY |
 | 2022 Feb | Settled with Prince Andrew for undisclosed sum |
 | 2024 Jan | Judge Preska orders unsealing of remaining Giuffre v. Maxwell exhibits |
-| 2025 Apr 25 | Died â€” family reported as suicide |
+| 2025 Apr 25 | Died -- family reported as suicide |
 
 ## Key facts
 
-- **Sworn allegations under oath** (tier 1 â€” sworn testimony exists; allegations are not adjudicated criminal findings against the named individuals): Giuffre testified under oath that she was trafficked by Epstein and Maxwell to [[Prince Andrew]] (on three occasions), [[Alan Dershowitz]] (multiple occasions, which he denies), and others. Andrew civil-settled. Dershowitz, after suing for defamation, eventually settled in 2022 with statements from each side acknowledging the possibility of mistaken identity. Tier 1 on the existence of the sworn allegations; tier 2 on the underlying truth claims (each named person's culpability is separately contested in the record).
+- **Sworn allegations under oath** (tier 1 -- sworn testimony exists; allegations are not adjudicated criminal findings against the named individuals): Giuffre testified under oath that she was trafficked by Epstein and Maxwell to [[Prince Andrew]] (on three occasions), [[Alan Dershowitz]] (multiple occasions, which he denies), and others. Andrew civil-settled. Dershowitz, after suing for defamation, eventually settled in 2022 with statements from each side acknowledging the possibility of mistaken identity. Tier 1 on the existence of the sworn allegations; tier 2 on the underlying truth claims (each named person's culpability is separately contested in the record).
 - **Drove the public record** (tier 1): the unsealing of Giuffre v. Maxwell exhibits between 2019 and 2024 provided the bulk of the documentary public record about the Epstein operation. Without her litigation, most of what is now public would still be sealed.
 - **Prince Andrew civil settlement** (tier 1): announced February 15, 2022; undisclosed sum reportedly in millions; included statement acknowledging Epstein "trafficked countless young girls."
-- **Family-reported suicide April 2025** â€” pending fuller public reporting at time of writing. Tier 1 on the death; tier 3 on cause.
+- **Family-reported suicide April 2025** -- pending fuller public reporting at time of writing. Tier 1 on the death; tier 3 on cause.
 
 ## Connections
 
-- [[Jeffrey Epstein]] â€” accused
-- [[Ghislaine Maxwell]] â€” accused; civil defendant
-- [[Prince Andrew]] â€” civil defendant; settled
-- [[Alan Dershowitz]] â€” defamation cross-complaint; settled 2022
-- [[Mar-a-Lago]] â€” recruitment site
+- [[Jeffrey Epstein]] -- accused
+- [[Ghislaine Maxwell]] -- accused; civil defendant
+- [[Prince Andrew]] -- civil defendant; settled
+- [[Alan Dershowitz]] -- defamation cross-complaint; settled 2022
+- [[Mar-a-Lago]] -- recruitment site
 
 ## Open questions
 

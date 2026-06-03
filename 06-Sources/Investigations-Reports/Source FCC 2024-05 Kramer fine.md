@@ -34,7 +34,7 @@ US Federal Communications Commission. (2024-05-23). Forfeiture Order proposing $
 
 ## Significance for AI-era influence operations
 
-The Kramer case demonstrated that **existing US regulatory infrastructure** (TCPA, Truth in Caller ID Act, voter suppression statutes) **can be applied to AI-generated political content** without waiting for new AI-specific legislation. This is important because the trajectory of AI-era influence operations has otherwise been **regulatory-response-lagging** â€” AI capability has consistently outpaced specific AI legislation.
+The Kramer case demonstrated that **existing US regulatory infrastructure** (TCPA, Truth in Caller ID Act, voter suppression statutes) **can be applied to AI-generated political content** without waiting for new AI-specific legislation. This is important because the trajectory of AI-era influence operations has otherwise been **regulatory-response-lagging** — AI capability has consistently outpaced specific AI legislation.
 
 ## Related
 

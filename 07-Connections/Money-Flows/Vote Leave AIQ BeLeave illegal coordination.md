@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Vote Leave funneled funds to AggregateIQ via BeLeave youth group - UK Electoral Commission found illegal
 tags: [connection, confidence/high, topic/brexit]
@@ -11,26 +11,26 @@ period: 2016
 aliases: ["Connection: Vote Leave AIQ BeLeave illegal coordination"]
 ---
 
-# Connection: Vote Leave â†’ AggregateIQ (via BeLeave funnel)
+# Connection: Vote Leave → AggregateIQ (via BeLeave funnel)
 
 ## What the link is
 
-The **UK Electoral Commission found Vote Leave broke campaign finance law** by funneling **Â£625,000 to BeLeave** (a youth-targeted Brexit group), which then spent the entire amount with **[[AggregateIQ (AIQ)]]** â€” the same Canadian firm Vote Leave was already paying directly. This effectively allowed Vote Leave to exceed its Â£7M campaign spending limit. Exposed by [[Shahmir Sanni]] in March 2018.
+The **UK Electoral Commission found Vote Leave broke campaign finance law** by funneling **£625,000 to BeLeave** (a youth-targeted Brexit group), which then spent the entire amount with **[[AggregateIQ (AIQ)]]** — the same Canadian firm Vote Leave was already paying directly. This effectively allowed Vote Leave to exceed its £7M campaign spending limit. Exposed by [[Shahmir Sanni]] in March 2018.
 
 ## Documented numbers
 
-- **Vote Leave direct to AIQ:** ~Â£2.7M of Â£7M total budget
-- **Via BeLeave to AIQ:** Â£625K
-- **Via DUP to AIQ:** Â£435K (largest in DUP history)
+- **Vote Leave direct to AIQ:** ~£2.7M of £7M total budget
+- **Via BeLeave to AIQ:** £625K
+- **Via DUP to AIQ:** £435K (largest in DUP history)
 - **Via Veterans for Britain to AIQ:** additional amount
 
-All four payers shared AIQ as common contractor â€” Electoral Commission found this constituted illegal common-plan spending.
+All four payers shared AIQ as common contractor — Electoral Commission found this constituted illegal common-plan spending.
 
 ## Enforcement outcome
 
-- Vote Leave fined Â£61,000 (July 2018) â€” small relative to violation
-- BeLeave fined Â£20,000
-- BeLeave organizer Darren Grimes individually fined Â£20,000 (later overturned on technicality)
+- Vote Leave fined £61,000 (July 2018) — small relative to violation
+- BeLeave fined £20,000
+- BeLeave organizer Darren Grimes individually fined £20,000 (later overturned on technicality)
 - AIQ briefly suspended from Facebook
 - Wylie testimony to UK Parliament confirmed the architecture
 

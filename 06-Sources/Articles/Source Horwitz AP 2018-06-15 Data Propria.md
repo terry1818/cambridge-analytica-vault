@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: AP's June 2018 break that ex-CA staff at Data Propria were already working the Trump 2020 campaign and RNC â€” primary source for the personnel-continuity claim in the CA-successor thesis
+description: AP's June 2018 break that ex-CA staff at Data Propria were already working the Trump 2020 campaign and RNC — primary source for the personnel-continuity claim in the CA-successor thesis
 aliases: ["Source: Source Horwitz AP 2018-06-15 Data Propria"]
 tags: [source, evidence/journalism, topic/cambridge-analytica, topic/2016-election, era/2018-2020, jurisdiction/us]
 type: source
@@ -22,52 +22,52 @@ Horwitz, Jeff. (2018-06-15). "AP: Trump 2020 working with ex-Cambridge Analytica
 
 ## What it is
 
-**Jeff Horwitz's AP reporting** â€” published **one month after [[Cambridge Analytica]] entered insolvency** in May 2018 â€” establishing that **ex-CA personnel had already moved to a new firm, [[Data Propria]], and were working for the Trump 2020 campaign and the Republican National Committee**. The piece is the **primary public source** for the claim that CA-side methodology and personnel transferred continuously into the 2020 Trump operation, despite the public collapse of CA itself just weeks earlier. It is foundational evidence for [[Hypothesis - Successor entities preserve operational capability]].
+**Jeff Horwitz's AP reporting** — published **one month after [[Cambridge Analytica]] entered insolvency** in May 2018 — establishing that **ex-CA personnel had already moved to a new firm, [[Data Propria]], and were working for the Trump 2020 campaign and the Republican National Committee**. The piece is the **primary public source** for the claim that CA-side methodology and personnel transferred continuously into the 2020 Trump operation, despite the public collapse of CA itself just weeks earlier. It is foundational evidence for [[Hypothesis - Successor entities preserve operational capability]].
 
 ## Key claims / findings
 
-- **Data Propria identified:** A new firm â€” **[[Data Propria]]** â€” staffed primarily by **ex-CA personnel**, working out of Washington DC
-- **Lead personnel:** **Matt Oczkowski** â€” CA's former head of product, now leading Data Propria â€” among other named ex-CA staff
+- **Data Propria identified:** A new firm — **[[Data Propria]]** — staffed primarily by **ex-CA personnel**, working out of Washington DC
+- **Lead personnel:** **Matt Oczkowski** — CA's former head of product, now leading Data Propria — among other named ex-CA staff
 - **Client roster:** **Trump 2020 campaign** and **Republican National Committee** confirmed via the AP reporting as Data Propria's clients
-- **Timeline:** Data Propria emerged operationally within **weeks of CA's May 2018 collapse**, indicating the personnel transition was pre-planned (parallel to the Companies House timeline for [[Emerdata Limited]] â€” see [[Source Companies House 2018-03-16 Emerdata appointments]])
+- **Timeline:** Data Propria emerged operationally within **weeks of CA's May 2018 collapse**, indicating the personnel transition was pre-planned (parallel to the Companies House timeline for [[Emerdata Limited]] — see [[Source Companies House 2018-03-16 Emerdata appointments]])
 - **Methodology continuity:** Horwitz documents that Data Propria pitches similar **psychographic / behavioral microtargeting** services to clients, drawing on the same intellectual framework as CA
-- **Cloud Commerce parent:** Data Propria operated as a subsidiary of **Cloud Commerce Inc.** â€” see [[Source Accesswire 2018-05-29 CloudCommerce launches]]
+- **Cloud Commerce parent:** Data Propria operated as a subsidiary of **Cloud Commerce Inc.** — see [[Source Accesswire 2018-05-29 CloudCommerce launches]]
 
 ## Significance for the vault
 
 This is the **first publicly documented instance** of CA-to-Trump-campaign personnel-and-methodology continuity post-insolvency. Critical because:
 
 - It documents the **personnel-pipeline mechanism** of CA-successor continuity
-- It establishes that the **2020 Trump campaign data operation** drew on CA-lineage personnel â€” even if not on CA itself as a corporate entity
+- It establishes that the **2020 Trump campaign data operation** drew on CA-lineage personnel — even if not on CA itself as a corporate entity
 - It is the cleanest single piece of evidence for the [[Hypothesis - Successor entities preserve operational capability]] thesis in the US-political context
-- It mirrors the contemporaneous UK pattern â€” [[Mark Turnbull]] founding [[Auspex International]] (July 2018) and the [[Emerdata Limited]] director appointments (March 2018)
+- It mirrors the contemporaneous UK pattern — [[Mark Turnbull]] founding [[Auspex International]] (July 2018) and the [[Emerdata Limited]] director appointments (March 2018)
 
 ## Notable findings
 
-- The AP reporting timing â€” **one month after CA's collapse** â€” is itself significant: the transition was either already complete or far enough along that AP could report it as fait accompli
+- The AP reporting timing — **one month after CA's collapse** — is itself significant: the transition was either already complete or far enough along that AP could report it as fait accompli
 - The fact that the **Trump 2020 campaign** was already retaining ex-CA personnel in June 2018, more than 2 years before the 2020 election, suggests **continuous operational engagement** rather than a one-off post-CA hiring decision
 
 ## Reliability assessment
 
-- **Type:** investigative journalism by AP â€” among the highest-credibility wire services
+- **Type:** investigative journalism by AP — among the highest-credibility wire services
 - **Independent corroboration:** subsequent reporting in WSJ, NYT, and others confirmed Data Propria's existence and Trump-campaign work; [[Source Pasternack Witt Fast Company 2019-07-26]] documented the broader successor-entity pattern
 - **Author's track record:** Jeff Horwitz is a respected investigative reporter (later moved to WSJ, became a key reporter on Facebook / Meta whistleblower disclosures)
 - **Disputed by:** Data Propria and Trump campaign principals offered minimal direct comment; no major public dispute of the core facts
 
 ## Entities mentioned
 
-- [[Data Propria]] (subject â€” new entity)
+- [[Data Propria]] (subject — new entity)
 - [[Cambridge Analytica]] (origin)
-- **Matt Oczkowski** (CA's head of product, now leading Data Propria â€” needs a vault note)
+- **Matt Oczkowski** (CA's head of product, now leading Data Propria — needs a vault note)
 - [[Donald Trump]] (client via 2020 campaign)
 - Republican National Committee (client)
 - Cloud Commerce Inc. (parent corporate vehicle)
 
 ## How I'm using this
 
-- [[Data Propria]] (entity hub) â€” primary identification source
-- [[Hypothesis - Successor entities preserve operational capability]] â€” US-side personnel continuity evidence
-- [[Donald Trump]] â€” 2020 campaign data-operation lineage
+- [[Data Propria]] (entity hub) — primary identification source
+- [[Hypothesis - Successor entities preserve operational capability]] — US-side personnel continuity evidence
+- [[Donald Trump]] — 2020 campaign data-operation lineage
 - [[Cambridge Analytica]] (post-collapse personnel disposition)
 - [[Lens - Active Successor Operations]]
 
@@ -75,7 +75,7 @@ This is the **first publicly documented instance** of CA-to-Trump-campaign perso
 
 - [ ] Full list of ex-CA personnel who joined Data Propria (only some publicly named)
 - [ ] Did Data Propria use any CA-derived datasets or models, or did it rebuild from scratch?
-- [ ] What is Data Propria's status post-2020 election â€” still active in 2024-2026?
+- [ ] What is Data Propria's status post-2020 election — still active in 2024-2026?
 - [ ] Specific revenue / contract scope with Trump campaign and RNC
 
 ## Archive

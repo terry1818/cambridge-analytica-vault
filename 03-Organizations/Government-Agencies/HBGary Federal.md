@@ -19,9 +19,9 @@ US cybersecurity / "persona management" contractor exposed in **February 2011 An
 - Built and pitched "persona management software" to manage thousands of fake online accounts per operator
 - Pitched **Bank of America** on a plan to attack [[WikiLeaks]] using disinformation and discrediting tactics
 - Pitched the **US Chamber of Commerce** on similar work against unions and progressive groups
-- Worked with US military on "Operation Earnest Voice" â€” Centcom contract to manage fake personas in Middle East
+- Worked with US military on "Operation Earnest Voice" -- Centcom contract to manage fake personas in Middle East
 
-HBGary Federal is the **conceptual ancestor of Cambridge Analytica** â€” the same toolkit (persona management, targeted disinformation, behavioral profiling) marketed to the same kinds of clients (military, intelligence, corporate), 3-5 years earlier. Anonymous's leak forced HBGary Federal out of business. Founder Aaron Barr resigned. Lessons not learned. ([[Source Wikipedia - HBGary]], [[Source Anderson Ars 2011 HBGary]])
+HBGary Federal is the **conceptual ancestor of Cambridge Analytica** -- the same toolkit (persona management, targeted disinformation, behavioral profiling) marketed to the same kinds of clients (military, intelligence, corporate), 3-5 years earlier. Anonymous's leak forced HBGary Federal out of business. Founder Aaron Barr resigned. Lessons not learned. ([[Source Wikipedia - HBGary]], [[Source Anderson Ars 2011 HBGary]])
 
 ## Sources
 

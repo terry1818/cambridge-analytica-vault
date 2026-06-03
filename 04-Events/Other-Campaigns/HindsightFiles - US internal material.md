@@ -8,7 +8,7 @@ actors: [Cambridge Analytica, Brittany Kaiser, Trump Campaign 2016]
 status: closed
 ---
 
-# HindsightFiles â€” US Internal Material
+# HindsightFiles -- US Internal Material
 
 ## What HindsightFiles documents cover
 
@@ -20,7 +20,7 @@ A core portion of the [[HindsightFiles]] is **internal CA correspondence coverin
 - Material on the **switching of primary data source from CA to RNC** in late September 2016
 - Correspondence with [[Make America Number 1 Super PAC]]
 - Material on the post-election plans for CA expansion (which the scandal interrupted)
-- **Successor planning correspondence** â€” emails referencing [[Emerdata Limited]] and the transition planning
+- **Successor planning correspondence** -- emails referencing [[Emerdata Limited]] and the transition planning
 
 ## Significance
 

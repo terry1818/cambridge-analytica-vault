@@ -14,7 +14,7 @@ Political advertisements **delivered only to a narrow targeted audience** and **
 
 ## How CA used them
 
-CA used Facebook's ad-targeting infrastructure to deliver different messages to different psychographic clusters â€” supporters got triumphant Trump imagery, swing voters got Clinton corruption framing, suppressed-vote targets got Clinton honey-pots. **The same campaign showed contradictory messages to different audiences simultaneously** â€” undetectable to journalism, regulators, or rival campaigns.
+CA used Facebook's ad-targeting infrastructure to deliver different messages to different psychographic clusters -- supporters got triumphant Trump imagery, swing voters got Clinton corruption framing, suppressed-vote targets got Clinton honey-pots. **The same campaign showed contradictory messages to different audiences simultaneously** -- undetectable to journalism, regulators, or rival campaigns.
 
 ## Why it matters
 

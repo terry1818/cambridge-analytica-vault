@@ -11,7 +11,7 @@ aliases: ["William Henry Gates III", "William Gates"]
 
 # Bill Gates
 
-Born October 28, 1955, Seattle, WA. Microsoft co-founder (1975); CEO 1975-2000; Chairman until 2014. Co-founder with Melinda French Gates of the Bill & Melinda Gates Foundation (2000) â€” one of the largest private foundations in the world ($75B+ endowment). Documented to have met with [[Jeffrey Epstein]] on multiple occasions post-2008 (after Epstein's Florida conviction); meetings characterized by Gates as related to global health philanthropy. **Gates has publicly stated it was a mistake** to associate with Epstein. **No sworn allegation of sexual misconduct against Gates has entered the public record** in connection with the Epstein operation.
+Born October 28, 1955, Seattle, WA. Microsoft co-founder (1975); CEO 1975-2000; Chairman until 2014. Co-founder with Melinda French Gates of the Bill & Melinda Gates Foundation (2000) -- one of the largest private foundations in the world ($75B+ endowment). Documented to have met with [[Jeffrey Epstein]] on multiple occasions post-2008 (after Epstein's Florida conviction); meetings characterized by Gates as related to global health philanthropy. **Gates has publicly stated it was a mistake** to associate with Epstein. **No sworn allegation of sexual misconduct against Gates has entered the public record** in connection with the Epstein operation.
 
 ## Documented Epstein connections (Tier 1)
 
@@ -50,16 +50,16 @@ Gates has stated the meetings were related to potential philanthropic ventures, 
 
 ## Position in vault Epstein cluster
 
-Bill Gates is documented as one of multiple wealthy figures with documented post-2008 social/philanthropic contact with Epstein. This is the same Tier 1 evidentiary category as the [[Connection - Trump-Epstein social association 1987-2004]] (documented social association) and [[Connection - Thiel-Epstein scientific gatherings]] (documented scientific-salon attendance) â€” NOT the same evidentiary category as sworn allegations.
+Bill Gates is documented as one of multiple wealthy figures with documented post-2008 social/philanthropic contact with Epstein. This is the same Tier 1 evidentiary category as the [[Connection - Trump-Epstein social association 1987-2004]] (documented social association) and [[Connection - Thiel-Epstein scientific gatherings]] (documented scientific-salon attendance) -- NOT the same evidentiary category as sworn allegations.
 
 Categorical clarity matters: Gates documented meeting with post-conviction Epstein is a meaningful fact about Epstein's continued operational social access to wealthy figures. It is NOT a sworn allegation of misconduct.
 
 ## Connections
 
-- [[Jeffrey Epstein]] â€” documented post-2008 social contact
-- [[Bill & Melinda Gates Foundation]] Â· [[Microsoft]] â€” institutional affiliations
-- [[Boris Nikolic]] â€” reported introduction
-- [[Connection - Trump-Epstein social association 1987-2004]] Â· [[Connection - Thiel-Epstein scientific gatherings]] â€” comparable evidentiary tier
+- [[Jeffrey Epstein]] -- documented post-2008 social contact
+- [[Bill & Melinda Gates Foundation]] · [[Microsoft]] -- institutional affiliations
+- [[Boris Nikolic]] -- reported introduction
+- [[Connection - Trump-Epstein social association 1987-2004]] · [[Connection - Thiel-Epstein scientific gatherings]] -- comparable evidentiary tier
 
 ## Sources
 

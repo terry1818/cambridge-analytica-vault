@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Breitbart_News
 
 ## Summary
 
-American right-wing news outlet founded in **2007** by **Andrew Breitbart**. After Breitbart's sudden death in March 2012, **[[Steve Bannon]] became executive chairman** until departing in August 2016 to run the Trump campaign. **[[Robert Mercer]] and [[Rebekah Mercer]] became major funders/stakeholders** during the Bannon-led era. Breitbart functioned as the **narrative-distribution engine** for the Mercer-Bannon-CA-era political project â€” running stories that CA-targeted ads could amplify and that the broader conservative media ecosystem would echo.
+American right-wing news outlet founded in **2007** by **Andrew Breitbart**. After Breitbart's sudden death in March 2012, **[[Steve Bannon]] became executive chairman** until departing in August 2016 to run the Trump campaign. **[[Robert Mercer]] and [[Rebekah Mercer]] became major funders/stakeholders** during the Bannon-led era. Breitbart functioned as the **narrative-distribution engine** for the Mercer-Bannon-CA-era political project -- running stories that CA-targeted ads could amplify and that the broader conservative media ecosystem would echo.
 
 ## CA-era operational role
 

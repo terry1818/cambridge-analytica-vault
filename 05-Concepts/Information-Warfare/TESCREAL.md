@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Critical academic framework for analyzing transhumanist EA-adjacent ideologies; Torres-Gebru 2023
 tags: [concept, topic/tech-right, era/2020-2024, era/2024-present]
@@ -21,7 +21,7 @@ first-documented: 2023 (Torres-Gebru paper)
 - **E**ffective **A**ltruism
 - **L**ongtermism
 
-Coined by philosopher **Ã‰mile P. Torres** and computer scientist **Timnit Gebru** (former Google AI ethics researcher) in a 2023 paper.
+Coined by philosopher **Émile P. Torres** and computer scientist **Timnit Gebru** (former Google AI ethics researcher) in a 2023 paper.
 
 ## Argument
 
@@ -40,7 +40,7 @@ TESCREAL provides **academic critical framework** for analyzing the intellectual
 - DeepMind
 - Various AI safety / alignment research organizations
 
-The framework illuminates the **EA â†’ AI safety â†’ Anthropic** pipeline that the vault has documented, contextualizing it in a broader ideological history.
+The framework illuminates the **EA → AI safety → Anthropic** pipeline that the vault has documented, contextualizing it in a broader ideological history.
 
 ## TESCREAL vs. Tech Right e/acc
 
@@ -69,4 +69,4 @@ Despite controversy, the framework has become widely used in critical AI studies
 
 ## Sources
 
-- Torres, Ã‰mile P. and Gebru, Timnit. "The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence." *First Monday*, April 2024 (initially 2023 working paper)
+- Torres, Émile P. and Gebru, Timnit. "The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence." *First Monday*, April 2024 (initially 2023 working paper)

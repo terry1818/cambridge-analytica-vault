@@ -14,7 +14,7 @@ status: active (build-out ongoing)
 
 ## Summary
 
-**$500 billion AI infrastructure commitment** announced January 21, 2025 at the White House by **Donald Trump + Sam Altman (OpenAI) + Larry Ellison (Oracle) + Masayoshi Son (SoftBank)** â€” with **MGX (UAE sovereign wealth fund)** as principal Gulf financial partner. **Largest single AI infrastructure commitment in history at announcement.** Multi-site US data center build-out planned over 4-year timeline.
+**$500 billion AI infrastructure commitment** announced January 21, 2025 at the White House by **Donald Trump + Sam Altman (OpenAI) + Larry Ellison (Oracle) + Masayoshi Son (SoftBank)** -- with **MGX (UAE sovereign wealth fund)** as principal Gulf financial partner. **Largest single AI infrastructure commitment in history at announcement.** Multi-site US data center build-out planned over 4-year timeline.
 
 **Structural significance:**
 - **Day 2 of Trump 2.0** announcement positioning

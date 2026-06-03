@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Johnson Chun Shun Ko bridges Emerdata to Frontier Services Group and Erik Prince
 tags: [connection, confidence/medium, topic/cambridge-analytica]
@@ -11,7 +11,7 @@ period: 2018-present
 aliases: ["Connection: Emerdata FSG Prince connection"]
 ---
 
-# Connection: Emerdata â†” Frontier Services Group (via Johnson Chun Shun Ko)
+# Connection: Emerdata ↔ Frontier Services Group (via Johnson Chun Shun Ko)
 
 ## What the link is
 
@@ -32,7 +32,7 @@ When [[Cambridge Analytica]] collapsed and [[Emerdata Limited]] became its effec
 
 ## Confidence
 
-`#confidence/medium` â€” the appointment is documented but operational implications are inferential.
+`#confidence/medium` — the appointment is documented but operational implications are inferential.
 
 ## Sources
 

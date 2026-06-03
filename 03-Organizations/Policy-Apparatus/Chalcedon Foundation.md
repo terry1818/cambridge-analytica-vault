@@ -16,7 +16,7 @@ status: active
 
 ## Summary
 
-Theological / educational foundation founded **1965 by R.J. Rushdoony** in Vallecito, California, to **develop and propagate Christian Reconstructionist theology**. Named after the 451 AD Council of Chalcedon. Publishes books, articles, and a journal (Chalcedon Report / Faith for All of Life). Currently led by **Mark Rushdoony** (R.J.'s son). **The single most influential intellectual source for the modern dominionist movement** Ã¢â‚¬" Rushdoony's voluminous output (especially the 1973 *Institutes of Biblical Law*) provided the theological framework that later movements (Moral Majority, Christian Coalition, Seven Mountains, current Christian nationalism) operationalized.
+Theological / educational foundation founded **1965 by R.J. Rushdoony** in Vallecito, California, to **develop and propagate Christian Reconstructionist theology**. Named after the 451 AD Council of Chalcedon. Publishes books, articles, and a journal (Chalcedon Report / Faith for All of Life). Currently led by **Mark Rushdoony** (R.J.'s son). **The single most influential intellectual source for the modern dominionist movement** -" Rushdoony's voluminous output (especially the 1973 *Institutes of Biblical Law*) provided the theological framework that later movements (Moral Majority, Christian Coalition, Seven Mountains, current Christian nationalism) operationalized.
 
 ## Identity
 
@@ -28,7 +28,7 @@ Theological / educational foundation founded **1965 by R.J. Rushdoony** in Valle
 
 ## Theological output
 
-- **R.J. Rushdoony's *Institutes of Biblical Law*** (1973) Ã¢â‚¬" the foundational text of Christian Reconstructionism
+- **R.J. Rushdoony's *Institutes of Biblical Law*** (1973) -" the foundational text of Christian Reconstructionism
 - Position that Old Testament law should govern all spheres of society (theonomy)
 - "Dominion mandate" interpretation of Genesis 1:28
 - Christian education / homeschooling advocacy (Rushdoony was instrumental in legalizing US homeschooling)
@@ -38,17 +38,17 @@ Theological / educational foundation founded **1965 by R.J. Rushdoony** in Valle
 
 - Provided **the theological grammar** of dominionism that all subsequent movements adopted
 - Influenced [[Jerry Falwell Sr.]], [[Pat Robertson]], Francis Schaeffer, and many other Christian-right leaders
-- Rushdoony's homeschooling advocacy directly birthed the HSLDA Ã¢â‚¬" later run by [[Michael Farris]] Ã¢â‚¬" creating the personnel pipeline that gave Christian nationalists their legal infrastructure
+- Rushdoony's homeschooling advocacy directly birthed the HSLDA -" later run by [[Michael Farris]] -" creating the personnel pipeline that gave Christian nationalists their legal infrastructure
 - Continues to influence current Christian nationalist intellectuals (Vought-adjacent thinkers)
 
 ## Connection to vault entities
 
-- [[R.J. Rushdoony]] Ã¢â‚¬" founder
-- [[Christian Reconstructionism]] Ã¢â‚¬" theological system
-- [[Dominionism]] Ã¢â‚¬" broader political application
-- [[Michael Farris]] Ã¢â‚¬" HSLDA founder; direct Rushdoony lineage
-- [[Russ Vought]] Ã¢â‚¬" current Christian-nationalist OMB Director; Rushdoony-tradition heir
-- [[Theocratic Wing Infrastructure 1935-2026]] Ã¢â‚¬" theological source layer
+- [[R.J. Rushdoony]] -" founder
+- [[Christian Reconstructionism]] -" theological system
+- [[Dominionism]] -" broader political application
+- [[Michael Farris]] -" HSLDA founder; direct Rushdoony lineage
+- [[Russ Vought]] -" current Christian-nationalist OMB Director; Rushdoony-tradition heir
+- [[Theocratic Wing Infrastructure 1935-2026]] -" theological source layer
 
 ## Sources
 

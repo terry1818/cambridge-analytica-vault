@@ -21,7 +21,7 @@ Doward, Jamie; Cadwalladr, Carole; Gibbs, Alice. (2017-03-04). "Watchdog to laun
 
 ## What this article established
 
-Reporting that the UKs Information Commissioners Office (ICO) had announced it would investigate "the use of data analytics for political purposes" â€” including specific scrutiny of Cambridge Analyticas activities. Published a week after Cadwalladrs February 26, 2017 Robert Mercer profile and four months after Trumps election win. The piece:
+Reporting that the UKs Information Commissioners Office (ICO) had announced it would investigate "the use of data analytics for political purposes" — including specific scrutiny of Cambridge Analyticas activities. Published a week after Cadwalladrs February 26, 2017 Robert Mercer profile and four months after Trumps election win. The piece:
 
 - Announced the ICO investigation that would ultimately produce the November 2020 finding
 - Documented ICO Commissioner [[Elizabeth Denham]]s public statements
@@ -29,7 +29,7 @@ Reporting that the UKs Information Commissioners Office (ICO) had announced it w
 
 ## Significance
 
-This article documents the **start of formal UK regulatory engagement** with the CA story â€” one year before the global scandal broke. The fact that the ICO investigation was already public in March 2017 makes the subsequent absence of effective enforcement until well after 2018 a notable feature.
+This article documents the **start of formal UK regulatory engagement** with the CA story — one year before the global scandal broke. The fact that the ICO investigation was already public in March 2017 makes the subsequent absence of effective enforcement until well after 2018 a notable feature.
 
 ## URL
 

@@ -18,7 +18,7 @@ aliases: ["Giuffre v Maxwell 2024 Unsealing", "Source: Giuffre v Maxwell 2024 Un
 **Approximate page count**: 943 pages of formerly-sealed exhibits and depositions
 **Underlying case**: 2015 defamation suit by [[Virginia Giuffre]] against [[Ghislaine Maxwell]]; settled 2017
 
-## What it actually IS â€” and what it is NOT
+## What it actually IS -- and what it is NOT
 
 **It IS**: exhibits and deposition transcripts from civil litigation. The documents include sworn testimony under oath about the Epstein operation, primarily from victims and from people in Epstein's orbit.
 
@@ -36,10 +36,10 @@ aliases: ["Giuffre v Maxwell 2024 Unsealing", "Source: Giuffre v Maxwell 2024 Un
 ### Deposition transcripts released
 - **[[Virginia Giuffre]]** (multiple sessions)
 - **[[Ghislaine Maxwell]]** (multiple sessions)
-- **[[Sarah Ransome]]** â€” another Epstein accuser
-- **[[Johanna Sjoberg]]** â€” Epstein employee and former victim
-- **Juan Alessi** â€” Epstein's Palm Beach houseman
-- **Cimberly Espinosa** â€” Maxwell employee
+- **[[Sarah Ransome]]** -- another Epstein accuser
+- **[[Johanna Sjoberg]]** -- Epstein employee and former victim
+- **Juan Alessi** -- Epstein's Palm Beach houseman
+- **Cimberly Espinosa** -- Maxwell employee
 - Others
 
 ### Exhibits released
@@ -50,24 +50,24 @@ aliases: ["Giuffre v Maxwell 2024 Unsealing", "Source: Giuffre v Maxwell 2024 Un
 - Trip records
 - Some message exchanges
 
-## Key categories of names appearing â€” strict per-claim tier framework
+## Key categories of names appearing -- strict per-claim tier framework
 
 ### Sworn-testimony accused
-- [[Prince Andrew]] â€” Giuffre sworn testimony places three sexual encounters
-- [[Alan Dershowitz]] â€” Giuffre named (he denied; 2022 settlement with mutual statements)
-- [[Bill Richardson]] â€” Giuffre named (he denied)
-- [[George Mitchell]] â€” Giuffre named (he denied)
-- [[Marvin Minsky]] â€” Giuffre named (deceased; never able to respond)
-- [[Glenn Dubin]] â€” Ransome named (he denied)
+- [[Prince Andrew]] -- Giuffre sworn testimony places three sexual encounters
+- [[Alan Dershowitz]] -- Giuffre named (he denied; 2022 settlement with mutual statements)
+- [[Bill Richardson]] -- Giuffre named (he denied)
+- [[George Mitchell]] -- Giuffre named (he denied)
+- [[Marvin Minsky]] -- Giuffre named (deceased; never able to respond)
+- [[Glenn Dubin]] -- Ransome named (he denied)
 
 ### Documented social associates / flight log passengers (no allegation)
-- [[Bill Clinton]] â€” appeared in flight logs; named as social associate
-- [[Donald Trump]] â€” Sjoberg deposition mentions in passing social context; flight log appearances
-- [[Bill Gates]] â€” documented post-2008 meetings (separate from this unsealing's primary content)
+- [[Bill Clinton]] -- appeared in flight logs; named as social associate
+- [[Donald Trump]] -- Sjoberg deposition mentions in passing social context; flight log appearances
+- [[Bill Gates]] -- documented post-2008 meetings (separate from this unsealing's primary content)
 - Various others
 
 ### Mentioned in exhibits without underlying allegation
-- [[Stephen Hawking]] â€” named only in a Maxwell speculation email (no allegation against him; the email itself shows nothing about Hawking)
+- [[Stephen Hawking]] -- named only in a Maxwell speculation email (no allegation against him; the email itself shows nothing about Hawking)
 - Various others
 
 ## The Stephen Hawking email (illustrative case)
@@ -111,9 +111,9 @@ Was widely mischaracterized in 2024 social media as Trump sworn allegation. It i
 
 ## Connections in this vault
 
-- [[Epstein 2019 SDNY Case and Death]] Â· [[Epstein Documents 2024 Unsealing]] â€” vault event notes
-- [[Virginia Giuffre]] Â· [[Ghislaine Maxwell]] Â· [[Sarah Ransome]] â€” deposition subjects
-- [[Loretta Preska]] â€” judge who ordered unsealing
-- [[Prince Andrew]] Â· [[Alan Dershowitz]] Â· [[Bill Richardson]] Â· [[George Mitchell]] Â· [[Marvin Minsky]] Â· [[Glenn Dubin]] â€” sworn-testimony accused
-- [[Connection - Trump-Epstein social association 1987-2004]] â€” explicit framing of evidentiary tier
+- [[Epstein 2019 SDNY Case and Death]] · [[Epstein Documents 2024 Unsealing]] -- vault event notes
+- [[Virginia Giuffre]] · [[Ghislaine Maxwell]] · [[Sarah Ransome]] -- deposition subjects
+- [[Loretta Preska]] -- judge who ordered unsealing
+- [[Prince Andrew]] · [[Alan Dershowitz]] · [[Bill Richardson]] · [[George Mitchell]] · [[Marvin Minsky]] · [[Glenn Dubin]] -- sworn-testimony accused
+- [[Connection - Trump-Epstein social association 1987-2004]] -- explicit framing of evidentiary tier
 - [[Epstein Network MOC]]

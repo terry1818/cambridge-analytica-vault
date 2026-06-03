@@ -8,11 +8,11 @@ actors: [SCL India, SCL Group, Cambridge Analytica, BJP, INC (Congress)]
 status: closed
 ---
 
-# India â€” SCL Elections 2003-2012
+# India -- SCL Elections 2003-2012
 
 ## Summary
 
-CA functioned in India through **Strategic Communication Laboratories Private Limited** (SCL India), a venture of SCL Group and Ovleno India. [[Christopher Wylie]] tweeted documents suggesting SCL India was involved in at least **six state elections in 2003-2012**, including the 2010 state elections in Bihar, plus the 2009 national election. Both leading national parties â€” [[BJP]] and [[Indian National Congress (INC)]] â€” denied contracting SCL India for any elections and each accused the other. SCL's website listed the 2009 Bihar campaign in past projects. **335 Indian Facebook users installed a CA-associated app â€” leaking the data of 562,455 users.** After the data leak became public, the Indian government took down the local website of SCL India and began formal investigations. ([[Source Wikipedia - Cambridge Analytica]])
+CA functioned in India through **Strategic Communication Laboratories Private Limited** (SCL India), a venture of SCL Group and Ovleno India. [[Christopher Wylie]] tweeted documents suggesting SCL India was involved in at least **six state elections in 2003-2012**, including the 2010 state elections in Bihar, plus the 2009 national election. Both leading national parties -- [[BJP]] and [[Indian National Congress (INC)]] -- denied contracting SCL India for any elections and each accused the other. SCL's website listed the 2009 Bihar campaign in past projects. **335 Indian Facebook users installed a CA-associated app -- leaking the data of 562,455 users.** After the data leak became public, the Indian government took down the local website of SCL India and began formal investigations. ([[Source Wikipedia - Cambridge Analytica]])
 
 ## Sources
 

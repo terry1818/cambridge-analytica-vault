@@ -29,7 +29,7 @@ AP investigation of the **"Cruz Crew" mobile app** used by the Cruz 2016 preside
 
 ## Significance
 
-The Cruz Crew app exemplifies how CAs methodology extended beyond Facebook-derived data into **direct mobile-app collection of supporter behavioral data**. The AP piece is one of the earliest mainstream documentations of campaign-side mobile-app intrusiveness â€” a methodology that subsequent campaigns have widely adopted.
+The Cruz Crew app exemplifies how CAs methodology extended beyond Facebook-derived data into **direct mobile-app collection of supporter behavioral data**. The AP piece is one of the earliest mainstream documentations of campaign-side mobile-app intrusiveness — a methodology that subsequent campaigns have widely adopted.
 
 ## URL
 

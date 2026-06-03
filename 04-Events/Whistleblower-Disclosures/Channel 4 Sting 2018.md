@@ -21,21 +21,21 @@ status: closed
 - **[[Alexander Nix]] offering to discredit politicians with "beautiful Ukrainian girls"** for honey-trap operations
 - Nix describing use of **Israeli intelligence companies** for entrapment (later confirmed by [[Source Tau Ballhaus 2018-05-23 WSJ Psy-Group CA]] as [[Psy-Group]])
 - **Nix: CA "ran all of [Donald Trump's] digital campaign"**
-- Nix describing how negative attacks could be made "**unattributable, untrackable**" via the Mercer-funded [[Make America Number 1 Super PAC]] â€” suggesting potential illegal campaign coordination
+- Nix describing how negative attacks could be made "**unattributable, untrackable**" via the Mercer-funded [[Make America Number 1 Super PAC]] -- suggesting potential illegal campaign coordination
 - **[[Mark Turnbull]] discussing CA work in Mexico, Malaysia, Brazil, Australia, China**
 - Detailed pitches on bribery, sting operations, fake news creation
 
 ## Sequence of broadcast
 
-- 2018-03-19 â€” Part 1 broadcast (the most explosive material)
-- 2018-03-20 â€” Parts 2-3 broadcast (international operations, Trump campaign)
+- 2018-03-19 -- Part 1 broadcast (the most explosive material)
+- 2018-03-20 -- Parts 2-3 broadcast (international operations, Trump campaign)
 
 ## Immediate consequences (within 4 days)
 
-- 2018-03-20 â€” [[Alexander Nix]] suspended as CA CEO
-- 2018-03-21 â€” Replaced by [[Julian Wheatland]]
-- 2018-03-23 â€” Facebook bans CA from advertising; UK High Court grants ICO warrant
-- 2018-03-23 â€” ICO raids CA London offices (televised)
+- 2018-03-20 -- [[Alexander Nix]] suspended as CA CEO
+- 2018-03-21 -- Replaced by [[Julian Wheatland]]
+- 2018-03-23 -- Facebook bans CA from advertising; UK High Court grants ICO warrant
+- 2018-03-23 -- ICO raids CA London offices (televised)
 
 ## Longer-term consequences
 
@@ -47,7 +47,7 @@ status: closed
 
 ## Significance
 
-The Channel 4 sting is **the visual companion to the Wylie disclosures** â€” without the video evidence, the Nix-as-villain framing would have been less concrete. The sting is also one of the most successful contemporary uses of undercover journalism in influence-operations investigation.
+The Channel 4 sting is **the visual companion to the Wylie disclosures** -- without the video evidence, the Nix-as-villain framing would have been less concrete. The sting is also one of the most successful contemporary uses of undercover journalism in influence-operations investigation.
 
 ## Disputed claims
 

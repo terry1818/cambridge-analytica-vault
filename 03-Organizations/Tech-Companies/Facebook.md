@@ -22,7 +22,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Meta_Platforms
 
 **Enforcement aftermath:**
 
-- **2018-10:** UK ICO Â£500K fine (maximum then-available under pre-GDPR law)
+- **2018-10:** UK ICO £500K fine (maximum then-available under pre-GDPR law)
 - **2019-07:** US FTC $5B settlement (largest privacy settlement in US history at time)
 - **2019:** DCMS Final Report (UK Parliament)
 - **2020-2025:** Continuing EU + state-level investigations

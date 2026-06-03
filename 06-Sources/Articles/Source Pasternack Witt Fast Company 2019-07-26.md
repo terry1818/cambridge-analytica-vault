@@ -32,7 +32,7 @@ Pasternack, Alex; Witt, Jesse. (2019-07-26). "The strange afterlife of Cambridge
 
 ## Significance
 
-Without this article, the "post-CA continuity" thread would be largely speculative. Pasternack and Witt did the corporate-records archaeology that established **operational continuity from CA â†’ Emerdata to a degree that other reporting only hinted at**.
+Without this article, the "post-CA continuity" thread would be largely speculative. Pasternack and Witt did the corporate-records archaeology that established **operational continuity from CA → Emerdata to a degree that other reporting only hinted at**.
 
 This is **essential source material** for [[Lens - Active Successor Operations]] and [[Hypothesis - CA data survives]].
 

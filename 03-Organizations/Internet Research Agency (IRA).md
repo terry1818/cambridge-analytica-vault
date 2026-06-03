@@ -59,16 +59,16 @@ The individuals were not arrested (in Russia); the entities did not appear at tr
 
 ## Prigozhin death
 
-[[Yevgeny Prigozhin]] died in a plane crash August 23, 2023 â€” two months after his Wagner Group march on Moscow. IRA operations continued under reorganized structure.
+[[Yevgeny Prigozhin]] died in a plane crash August 23, 2023 -- two months after his Wagner Group march on Moscow. IRA operations continued under reorganized structure.
 
 ## Connections
 
-- [[Yevgeny Prigozhin]] â€” financier
-- [[Wagner Group]] â€” sister Prigozhin operation
-- [[Mueller Investigation]] â€” investigator
-- [[Donald Trump]] â€” election beneficiary
-- [[Lens - Russia]] Â· [[Russian IRA MOC]] Â· [[State Actor MOC]]
-- [[Team Jorge]] â€” Israeli parallel intel-for-hire firm
+- [[Yevgeny Prigozhin]] -- financier
+- [[Wagner Group]] -- sister Prigozhin operation
+- [[Mueller Investigation]] -- investigator
+- [[Donald Trump]] -- election beneficiary
+- [[Lens - Russia]] · [[Russian IRA MOC]] · [[State Actor MOC]]
+- [[Team Jorge]] -- Israeli parallel intel-for-hire firm
 - [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]]
 
 ## Sources

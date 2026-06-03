@@ -15,11 +15,11 @@ Born August 20, 1933, Waterville, ME. US Senator from Maine 1980-1995; Senate Ma
 
 ## Documented connections to the Epstein operation
 
-### Tier 1 â€” documented
+### Tier 1 -- documented
 
 - Documented social associations with Epstein during portions of the 2000s.
 
-### Tier 1 â€” sworn allegations (existence of allegation)
+### Tier 1 -- sworn allegations (existence of allegation)
 
 [[Virginia Giuffre]] named George Mitchell in sworn testimony in the Giuffre v. Maxwell deposition record as a person she was directed to. See [[Source: Giuffre v Maxwell 2024 Unsealing]].
 
@@ -34,7 +34,7 @@ Mitchell has consistently denied the allegations through public statements via a
 ## Connections
 
 - [[Jeffrey Epstein]]
-- [[Virginia Giuffre]] â€” accuser
+- [[Virginia Giuffre]] -- accuser
 
 ## Sources
 

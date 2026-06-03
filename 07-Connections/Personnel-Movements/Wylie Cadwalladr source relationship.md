@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Approximately one-year handler-source relationship between Cadwalladr and Wylie before March 2018 break
 tags: [connection, confidence/high, topic/cambridge-analytica]
@@ -11,7 +11,7 @@ period: 2017-2018
 aliases: ["Connection: Wylie Cadwalladr source relationship"]
 ---
 
-# Connection: Cadwalladr â†” Wylie (handler-source relationship)
+# Connection: Cadwalladr ↔ Wylie (handler-source relationship)
 
 ## What the link is
 
@@ -23,7 +23,7 @@ aliases: ["Connection: Wylie Cadwalladr source relationship"]
 - Cadwalladr's reporting and her TED talk
 - [[Source The Great Hack (2019)]] documents the relationship visually
 - 2017-05 Observer headlined: "The Great British Brexit Robbery: how our democracy was hijacked" used anonymous Wylie material
-- 2018-03-17 â€” Wylie goes on record in joint Guardian/Observer/NYT publication
+- 2018-03-17 — Wylie goes on record in joint Guardian/Observer/NYT publication
 
 ## Confidence
 

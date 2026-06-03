@@ -16,7 +16,7 @@ status: active
 
 ## Summary
 
-**Executive Director of the [[Christian Coalition]] 1989-1997** (the "GOP wunderkind" who built it into a sophisticated grassroots political operation). After departing the Christian Coalition, founded **[[Faith and Freedom Coalition]] in 2009** which became the principal evangelical-voter mobilization vehicle for the modern GOP. **Longtime [[Council for National Policy]] officer.** Survived the 2005 Abramoff scandal and continues operating. **Was central in re-mobilizing evangelical voters for Trump from 2016 onward** despite Trump's personal incongruity with evangelical norms Ã¢â‚¬" the Faith and Freedom Coalition's annual "Road to Majority" conferences are now obligatory Republican-presidential stops.
+**Executive Director of the [[Christian Coalition]] 1989-1997** (the "GOP wunderkind" who built it into a sophisticated grassroots political operation). After departing the Christian Coalition, founded **[[Faith and Freedom Coalition]] in 2009** which became the principal evangelical-voter mobilization vehicle for the modern GOP. **Longtime [[Council for National Policy]] officer.** Survived the 2005 Abramoff scandal and continues operating. **Was central in re-mobilizing evangelical voters for Trump from 2016 onward** despite Trump's personal incongruity with evangelical norms -" the Faith and Freedom Coalition's annual "Road to Majority" conferences are now obligatory Republican-presidential stops.
 
 ## Key facts
 
@@ -38,11 +38,11 @@ Reed is **one of the few personnel through-lines** from the Moral Majority / Chr
 
 ## Related vault entries
 
-- [[Christian Coalition]] Ã¢â‚¬" his org 1989-1997
-- [[Faith and Freedom Coalition]] Ã¢â‚¬" founded 2009
-- [[Pat Robertson]] Ã¢â‚¬" Christian Coalition partner
-- [[Council for National Policy]] Ã¢â‚¬" longtime officer
-- [[Theocratic Wing Infrastructure 1935-2026]] Ã¢â‚¬" current-era operational layer
+- [[Christian Coalition]] -" his org 1989-1997
+- [[Faith and Freedom Coalition]] -" founded 2009
+- [[Pat Robertson]] -" Christian Coalition partner
+- [[Council for National Policy]] -" longtime officer
+- [[Theocratic Wing Infrastructure 1935-2026]] -" current-era operational layer
 
 ## Sources
 

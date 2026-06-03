@@ -11,7 +11,7 @@ aliases: []
 
 # Carlos De Oliveira
 
-Property manager of [[Mar-a-Lago]]. **Co-defendant in [[US v Trump Mar-a-Lago Documents Case]] as named in the July 27, 2023 superseding indictment** â€” charged with obstruction of justice related to a documented attempt to direct the deletion of Mar-a-Lago surveillance camera footage that captured [[Walt Nauta]] moving boxes of classified documents.
+Property manager of [[Mar-a-Lago]]. **Co-defendant in [[US v Trump Mar-a-Lago Documents Case]] as named in the July 27, 2023 superseding indictment** -- charged with obstruction of justice related to a documented attempt to direct the deletion of Mar-a-Lago surveillance camera footage that captured [[Walt Nauta]] moving boxes of classified documents.
 
 ## Specific allegations (Tier 1, per superseding indictment)
 
@@ -36,11 +36,11 @@ Case dismissed by Judge [[Aileen Cannon]] July 15, 2024 along with Trump and Nau
 
 ## Connections
 
-- [[Donald Trump]] â€” boss; co-defendant
-- [[Walt Nauta]] â€” co-defendant; whose footage was at issue
-- [[Mar-a-Lago]] â€” workplace
-- [[Jack Smith]] â€” Special Counsel
-- [[Aileen Cannon]] â€” federal judge who dismissed
+- [[Donald Trump]] -- boss; co-defendant
+- [[Walt Nauta]] -- co-defendant; whose footage was at issue
+- [[Mar-a-Lago]] -- workplace
+- [[Jack Smith]] -- Special Counsel
+- [[Aileen Cannon]] -- federal judge who dismissed
 
 ## Sources
 

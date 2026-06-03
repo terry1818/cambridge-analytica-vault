@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: HindsightFiles documents on CAs Nigeria 2015 work
 tags: [event, topic/cambridge-analytica, era/2014-2016, jurisdiction/nigeria]
@@ -8,7 +8,7 @@ actors: [Cambridge Analytica, SCL Group]
 status: closed
 ---
 
-# HindsightFiles â€” Nigeria Material
+# HindsightFiles -- Nigeria Material
 
 ## What HindsightFiles documents cover
 
@@ -17,13 +17,13 @@ Nigeria material in [[HindsightFiles]] expanded on what Cadwalladr had reported 
 ### Disclosures (partial)
 
 - Documents reportedly include CA's 2015 election work for unnamed Nigerian client (likely Goodluck Jonathan reelection campaign)
-- Material on **Israeli contractor involvement** â€” possibly connected to [[Psy-Group]] / [[Joel Zamel]]
-- Reference to **stolen / unauthorized email materials** used in campaign â€” practice consistent with Nix's Channel 4 boasts
+- Material on **Israeli contractor involvement** -- possibly connected to [[Psy-Group]] / [[Joel Zamel]]
+- Reference to **stolen / unauthorized email materials** used in campaign -- practice consistent with Nix's Channel 4 boasts
 - Material on payment structures
 
 ### The Israeli intelligence angle
 
-The Nigeria 2015 case is significant because it's an early documented example of **CA Ã— Israeli private intelligence cooperation**:
+The Nigeria 2015 case is significant because it's an early documented example of **CA × Israeli private intelligence cooperation**:
 - Predates the December 2016 CA-Psy-Group MOU
 - Suggests longer-running CA-Israeli-intel relationship
 - Connects to broader pattern documented in Channel 4 sting

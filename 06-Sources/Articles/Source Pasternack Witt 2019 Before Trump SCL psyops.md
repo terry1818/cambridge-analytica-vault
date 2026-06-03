@@ -26,12 +26,12 @@ The **definitive public-facing reporting on SCL Group's pre-CA defense-contracto
 - 25+ years of SCL work for US DoD, UK MoD, and other Western defense ministries
 - SCL's "Behavioral Dynamics Institute" (BDI) origins as academic research front
 - The 2005 DSEI demo of mass-deception capability against a city like London
-- Specific defense contracts and personnel â€” including some who later moved to CA
+- Specific defense contracts and personnel — including some who later moved to CA
 - The methodological lineage from PSYOPS / Information Operations into CA's psychographic targeting
 
 ## Significance
 
-Without this Fast Company reporting, the **defense-pipeline lineage** of CA would be much more poorly documented. The article is essential source material for [[Lens - Privatized Intelligence]], [[Behavioral Conflict]], and [[Cluster 1 â€” Defense Pipeline]].
+Without this Fast Company reporting, the **defense-pipeline lineage** of CA would be much more poorly documented. The article is essential source material for [[Lens - Privatized Intelligence]], [[Behavioral Conflict]], and [[Cluster 1 — Defense Pipeline]].
 
 ## URL
 

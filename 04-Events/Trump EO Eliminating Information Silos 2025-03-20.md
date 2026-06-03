@@ -14,7 +14,7 @@ status: ongoing
 
 ## Summary
 
-On **March 20, 2025**, Donald Trump signed Executive Order **"Stopping Waste, Fraud, and Abuse by Eliminating Information Silos"** Ã¢â‚¬â€ directing federal agencies to share data across departments. Framed as anti-waste/anti-fraud. **In practice, this is the legal pretext that authorizes [[Palantir Technologies]] to build a federated master database covering the entire US population**, as inferred from subsequent reporting by NYT, NextGov, Democracy Now, and the New Republic. Brookings characterized the result as an attempt to build **"one big, beautiful database"** of Americans' most sensitive information ([[Source GWU One Big Beautiful Dataset]]).
+On **March 20, 2025**, Donald Trump signed Executive Order **"Stopping Waste, Fraud, and Abuse by Eliminating Information Silos"** -- directing federal agencies to share data across departments. Framed as anti-waste/anti-fraud. **In practice, this is the legal pretext that authorizes [[Palantir Technologies]] to build a federated master database covering the entire US population**, as inferred from subsequent reporting by NYT, NextGov, Democracy Now, and the New Republic. Brookings characterized the result as an attempt to build **"one big, beautiful database"** of Americans' most sensitive information ([[Source GWU One Big Beautiful Dataset]]).
 
 ## When & where
 
@@ -24,11 +24,11 @@ On **March 20, 2025**, Donald Trump signed Executive Order **"Stopping Waste, Fr
 
 ## Actors
 
-- **Donald Trump** Ã¢â‚¬â€ signer
-- **[[Russ Vought]]** Ã¢â‚¬â€ OMB Director; principal implementer
-- **[[Stephen Miller]]** Ã¢â‚¬â€ Deputy COS; policy advocate
-- **[[Palantir Technologies]]** Ã¢â‚¬â€ integration vendor (no formal acknowledgement of master-database contract)
-- **DOGE** Ã¢â‚¬â€ internal-government coordination body; embeds Palantir-derived personnel at IRS, SSA, HHS
+- **Donald Trump** -- signer
+- **[[Russ Vought]]** -- OMB Director; principal implementer
+- **[[Stephen Miller]]** -- Deputy COS; policy advocate
+- **[[Palantir Technologies]]** -- integration vendor (no formal acknowledgement of master-database contract)
+- **DOGE** -- internal-government coordination body; embeds Palantir-derived personnel at IRS, SSA, HHS
 
 ## What it authorizes
 
@@ -48,27 +48,27 @@ On **March 20, 2025**, Donald Trump signed Executive Order **"Stopping Waste, Fr
 
 ## Sequence of events
 
-- `2025-03-20` Ã¢â‚¬â€ Trump signs EO
-- `2025-04` Ã¢â‚¬â€ Palantir staff embedded at IRS alongside DOGE staff to build "mega-API"
-- `2025-04` Ã¢â‚¬â€ $30M ICE [[ImmigrationOS]] contract announced
-- `2025-05-30` Ã¢â‚¬â€ NYT reports Palantir's expanding federated database role
-- `2025-06-03` Ã¢â‚¬â€ Democracy Now / Makena Kelly investigation on Palantir + DOGE
-- `2025-06-17` Ã¢â‚¬â€ Wyden / AOC oversight letter to Alex Karp
-- `2025-09` Ã¢â‚¬â€ ImmigrationOS prototype due
-- `2025-12-09` Ã¢â‚¬â€ Fortune reports new Palantir USCIS contract; 12 federal departments now contracted
-- `2026-01-2026-04` Ã¢â‚¬â€ At least 12 Privacy Act lawsuits filed against the consolidation
+- `2025-03-20` -- Trump signs EO
+- `2025-04` -- Palantir staff embedded at IRS alongside DOGE staff to build "mega-API"
+- `2025-04` -- $30M ICE [[ImmigrationOS]] contract announced
+- `2025-05-30` -- NYT reports Palantir's expanding federated database role
+- `2025-06-03` -- Democracy Now / Makena Kelly investigation on Palantir + DOGE
+- `2025-06-17` -- Wyden / AOC oversight letter to Alex Karp
+- `2025-09` -- ImmigrationOS prototype due
+- `2025-12-09` -- Fortune reports new Palantir USCIS contract; 12 federal departments now contracted
+- `2026-01-2026-04` -- At least 12 Privacy Act lawsuits filed against the consolidation
 
 ## Outcome / consequences
 
 - **Direct outcome:** Federated master database under construction
 - **Downstream:** ICE deportation operations dramatically expanded; voter-roll-purge litigation (DOJ suing 24 states); broader surveillance posture
 - **Investigations triggered:** Senate Finance, House Judiciary, multiple Privacy Act civil suits, ACLU litigation
-- **Legal challenge:** Privacy Act of 1974 statutory framework Ã¢â‚¬â€ does the EO violate?
+- **Legal challenge:** Privacy Act of 1974 statutory framework -- does the EO violate?
 
 ## Disputed facts
 
-- **Existence of a single master-database contract** Ã¢â‚¬â€ Palantir publicly denies; NYT and Democratic senators assert via reported sources. **`#claim/disputed`**
-- **Scope of cross-agency data sharing actually achieved** Ã¢â‚¬â€ varies by agency; full inventory unclear
+- **Existence of a single master-database contract** -- Palantir publicly denies; NYT and Democratic senators assert via reported sources. **`#claim/disputed`**
+- **Scope of cross-agency data sharing actually achieved** -- varies by agency; full inventory unclear
 
 ## How it fits the architecture
 
@@ -77,7 +77,7 @@ This EO is **the legal load-bearing element** of the 2024-2026 surveillance arch
 ## Open questions
 
 - [ ] Full EO text and citation number (search returned title but not standard EO number)
-- [ ] Status of Privacy Act lawsuits Ã¢â‚¬â€ outcomes by mid-2026
+- [ ] Status of Privacy Act lawsuits -- outcomes by mid-2026
 - [ ] Specific agencies that have NOT participated (resistance pockets)
 - [ ] Court rulings on impoundment / unitary executive challenges
 

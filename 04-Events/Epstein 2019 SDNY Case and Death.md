@@ -11,7 +11,7 @@ aliases: ["Epstein arrest", "Epstein death", "MCC death"]
 
 # Epstein 2019 SDNY Case and Death
 
-The Southern District of New York re-prosecution of [[Jeffrey Epstein]] following the federal judge's 2019 ruling that the 2008 NPA violated the Crime Victims Rights Act, his arrest at Teterboro on July 6, denial of bail, and August 10 2019 death in his Manhattan jail cell â€” ruled suicide by hanging by the NYC OCME despite multiple disputed operational anomalies that have prompted ongoing public dispute about the cause of death.
+The Southern District of New York re-prosecution of [[Jeffrey Epstein]] following the federal judge's 2019 ruling that the 2008 NPA violated the Crime Victims Rights Act, his arrest at Teterboro on July 6, denial of bail, and August 10 2019 death in his Manhattan jail cell -- ruled suicide by hanging by the NYC OCME despite multiple disputed operational anomalies that have prompted ongoing public dispute about the cause of death.
 
 ## Timeline
 
@@ -22,7 +22,7 @@ The Southern District of New York re-prosecution of [[Jeffrey Epstein]] followin
 | 2019 Jul 6 | Arrested at Teterboro airport returning from Paris |
 | 2019 Jul 8 | SDNY indictment unsealed: sex trafficking conspiracy + sex trafficking of minors |
 | 2019 Jul 18 | Bail denied |
-| 2019 Jul 23 | Found semi-conscious in MCC cell with neck injuries â€” incident not publicly explained |
+| 2019 Jul 23 | Found semi-conscious in MCC cell with neck injuries -- incident not publicly explained |
 | 2019 Jul 25-29 | Placed on suicide watch; removed July 29 |
 | 2019 Aug 9 | Cellmate transferred out |
 | 2019 Aug 10 ~06:30 | Found unresponsive in cell |
@@ -52,11 +52,11 @@ The June 2023 DOJ Office of Inspector General report concluded:
 
 ## Connections
 
-- [[Jeffrey Epstein]] â€” defendant; decedent
-- [[William Barr]] â€” US Attorney General at time of arrest and death; son of Epstein's Dalton hiring principal Donald Barr
-- [[Tova Noel]] Â· [[Michael Thomas]] â€” MCC guards who falsified records
-- [[Michael Baden]] â€” forensic pathologist who disputed suicide finding
-- [[Geoffrey Berman]] â€” SDNY US Attorney who oversaw the indictment
+- [[Jeffrey Epstein]] -- defendant; decedent
+- [[William Barr]] -- US Attorney General at time of arrest and death; son of Epstein's Dalton hiring principal Donald Barr
+- [[Tova Noel]] · [[Michael Thomas]] -- MCC guards who falsified records
+- [[Michael Baden]] -- forensic pathologist who disputed suicide finding
+- [[Geoffrey Berman]] -- SDNY US Attorney who oversaw the indictment
 
 ## Open questions
 

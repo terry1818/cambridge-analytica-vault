@@ -57,9 +57,9 @@ IHOPKC was **the largest single NAR training center in the world** by alumni net
 1. **Damaged the NAR personnel pipeline** for ~5-10 years
 2. **Eroded the "spiritual authority" framing** central to NAR ecclesiology
 3. **Provided opening for moderate-charismatic counter-coalition** (similar to 2022 statement signers)
-4. **Continued operational disruption** Ã¢â‚¬â€ Forerunner Church operates at reduced scale
+4. **Continued operational disruption** -- Forerunner Church operates at reduced scale
 
-**This is a documented counter-strategy opening** for the [[Counter-NAR Strategy for the Left]] Ã¢â‚¬â€ scandals at major NAR training centers + megachurches systematically expose movement vulnerabilities.
+**This is a documented counter-strategy opening** for the [[Counter-NAR Strategy for the Left]] -- scandals at major NAR training centers + megachurches systematically expose movement vulnerabilities.
 
 ## Connection to vault entities
 

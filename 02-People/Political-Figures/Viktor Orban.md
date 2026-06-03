@@ -3,10 +3,10 @@ title: Viktor Orban
 type: person
 date: 2026-06-01
 tags: [person, hungary, autocrat, illiberalism, comparative]
-aliases: ['Viktor Orban','Viktor OrbÃ¡n']
+aliases: ['Viktor Orban','Viktor Orbán']
 ---
 
-# Viktor OrbÃ¡n
+# Viktor Orbán
 
 Prime Minister of Hungary (1998-2002, 2010-). The most-cited contemporary case of [[Democratic backsliding]] in Europe.
 
@@ -21,7 +21,7 @@ Prime Minister of Hungary (1998-2002, 2010-). The most-cited contemporary case o
 
 ## US right alignment
 
-OrbÃ¡n has become a reference model for the contemporary US right. [[Tucker Carlson]] broadcast from Hungary 2021 and 2022. [[CPAC]] held Hungarian editions starting 2022. [[J.D. Vance]] has publicly praised OrbÃ¡n's family policy.
+Orbán has become a reference model for the contemporary US right. [[Tucker Carlson]] broadcast from Hungary 2021 and 2022. [[CPAC]] held Hungarian editions starting 2022. [[J.D. Vance]] has publicly praised Orbán's family policy.
 
 ## See also
 

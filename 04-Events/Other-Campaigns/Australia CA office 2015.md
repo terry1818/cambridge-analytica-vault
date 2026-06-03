@@ -8,11 +8,11 @@ actors: [SCL Group, Cambridge Analytica, Allan Lorraine, Liberal Party of Austra
 status: closed
 ---
 
-# Australia â€” CA Office 2015
+# Australia -- CA Office 2015
 
 ## Summary
 
-CA set up an Australian office. **[[Allan Lorraine]]** â€” friend of CA Chief Data Officer [[Alexander Tayler]] â€” set up SCL in Australia. Business name "Cambridge Analytica" was registered in Australia to the **Lorraine Family Trust** in June 2015. Representatives of CA had a private dinner with **Dan Tehan** when he was Australian minister responsible for cyber security, plus other [[Liberal Party of Australia]] executives. CA was scoping political and commercial work in Australia. Per Channel 4 footage, CA managing director said: "We've done it in Mexico, we've done it in Malaysia, we're now moving into Brazil, Australia, China." **310,000+ Australian Facebook users** were among those whose information was improperly shared with CA. ([[Source Wikipedia - Cambridge Analytica]])
+CA set up an Australian office. **[[Allan Lorraine]]** -- friend of CA Chief Data Officer [[Alexander Tayler]] -- set up SCL in Australia. Business name "Cambridge Analytica" was registered in Australia to the **Lorraine Family Trust** in June 2015. Representatives of CA had a private dinner with **Dan Tehan** when he was Australian minister responsible for cyber security, plus other [[Liberal Party of Australia]] executives. CA was scoping political and commercial work in Australia. Per Channel 4 footage, CA managing director said: "We've done it in Mexico, we've done it in Malaysia, we're now moving into Brazil, Australia, China." **310,000+ Australian Facebook users** were among those whose information was improperly shared with CA. ([[Source Wikipedia - Cambridge Analytica]])
 
 ## Sources
 

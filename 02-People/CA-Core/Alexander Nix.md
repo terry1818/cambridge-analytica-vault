@@ -45,17 +45,17 @@ British executive; CEO of [[Cambridge Analytica]] from its January 2013 founding
 
 ## Timeline (see also [[Timeline - Alexander Nix]])
 
-- 2013-01 â€” becomes CA CEO at founding
-- 2014-2018 â€” leads CA through US, Brexit, and global campaigns
-- 2016 â€” meeting with Boris Johnson (FCO); MOU with Psy-Group December 14
-- 2017-08 â€” Emerdata Limited established; Nix director
-- 2018-03-19 â€” Channel 4 Sting broadcasts
-- 2018-03-20 â€” suspended as CEO; replaced by Julian Wheatland
-- 2018-06-05 â€” Financial Times reports Nix took $8M from CA before collapse
-- 2019-07-24 â€” FTC consent order; 20-year restrictions
-- 2020-09-14 â€” signs UK director disqualification undertaking
-- 2020-10-05 â€” 7-year UK director ban becomes effective
-- 2027-10-05 â€” UK director ban scheduled to expire
+- 2013-01 -- becomes CA CEO at founding
+- 2014-2018 -- leads CA through US, Brexit, and global campaigns
+- 2016 -- meeting with Boris Johnson (FCO); MOU with Psy-Group December 14
+- 2017-08 -- Emerdata Limited established; Nix director
+- 2018-03-19 -- Channel 4 Sting broadcasts
+- 2018-03-20 -- suspended as CEO; replaced by Julian Wheatland
+- 2018-06-05 -- Financial Times reports Nix took $8M from CA before collapse
+- 2019-07-24 -- FTC consent order; 20-year restrictions
+- 2020-09-14 -- signs UK director disqualification undertaking
+- 2020-10-05 -- 7-year UK director ban becomes effective
+- 2027-10-05 -- UK director ban scheduled to expire
 
 ## Open questions
 

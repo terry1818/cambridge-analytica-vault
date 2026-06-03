@@ -15,7 +15,7 @@ Born July 15, 1949, Cambridge, MA. PhD economist (Harvard). Director of the Whit
 
 ## January 6 / Green Bay Sweep plan
 
-Navarro authored memos in late 2020 / early 2021 outlining what he called the "Green Bay Sweep" â€” a multi-phase plan to delay Electoral College certification on January 6 by having Republican members of Congress object to state electoral counts, generating debate, and pressuring VP Pence to refuse certification or delay it for state-legislature reconsideration. The plan was operationally linked to:
+Navarro authored memos in late 2020 / early 2021 outlining what he called the "Green Bay Sweep" -- a multi-phase plan to delay Electoral College certification on January 6 by having Republican members of Congress object to state electoral counts, generating debate, and pressuring VP Pence to refuse certification or delay it for state-legislature reconsideration. The plan was operationally linked to:
 
 - The Chesebro-Eastman alternate-elector theory
 - The Trump January 6 rally
@@ -27,7 +27,7 @@ Navarro discussed the plan publicly in his 2021 book *In Trump Time* and in subs
 
 - February 9, 2022: J6 Committee subpoenaed Navarro for testimony and documents
 - Navarro refused to comply, citing claimed executive privilege (which Trump had not formally asserted)
-- June 2, 2022: indicted on two counts contempt of Congress (18 USC Â§ 192)
+- June 2, 2022: indicted on two counts contempt of Congress (18 USC § 192)
 - September 7, 2023: convicted at jury trial in DC District Court before Judge Amit Mehta
 - January 25, 2024: sentenced to 4 months federal prison + $9,500 fine
 - DC Circuit affirmed conviction March 2024
@@ -41,10 +41,10 @@ January 2025: Trump appointed Navarro as Senior Counselor for Trade and Manufact
 
 ## Connections
 
-- [[Donald Trump]] â€” principal
-- [[Steve Bannon]] â€” fellow contempt-of-Congress convict (J6 Committee subpoena defiance)
-- [[John Eastman]] Â· [[Kenneth Chesebro]] â€” Green Bay Sweep coordination
-- [[January 6 Select Committee 2021-2023]] â€” investigating body
+- [[Donald Trump]] -- principal
+- [[Steve Bannon]] -- fellow contempt-of-Congress convict (J6 Committee subpoena defiance)
+- [[John Eastman]] · [[Kenneth Chesebro]] -- Green Bay Sweep coordination
+- [[January 6 Select Committee 2021-2023]] -- investigating body
 - [[Stop the Steal]]
 
 ## Sources

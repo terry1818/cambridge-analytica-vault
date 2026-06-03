@@ -88,11 +88,11 @@ The pace is currently ~3 states per year passing COS. **Block 4 states in 2026-2
 
 Target defensive states (those COS is targeting in 2026, where Dem legislative chambers exist or split control):
 
-- **Ohio** Ã¢â‚¬â€ split control; vulnerable
-- **Pennsylvania** Ã¢â‚¬â€ split control; vulnerable
-- **Virginia** Ã¢â‚¬â€ Dem-trifecta moments; need defensive resolution
-- **Iowa** Ã¢â‚¬â€ GOP trifecta; pure defense
-- **Wyoming** Ã¢â‚¬â€ GOP trifecta; pure defense
+- **Ohio** — split control; vulnerable
+- **Pennsylvania** — split control; vulnerable
+- **Virginia** — Dem-trifecta moments; need defensive resolution
+- **Iowa** — GOP trifecta; pure defense
+- **Wyoming** — GOP trifecta; pure defense
 
 **Tactic:** Identify the 3-5 Democratic state senators or state reps in each chamber who could lead an anti-COS coalition. Fund them with research, talking points, model amendments to weaken/derail the COS resolution.
 
@@ -100,7 +100,7 @@ Target defensive states (those COS is targeting in 2026, where Dem legislative c
 
 ### Priority 2: Rescission campaigns in already-passed states with Dem trifectas
 
-States that have passed COS but now have Democratic trifectas should formally rescind. Rescissions are legally contested but politically powerful Ã¢â‚¬â€ they:
+States that have passed COS but now have Democratic trifectas should formally rescind. Rescissions are legally contested but politically powerful — they:
 
 - Reduce the apparent count toward 34
 - Create legal ambiguity that helps litigation
@@ -139,7 +139,7 @@ Build a standing legal-action package ready to deploy the moment a 34th state is
 **Why this is risky-but-potentially-powerful:**
 
 - Creates legal ambiguity about whether applications "on different subjects" aggregate to the 34 threshold
-- If they DO aggregate, the convention's scope is constitutionally unlimitable Ã¢â‚¬â€ which **destroys COS's "limited convention" claim**
+- If they DO aggregate, the convention's scope is constitutionally unlimitable — which **destroys COS's "limited convention" claim**
 - If they DON'T aggregate, the Left has the same playbook tool the Right has
 - Forces a Supreme Court ruling on aggregation that constrains the Right
 
@@ -210,7 +210,7 @@ This is the question Terry asked: build something that counters it.
 - **Litigation packet builder**: state-specific brief templates ready to deploy the day a 34th-state vote approaches
 - **State-rep recruiting tool**: matches potential progressive state-legislator candidates to vulnerable seats in target states
 
-**This is a winnable issue if the infrastructure is built.** The Right has been winning because the infrastructure asymmetry is huge. Closing the asymmetry Ã¢â‚¬â€ even partially Ã¢â‚¬â€ is sufficient to defeat or delay COS past the current political window.
+**This is a winnable issue if the infrastructure is built.** The Right has been winning because the infrastructure asymmetry is huge. Closing the asymmetry — even partially — is sufficient to defeat or delay COS past the current political window.
 
 ## Open questions
 
@@ -221,7 +221,7 @@ This is the question Terry asked: build something that counters it.
 
 ## Related vault notes
 
-- [[Lens - COS as Constitutional Capture Vector]] Ã¢â‚¬â€ the 50,000-ft analysis
-- [[Hypothesis - COS is the permanent capture arm of Project 2025]] Ã¢â‚¬â€ load-bearing claim
-- [[Lens - 2024-2026 Power Map]] Ã¢â‚¬â€ the broader architecture COS sits inside
-- [[Architecture - 2026 Power Map]] Ã¢â‚¬â€ app data-model spec
+- [[Lens - COS as Constitutional Capture Vector]] — the 50,000-ft analysis
+- [[Hypothesis - COS is the permanent capture arm of Project 2025]] — load-bearing claim
+- [[Lens - 2024-2026 Power Map]] — the broader architecture COS sits inside
+- [[Architecture - 2026 Power Map]] — app data-model spec

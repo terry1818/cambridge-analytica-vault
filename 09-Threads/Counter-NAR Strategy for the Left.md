@@ -10,11 +10,11 @@ status: active
 
 The operational counter-strategy companion to [[Lens - 2024-2026 Power Map]] (NAR as Layer 4b), [[New Apostolic Reformation]], and the [[Counter-COS Strategy for the Left]] (which addresses the constitutional vector but not the theological mass-mobilization arm).
 
-**Built for Terry's stated goal:** counter the broader theocratic-wing mass-mobilization vector â€” specifically [[New Apostolic Reformation|NAR]] as the current dominant operational form.
+**Built for Terry's stated goal:** counter the broader theocratic-wing mass-mobilization vector — specifically [[New Apostolic Reformation|NAR]] as the current dominant operational form.
 
 ## The core opportunity
 
-The **2022 NAR and Christian Nationalism Statement** is the load-bearing strategic opening. 60+ Charismatic figures **signed the statement denouncing Christian nationalism, racial/ethnic supremacy, and the conflation of spirituality with patriotism**. Notable refusers include **Wallnau, Jacobs, Ahn, Sheets** â€” making them the **explicitly politically-extreme wing** rather than the moderating wing.
+The **2022 NAR and Christian Nationalism Statement** is the load-bearing strategic opening. 60+ Charismatic figures **signed the statement denouncing Christian nationalism, racial/ethnic supremacy, and the conflation of spirituality with patriotism**. Notable refusers include **Wallnau, Jacobs, Ahn, Sheets** — making them the **explicitly politically-extreme wing** rather than the moderating wing.
 
 **This means NAR has a documented internal rift that maps onto a separable moderate-vs-extremist division.** Counter-strategy can exploit this seam.
 
@@ -22,7 +22,7 @@ The **2022 NAR and Christian Nationalism Statement** is the load-bearing strateg
 
 ### Track 1: Amplify the moderating-charismatic wing
 
-**Identify and amplify the 60+ NAR-adjacent signatories of the 2022 statement.** These are not theological liberals â€” they're moderate charismatic-evangelicals who explicitly broke from Christian nationalism. They are **credible witnesses against the political-extreme NAR figures**.
+**Identify and amplify the 60+ NAR-adjacent signatories of the 2022 statement.** These are not theological liberals — they're moderate charismatic-evangelicals who explicitly broke from Christian nationalism. They are **credible witnesses against the political-extreme NAR figures**.
 
 **Key amplification targets:**
 - Pentecostal denominational leaders (Assemblies of God moderates; Foursquare moderates)
@@ -36,9 +36,9 @@ The **2022 NAR and Christian Nationalism Statement** is the load-bearing strateg
 
 ### Track 2: Court the moderate-charismatic mass base
 
-Most NAR-affiliated congregants are **not politically extreme by personal conviction** â€” they're following their charismatic pastors. **Charismatic theological tradition has historic Black and Latino majorities** that are not aligned with white-evangelical political positioning.
+Most NAR-affiliated congregants are **not politically extreme by personal conviction** — they're following their charismatic pastors. **Charismatic theological tradition has historic Black and Latino majorities** that are not aligned with white-evangelical political positioning.
 
-**Tactic:** support African-American Pentecostal and Latino Pentecostal denominational infrastructure (COGIC, Church of God in Christ â€” the largest African-American Pentecostal denomination; Latino Assemblies of God affiliates).
+**Tactic:** support African-American Pentecostal and Latino Pentecostal denominational infrastructure (COGIC, Church of God in Christ — the largest African-American Pentecostal denomination; Latino Assemblies of God affiliates).
 
 **Cost:** $5M/yr in capacity-building grants
 
@@ -70,11 +70,11 @@ NAR's loose institutional structure means **scandals emerge predictably**: finan
 NAR's **mass-event infrastructure** (Courage Tour, ReAwaken America, The Return, Let Us Worship) is operationally consequential. Currently the Left has **no equivalent counter-event infrastructure for charismatic-Christian voters**.
 
 **Tactic:** invest in:
-- **Poor People's Campaign** ([[William Barber II]]) â€” already operational at scale
+- **Poor People's Campaign** ([[William Barber II]]) — already operational at scale
 - **Sojourners** ([[Jim Wallis]]) progressive-evangelical infrastructure
 - **Faith in Public Life** progressive-faith coalition
 - **Vote Common Good** progressive-faith voter mobilization
-- **Red Letter Christians** â€” progressive-evangelical network
+- **Red Letter Christians** — progressive-evangelical network
 
 These exist but are **dramatically under-funded** relative to NAR + Faith and Freedom Coalition operational scale.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: UK Information Commissioner's Office investigation into CA and political data use
 tags: [event, topic/cambridge-analytica, evidence/investigation-report, era/2016-2018, era/2018-2020, jurisdiction/uk]
@@ -12,16 +12,16 @@ status: closed
 
 ## Summary
 
-UK Information Commissioner's Office investigation led by Commissioner **[[Elizabeth Denham]]**. Opened initial inquiry in 2017; obtained **High Court warrant 2018-03-23** to search CA's London offices following the Wylie disclosures. Final report 2020-11 concluded SCL/CA were "not involved" in the Brexit referendum beyond initial enquiries, and found no Russian involvement. Separately fined Facebook Â£500,000 (the maximum pre-GDPR penalty) and audited [[Leave.EU]] and [[Eldon Insurance]] in 2020 over unlawful marketing. ([[Source Wikipedia - Cambridge Analytica]])
+UK Information Commissioner's Office investigation led by Commissioner **[[Elizabeth Denham]]**. Opened initial inquiry in 2017; obtained **High Court warrant 2018-03-23** to search CA's London offices following the Wylie disclosures. Final report 2020-11 concluded SCL/CA were "not involved" in the Brexit referendum beyond initial enquiries, and found no Russian involvement. Separately fined Facebook £500,000 (the maximum pre-GDPR penalty) and audited [[Leave.EU]] and [[Eldon Insurance]] in 2020 over unlawful marketing. ([[Source Wikipedia - Cambridge Analytica]])
 
 ## Sequence
 
-- `2017-03-04` â€” ICO inquiry announced ([[Source Doward Cadwalladr Gibbs 2017-03-04 Guardian ICO]])
-- `2018-03-23` â€” UK High Court warrant granted for CA London offices
-- `2018-07` â€” ICO announces Â£500K Facebook fine intent
-- `2019-10` â€” Facebook agrees Â£500K fine
-- `2020-07-20` â€” ICO fines Leave.EU and Eldon Insurance for unlawful marketing
-- `2020-11` â€” Final report: no Brexit involvement found
+- `2017-03-04` -- ICO inquiry announced ([[Source Doward Cadwalladr Gibbs 2017-03-04 Guardian ICO]])
+- `2018-03-23` -- UK High Court warrant granted for CA London offices
+- `2018-07` -- ICO announces £500K Facebook fine intent
+- `2019-10` -- Facebook agrees £500K fine
+- `2020-07-20` -- ICO fines Leave.EU and Eldon Insurance for unlawful marketing
+- `2020-11` -- Final report: no Brexit involvement found
 
 ## Sources
 

@@ -19,25 +19,25 @@ American political consultant. **Foreign-policy adviser to the Trump 2016 campai
 
 ## The April 2016 Mifsud meeting
 
-- **April 26, 2016** â€” Maltese academic [[Joseph Mifsud]] told Papadopoulos in London that the Russians had "**dirt**" on Hillary Clinton "in the form of thousands of emails"
+- **April 26, 2016** -- Maltese academic [[Joseph Mifsud]] told Papadopoulos in London that the Russians had "**dirt**" on Hillary Clinton "in the form of thousands of emails"
 - This was **months before WikiLeaks released DNC emails** (July 2016)
 - Papadopoulos reported this back to Trump campaign senior figures
 - Per Mueller and Senate Intel Vol 5, this is the **single most direct documented advance knowledge** of the Russian email operation reaching the Trump campaign
 
 ## The Downer disclosure
 
-- **May 10, 2016** â€” Papadopoulos meets Australian diplomat Alexander Downer at the Kensington Wine Rooms
+- **May 10, 2016** -- Papadopoulos meets Australian diplomat Alexander Downer at the Kensington Wine Rooms
 - Papadopoulos drunkenly tells Downer about the Russian "dirt"
 - After WikiLeaks releases DNC emails in July 2016, Australian intelligence reports Downers conversation to FBI
-- **July 31, 2016** â€” FBI opens "Crossfire Hurricane" counterintelligence investigation
+- **July 31, 2016** -- FBI opens "Crossfire Hurricane" counterintelligence investigation
 - This investigation later evolves into the Mueller Special Counsel investigation
 
 ## Mueller prosecution
 
-- 2017-07-27 â€” arrested at Dulles airport returning to US
-- 2017-10-05 â€” pleaded guilty to lying to FBI about timing of Mifsud meeting
-- 2018-09-07 â€” sentenced to **14 days** + community service + $9,500 fine
-- 2020-12-22 â€” **pardoned by Trump**
+- 2017-07-27 -- arrested at Dulles airport returning to US
+- 2017-10-05 -- pleaded guilty to lying to FBI about timing of Mifsud meeting
+- 2018-09-07 -- sentenced to **14 days** + community service + $9,500 fine
+- 2020-12-22 -- **pardoned by Trump**
 
 ## Post-pardon
 

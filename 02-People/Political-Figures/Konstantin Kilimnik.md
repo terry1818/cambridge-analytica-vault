@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-Russian-Ukrainian political operative. Formerly the Ukraine-based deputy of [[Paul Manafort]] in Davis Manafort International. **Identified by US Treasury Department as a Russian intelligence officer** in April 2021 â€” making him the most clearly attributed Russian intel asset in the 2016 Trump-Russia investigation.
+Russian-Ukrainian political operative. Formerly the Ukraine-based deputy of [[Paul Manafort]] in Davis Manafort International. **Identified by US Treasury Department as a Russian intelligence officer** in April 2021 -- making him the most clearly attributed Russian intel asset in the 2016 Trump-Russia investigation.
 
 ## Documented intelligence role
 
@@ -24,7 +24,7 @@ Russian-Ukrainian political operative. Formerly the Ukraine-based deputy of [[Pa
 
 ## CA-relevance
 
-The Manafortâ†’Kilimnik polling data transfer is the **single most documented data flow from a Trump-campaign-adjacent figure to a Russian intelligence officer**. Cambridge Analytica relevance:
+The Manafort→Kilimnik polling data transfer is the **single most documented data flow from a Trump-campaign-adjacent figure to a Russian intelligence officer**. Cambridge Analytica relevance:
 - Manafort was Trump campaign manager during the period of the August 2, 2016 Grand Havana Room meeting
 - Trump campaign was actively paying CA at the time
 - The polling data shared with Kilimnik was substantially derived from the same data ecosystem CA was working in
@@ -32,8 +32,8 @@ The Manafortâ†’Kilimnik polling data transfer is the **single most document
 
 ## Documented Manafort-Kilimnik meetings (2016)
 
-- **August 2, 2016** â€” Grand Havana Room, New York City â€” polling data shared
-- **September 12, 2016** â€” Madrid
+- **August 2, 2016** -- Grand Havana Room, New York City -- polling data shared
+- **September 12, 2016** -- Madrid
 
 ## Career background
 
@@ -55,7 +55,7 @@ The Manafortâ†’Kilimnik polling data transfer is the **single most document
 - **Direct asset:** Russian intelligence (Treasury OFAC, Senate Intel Vol 5)
 - **Manafort liaison:** [[Paul Manafort]] (decade+)
 - **CA-side parallel:** [[Sam Patten]]
-- **Information flow:** Trump campaign polling â†’ Russian intel via Kilimnik
+- **Information flow:** Trump campaign polling → Russian intel via Kilimnik
 
 ## Sources
 

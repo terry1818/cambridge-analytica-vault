@@ -22,13 +22,13 @@ Epstein-operated entity registered in the US Virgin Islands. Purportedly engaged
 
 ## Connections
 
-- [[Jeffrey Epstein]] â€” principal
-- [[USVI Government]] â€” taxing authority; later plaintiff
-- [[Little St James]] / [[Great St James]] â€” USVI properties operationally linked to the entity
+- [[Jeffrey Epstein]] -- principal
+- [[USVI Government]] -- taxing authority; later plaintiff
+- [[Little St James]] / [[Great St James]] -- USVI properties operationally linked to the entity
 
 ## Open questions
 
-- What was the actual revenue source â€” was the "data mining" operation real, or was it a wrapper for other activity?
+- What was the actual revenue source -- was the "data mining" operation real, or was it a wrapper for other activity?
 - Did Southern Trust have foreign-state or intelligence-service customers? (Webb tier-3 hypothesis)
 - Full disposition of records seized in 2019 federal action
 

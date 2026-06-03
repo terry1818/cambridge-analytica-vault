@@ -34,21 +34,21 @@ Private military company that became increasingly important Russian state instru
 
 - Operated in Syria (2015+) supporting Assad
 - Ukraine 2014+ (Donbass)
-- Central African Republic, Mali, Libya, Sudan â€” coup-adjacent operations
-- 2022-2023 â€” major role in Russian invasion of Ukraine (Bakhmut)
+- Central African Republic, Mali, Libya, Sudan -- coup-adjacent operations
+- 2022-2023 -- major role in Russian invasion of Ukraine (Bakhmut)
 - Recruited prisoners from Russian penal system
 - Long-running tensions with Russian Defense Ministry
 
 ## The June 2023 mutiny
 
-- **2023-06-23 to 06-24** â€” Wagner forces marched toward Moscow in armed mutiny
+- **2023-06-23 to 06-24** -- Wagner forces marched toward Moscow in armed mutiny
 - Prigozhin publicly attacked Russian military leadership
 - Mutiny stopped abruptly after deal brokered by Belarus
 - Prigozhin reportedly to relocate to Belarus
 
 ## Death
 
-- **2023-08-23** â€” private jet crashed near Tver, Russia
+- **2023-08-23** -- private jet crashed near Tver, Russia
 - Prigozhin and 9 others on board, all killed
 - Widely attributed to Russian state assassination in revenge for mutiny
 - Russian government denied involvement

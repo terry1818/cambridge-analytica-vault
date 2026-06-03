@@ -1,13 +1,13 @@
 ---
 date: 2026-05-16
-description: Emma Briant's research evidence submitted to UK Parliament DCMS Committee â€” primary academic-investigative source documenting Leave.EU / Cambridge Analytica operational coordination from inside-the-firm document access
+description: Emma Briant's research evidence submitted to UK Parliament DCMS Committee — primary academic-investigative source documenting Leave.EU / Cambridge Analytica operational coordination from inside-the-firm document access
 aliases: ["Source: Source Parliament DCMS Briant essays"]
 tags: [source, evidence/primary-document, evidence/academic, evidence/parliamentary, topic/cambridge-analytica, topic/brexit, topic/scl-group, era/2016-2018, jurisdiction/uk]
 type: source
 source_type: primary-document
 title: "Essays, audio, and accompanying transcripts from Dr Emma Briant"
 author: Emma Briant
-publisher: UK Parliament â€” DCMS (Digital, Culture, Media and Sport) Committee
+publisher: UK Parliament — DCMS (Digital, Culture, Media and Sport) Committee
 publication_date: 2018-04-16
 url: https://www.parliament.uk/business/committees/committees-a-z/commons-select/digital-culture-media-and-sport-committee/inquiries/parliament-2017/fake-news-17-19/publications/
 accessed: 2026-05-16
@@ -18,23 +18,23 @@ reliability: high
 
 ## Citation
 
-Briant, Emma. (2018-04-16). *Essays, audio, and accompanying transcripts.* Submitted research evidence, UK Parliament â€” Digital, Culture, Media and Sport (DCMS) Committee, "Disinformation and 'fake news'" Inquiry.
+Briant, Emma. (2018-04-16). *Essays, audio, and accompanying transcripts.* Submitted research evidence, UK Parliament — Digital, Culture, Media and Sport (DCMS) Committee, "Disinformation and 'fake news'" Inquiry.
 
 ## What it is
 
 **Dr Emma Briant's submitted research-evidence package** to the UK Parliament's DCMS Committee inquiry into Disinformation and "Fake News." Published by Parliament on **2018-04-16** as part of the inquiry's public-evidence record. The submission includes:
 
-1. **Two written essays** synthesizing Briant's academic research on [[SCL Group]], [[Cambridge Analytica]], and [[Leave.EU]] â€” drawing on **interview audio she had recorded with key principals** during her pre-scandal academic research
-2. **Audio recordings** of interviews with named principals (including SCL/CA executives) â€” submitted as primary research material to corroborate the essays
+1. **Two written essays** synthesizing Briant's academic research on [[SCL Group]], [[Cambridge Analytica]], and [[Leave.EU]] — drawing on **interview audio she had recorded with key principals** during her pre-scandal academic research
+2. **Audio recordings** of interviews with named principals (including SCL/CA executives) — submitted as primary research material to corroborate the essays
 3. **Accompanying transcripts** of the audio material
 
-Briant's package is the **single most important primary-document piece** of academic-investigative evidence on **SCL/CA-Leave.EU coordination**, because she had **interview-level access to principals before the scandal broke** â€” when they spoke more freely about operations than they did once subject to investigation.
+Briant's package is the **single most important primary-document piece** of academic-investigative evidence on **SCL/CA-Leave.EU coordination**, because she had **interview-level access to principals before the scandal broke** — when they spoke more freely about operations than they did once subject to investigation.
 
 ## Key claims / findings
 
-- **SCL / CA strategic coordination with Leave.EU:** Briant's evidence documents explicit operational and strategic coordination between SCL/CA and [[Leave.EU]] / [[Arron Banks]] â€” going beyond the public-facing claim that CA "didn't work" the Brexit campaign
+- **SCL / CA strategic coordination with Leave.EU:** Briant's evidence documents explicit operational and strategic coordination between SCL/CA and [[Leave.EU]] / [[Arron Banks]] — going beyond the public-facing claim that CA "didn't work" the Brexit campaign
 - **Goddard Gunster and US-style methodology:** Documentation of Goddard Gunster's role and the import of US-style data-driven political-targeting techniques into the UK political context
-- **Andy Wigmore on operations:** Recorded audio of [[Andrew Wigmore]] discussing Leave.EU's operational coordination â€” material that contradicted public denials
+- **Andy Wigmore on operations:** Recorded audio of [[Andrew Wigmore]] discussing Leave.EU's operational coordination — material that contradicted public denials
 - **SCL Defence operational claims:** Brief but significant material on SCL Defence operations recorded from named principals
 - **Methodology disclosure:** SCL/CA's psychographic targeting, behavioral-modeling, and operational-deployment methodology described from inside the firm
 
@@ -42,7 +42,7 @@ Briant's package is the **single most important primary-document piece** of acad
 
 This source is **uniquely important** because:
 
-- **Pre-scandal interview access:** Briant recorded most of her audio material **before March 2018** â€” when SCL/CA principals were not yet under legal/public scrutiny and spoke comparatively freely
+- **Pre-scandal interview access:** Briant recorded most of her audio material **before March 2018** — when SCL/CA principals were not yet under legal/public scrutiny and spoke comparatively freely
 - **Submitted to a statutory inquiry:** the material was submitted under DCMS procedures, giving it parliamentary-record status
 - **Academic methodological rigor:** Briant's research methodology, citations, and analytical framing are at academic-publication standard
 - **Underpins the broader Briant analytical track:** Briant's later 2020 OCCRP analysis ([[Source Briant OCCRP 2020-10-12]]) builds on this earlier-published evidence base
@@ -50,12 +50,12 @@ This source is **uniquely important** because:
 ## Reliability assessment
 
 - **Type:** primary-document evidence submitted to a parliamentary inquiry
-- **Authority:** Parliament published the material as part of the inquiry record â€” high evidentiary weight
+- **Authority:** Parliament published the material as part of the inquiry record — high evidentiary weight
 - **Author's track record:** Briant is an established academic researcher on propaganda and influence operations; her pre-scandal field-research access is documented
 - **Caveats:**
-  - The interview audio's analytical use depends on context â€” quoted statements are subject to interpretive debate
+  - The interview audio's analytical use depends on context — quoted statements are subject to interpretive debate
   - Some named principals contested Briant's characterizations after the material was published
-  - The material is **submitted research evidence**, not a peer-reviewed academic publication â€” subsequent peer-reviewed Briant work has appeared
+  - The material is **submitted research evidence**, not a peer-reviewed academic publication — subsequent peer-reviewed Briant work has appeared
 - **Disputed by:** SCL/CA principals (including [[Andrew Wigmore]]) publicly objected to characterizations; the underlying audio remains as recorded
 
 ## Entities mentioned
@@ -75,7 +75,7 @@ This source is **uniquely important** because:
 - [[Arron Banks]], [[Andrew Wigmore]] (named-principal-on-record evidence)
 - [[Source Briant OCCRP 2020-10-12]] (the 2020 OCCRP analysis builds on this 2018 evidence base)
 - [[Hypothesis - Defense-to-elections pipeline]] (pre-scandal academic-investigative evidence)
-- [[DCMS Disinformation Inquiry]] (event â€” context of submission)
+- [[DCMS Disinformation Inquiry]] (event — context of submission)
 
 ## Open questions
 

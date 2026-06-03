@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Unofficial Leave campaign founded by Arron Banks; CA involvement disputed; ICO fined for unlawful marketing
 tags: [org, org/campaign, topic/brexit, era/2014-2016, era/2016-2018, jurisdiction/uk]
@@ -20,11 +20,11 @@ UK political campaign group founded by [[Arron Banks]] and Andrew Wigmore in Jul
 
 - Founded: July 2015 by Banks and Wigmore
 - Official Leave designation: denied (went to Vote Leave)
-- Largest individual donor: [[Arron Banks]] (~Â£8M+)
-- CA "10-page document" â€” "Big Data Solutions for the EU Referendum" â€” produced for Leave.EU per Kaiser disclosure
-- 2020 â€” ICO fined Leave.EU and Eldon Insurance for unlawful marketing
+- Largest individual donor: [[Arron Banks]] (~£8M+)
+- CA "10-page document" -- "Big Data Solutions for the EU Referendum" -- produced for Leave.EU per Kaiser disclosure
+- 2020 -- ICO fined Leave.EU and Eldon Insurance for unlawful marketing
 
-## CA / Cambridge relationship â€” disputed
+## CA / Cambridge relationship -- disputed
 
 - Kaiser: "In my opinion, I was lying" when CA said no work for Leave.EU
 - Wylie: CA produced strategy documents for Leave.EU

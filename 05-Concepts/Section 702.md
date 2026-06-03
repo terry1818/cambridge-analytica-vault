@@ -11,7 +11,7 @@ aliases: ["Section 702", "FAA Section 702", "FISA 702", "FISA Section 702"]
 
 # Section 702
 
-**Section 702 of the Foreign Intelligence Surveillance Act (FISA) Amendments Act of 2008** (codified at 50 USC Â§ 1881a). Authorizes the National Security Agency (NSA) to collect foreign-intelligence information from non-US persons reasonably believed to be located outside the United States via electronic communication service providers. **Controversial for incidental collection of US persons' communications** and for FBI "backdoor searches" of the collected database for US-person queries.
+**Section 702 of the Foreign Intelligence Surveillance Act (FISA) Amendments Act of 2008** (codified at 50 USC § 1881a). Authorizes the National Security Agency (NSA) to collect foreign-intelligence information from non-US persons reasonably believed to be located outside the United States via electronic communication service providers. **Controversial for incidental collection of US persons' communications** and for FBI "backdoor searches" of the collected database for US-person queries.
 
 ## Statutory framework
 
@@ -60,11 +60,11 @@ Section 702 is identified throughout the vault's [[Tech Right MOC]] and [[Lens -
 
 ## Connections
 
-- [[NSA]] Â· [[FBI]] â€” operational agencies
-- [[FISA Court]] â€” oversight body
-- [[Tech Right MOC]] Â· [[Lens - Where the Data Lives Now]] Â· [[Lens - Data Sources]]
-- [[Edward Snowden]] â€” disclosed substantial 702-related operational documentation 2013
-- [[Section 215]] â€” adjacent surveillance statute (sunset 2020)
+- [[NSA]] · [[FBI]] -- operational agencies
+- [[FISA Court]] -- oversight body
+- [[Tech Right MOC]] · [[Lens - Where the Data Lives Now]] · [[Lens - Data Sources]]
+- [[Edward Snowden]] -- disclosed substantial 702-related operational documentation 2013
+- [[Section 215]] -- adjacent surveillance statute (sunset 2020)
 
 ## Sources
 

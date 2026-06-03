@@ -26,7 +26,7 @@ Barr resigned within weeks. HBGary Federal effectively ceased operations. Barr l
 
 ## Significance
 
-Barr's HBGary Federal is the **conceptual ancestor** of Cambridge Analytica â€” same toolkit, same client mix, 3-5 years earlier. The fact that the 2011 leak did not prevent CA from emerging at much larger scale is a key structural observation.
+Barr's HBGary Federal is the **conceptual ancestor** of Cambridge Analytica -- same toolkit, same client mix, 3-5 years earlier. The fact that the 2011 leak did not prevent CA from emerging at much larger scale is a key structural observation.
 
 ## Sources
 

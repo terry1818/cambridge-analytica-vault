@@ -27,7 +27,7 @@ Documented:
 - The exact date of the MOU
 - Joel Zamel as Psy-Group founder
 - The scope of intended cooperation (intelligence gathering, opposition research)
-- Context: Channel 4 sting had captured [[Alexander Nix]] referring to "Israeli companies" for entrapment operations â€” WSJ confirmed this referred to Psy-Group
+- Context: Channel 4 sting had captured [[Alexander Nix]] referring to "Israeli companies" for entrapment operations — WSJ confirmed this referred to Psy-Group
 
 ## Significance
 
@@ -36,7 +36,7 @@ This is the **single most directly documented intersection** between:
 - Israeli private-intelligence ecosystem ([[Psy-Group]], [[Wikistrat]], [[Joel Zamel]])
 - 2016 Trump campaign (which Zamel had pitched at the August 2016 Trump Tower meeting)
 
-The December 14, 2016 MOU date is significant â€” it followed Trumps November victory by ~5 weeks, suggesting active continuing collaboration into the transition period.
+The December 14, 2016 MOU date is significant — it followed Trumps November victory by ~5 weeks, suggesting active continuing collaboration into the transition period.
 
 ## URL
 

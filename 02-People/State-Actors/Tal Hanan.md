@@ -16,7 +16,7 @@ status: active
 
 ## Summary
 
-Israeli **election-manipulation-for-hire operator** exposed by the **Forbidden Stories "Story Killers" investigation** (February 2023). Hanan and his "Team Jorge" group claimed to have manipulated 33+ presidential-level elections globally using social media disinformation and AI-generated content. Sells access to AIMS (Advanced Impact Media Solutions) Ã¢â‚¬â€ a platform managing thousands of fake social accounts. **Hanan's pseudonym "Jorge" appeared in leaked Cambridge Analytica emails**, per joint investigation by TheMarker, Radio France, and Haaretz. Continues to operate as of 2024-2026. ([[Source Wikipedia - Cambridge Analytica]], [[Source Forbidden Stories 2023 Team Jorge]])
+Israeli **election-manipulation-for-hire operator** exposed by the **Forbidden Stories "Story Killers" investigation** (February 2023). Hanan and his "Team Jorge" group claimed to have manipulated 33+ presidential-level elections globally using social media disinformation and AI-generated content. Sells access to AIMS (Advanced Impact Media Solutions) -- a platform managing thousands of fake social accounts. **Hanan's pseudonym "Jorge" appeared in leaked Cambridge Analytica emails**, per joint investigation by TheMarker, Radio France, and Haaretz. Continues to operate as of 2024-2026. ([[Source Wikipedia - Cambridge Analytica]], [[Source Forbidden Stories 2023 Team Jorge]])
 
 ## Connections
 

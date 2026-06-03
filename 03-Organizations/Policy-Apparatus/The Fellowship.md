@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Secretive Christian evangelical network founded 1935 by Abraham Vereide; ran National Prayer Breakfast; C Street townhouse; Uganda Anti-Homosexuality Act lineage
 tags: [org, org/policy-apparatus, org/theocratic-wing, topic/christian-nationalism, era/1935-2026, jurisdiction/us, jurisdiction/uganda]
@@ -18,7 +18,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/The_Fellowship_(Christian_organizat
 
 ## Summary
 
-Secretive Christian evangelical network founded **1935 by Abraham Vereide** in Seattle as a Bible-study circle for business and civic leaders. Operates legally as **International Foundation**. Ran the **National Prayer Breakfast** annually until Congress took over coordination in **2023** after sustained scrutiny. Long-time leader **[[Doug Coe]]** (1928-2017) deliberately made it "invisible" ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â instructing members to avoid acknowledging the organization, use their own letterhead, and cultivate the appearance of government sponsorship for the Prayer Breakfast. **The C Street House** at 133 C Street SE provided low-cost housing to prominent legislators and was the site of multiple political-figure adultery scandals (Ensign, Sanford, Pickering). Connected via Ugandan parliamentary chapter to **the 2009 / 2013 / 2023 Uganda Anti-Homosexuality Acts** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â the bills' Ugandan sponsors ([[David Bahati]], James Nsaba Buturo) cited Family parliamentary group meetings as the origin. **The theocratic wing's deepest infrastructure** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â older than the contemporary CA / Project 2025 architecture, but folded into it through personnel and institutional alignment.
+Secretive Christian evangelical network founded **1935 by Abraham Vereide** in Seattle as a Bible-study circle for business and civic leaders. Operates legally as **International Foundation**. Ran the **National Prayer Breakfast** annually until Congress took over coordination in **2023** after sustained scrutiny. Long-time leader **[[Doug Coe]]** (1928-2017) deliberately made it "invisible" â€" instructing members to avoid acknowledging the organization, use their own letterhead, and cultivate the appearance of government sponsorship for the Prayer Breakfast. **The C Street House** at 133 C Street SE provided low-cost housing to prominent legislators and was the site of multiple political-figure adultery scandals (Ensign, Sanford, Pickering). Connected via Ugandan parliamentary chapter to **the 2009 / 2013 / 2023 Uganda Anti-Homosexuality Acts** â€" the bills' Ugandan sponsors ([[David Bahati]], James Nsaba Buturo) cited Family parliamentary group meetings as the origin. **The theocratic wing's deepest infrastructure** â€" older than the contemporary CA / Project 2025 architecture, but folded into it through personnel and institutional alignment.
 
 ## Identity
 
@@ -30,15 +30,15 @@ Secretive Christian evangelical network founded **1935 by Abraham Vereide** in S
 
 ## Leadership
 
-- **Abraham Vereide** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Founder; died 1969
-- **[[Doug Coe]]** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Associate director then leader; took over after Vereide; made the org "invisible"; died February 2017
-- **David Coe** (Doug Coe's son) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â continued involvement
+- **Abraham Vereide** â€" Founder; died 1969
+- **[[Doug Coe]]** â€" Associate director then leader; took over after Vereide; made the org "invisible"; died February 2017
+- **David Coe** (Doug Coe's son) â€" continued involvement
 - Various unnamed regional and parliamentary chapter leaders
 
 ## Activities
 
 - **National Prayer Breakfast** (1953-2023 ran it; Congress took over 2023)
-- **C Street House** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â residence for ~6-10 members of Congress at any time; below-market rent
+- **C Street House** â€" residence for ~6-10 members of Congress at any time; below-market rent
 - **Parliamentary fellowships** in 100+ countries (modeled on US Congressional prayer groups)
 - **The Cedars** Arlington VA compound for retreats
 - **Ivanwald** men's residence (where journalist [[Jeff Sharlet]] lived in 2002, leading to his investigative work)
@@ -47,7 +47,7 @@ Secretive Christian evangelical network founded **1935 by Abraham Vereide** in S
 
 Long historical list spanning both parties. Includes:
 
-- **Senators:** Frank Carlson, Karl Mundt, Everett Dirksen, Strom Thurmond, Mark Hatfield, [[Jim Inhofe]], Sam Brownback, Bart Stupak, John Ensign (Nevada; resigned after C Street affair scandal), [[Tom Coburn]] (also a [[Convention of States Action]] senior advisor ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â direct bridge to COS), Hillary Clinton (attended prayer meetings as Senator)
+- **Senators:** Frank Carlson, Karl Mundt, Everett Dirksen, Strom Thurmond, Mark Hatfield, [[Jim Inhofe]], Sam Brownback, Bart Stupak, John Ensign (Nevada; resigned after C Street affair scandal), [[Tom Coburn]] (also a [[Convention of States Action]] senior advisor â€" direct bridge to COS), Hillary Clinton (attended prayer meetings as Senator)
 - **Governors:** Mark Sanford (SC; C Street affair scandal)
 - **House:** Bart Stupak, Joe Pitts, Frank Wolf, Mike Doyle, others
 - **Cabinet / appointed officials:** [[John Ashcroft]], James Watt (Reagan-era)
@@ -61,18 +61,18 @@ Long historical list spanning both parties. Includes:
 
 ## Why this matters in the 2024-2026 architecture
 
-The Fellowship is the **oldest layer of the theocratic wing.** Its operational model ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â quiet relationship-building among elected officials around a shared theological commitment, with explicit aim of "leadership for Jesus" ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â predates and underlies the more visible Heritage / Project 2025 / Capitol Ministries infrastructure.
+The Fellowship is the **oldest layer of the theocratic wing.** Its operational model â€" quiet relationship-building among elected officials around a shared theological commitment, with explicit aim of "leadership for Jesus" â€" predates and underlies the more visible Heritage / Project 2025 / Capitol Ministries infrastructure.
 
 **Functional role:** **relationship-network for the theocratic wing**, parallel to how Heritage operates as policy-authoring and ALEC as model-legislation. The Fellowship doesn't author policy; it builds and maintains the personal relationships through which policy travels.
 
 ## Connection to other vault entities
 
-- [[Doug Coe]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â long-time leader; gave [[Tom Coburn]] (COS senior advisor) a direct Fellowship bridge
-- [[Tom Coburn]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Fellowship-affiliated AND Convention of States Action senior advisor ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â living example of theocratic-to-COS bridge
-- [[Capitol Ministries]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â newer (1996) theocratic operating arm; complementary to Fellowship; [[Ralph Drollinger]] operates more publicly than Fellowship style
-- [[Alliance Defending Freedom]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â legal arm; [[Michael Farris]]; not Fellowship per se but theocratic-wing infrastructure
-- [[Project 2025]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â receives theocratic-wing policy input; [[Russ Vought]]'s Christian nationalism is its policy frame
-- [[Hypothesis - Three-wing coalition]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Fellowship is core infrastructure of the theocratic wing
+- [[Doug Coe]] â€" long-time leader; gave [[Tom Coburn]] (COS senior advisor) a direct Fellowship bridge
+- [[Tom Coburn]] â€" Fellowship-affiliated AND Convention of States Action senior advisor â€" living example of theocratic-to-COS bridge
+- [[Capitol Ministries]] â€" newer (1996) theocratic operating arm; complementary to Fellowship; [[Ralph Drollinger]] operates more publicly than Fellowship style
+- [[Alliance Defending Freedom]] â€" legal arm; [[Michael Farris]]; not Fellowship per se but theocratic-wing infrastructure
+- [[Project 2025]] â€" receives theocratic-wing policy input; [[Russ Vought]]'s Christian nationalism is its policy frame
+- [[Hypothesis - Three-wing coalition]] â€" Fellowship is core infrastructure of the theocratic wing
 
 ## Recent developments
 
@@ -85,7 +85,7 @@ The Fellowship is the **oldest layer of the theocratic wing.** Its operational m
 
 - [ ] Current operational leadership post-Coe
 - [ ] Specific Trump 2.0 cabinet members with Fellowship ties
-- [ ] Financial trail ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â how the Fellowship continues funding parliamentary chapters internationally
+- [ ] Financial trail â€" how the Fellowship continues funding parliamentary chapters internationally
 - [ ] Overlap between Fellowship membership and [[Capitol Ministries]] cabinet Bible-study attendees
 
 ## Sources
@@ -101,7 +101,7 @@ The Fellowship is the **oldest layer of the theocratic wing.** Its operational m
 
 [[The Fellowship]] (also called the Family, the Fellowship Foundation, and the International Foundation) was founded in 1935 by Abraham Vereide as a Christian-businessmen's prayer-and-policy network operating principally in Seattle. Vereide's structural innovation, refined through the 1940s and 1950s, was to organise around small-group prayer cells of legislators and government officials rather than mass-public preaching. The prayer-cell model meant the organisation's reach was concentrated at the leadership level: a small number of carefully cultivated relationships at the top of government were treated as more valuable than a much larger number of relationships at the base.
 
-The Fellowship's operating premise â€” articulated principally by Doug Coe, who succeeded Vereide as the dominant leader from the 1960s through his death in 2017 â€” is that political authority comes from God, that political leaders are God's agents whether or not they personally identify as Christian, and that the Fellowship's role is to support and pray for those leaders without requiring public Christian affiliation or alignment on specific policy questions. The premise allowed the Fellowship to build relationships across partisan lines, across denominational lines, and across international boundaries in ways that more conventional Christian-political organisations could not.
+The Fellowship's operating premise -- articulated principally by Doug Coe, who succeeded Vereide as the dominant leader from the 1960s through his death in 2017 -- is that political authority comes from God, that political leaders are God's agents whether or not they personally identify as Christian, and that the Fellowship's role is to support and pray for those leaders without requiring public Christian affiliation or alignment on specific policy questions. The premise allowed the Fellowship to build relationships across partisan lines, across denominational lines, and across international boundaries in ways that more conventional Christian-political organisations could not.
 
 ## The National Prayer Breakfast
 

@@ -60,11 +60,11 @@ Status: active, pending Willis-replacement reassignment.
 
 ## Connections
 
-- [[Donald Trump]] â€” boss; co-conspirator
-- [[Cassidy Hutchinson]] â€” senior aide; key J6 Committee witness
-- [[Jeffrey Clark]] â€” DOJ pressure campaign principal
-- [[Rudy Giuliani]] Â· [[John Eastman]] Â· [[Sidney Powell]] â€” coordinated with
-- [[Georgia v Trump RICO 2023]] â€” co-defendant
+- [[Donald Trump]] -- boss; co-conspirator
+- [[Cassidy Hutchinson]] -- senior aide; key J6 Committee witness
+- [[Jeffrey Clark]] -- DOJ pressure campaign principal
+- [[Rudy Giuliani]] · [[John Eastman]] · [[Sidney Powell]] -- coordinated with
+- [[Georgia v Trump RICO 2023]] -- co-defendant
 - [[Trump First Impeachment 2019-2020]]
 - [[January 6 Select Committee 2021-2023]]
 - [[Stop the Steal]]

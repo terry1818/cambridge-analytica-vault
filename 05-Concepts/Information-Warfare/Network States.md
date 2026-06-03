@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Balaji Srinivasan 2022 framework for building new political entities from online communities; crypto-state convergence
 tags: [concept, topic/tech-right, era/2020-2024, era/2024-present]
@@ -29,7 +29,7 @@ Network States synthesizes earlier Tech Right intellectual currents:
 ## Operational implementations
 
 Various projects describe themselves in Network State terms:
-- **PrÃ³spera** (Honduras charter city) â€” [[Patri Friedman]] / Pronomos Capital
+- **Próspera** (Honduras charter city) -- [[Patri Friedman]] / Pronomos Capital
 - **Various crypto-aligned community projects**
 - Pop-up cities (Zuzalu, Aleph, others)
 - Cabin (network of physical co-living spaces)
@@ -40,10 +40,10 @@ Most remain small or aspirational; few have achieved meaningful political recogn
 
 The Network States framework provides **intellectual justification** for:
 
-1. **Exit politics** â€” building new institutions rather than reforming existing ones
-2. **Crypto-state convergence** â€” connecting crypto industry political activity to broader anti-state project
-3. **Tech-elite separatism** â€” allowing wealthy tech communities to operate outside existing legal frameworks
-4. **AI-state convergence** â€” autonomous AI systems operating outside national jurisdiction
+1. **Exit politics** -- building new institutions rather than reforming existing ones
+2. **Crypto-state convergence** -- connecting crypto industry political activity to broader anti-state project
+3. **Tech-elite separatism** -- allowing wealthy tech communities to operate outside existing legal frameworks
+4. **AI-state convergence** -- autonomous AI systems operating outside national jurisdiction
 
 Together with related Tech Right intellectual frameworks (Yarvin neoreaction, Catholic integralism, Andreessen techno-optimism), Network States represents the **anti-existing-political-order ideological cluster** that has converged around the contemporary Tech Right project.
 

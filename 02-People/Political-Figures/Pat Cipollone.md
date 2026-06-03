@@ -44,14 +44,14 @@ Despite his role in resisting some January 6 conduct, Cipollone has continued in
 
 ## Connections
 
-- [[Donald Trump]] â€” former client
-- [[Mark Meadows]] â€” co-Chief of Staff/Counsel structure
-- [[Cassidy Hutchinson]] â€” Meadows aide whose testimony quoted him
-- [[Jeffrey Rosen]] Â· [[Richard Donoghue]] â€” DOJ officials in January 3 meeting
-- [[Jeffrey Clark]] â€” opposed his installation
-- [[January 6 Select Committee 2021-2023]] â€” testifying body
-- [[US v Trump DC Federal Election Interference Case]] â€” grand jury witness
-- [[Trump First Impeachment 2019-2020]] â€” represented Trump
+- [[Donald Trump]] -- former client
+- [[Mark Meadows]] -- co-Chief of Staff/Counsel structure
+- [[Cassidy Hutchinson]] -- Meadows aide whose testimony quoted him
+- [[Jeffrey Rosen]] · [[Richard Donoghue]] -- DOJ officials in January 3 meeting
+- [[Jeffrey Clark]] -- opposed his installation
+- [[January 6 Select Committee 2021-2023]] -- testifying body
+- [[US v Trump DC Federal Election Interference Case]] -- grand jury witness
+- [[Trump First Impeachment 2019-2020]] -- represented Trump
 
 ## Sources
 

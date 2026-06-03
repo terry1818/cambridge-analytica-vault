@@ -11,7 +11,7 @@ aliases: ["Stanford Internet Observatory", "SIO"]
 
 # Stanford Internet Observatory
 
-Research center at Stanford University. **Founded 2019** by RenÃ©e DiResta, Alex Stamos, and others. Mission: study **online abuse, trust and safety, information operations, and platform governance**. Produced major investigations of 2020 election disinformation, COVID-19 vaccine disinformation, child sexual abuse material on platforms, and influence operations. **Subject of substantial Republican congressional and legal pressure 2023-2024**; substantially curtailed by Stanford University in summer 2024.
+Research center at Stanford University. **Founded 2019** by Renée DiResta, Alex Stamos, and others. Mission: study **online abuse, trust and safety, information operations, and platform governance**. Produced major investigations of 2020 election disinformation, COVID-19 vaccine disinformation, child sexual abuse material on platforms, and influence operations. **Subject of substantial Republican congressional and legal pressure 2023-2024**; substantially curtailed by Stanford University in summer 2024.
 
 ## Major outputs (Tier 1)
 
@@ -48,7 +48,7 @@ SCOTUS ruled plaintiffs lacked Article III standing; did not reach merits but th
 ### Stanford response (June-September 2024)
 
 - Director Alex Stamos departed November 2023
-- RenÃ©e DiResta departed June 2024
+- Renée DiResta departed June 2024
 - Substantial staff departures
 - Stanford announced SIO would not pursue election integrity work in 2024 cycle
 - Multiple SIO projects ended
@@ -59,13 +59,13 @@ SIO's curtailment is treated in the vault's [[Lens - Platform Responses]] and [[
 
 ## Connections
 
-- [[RenÃ©e DiResta]] Â· [[Alex Stamos]] â€” founders
-- [[Stanford University]] â€” host institution
-- [[Election Integrity Partnership]] â€” major project
-- [[Virality Project]] â€” major project
-- [[Jim Jordan]] â€” congressional pressure source
-- [[Stephen Miller]] Â· [[America First Legal]] â€” litigation pressure source
-- [[Lens - Platform Responses]] Â· [[Lens - Disinformation and Deepfakes]]
+- [[Renée DiResta]] · [[Alex Stamos]] -- founders
+- [[Stanford University]] -- host institution
+- [[Election Integrity Partnership]] -- major project
+- [[Virality Project]] -- major project
+- [[Jim Jordan]] -- congressional pressure source
+- [[Stephen Miller]] · [[America First Legal]] -- litigation pressure source
+- [[Lens - Platform Responses]] · [[Lens - Disinformation and Deepfakes]]
 
 ## Sources
 

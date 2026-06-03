@@ -1,11 +1,11 @@
-﻿---
+---
 date: 2026-05-17
-description: BjÃ¶rn HÃ¶cke - vault note (auto-populated from cross-referenced wikilink).
+description: Björn Höcke - vault note (auto-populated from cross-referenced wikilink).
 tags:
   - entity
 ---
 
-# BjÃ¶rn HÃ¶cke
+# Björn Höcke
 
 ## Entity-tier vault note
 

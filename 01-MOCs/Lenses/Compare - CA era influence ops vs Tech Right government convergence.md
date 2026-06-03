@@ -1,11 +1,11 @@
-﻿---
+---
 date: 2026-05-16
 description: Comparative analysis - the 2014-2018 CA-era influence ops infrastructure vs the 2020-2026 Tech Right Big Tech government convergence
 tags: [moc, lens, topic/cambridge-analytica, topic/tech-right]
 type: moc
 ---
 
-# Compare: CA era (2014-2018) vs. Tech Right Big Tech â†” Government Convergence (2020-2026)
+# Compare: CA era (2014-2018) vs. Tech Right Big Tech ↔ Government Convergence (2020-2026)
 
 This comparison illustrates how the **same broader project** that the CA scandal exposed in 2018 has migrated through multiple intermediate forms and arrived at its **contemporary operational triumph** in the Trump 2.0 era.
 
@@ -23,9 +23,9 @@ This comparison illustrates how the **same broader project** that the CA scandal
 | **Defense-tech alignment** | SCL Defence + various contracts | Anduril + Palantir + emerging defense-tech startups; Trump 2.0 procurement |
 | **Media infrastructure** | Breitbart + GAI + Glittering Steel + Bannon | All-In Podcast + Andreessen + Musk's X + broader Tech Right ecosystem |
 | **Israeli private intel** | Psy-Group + Wikistrat + CA MOU | Team Jorge + Black Cube + continuing ecosystem |
-| **Whistleblower exposure** | Wylie, Kaiser, Sanni; Cadwalladr journalism | Limited so far â€” Doppelganger / Spamouflage research; less inside-source exposure |
+| **Whistleblower exposure** | Wylie, Kaiser, Sanni; Cadwalladr journalism | Limited so far -- Doppelganger / Spamouflage research; less inside-source exposure |
 | **Investigative response** | DCMS, ICO, FTC, Mueller, Senate Intel | Limited federal investigation under Trump 2.0; some EU action |
-| **Regulatory consequence** | GDPR, $5B FTC fine, CA dissolved | Limited â€” Trump 2.0 administration aligned with the actors being investigated |
+| **Regulatory consequence** | GDPR, $5B FTC fine, CA dissolved | Limited -- Trump 2.0 administration aligned with the actors being investigated |
 | **Personnel network** | ~100 CA staff + Mercer-Bannon network | Hundreds across Big Tech + crypto + defense-tech + Trump 2.0 admin |
 
 ## What's the same
@@ -38,13 +38,13 @@ This comparison illustrates how the **same broader project** that the CA scandal
 
 ## What's different
 
-1. **Scale** â€” Tech Right operates at federal-government scale; CA was a single firm
-2. **Visibility** â€” CA was hidden; Tech Right is celebrated
-3. **Personnel** â€” Tech Right has hundreds in key positions; CA had ~100 staff
-4. **Defense alignment** â€” Tech Right has defense-tech (Anduril, Palantir) as major operational arm
-5. **Regulatory cover** â€” Tech Right operates with administration cooperation rather than against regulatory pressure
-6. **Cultural acceptance** â€” Tech Right has won the cultural war within Silicon Valley elite
-7. **Ideological coherence** â€” Tech Right has Yarvin/Andreessen/Vance intellectual framework that CA era lacked
+1. **Scale** -- Tech Right operates at federal-government scale; CA was a single firm
+2. **Visibility** -- CA was hidden; Tech Right is celebrated
+3. **Personnel** -- Tech Right has hundreds in key positions; CA had ~100 staff
+4. **Defense alignment** -- Tech Right has defense-tech (Anduril, Palantir) as major operational arm
+5. **Regulatory cover** -- Tech Right operates with administration cooperation rather than against regulatory pressure
+6. **Cultural acceptance** -- Tech Right has won the cultural war within Silicon Valley elite
+7. **Ideological coherence** -- Tech Right has Yarvin/Andreessen/Vance intellectual framework that CA era lacked
 
 ## The historical logic
 
@@ -54,7 +54,7 @@ The trajectory from CA era to Tech Right era illustrates **how scandal disruptio
 2. **2018-2020:** CA-era figures and infrastructure dispersed but largely preserved
 3. **2020-2024:** Tech Right consolidates as Mercer-Bannon-CA infrastructure merges with Thiel-PayPal-Mafia network
 4. **2024:** Coordinated political mobilization (Musk $280M, Thiel-Vance, crypto Fairshake)
-5. **2025-2026:** Operational triumph â€” Tech Right in executive-branch power
+5. **2025-2026:** Operational triumph -- Tech Right in executive-branch power
 
 The **investigative-and-regulatory response to CA in 2018 was inadequate** to the longer-arc project. The contemporary triumph illustrates the difference between **exposing a scandal** and **structurally disrupting a project**.
 

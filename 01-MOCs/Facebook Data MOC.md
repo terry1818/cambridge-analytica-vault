@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Map of Content - Facebook data + GSR + CA harvest + post-2018 architecture
 tags: [moc, topic/facebook, topic/cambridge-analytica]
@@ -25,7 +25,7 @@ type: moc
 
 ## Enforcement
 
-- [[ICO]] - Ã‚Â£500K Facebook fine 2018-10
+- [[ICO]] - £500K Facebook fine 2018-10
 - US FTC - $5B Facebook settlement 2019
 - DCMS Final Report 2019
 

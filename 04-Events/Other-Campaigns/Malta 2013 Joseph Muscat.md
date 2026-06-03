@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: CA/SCL meetings in Malta supporting 2013 Labour Party victory; introduction to Henley Partners
 tags: [event, topic/cambridge-analytica, era/pre-2014, jurisdiction/other]
@@ -8,11 +8,11 @@ actors: [SCL Group, Cambridge Analytica, Joseph Muscat, Labour Party (Malta), Ch
 status: closed
 ---
 
-# Malta 2013 â€” CA Ã— Joseph Muscat
+# Malta 2013 -- CA × Joseph Muscat
 
 ## Summary
 
-UK Parliament's [[Source DCMS Final Report 2019]] confirmed that "**SCL certainly had meetings in Malta, that Christian Kalin of [[Henley & Partners]] was introduced by SCL to [[Joseph Muscat]] in 2011, and that Christian Kalin met with both political parties before 2013**." Muscat's [[Labour Party (Malta)]] won the 2013 Maltese general election. Immediately afterward, Henley & Partners introduced and ran a lucrative **Citizenship-by-Investment Program** in Malta. Maltese Government denied claims. Henley & Partners denied any wrongdoing. Sources indicate CA had close relationships with Henley & Partners. **Pattern: CA introduces a firm with a financial product to a winning party â€” a contract-shaping role that goes beyond standard electoral consultancy.** ([[Source Wikipedia - Cambridge Analytica]])
+UK Parliament's [[Source DCMS Final Report 2019]] confirmed that "**SCL certainly had meetings in Malta, that Christian Kalin of [[Henley & Partners]] was introduced by SCL to [[Joseph Muscat]] in 2011, and that Christian Kalin met with both political parties before 2013**." Muscat's [[Labour Party (Malta)]] won the 2013 Maltese general election. Immediately afterward, Henley & Partners introduced and ran a lucrative **Citizenship-by-Investment Program** in Malta. Maltese Government denied claims. Henley & Partners denied any wrongdoing. Sources indicate CA had close relationships with Henley & Partners. **Pattern: CA introduces a firm with a financial product to a winning party -- a contract-shaping role that goes beyond standard electoral consultancy.** ([[Source Wikipedia - Cambridge Analytica]])
 
 ## Sources
 

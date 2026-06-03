@@ -20,7 +20,7 @@ In this vault, Black Cube is one of the load-bearing examples in the [[Hypothesi
 ### Harvey Weinstein operation (2016-2017)
 
 Black Cube was retained by [[Harvey Weinstein]] beginning 2016 to investigate Weinstein's accusers and journalists investigating him (Ronan Farrow, others). Operatives used false identities including:
-- "Diana Filip" â€” a fictitious women's-rights activist who met repeatedly with Rose McGowan
+- "Diana Filip" -- a fictitious women's-rights activist who met repeatedly with Rose McGowan
 - Other false-identity operations against journalists
 
 The Weinstein operation was documented by Ronan Farrow in *The New Yorker* (November 2017) and the book *Catch and Kill* (2019).
@@ -47,14 +47,14 @@ Per reporting in Israeli press, *Haaretz*, *The New York Times*, and others:
 
 ## Position in vault Israel-cluster analysis
 
-Black Cube is one of three intel-for-hire firms named in [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]] â€” alongside [[Psy-Group]] and [[Team Jorge]]. The argument: these firms operate as state-adjacent private layers performing kompromat collection and information operations that traditional state intelligence services would conduct directly. The structural similarity to the [[Hypothesis - Epstein had intelligence-service connections]] account of how Epstein operated provides one Tier 2 supporting line.
+Black Cube is one of three intel-for-hire firms named in [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]] -- alongside [[Psy-Group]] and [[Team Jorge]]. The argument: these firms operate as state-adjacent private layers performing kompromat collection and information operations that traditional state intelligence services would conduct directly. The structural similarity to the [[Hypothesis - Epstein had intelligence-service connections]] account of how Epstein operated provides one Tier 2 supporting line.
 
 ## Connections
 
-- [[Mossad]] â€” alleged former-officer founding network
-- [[Psy-Group]] Â· [[Team Jorge]] â€” parallel Israeli intel-for-hire firms
-- [[Harvey Weinstein]] â€” documented client
-- [[Ronan Farrow]] â€” investigative journalist who exposed Weinstein operation
+- [[Mossad]] -- alleged former-officer founding network
+- [[Psy-Group]] · [[Team Jorge]] -- parallel Israeli intel-for-hire firms
+- [[Harvey Weinstein]] -- documented client
+- [[Ronan Farrow]] -- investigative journalist who exposed Weinstein operation
 - [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]]
 - [[Hypothesis - Epstein had intelligence-service connections]]
 - [[Lens - Israel]]

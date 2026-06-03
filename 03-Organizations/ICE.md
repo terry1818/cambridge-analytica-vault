@@ -13,7 +13,7 @@ aliases: ["U.S. Immigration and Customs Enforcement", "Immigration and Customs E
 
 US federal law enforcement agency. One of three principal agencies under the Department of Homeland Security (alongside CBP and USCIS). Established March 1, 2003 as part of post-9/11 reorganization. **Principal interior immigration enforcement body** in the US.
 
-In this vault, ICE is the central operational instrument of the contemporary surveillance-state apparatus's interior-enforcement function â€” particularly as embedded in the [[Lens - 2024-2026 Power Map]] tracking of [[Project 2025]] mass-deportation operationalization.
+In this vault, ICE is the central operational instrument of the contemporary surveillance-state apparatus's interior-enforcement function -- particularly as embedded in the [[Lens - 2024-2026 Power Map]] tracking of [[Project 2025]] mass-deportation operationalization.
 
 ## Operational components
 
@@ -29,7 +29,7 @@ ICE is one of the largest federal users of commercial surveillance data products
 - **[[Palantir Technologies]]**: provides FALCON and Investigative Case Management (ICM) platforms enabling rapid cross-database queries
 - **[[LexisNexis Risk Solutions]]**: provides Accurint product enabling person-tracking across utility, financial, court, and other commercial data
 - **[[Thomson Reuters CLEAR]]**: similar data integration
-- **[[Acxiom]]** Â· **[[Acxiom-derived]]**: commercial data brokerage
+- **[[Acxiom]]** · **[[Acxiom-derived]]**: commercial data brokerage
 - **[[Flock Safety]]**: ALPR (automated license plate reader) network integration
 
 ### Documented surveillance practices
@@ -48,18 +48,18 @@ ICE is identified throughout the [[Lens - 2024-2026 Power Map]] as the operation
 - Trump 2.0 emphasized mass-deportation operations
 - ICE budget significantly increased
 - Operations include workplace raids
-- Coordination with [[CBP]] Â· [[CSPOA]] (constitutional sheriffs) Â· state and local enforcement
+- Coordination with [[CBP]] · [[CSPOA]] (constitutional sheriffs) · state and local enforcement
 
 ## Connections
 
-- [[DHS]] â€” parent agency
-- [[CBP]] (Customs and Border Protection) â€” sister agency
-- [[Palantir Technologies]] â€” vendor
-- [[LexisNexis Risk Solutions]] â€” vendor
-- [[Flock Safety]] â€” vendor
-- [[Project 2025]] Â· [[Trump 2.0 Cabinet MOC]] â€” policy context
+- [[DHS]] -- parent agency
+- [[CBP]] (Customs and Border Protection) -- sister agency
+- [[Palantir Technologies]] -- vendor
+- [[LexisNexis Risk Solutions]] -- vendor
+- [[Flock Safety]] -- vendor
+- [[Project 2025]] · [[Trump 2.0 Cabinet MOC]] -- policy context
 - [[Lens - 2024-2026 Power Map]]
-- [[287g programs]] â€” state/local cooperation framework
+- [[287g programs]] -- state/local cooperation framework
 
 ## Sources
 

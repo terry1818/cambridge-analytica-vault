@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Brittany Kaiser begins releasing 100000+ documents via @HindsightFiles Twitter on January 4 2020
 tags: [event, topic/cambridge-analytica, era/2018-2020]
@@ -20,11 +20,11 @@ On **January 4, 2020**, [[Brittany Kaiser]] began publishing material from her p
 
 The release was **phased and country-themed**:
 
-- 2020-01-01 to 2020-01-03 â€” preliminary teasers
-- 2020-01-04 â€” first major batch (Malaysia, Kenya, Brazil)
-- 2020-01-06+ â€” continuing releases across multiple weeks
-- 2020-02 to mid-2020 â€” additional country-focused drops
-- 2020-2021 â€” sporadic continuing material via Kaiser and journalists
+- 2020-01-01 to 2020-01-03 -- preliminary teasers
+- 2020-01-04 -- first major batch (Malaysia, Kenya, Brazil)
+- 2020-01-06+ -- continuing releases across multiple weeks
+- 2020-02 to mid-2020 -- additional country-focused drops
+- 2020-2021 -- sporadic continuing material via Kaiser and journalists
 
 ## Significance
 
@@ -41,7 +41,7 @@ Largest single document release on CA outside of the original [[2018 Wylie Discl
 
 - **Curated by Kaiser** (selection bias)
 - **Most material unanalyzed publicly** (see [[HindsightFiles Analytical Index]] for what has and hasnt been examined)
-- Chain of custody from CA servers â†’ Kaiser â†’ public release not third-party-verified
+- Chain of custody from CA servers → Kaiser → public release not third-party-verified
 
 ## Continuing significance
 
@@ -49,7 +49,7 @@ The HindsightFiles archive represents **the single largest unanalyzed primary-so
 
 ## Related
 
-- [[HindsightFiles Analytical Index]] â€” vault analytical decomposition
+- [[HindsightFiles Analytical Index]] -- vault analytical decomposition
 - Per-country HindsightFiles analyses in `04-Events/Other-Campaigns/`:
   - [[HindsightFiles - Kenya material]]
   - [[HindsightFiles - Brazil material]]

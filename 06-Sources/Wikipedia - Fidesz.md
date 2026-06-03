@@ -26,7 +26,7 @@ Wikipedia overview of Fidesz
 
 ## Key claims / findings
 
-- Founded March 30 1988`n- Anti-Communist student movement origin`n- OrbÃƒÂ¡n leader since 1993`n- Governed 1998-2002 + 2010-2024`n- Lost 2024 to TISZA
+- Founded March 30 1988`n- Anti-Communist student movement origin`n- Orbán leader since 1993`n- Governed 1998-2002 + 2010-2024`n- Lost 2024 to TISZA
 
 ## Entities mentioned
 

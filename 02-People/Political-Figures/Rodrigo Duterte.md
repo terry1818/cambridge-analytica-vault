@@ -22,7 +22,7 @@ President of the Philippines (2016-2022). Prior to presidency: long-serving Mayo
 Per [[Source Wikipedia - Cambridge Analytica]] and [[Philippines Duterte 2016]]:
 
 - [[SCL Group]] / [[Cambridge Analytica]] reportedly worked on Dutertes 2016 election campaign
-- SCL claimed to have **rebranded Dutertes image** to emphasize "toughness and decisiveness" â€” qualities CA had identified as resonant with target Filipino voter segments
+- SCL claimed to have **rebranded Dutertes image** to emphasize "toughness and decisiveness" -- qualities CA had identified as resonant with target Filipino voter segments
 - Dutertes camp denied the SCL/CA association
 - **Facebook confirmed that data of more than 1 million Filipino users was improperly shared with CA** during the relevant period
 
@@ -30,17 +30,17 @@ The Dutertes 2016 social-media campaign was widely cited at the time as a model 
 
 ## Presidency
 
-- 2016-07 â€” inaugurated as 16th Philippine President
-- **2016-2022: anti-drug war** â€” extrajudicial killings of thousands (estimates range from 6,000 official to 30,000+ per human rights organizations)
-- 2016-2017 â€” moved Philippines diplomatically toward China and away from US
+- 2016-07 -- inaugurated as 16th Philippine President
+- **2016-2022: anti-drug war** -- extrajudicial killings of thousands (estimates range from 6,000 official to 30,000+ per human rights organizations)
+- 2016-2017 -- moved Philippines diplomatically toward China and away from US
 - Pivoted on COVID response, vaccine policy
-- 2022-06 â€” succeeded by [[Bongbong Marcos]] (whose vice-presidential running mate was Sara Duterte, Rodrigos daughter)
+- 2022-06 -- succeeded by [[Bongbong Marcos]] (whose vice-presidential running mate was Sara Duterte, Rodrigos daughter)
 
 ## ICC prosecution
 
-- 2019 â€” International Criminal Court (ICC) began preliminary investigation
-- 2021 â€” formal investigation opened despite Philippine withdrawal from ICC (withdrawal took effect 2019)
-- **2025-03-11** â€” Duterte arrested in Manila on ICC warrant
+- 2019 -- International Criminal Court (ICC) began preliminary investigation
+- 2021 -- formal investigation opened despite Philippine withdrawal from ICC (withdrawal took effect 2019)
+- **2025-03-11** -- Duterte arrested in Manila on ICC warrant
 - Transferred to The Hague for trial on crimes against humanity charges related to drug-war killings
 
 ## Connections

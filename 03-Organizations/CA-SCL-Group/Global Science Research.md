@@ -16,23 +16,23 @@ status: dissolved
 
 ## Summary
 
-UK company founded by [[Aleksandr Kogan]] in 2014 (Companies House records show registration around this time). The vehicle that built **"This Is Your Digital Life"** â€” the Facebook personality-quiz app that harvested data on **up to 87 million Facebook profiles** via the [[Facebook Graph API v1.0]] friends-data permission. **GSR sold the dataset to [[Cambridge Analytica]] / [[SCL Group]] in 2014**, breaching Facebooks Terms of Service.
+UK company founded by [[Aleksandr Kogan]] in 2014 (Companies House records show registration around this time). The vehicle that built **"This Is Your Digital Life"** -- the Facebook personality-quiz app that harvested data on **up to 87 million Facebook profiles** via the [[Facebook Graph API v1.0]] friends-data permission. **GSR sold the dataset to [[Cambridge Analytica]] / [[SCL Group]] in 2014**, breaching Facebooks Terms of Service.
 
 ## The harvest mechanism
 
 1. Kogan / GSR built "thisisyourdigitallife" app
 2. ~270,000 Facebook users downloaded and gave consent (paid $4 via Qualtrics)
-3. App exploited Facebooks **friends_data permission** â€” collected each users full friends-list profile data without those friends consent
-4. Average user had ~300 friends â†’ up to **87 million profiles harvested**
+3. App exploited Facebooks **friends_data permission** -- collected each users full friends-list profile data without those friends consent
+4. Average user had ~300 friends → up to **87 million profiles harvested**
 5. GSR sold the dataset to CA in 2014
-6. Facebook deprecated the friends-data API in April 2014; shut it down entirely April 2015 â€” but data already harvested remained in developers possession
+6. Facebook deprecated the friends-data API in April 2014; shut it down entirely April 2015 -- but data already harvested remained in developers possession
 
 ## Joseph Chancellor co-founder
 
-- **Joseph Chancellor** â€” co-founded GSR with Kogan
-- 2015 â€” Chancellor was hired by Facebook as a quantitative researcher (in-house)
+- **Joseph Chancellor** -- co-founded GSR with Kogan
+- 2015 -- Chancellor was hired by Facebook as a quantitative researcher (in-house)
 - Chancellor remained at Facebook through the scandal break in 2018
-- Chancellors role represents an **embarrassing oversight by Facebook** â€” the platform hired a co-founder of the very firm that had violated its terms with the 87M-profile harvest
+- Chancellors role represents an **embarrassing oversight by Facebook** -- the platform hired a co-founder of the very firm that had violated its terms with the 87M-profile harvest
 - Chancellor reportedly departed Facebook around 2018
 
 ## Russia infrastructure findings
@@ -44,9 +44,9 @@ Per ICO investigation findings reported in [[Source DCMS Final Report 2019]]:
 
 ## Resolution
 
-- 2018-03 â€” exposed in [[2018 Wylie Disclosures]]
-- 2018-04 â€” Kogan testified before UK Parliament
-- **2019-07-24** â€” Kogan accepted FTC consent order with 20-year restrictions on business practices and required destruction of all collected data and derived models
+- 2018-03 -- exposed in [[2018 Wylie Disclosures]]
+- 2018-04 -- Kogan testified before UK Parliament
+- **2019-07-24** -- Kogan accepted FTC consent order with 20-year restrictions on business practices and required destruction of all collected data and derived models
 - GSR effectively wound down
 
 ## Connections

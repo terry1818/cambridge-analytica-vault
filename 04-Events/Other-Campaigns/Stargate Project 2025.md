@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: $500B AI infrastructure announcement January 2025 - OpenAI, Oracle, SoftBank, MGX (UAE) with Trump
 tags: [event, topic/tech-right, era/2024-present, jurisdiction/us]
@@ -14,17 +14,17 @@ status: ongoing
 
 ## Summary
 
-**Announced January 21, 2025** at the White House by President Trump alongside [[Sam Altman]] (OpenAI), Larry Ellison (Oracle), and Masayoshi Son (SoftBank). A joint venture committing **$100 billion immediately and up to $500 billion over four years** for AI infrastructure in the United States â€” primarily data centers and electrical capacity to support large AI training and inference workloads.
+**Announced January 21, 2025** at the White House by President Trump alongside [[Sam Altman]] (OpenAI), Larry Ellison (Oracle), and Masayoshi Son (SoftBank). A joint venture committing **$100 billion immediately and up to $500 billion over four years** for AI infrastructure in the United States -- primarily data centers and electrical capacity to support large AI training and inference workloads.
 
 ## Key participants
 
 ### Lead companies
-- **[[OpenAI]]** â€” Sam Altman, primary tenant / AI training partner
-- **Oracle** â€” Larry Ellison, infrastructure / data center
-- **SoftBank** â€” Masayoshi Son, primary financial backer
-- **MGX (UAE)** â€” UAE sovereign wealth fund (Mubadala adjacent), financial backer
-- **NVIDIA** â€” GPU provider (effective dependency)
-- **Microsoft** â€” initially expected role given OpenAI partnership; relationship has shifted
+- **[[OpenAI]]** -- Sam Altman, primary tenant / AI training partner
+- **Oracle** -- Larry Ellison, infrastructure / data center
+- **SoftBank** -- Masayoshi Son, primary financial backer
+- **MGX (UAE)** -- UAE sovereign wealth fund (Mubadala adjacent), financial backer
+- **NVIDIA** -- GPU provider (effective dependency)
+- **Microsoft** -- initially expected role given OpenAI partnership; relationship has shifted
 
 ### Government
 - Trump administration coordinated announcement
@@ -35,21 +35,21 @@ status: ongoing
 
 Stargate represents the **largest single AI infrastructure commitment** ever made. It illustrates:
 
-1. **Big Tech â†” Trump 2.0 alignment** at major financial scale
-2. **Foreign capital (UAE) directly engaged** in US AI infrastructure â€” significant geopolitical implications
+1. **Big Tech ↔ Trump 2.0 alignment** at major financial scale
+2. **Foreign capital (UAE) directly engaged** in US AI infrastructure -- significant geopolitical implications
 3. **AI infrastructure as new political-economic battleground** comparable to historical oil / energy infrastructure
 4. **OpenAI's pivot away** from Microsoft-exclusive partnership toward broader strategic positioning
 
 ## Open questions and controversies
 
-- **Source of $500B** â€” initial commitments much smaller than headline figure; "$500B over 4 years" is aspirational
-- **UAE MGX involvement** â€” concerns about foreign-state influence over US AI capability
-- **Trump-Musk dispute** â€” Musk publicly attacked Stargate on X, questioning whether SoftBank actually had the capital
-- **Microsoft relationship** â€” Microsoft has hedged with Anthropic and other partners
+- **Source of $500B** -- initial commitments much smaller than headline figure; "$500B over 4 years" is aspirational
+- **UAE MGX involvement** -- concerns about foreign-state influence over US AI capability
+- **Trump-Musk dispute** -- Musk publicly attacked Stargate on X, questioning whether SoftBank actually had the capital
+- **Microsoft relationship** -- Microsoft has hedged with Anthropic and other partners
 
 ## Why Stargate matters for this vault
 
-Stargate is **the most concrete operational example of Big Tech â†” Trump 2.0 â†” foreign capital convergence**. It illustrates:
+Stargate is **the most concrete operational example of Big Tech ↔ Trump 2.0 ↔ foreign capital convergence**. It illustrates:
 
 - AI infrastructure is becoming **state-coordinated rather than purely commercial**
 - The Trump administration is **actively brokering Big Tech deals** at state-level scale

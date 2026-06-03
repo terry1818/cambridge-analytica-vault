@@ -26,7 +26,7 @@ Wikipedia overview of PRI Mexico
 
 ## Key claims / findings
 
-- Founded 1929-03-04`n- Dominated Mexico 1929-2000`n- 2012-2018 brief return under PeÃƒÂ±a Nieto`n- 2018 lost to LÃƒÂ³pez Obrador MORENA
+- Founded 1929-03-04`n- Dominated Mexico 1929-2000`n- 2012-2018 brief return under Peña Nieto`n- 2018 lost to López Obrador MORENA
 
 ## Entities mentioned
 

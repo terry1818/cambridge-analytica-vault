@@ -44,7 +44,7 @@ Without White's institutional networking, **NAR figures would not have had direc
 ## Connection to other vault entities
 
 - [[New Apostolic Reformation]] - her movement
-- [[Lance Wallnau]], Cindy Jacobs, ChÃ© Ahn - NAR apostles she brought into Trump orbit
+- [[Lance Wallnau]], Cindy Jacobs, Ché Ahn - NAR apostles she brought into Trump orbit
 - [[Capitol Ministries]] - parallel theocratic infrastructure (Drollinger is non-charismatic Baptist)
 - [[Hypothesis - Three-wing coalition]] - theocratic-wing political-access node
 

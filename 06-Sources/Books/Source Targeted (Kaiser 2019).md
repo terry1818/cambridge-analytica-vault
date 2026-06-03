@@ -26,7 +26,7 @@ Kaiser's account differs from Wylies by **focusing on the business-development s
 ## Key disclosures unique to this account
 
 - **Leave.EU work specifics** which Kaiser confirmed despite CAs denials (ICO ultimately found "no significant breach" but Kaisers account documents the work that did occur)
-- **[[Bongbong Marcos]] pitch** â€” the Marcos family approach to CA for image rebrand
+- **[[Bongbong Marcos]] pitch** — the Marcos family approach to CA for image rebrand
 - Multiple international pitch meetings (Africa, Asia, Latin America)
 - Internal disputes about taking on questionable clients
 - Her transition from operator to whistleblower (slower than Wylies)
@@ -46,8 +46,8 @@ Second major insider account; gives a different angle from Wylies. Combined the 
 
 ## Subsequent activity
 
-- 2020-01-04 â€” Kaiser began releasing [[HindsightFiles]] (100K+ documents)
-- 2020+ â€” Founded **Own Your Data Foundation**
+- 2020-01-04 — Kaiser began releasing [[HindsightFiles]] (100K+ documents)
+- 2020+ — Founded **Own Your Data Foundation**
 - Continuing advocacy on data rights and AI ethics
 
 ## Sources

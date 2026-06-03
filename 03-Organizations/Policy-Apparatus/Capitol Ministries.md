@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Ralph Drollinger evangelical Bible-study org; leads weekly Trump cabinet Bible studies; operates in 43 state capitols + 20 international locations
 tags: [org, org/policy-apparatus, org/theocratic-wing, topic/christian-nationalism, era/1996-2026, jurisdiction/us, jurisdiction/global]
@@ -17,7 +17,7 @@ status: active
 
 ## Summary
 
-**501(c)(3) evangelical Christian organization** founded **1996 by Ralph Drollinger** and his wife Danielle to "evangelize elected officials and lead them toward maturity in Christ." **Operates in 43 US state capitols and 20+ international locations**, with a stated goal of 200 national-capital placements. **Led weekly Bible-study sessions for Trump 1.0 cabinet members** from 2017 onward ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â sponsored by 10 cabinet members and attended by Mike Pompeo, Ben Carson, Betsy DeVos, Alex Azar, Jeff Sessions, and others. **Continues under Trump 2.0**. Provides personalized Bible-study printouts to Donald Trump directly. Where the [[The Fellowship]] operates by quiet relationship-building, Capitol Ministries is the **public-facing, ideologically explicit theocratic operational arm.**
+**501(c)(3) evangelical Christian organization** founded **1996 by Ralph Drollinger** and his wife Danielle to "evangelize elected officials and lead them toward maturity in Christ." **Operates in 43 US state capitols and 20+ international locations**, with a stated goal of 200 national-capital placements. **Led weekly Bible-study sessions for Trump 1.0 cabinet members** from 2017 onward â€" sponsored by 10 cabinet members and attended by Mike Pompeo, Ben Carson, Betsy DeVos, Alex Azar, Jeff Sessions, and others. **Continues under Trump 2.0**. Provides personalized Bible-study printouts to Donald Trump directly. Where the [[The Fellowship]] operates by quiet relationship-building, Capitol Ministries is the **public-facing, ideologically explicit theocratic operational arm.**
 
 ## Identity
 
@@ -52,22 +52,22 @@ status: active
 - Scott Pruitt (EPA, early)
 - Various Trump 2.0 cabinet members (specifics pending)
 
-**Materials provided to cabinet members became policy-rationale templates** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â e.g. the family-separation policy of 2018 was theologically defended via Drollinger study guides ([[Source The Intercept Drollinger Family Separation]]).
+**Materials provided to cabinet members became policy-rationale templates** â€" e.g. the family-separation policy of 2018 was theologically defended via Drollinger study guides ([[Source The Intercept Drollinger Family Separation]]).
 
 ## How it fits the architecture
 
 - **Mass-mobilization layer** for the theocratic wing inside government
 - Complements [[The Fellowship]] (which targets elected officials) by targeting **appointed cabinet officials**
 - Provides ongoing theological infrastructure for [[Project 2025]] policy implementation
-- The 43-state-capitol network parallels [[American Legislative Exchange Council|ALEC]]'s state-legislator network ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â theocratic counterpart
+- The 43-state-capitol network parallels [[American Legislative Exchange Council|ALEC]]'s state-legislator network â€" theocratic counterpart
 
 ## Connection to broader architecture
 
 - [[Russ Vought]] (Project 2025 chief architect; self-described Christian nationalist) operates in adjacent ideological space; specific Capitol Ministries attendance not publicly documented but likely
-- [[Mike Pence]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â regular attendee
-- [[The Fellowship]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â older, quieter theocratic infrastructure; Capitol Ministries is louder and more programmatic
-- [[Alliance Defending Freedom]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â legal arm; parallel infrastructure
-- [[The Heritage Foundation]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â aligned ideologically
+- [[Mike Pence]] â€" regular attendee
+- [[The Fellowship]] â€" older, quieter theocratic infrastructure; Capitol Ministries is louder and more programmatic
+- [[Alliance Defending Freedom]] â€" legal arm; parallel infrastructure
+- [[The Heritage Foundation]] â€" aligned ideologically
 
 ## Funding
 
@@ -78,12 +78,12 @@ status: active
 
 ## Timeline
 
-- `1996` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Founded by Drollinger
-- `2010` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Begins state-capitol expansion
-- `2017` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Trump cabinet Bible study begins
-- `2018` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Drollinger provides theological justification for family-separation policy
-- `2020-03` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Drollinger blames China + gay people for COVID
-- `2025+` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Continues under Trump 2.0; expanding
+- `1996` â€" Founded by Drollinger
+- `2010` â€" Begins state-capitol expansion
+- `2017` â€" Trump cabinet Bible study begins
+- `2018` â€" Drollinger provides theological justification for family-separation policy
+- `2020-03` â€" Drollinger blames China + gay people for COVID
+- `2025+` â€" Continues under Trump 2.0; expanding
 
 ## Open questions
 

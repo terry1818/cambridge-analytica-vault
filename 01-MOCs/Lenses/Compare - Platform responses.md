@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Comparison of platform-level responses to CA-era operations - Facebook vs X vs YouTube vs TikTok
 tags: [moc, lens, topic/info-warfare, topic/cambridge-analytica]
@@ -12,7 +12,7 @@ How the major social platforms responded to the 2016-2018 revelations and what t
 ## Facebook / Meta
 
 - **Pre-scandal (2015):** received complaints about CA harvest; minimal action
-- **2018-2019:** banned CA, then $5B FTC fine, Â£500K ICO fine, $100M SEC settlement
+- **2018-2019:** banned CA, then $5B FTC fine, £500K ICO fine, $100M SEC settlement
 - **2018+:** Applied GDPR provisions globally; deprecated friends-data permanently; introduced ad transparency tools
 - **2022:** $725M class-action settlement
 - **2022-present:** Quarterly Adversarial Threat Reports identifying CIB takedowns
@@ -48,7 +48,7 @@ How the major social platforms responded to the 2016-2018 revelations and what t
 ## Telegram
 
 - **Limited platform-level action against influence ops**
-- **CEO Pavel Durov arrested 2024-08 in France** â€” increased pressure on platform compliance
+- **CEO Pavel Durov arrested 2024-08 in France** -- increased pressure on platform compliance
 - **Critical infrastructure for many state operations (Russian, others)**
 
 ## What's the same

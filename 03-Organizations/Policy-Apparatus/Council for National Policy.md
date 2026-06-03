@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Secretive umbrella networking org for the conservative coalition; founded 1981; coordinates religious right, oligarch donors, GOP operatives; key incubator of Trump 2016 + 2024 campaigns
 tags: [org, org/policy-apparatus, org/theocratic-wing, org/coordination-hub, era/1981-2026, jurisdiction/us]
@@ -18,9 +18,9 @@ wikipedia_url: https://en.wikipedia.org/wiki/Council_for_National_Policy
 
 ## Summary
 
-**Founded 1981** in a Washington suburb by ~50 Republican operatives, evangelicals, oil barons, and gun lobbyists to **coordinate the conservative coalition's attack on civil liberties and the social safety net**. Co-founded by **[[Tim LaHaye]]** (Christian-right organizer) and **[[Paul Weyrich]]** (also co-founder of [[The Heritage Foundation]] and [[American Legislative Exchange Council|ALEC]]). **Operates in extreme secrecy** ÃƒÂ¢Ã¢â€šÂ¬" members instructed not to reveal their membership or name the group; meets 3x/year at undisclosed locations. **Functional role: the coordinating nerve center** that connects the religious right's manpower, oligarch capital, and Republican-political-operative strategy. **Key incubator of Trump's 2016 campaign** and its administration's policies; **June 2016 CNP meeting** was where Trump secured evangelical-coalition support in exchange for the Evangelical Advisory Board promise.
+**Founded 1981** in a Washington suburb by ~50 Republican operatives, evangelicals, oil barons, and gun lobbyists to **coordinate the conservative coalition's attack on civil liberties and the social safety net**. Co-founded by **[[Tim LaHaye]]** (Christian-right organizer) and **[[Paul Weyrich]]** (also co-founder of [[The Heritage Foundation]] and [[American Legislative Exchange Council|ALEC]]). **Operates in extreme secrecy** â€" members instructed not to reveal their membership or name the group; meets 3x/year at undisclosed locations. **Functional role: the coordinating nerve center** that connects the religious right's manpower, oligarch capital, and Republican-political-operative strategy. **Key incubator of Trump's 2016 campaign** and its administration's policies; **June 2016 CNP meeting** was where Trump secured evangelical-coalition support in exchange for the Evangelical Advisory Board promise.
 
-**Per Anne Nelson's [[Source Anne Nelson Shadow Network 2019|Shadow Network]] (2019):** CNP is **"the secret hub of the radical right"** ÃƒÂ¢Ã¢â€šÂ¬" the most consequential single coordinating institution in US conservative politics.
+**Per Anne Nelson's [[Source Anne Nelson Shadow Network 2019|Shadow Network]] (2019):** CNP is **"the secret hub of the radical right"** â€" the most consequential single coordinating institution in US conservative politics.
 
 ## Identity
 
@@ -37,22 +37,22 @@ Launched in 1981 during the Reagan administration **specifically to coordinate r
 ## Documented members across decades
 
 ### Early-era (1981-2000)
-- [[Tim LaHaye]] ÃƒÂ¢Ã¢â€šÂ¬" co-founder (Left Behind series author; New Christian Right architect)
-- [[Paul Weyrich]] ÃƒÂ¢Ã¢â€šÂ¬" co-founder; Heritage + ALEC + Free Congress Foundation
+- [[Tim LaHaye]] â€" co-founder (Left Behind series author; New Christian Right architect)
+- [[Paul Weyrich]] â€" co-founder; Heritage + ALEC + Free Congress Foundation
 - Oliver North (Iran-Contra)
 - Ed Meese (Reagan AG)
-- [[Jerry Falwell Sr.]] ÃƒÂ¢Ã¢â€šÂ¬" Moral Majority
-- [[Pat Robertson]] ÃƒÂ¢Ã¢â€šÂ¬" Christian Coalition
+- [[Jerry Falwell Sr.]] â€" Moral Majority
+- [[Pat Robertson]] â€" Christian Coalition
 - Rich DeVos (Amway co-founder; father-in-law of [[Erik Prince]])
 
 ### Contemporary (2000-present)
-- [[Ralph Reed]] ÃƒÂ¢Ã¢â€šÂ¬" Faith and Freedom Coalition; longtime CNP officer
-- Tony Perkins ÃƒÂ¢Ã¢â€šÂ¬" Family Research Council president; CNP president 2018-2021
-- Kellyanne Conway ÃƒÂ¢Ã¢â€šÂ¬" Trump 1.0 senior counselor
-- Steve Bannon ÃƒÂ¢Ã¢â€šÂ¬" 2016 Trump campaign CEO; broader strategy
-- [[Mercer family]] (Robert + Rebekah) ÃƒÂ¢Ã¢â€šÂ¬" patron tier; member-aligned
-- DeVos family ÃƒÂ¢Ã¢â€šÂ¬" Betsy DeVos (Trump 1.0 Education Secretary)
-- [[Jim DeMint]] ÃƒÂ¢Ã¢â€šÂ¬" Heritage former president; COS senior advisor
+- [[Ralph Reed]] â€" Faith and Freedom Coalition; longtime CNP officer
+- Tony Perkins â€" Family Research Council president; CNP president 2018-2021
+- Kellyanne Conway â€" Trump 1.0 senior counselor
+- Steve Bannon â€" 2016 Trump campaign CEO; broader strategy
+- [[Mercer family]] (Robert + Rebekah) â€" patron tier; member-aligned
+- DeVos family â€" Betsy DeVos (Trump 1.0 Education Secretary)
+- [[Jim DeMint]] â€" Heritage former president; COS senior advisor
 - [[Mark Meckler]] (likely; CNP-adjacent)
 - [[Russ Vought]] (likely; Heritage-aligned)
 
@@ -87,25 +87,25 @@ Without CNP, the three wings would be unable to coordinate at this scale. **CNP 
 
 ## Connection to broader vault entities
 
-- [[The Heritage Foundation]] ÃƒÂ¢Ã¢â€šÂ¬" overlapping membership / strategic alignment
-- [[American Legislative Exchange Council]] ÃƒÂ¢Ã¢â€šÂ¬" Weyrich co-founded both
-- [[Project 2025]] ÃƒÂ¢Ã¢â€šÂ¬" CNP-aligned authors; CNP coordinated implementation
-- [[Convention of States Action]] ÃƒÂ¢Ã¢â€šÂ¬" CNP-aligned strategy
-- [[The Fellowship]] ÃƒÂ¢Ã¢â€šÂ¬" parallel theocratic infrastructure (less coordination, more relationship)
-- [[Capitol Ministries]] ÃƒÂ¢Ã¢â€šÂ¬" theocratic operating arm
-- [[Conservative Partnership Institute]] ÃƒÂ¢Ã¢â€šÂ¬" personnel pipeline; CNP-aligned
-- [[Faith and Freedom Coalition]] ÃƒÂ¢Ã¢â€šÂ¬" Ralph Reed's current vehicle; CNP-aligned
+- [[The Heritage Foundation]] â€" overlapping membership / strategic alignment
+- [[American Legislative Exchange Council]] â€" Weyrich co-founded both
+- [[Project 2025]] â€" CNP-aligned authors; CNP coordinated implementation
+- [[Convention of States Action]] â€" CNP-aligned strategy
+- [[The Fellowship]] â€" parallel theocratic infrastructure (less coordination, more relationship)
+- [[Capitol Ministries]] â€" theocratic operating arm
+- [[Conservative Partnership Institute]] â€" personnel pipeline; CNP-aligned
+- [[Faith and Freedom Coalition]] â€" Ralph Reed's current vehicle; CNP-aligned
 
 ## Timeline
 
-- `1981` ÃƒÂ¢Ã¢â€šÂ¬" Founded by LaHaye + Weyrich + ~50 others in Washington suburb
-- `1980s-1990s` ÃƒÂ¢Ã¢â€šÂ¬" Builds out membership; coordinates Reagan / Bush 41 evangelical strategy
-- `2000-2008` ÃƒÂ¢Ã¢â€šÂ¬" Bush 43 era; CNP-vetted judicial nominees; pre-CNP strategic role
-- `2016-06` ÃƒÂ¢Ã¢â€šÂ¬" Critical Trump meeting; secures Evangelical Advisory Board promise
-- `2017` ÃƒÂ¢Ã¢â€šÂ¬" CNP-vetted Trump 1.0 cabinet (Pompeo, Sessions, DeVos, Pruitt, etc.)
-- `2019` ÃƒÂ¢Ã¢â€šÂ¬" Anne Nelson's *Shadow Network* publishes major investigation
-- `2024-2025` ÃƒÂ¢Ã¢â€šÂ¬" CNP central in Trump 2.0 transition + Project 2025 implementation
-- `2024` ÃƒÂ¢Ã¢â€šÂ¬" Featured prominently in *Bad Faith* documentary
+- `1981` â€" Founded by LaHaye + Weyrich + ~50 others in Washington suburb
+- `1980s-1990s` â€" Builds out membership; coordinates Reagan / Bush 41 evangelical strategy
+- `2000-2008` â€" Bush 43 era; CNP-vetted judicial nominees; pre-CNP strategic role
+- `2016-06` â€" Critical Trump meeting; secures Evangelical Advisory Board promise
+- `2017` â€" CNP-vetted Trump 1.0 cabinet (Pompeo, Sessions, DeVos, Pruitt, etc.)
+- `2019` â€" Anne Nelson's *Shadow Network* publishes major investigation
+- `2024-2025` â€" CNP central in Trump 2.0 transition + Project 2025 implementation
+- `2024` â€" Featured prominently in *Bad Faith* documentary
 
 ## Funding
 

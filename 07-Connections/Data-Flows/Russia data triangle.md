@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Documented data flow from Trump campaign to Russian intelligence via Kilimnik
 tags: [connection, confidence/high, topic/election-interference, topic/cambridge-analytica]
@@ -8,7 +8,7 @@ period: 2016
 aliases: ["Connection: Russia data triangle"]
 ---
 
-# Connection: Trump campaign polling data â†’ Russian intelligence (via Kilimnik)
+# Connection: Trump campaign polling data → Russian intelligence (via Kilimnik)
 
 ## What the link is
 
@@ -18,25 +18,25 @@ Sensitive US campaign polling and voter data flowed from the Trump campaign to R
 
 ```
 Trump Campaign data
-    â†“
+    ↓
 Paul Manafort (campaign manager, June-Aug 2016)
-    â†“
+    ↓
 Konstantin Kilimnik (Russian intelligence asset, indicted)
-    â†“
-[Sam Patten â€” CA contractor, parallel pipeline; pleaded guilty FARA 2018]
-    â†“
+    ↓
+[Sam Patten — CA contractor, parallel pipeline; pleaded guilty FARA 2018]
+    ↓
 Russian state interests
 ```
 
 ## Evidence
 
-- **[[Source Senate Intel Vol 5 2020]]** â€” bipartisan US Senate Intelligence Committee report identifies Kilimnik as Russian intelligence officer; documents Manafort-Kilimnik data sharing
-- **[[Source Mueller Report 2019]]** â€” Volume 1 details Manafort's August 2016 meeting with Kilimnik at New York's Grand Havana Room cigar club where polling data and battleground state strategy were shared
+- **[[Source Senate Intel Vol 5 2020]]** — bipartisan US Senate Intelligence Committee report identifies Kilimnik as Russian intelligence officer; documents Manafort-Kilimnik data sharing
+- **[[Source Mueller Report 2019]]** — Volume 1 details Manafort's August 2016 meeting with Kilimnik at New York's Grand Havana Room cigar club where polling data and battleground state strategy were shared
 - **Sam Patten** pleaded guilty in 2018 to FARA violations relating to Russian-linked work
 
 ## Confidence
 
-`#confidence/high` â€” bipartisan US Senate finding plus Mueller documentation.
+`#confidence/high` — bipartisan US Senate finding plus Mueller documentation.
 
 ## Implications
 

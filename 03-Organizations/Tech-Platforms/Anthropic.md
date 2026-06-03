@@ -16,13 +16,13 @@ wikipedia_url: https://en.wikipedia.org/wiki/Anthropic
 
 ## Summary
 
-US AI research and product company founded in **2021** by **Dario Amodei** (former OpenAI VP of Research), **Daniela Amodei** (former OpenAI VP of Safety and Policy), and other ex-OpenAI researchers. Created the **Claude** family of large language models. Positioned publicly as the **"AI safety alternative" to OpenAI** â€” emphasizing constitutional AI training and red-teaming methodology.
+US AI research and product company founded in **2021** by **Dario Amodei** (former OpenAI VP of Research), **Daniela Amodei** (former OpenAI VP of Safety and Policy), and other ex-OpenAI researchers. Created the **Claude** family of large language models. Positioned publicly as the **"AI safety alternative" to OpenAI** -- emphasizing constitutional AI training and red-teaming methodology.
 
 ## Backers
 
-- **Amazon** â€” invested $4B+ in two tranches 2023-2024; major cloud-compute partnership (AWS)
-- **Google** â€” invested $2B+
-- **Salesforce, Zoom**, others â€” strategic investors
+- **Amazon** -- invested $4B+ in two tranches 2023-2024; major cloud-compute partnership (AWS)
+- **Google** -- invested $2B+
+- **Salesforce, Zoom**, others -- strategic investors
 
 ## CA / influence-operations relevance
 

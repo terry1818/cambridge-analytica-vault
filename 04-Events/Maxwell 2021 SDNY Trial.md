@@ -25,7 +25,7 @@ The federal criminal trial of [[Ghislaine Maxwell]] in the Southern District of 
   Acquitted on: enticement of a minor to travel for illegal sex acts.
 
 - **Sentence** (tier 1): 20 years federal prison, sentenced June 28, 2022 by Judge Alison J. Nathan.
-- **Four-victim case** (tier 1): only four victims testified â€” "Jane," "Kate," Carolyn, Annie Farmer. Many other accusers were excluded from the prosecution's scope. The narrow victim selection is one of the trial's most-discussed strategic choices.
+- **Four-victim case** (tier 1): only four victims testified -- "Jane," "Kate," Carolyn, Annie Farmer. Many other accusers were excluded from the prosecution's scope. The narrow victim selection is one of the trial's most-discussed strategic choices.
 - **No co-conspirators charged** (tier 1): despite the 2008 Florida NPA identifying [[Sarah Kellen]], [[Nadia Marcinkova]], and others as co-conspirators, the SDNY did not charge any of them.
 - **Appeals** (tier 1): Maxwell appealed; her appeal raised arguments regarding the 2008 NPA's purported immunity for "any potential co-conspirators," juror misconduct (a juror's failure to disclose abuse history), and other issues. Conviction affirmed on appeal 2024.
 
@@ -41,10 +41,10 @@ The trial's narrow scope is widely treated as a missed opportunity for a full ac
 
 ## Connections
 
-- [[Ghislaine Maxwell]] â€” defendant; convicted
-- [[Jeffrey Epstein]] â€” co-conspirator (deceased)
-- [[Alison Nathan]] â€” trial judge
-- [[Virginia Giuffre]] â€” was NOT a trial witness; her allegations are documented in Giuffre v. Maxwell civil litigation, not in this trial
+- [[Ghislaine Maxwell]] -- defendant; convicted
+- [[Jeffrey Epstein]] -- co-conspirator (deceased)
+- [[Alison Nathan]] -- trial judge
+- [[Virginia Giuffre]] -- was NOT a trial witness; her allegations are documented in Giuffre v. Maxwell civil litigation, not in this trial
 
 ## Open questions
 

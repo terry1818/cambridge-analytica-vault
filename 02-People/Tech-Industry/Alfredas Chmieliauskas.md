@@ -27,7 +27,7 @@ Per [[Source DCMS Final Report 2019]] and DCMS Committee hearing transcripts:
 
 ## Palantirs response
 
-Palantir as a company **denied formal partnership** with CA. The company acknowledged Chmieliauskas's involvement was "informal" â€” not authorized by Palantir corporate. Palantir position was that Chmieliauskas had moonlighted with CA without company sanction. Critics noted that:
+Palantir as a company **denied formal partnership** with CA. The company acknowledged Chmieliauskas's involvement was "informal" -- not authorized by Palantir corporate. Palantir position was that Chmieliauskas had moonlighted with CA without company sanction. Critics noted that:
 
 - Chmieliauskas was an active full-time Palantir employee at the time
 - The "informal" framing is convenient for both Palantir and CA

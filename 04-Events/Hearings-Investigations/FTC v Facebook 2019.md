@@ -14,7 +14,7 @@ status: closed
 
 ## Summary
 
-On **July 24, 2019**, the US Federal Trade Commission voted 3-2 to approve a record **$5 billion penalty against [[Facebook]]** â€” the largest privacy-related fine in US history â€” for violating its 2012 consent decree on user privacy. The FTC complaint alleged:
+On **July 24, 2019**, the US Federal Trade Commission voted 3-2 to approve a record **$5 billion penalty against [[Facebook]]** -- the largest privacy-related fine in US history -- for violating its 2012 consent decree on user privacy. The FTC complaint alleged:
 
 - Facebook privacy settings had falsely claimed to let users restrict sharing to "Only Friends" while still exposing data to third-party apps installed by friends
 - Failed to screen developers or apps before granting access to user data

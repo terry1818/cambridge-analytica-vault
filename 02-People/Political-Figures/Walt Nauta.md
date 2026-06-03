@@ -11,7 +11,7 @@ aliases: ["Waltine Torre Nauta"]
 
 # Walt Nauta
 
-US Navy veteran (Mess Specialist). Trump personal aide ("body man") since 2021. **Co-defendant in [[US v Trump Mar-a-Lago Documents Case]]** â€” charged June 2023 with obstruction of justice and making false statements related to moving boxes of classified documents at [[Mar-a-Lago]] in response to the federal grand jury subpoena.
+US Navy veteran (Mess Specialist). Trump personal aide ("body man") since 2021. **Co-defendant in [[US v Trump Mar-a-Lago Documents Case]]** -- charged June 2023 with obstruction of justice and making false statements related to moving boxes of classified documents at [[Mar-a-Lago]] in response to the federal grand jury subpoena.
 
 ## Specific allegations (Tier 1, per indictment)
 
@@ -21,7 +21,7 @@ Per the SDFL indictment, Nauta:
 - Lied to FBI investigators about whether he had moved boxes
 - Was directed by [[Donald Trump]] in this conduct
 
-The indictment was supported by Mar-a-Lago surveillance camera footage showing Nauta moving boxes â€” footage that the government had to litigate to obtain.
+The indictment was supported by Mar-a-Lago surveillance camera footage showing Nauta moving boxes -- footage that the government had to litigate to obtain.
 
 ## Charges
 
@@ -41,13 +41,13 @@ Nauta continued as Trump's body man through the 2024 campaign and into the Trump
 
 ## Connections
 
-- [[Donald Trump]] â€” boss; co-defendant
-- [[Carlos De Oliveira]] â€” co-defendant; Mar-a-Lago property manager
+- [[Donald Trump]] -- boss; co-defendant
+- [[Carlos De Oliveira]] -- co-defendant; Mar-a-Lago property manager
 - [[Walt Nauta]] // self
-- [[Mar-a-Lago]] â€” location of conduct
-- [[Jack Smith]] â€” Special Counsel
-- [[Aileen Cannon]] â€” federal judge who dismissed
-- [[Evan Corcoran]] â€” Trump attorney whose grand jury appearance was the obstruction target
+- [[Mar-a-Lago]] -- location of conduct
+- [[Jack Smith]] -- Special Counsel
+- [[Aileen Cannon]] -- federal judge who dismissed
+- [[Evan Corcoran]] -- Trump attorney whose grand jury appearance was the obstruction target
 
 ## Sources
 

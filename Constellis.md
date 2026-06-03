@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Redirect to full Constellis Holdings entry
 tags: [redirect]
@@ -9,7 +9,7 @@ type: redirect
 
 See: [[Constellis Holdings]]
 
-Constellis Holdings is the direct corporate-lineage descendant of Blackwater (1997 Ã¢â€ â€™ Academi 2011 Ã¢â€ â€™ Constellis 2014). Won ICE Omniplex contract January 2026. Erik Prince founded the predecessor; Constellis publicly maintains arms-length post-2009 Prince departure.
+Constellis Holdings is the direct corporate-lineage descendant of Blackwater (1997 -- Academi 2011 -- Constellis 2014). Won ICE Omniplex contract January 2026. Erik Prince founded the predecessor; Constellis publicly maintains arms-length post-2009 Prince departure.
 
 ## Full entry
 

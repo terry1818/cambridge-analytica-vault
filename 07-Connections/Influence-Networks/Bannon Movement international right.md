@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Bannons The Movement Brussels-based effort to coordinate international right-wing parties post-Trump-Brexit
 tags: [connection, confidence/high, topic/cambridge-analytica, era/2018-2020]
@@ -11,17 +11,17 @@ period: 2018-2020
 aliases: ["Connection: Bannon Movement international right"]
 ---
 
-# Connection: Bannon â†’ "The Movement" (international right-wing coordination)
+# Connection: Bannon → "The Movement" (international right-wing coordination)
 
 ## What the link is
 
-After leaving the White House in August 2017, [[Steve Bannon]] founded **"The Movement"** â€” a Brussels-based effort (2018) to **coordinate and support far-right and right-populist parties across Europe and globally**. The Movement was envisioned as exporting the Trump-Brexit-CA playbook to other democracies.
+After leaving the White House in August 2017, [[Steve Bannon]] founded **"The Movement"** — a Brussels-based effort (2018) to **coordinate and support far-right and right-populist parties across Europe and globally**. The Movement was envisioned as exporting the Trump-Brexit-CA playbook to other democracies.
 
 ## Documented connections
 
-- Italy: [[Matteo Salvini]] (Lega) â€” Bannon advised; Salvini won 2018 government
-- Brazil: [[Jair Bolsonaro]] â€” Bannon advised; Bolsonaro won 2018 presidency
-- Philippines: [[Rodrigo Duterte]] â€” adjacent CA work
+- Italy: [[Matteo Salvini]] (Lega) — Bannon advised; Salvini won 2018 government
+- Brazil: [[Jair Bolsonaro]] — Bannon advised; Bolsonaro won 2018 presidency
+- Philippines: [[Rodrigo Duterte]] — adjacent CA work
 - France: National Rally (formerly Front National)
 - UK: Multiple Brexit-aligned figures
 - Hungary: Viktor Orban network
@@ -29,7 +29,7 @@ After leaving the White House in August 2017, [[Steve Bannon]] founded **"The Mo
 
 ## Pattern
 
-The Movement attempted to apply **CA-style methods + Mercer-funded narrative infrastructure** to non-US elections. Most national results were mixed â€” The Movement struggled to operationalize across language and political-system boundaries â€” but the **intent to internationalize the toolkit** is documented and significant.
+The Movement attempted to apply **CA-style methods + Mercer-funded narrative infrastructure** to non-US elections. Most national results were mixed — The Movement struggled to operationalize across language and political-system boundaries — but the **intent to internationalize the toolkit** is documented and significant.
 
 ## Confidence
 

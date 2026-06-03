@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Delivering distinct political messages to narrow audience segments using data-driven audience identification
 tags: [concept, topic/microtargeting, topic/psychographics, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present]
@@ -15,14 +15,14 @@ Practice of delivering **distinct, individually-tailored political messages** to
 ## Historical evolution
 
 ### Origins (2000s)
-- 2000 â€” Bush re-election campaign credited with early commercial-data-driven microtargeting
-- 2004 â€” Bush campaign refined methodology
-- 2008 â€” Obama campaign expanded with significant data-science investment
-- 2012 â€” Obama campaign's targeting infrastructure became industry benchmark (Catalist, NGP VAN)
+- 2000 -- Bush re-election campaign credited with early commercial-data-driven microtargeting
+- 2004 -- Bush campaign refined methodology
+- 2008 -- Obama campaign expanded with significant data-science investment
+- 2012 -- Obama campaign's targeting infrastructure became industry benchmark (Catalist, NGP VAN)
 
 ### CA era (2013-2018)
 - [[Cambridge Analytica]] layered **psychographic targeting** ([[OCEAN Model]]) onto behavioral and demographic targeting
-- Claimed 5,000 data points Ã— 220M Americans
+- Claimed 5,000 data points × 220M Americans
 - Claimed 32 personality clusters per US adult
 - Effectiveness substantially contested (Hersh, Nyhan)
 

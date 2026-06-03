@@ -15,7 +15,7 @@ status: unknown
 
 ## Summary
 
-Maltese academic and self-described "professor" with affiliations to multiple European academic institutions. **In April 2016 told Trump campaign foreign-policy adviser [[George Papadopoulos]] that the Russians had "dirt" on Hillary Clinton "in the form of thousands of emails"** â€” months before WikiLeaks released the DNC emails. His disclosure (via Papadopoulos to Australian diplomat Alexander Downer) became the **trigger event for the FBIs Crossfire Hurricane investigation** that became the Mueller probe.
+Maltese academic and self-described "professor" with affiliations to multiple European academic institutions. **In April 2016 told Trump campaign foreign-policy adviser [[George Papadopoulos]] that the Russians had "dirt" on Hillary Clinton "in the form of thousands of emails"** -- months before WikiLeaks released the DNC emails. His disclosure (via Papadopoulos to Australian diplomat Alexander Downer) became the **trigger event for the FBIs Crossfire Hurricane investigation** that became the Mueller probe.
 
 ## Disputed status
 
@@ -29,7 +29,7 @@ The ambiguity is **important** because Mifsuds status determines whether the Rus
 
 ## Disappearance
 
-- **October 2017** â€” Mifsud disappeared from public view shortly after Papadopouloss arrest
+- **October 2017** -- Mifsud disappeared from public view shortly after Papadopouloss arrest
 - No confirmed sighting since
 - His Italian lawyer claims he is "alive" but has not facilitated any interviews
 - Multiple journalists have searched without finding him
@@ -37,7 +37,7 @@ The ambiguity is **important** because Mifsuds status determines whether the Rus
 
 ## Maltese connection
 
-Mifsud operated significantly in Malta â€” same small-state node where:
+Mifsud operated significantly in Malta -- same small-state node where:
 - [[SCL Group]] introduced [[Christian Kalin]] / [[Henley & Partners]] to [[Joseph Muscat]] (2011)
 - [[Cambridge Analytica]] and SCL had documented operations
 - The Maltese network of intelligence, banking, and citizenship-by-investment overlaps significantly

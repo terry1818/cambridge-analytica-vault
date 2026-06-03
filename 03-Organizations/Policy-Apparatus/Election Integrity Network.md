@@ -16,11 +16,11 @@ The Election Integrity Network (EIN) is a Cleta Mitchell-founded coalition house
 
 EIN operates through:
 
-- **Weekly coordination calls** â€” typically Thursdays, attended by state-level Republican election lawyers, poll-watcher recruitment programme principals, election-board candidacies, and litigation strategists. Leaked recordings have documented detailed strategic coordination on specific state-level operations.
-- **State Election Integrity Coalitions** â€” state-by-state EIN affiliates that coordinate local operational work, typically housed within existing state Republican Party infrastructure
-- **Training programmes** â€” for poll watchers, election workers, and conservative election-board candidacies
-- **Model legislation** â€” for state legislatures to adopt election restrictions (voter ID expansion, mail-in voting restriction, drop-box elimination, voter-roll purge enabling, election-administration personnel changes)
-- **Litigation coordination** â€” connecting state-level cases to national legal-pipeline organisations including the [[Honest Elections Project]] (Concord Fund-affiliated) and the Public Interest Legal Foundation
+- **Weekly coordination calls** -- typically Thursdays, attended by state-level Republican election lawyers, poll-watcher recruitment programme principals, election-board candidacies, and litigation strategists. Leaked recordings have documented detailed strategic coordination on specific state-level operations.
+- **State Election Integrity Coalitions** -- state-by-state EIN affiliates that coordinate local operational work, typically housed within existing state Republican Party infrastructure
+- **Training programmes** -- for poll watchers, election workers, and conservative election-board candidacies
+- **Model legislation** -- for state legislatures to adopt election restrictions (voter ID expansion, mail-in voting restriction, drop-box elimination, voter-roll purge enabling, election-administration personnel changes)
+- **Litigation coordination** -- connecting state-level cases to national legal-pipeline organisations including the [[Honest Elections Project]] (Concord Fund-affiliated) and the Public Interest Legal Foundation
 
 ## Funding
 

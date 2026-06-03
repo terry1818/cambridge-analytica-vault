@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Index of the Tech Right - the post-CA convergence of Silicon Valley conservative political infrastructure and Trump 2.0 government
 tags: [moc, topic/tech-right, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -13,53 +13,53 @@ The **Tech Right** is the contemporary network of Silicon Valley figures who hav
 ## The central network
 
 ### Central figures
-- [[Peter Thiel]] â€” patriarch; first Trump backer; central node
-- [[Elon Musk]] â€” largest 2024 Trump donor; DOGE leader; X owner
-- [[JD Vance]] â€” Thiel-funded VP under Trump 2.0; protÃ©gÃ© success story
-- [[David Sacks]] â€” Trump 2.0 AI/Crypto Czar; PayPal Mafia
-- [[Marc Andreessen]] â€” a16z co-founder; Trump 2.0 advisor; Techno-Optimist Manifesto author
-- [[Curtis Yarvin]] â€” intellectual godfather; neoreactionary movement
-- [[Palmer Luckey]] â€” Anduril founder; Trump-aligned defense tech
-- [[Sam Altman]] â€” OpenAI CEO; Stargate participant; partial alignment
+- [[Peter Thiel]] -- patriarch; first Trump backer; central node
+- [[Elon Musk]] -- largest 2024 Trump donor; DOGE leader; X owner
+- [[JD Vance]] -- Thiel-funded VP under Trump 2.0; protégé success story
+- [[David Sacks]] -- Trump 2.0 AI/Crypto Czar; PayPal Mafia
+- [[Marc Andreessen]] -- a16z co-founder; Trump 2.0 advisor; Techno-Optimist Manifesto author
+- [[Curtis Yarvin]] -- intellectual godfather; neoreactionary movement
+- [[Palmer Luckey]] -- Anduril founder; Trump-aligned defense tech
+- [[Sam Altman]] -- OpenAI CEO; Stargate participant; partial alignment
 
 ### PayPal Mafia (the foundational network)
-- [[PayPal Mafia]] â€” formed early 2000s
+- [[PayPal Mafia]] -- formed early 2000s
 - [[Peter Thiel]], [[Elon Musk]], [[David Sacks]], Reid Hoffman, Max Levchin
 - Sacks/Thiel/Musk are most explicitly Tech Right; Hoffman remains Democratic-aligned
 
 ## Investment vehicles
 
-- [[Founders Fund]] â€” Thiel; Anduril, Palantir, SpaceX
-- [[a16z]] (Andreessen Horowitz) â€” Andreessen Horowitz; crypto industry political coordination
-- [[Mithril Capital]] â€” Thiel mid-stage; JD Vance early career
-- [[Narya Capital]] â€” JD Vance / Thiel funded; political-biography vehicle
+- [[Founders Fund]] -- Thiel; Anduril, Palantir, SpaceX
+- [[a16z]] (Andreessen Horowitz) -- Andreessen Horowitz; crypto industry political coordination
+- [[Mithril Capital]] -- Thiel mid-stage; JD Vance early career
+- [[Narya Capital]] -- JD Vance / Thiel funded; political-biography vehicle
 
 ## Operational entities
 
-- [[Anduril]] â€” defense AI; Trump 2.0 defense procurement
-- [[Palantir Technologies]] â€” data analytics; primary DOGE contractor
-- [[X (Twitter)]] â€” Musk-owned platform
-- [[OpenAI]] â€” AI lab; Stargate partner
-- [[Coinbase]] â€” crypto exchange; political-spending leader
+- [[Anduril]] -- defense AI; Trump 2.0 defense procurement
+- [[Palantir Technologies]] -- data analytics; primary DOGE contractor
+- [[X (Twitter)]] -- Musk-owned platform
+- [[OpenAI]] -- AI lab; Stargate partner
+- [[Coinbase]] -- crypto exchange; political-spending leader
 
 ## Media / messaging infrastructure
 
-- [[All-In Podcast]] â€” Sacks, Palihapitiya, Friedberg, Calacanis
-- [[Marc Andreessen]] â€” Techno-Optimist Manifesto + a16z content
+- [[All-In Podcast]] -- Sacks, Palihapitiya, Friedberg, Calacanis
+- [[Marc Andreessen]] -- Techno-Optimist Manifesto + a16z content
 - Tech Right podcast / Substack / X ecosystem broadly
 
 ## Political infrastructure
 
-- [[Fairshake PAC]] â€” crypto industry SuperPAC ($245M+ in 2024)
-- America PAC â€” Musk's Trump 2024 vehicle ($280M+)
-- Protect Ohio Values PAC â€” Thiel-funded Vance Senate vehicle ($15M)
+- [[Fairshake PAC]] -- crypto industry SuperPAC ($245M+ in 2024)
+- America PAC -- Musk's Trump 2024 vehicle ($280M+)
+- Protect Ohio Values PAC -- Thiel-funded Vance Senate vehicle ($15M)
 - Coinbase + a16z political coordination
 
 ## Government positions (Trump 2.0)
 
-- [[JD Vance]] â€” Vice President
-- [[David Sacks]] â€” AI and Crypto Czar
-- [[Elon Musk]] â€” DOGE leader (until May/June 2025 departure)
+- [[JD Vance]] -- Vice President
+- [[David Sacks]] -- AI and Crypto Czar
+- [[Elon Musk]] -- DOGE leader (until May/June 2025 departure)
 - Multiple Tech Right figures in cabinet, sub-cabinet, transition advisory
 
 ## Intellectual movement
@@ -72,17 +72,17 @@ The **Tech Right** is the contemporary network of Silicon Valley figures who hav
 
 ## Key events / inflection points
 
-- 2016 â€” Thiel becomes first Silicon Valley billionaire Trump backer
-- 2017 â€” Palmer Luckey fired from Facebook over Trump donation
-- 2020-04 â€” All-In Podcast launches
-- 2022-04/10 â€” Musk Twitter acquisition; T&S dismantling
-- 2022-11 â€” JD Vance Ohio Senate win
-- 2023-10 â€” Andreessen Techno-Optimist Manifesto
-- 2024-07 â€” Musk endorses Trump after Butler PA assassination attempt
-- 2024-07-15 â€” Vance VP nomination
-- 2024-11 â€” Trump wins; DOGE announced
-- 2025-01-20 â€” Trump 2.0 inauguration; Big Tech CEO front-row attendance
-- 2025-01-21 â€” [[Stargate Project]] announced
+- 2016 -- Thiel becomes first Silicon Valley billionaire Trump backer
+- 2017 -- Palmer Luckey fired from Facebook over Trump donation
+- 2020-04 -- All-In Podcast launches
+- 2022-04/10 -- Musk Twitter acquisition; T&S dismantling
+- 2022-11 -- JD Vance Ohio Senate win
+- 2023-10 -- Andreessen Techno-Optimist Manifesto
+- 2024-07 -- Musk endorses Trump after Butler PA assassination attempt
+- 2024-07-15 -- Vance VP nomination
+- 2024-11 -- Trump wins; DOGE announced
+- 2025-01-20 -- Trump 2.0 inauguration; Big Tech CEO front-row attendance
+- 2025-01-21 -- [[Stargate Project]] announced
 
 ## Hypotheses
 
@@ -166,51 +166,51 @@ The Tech Right cluster has substantially deepened across the 2024-2026 vault exp
 
 ### Principal operator and infrastructure entities
 
-- [[Palantir Technologies]] (15.7KB) â€” federal data-integration infrastructure
-- [[DOGE]] (15.9KB) â€” federal data-aggregation operational arm
-- [[Facebook]] (11.0KB) â€” pre-2018 platform-side principal, post-2024 Trump 2.0-aligned
-- [[Flock Safety]] (11.4KB) â€” surveillance-camera mesh, ICE-integration thread
-- [[Founders Fund]] â€” Thiel-anchored VC vehicle (cluster-internal)
-- [[Anduril]] â€” defence-tech, Palmer Luckey-founded
-- [[a16z (Andreessen Horowitz)]] â€” VC vehicle, Andreessen-anchored
-- [[Mithril Capital]] â€” Thiel later-stage VC
-- [[Narya Capital]] â€” Vance/Thiel Cincinnati VC
+- [[Palantir Technologies]] (15.7KB) -- federal data-integration infrastructure
+- [[DOGE]] (15.9KB) -- federal data-aggregation operational arm
+- [[Facebook]] (11.0KB) -- pre-2018 platform-side principal, post-2024 Trump 2.0-aligned
+- [[Flock Safety]] (11.4KB) -- surveillance-camera mesh, ICE-integration thread
+- [[Founders Fund]] -- Thiel-anchored VC vehicle (cluster-internal)
+- [[Anduril]] -- defence-tech, Palmer Luckey-founded
+- [[a16z (Andreessen Horowitz)]] -- VC vehicle, Andreessen-anchored
+- [[Mithril Capital]] -- Thiel later-stage VC
+- [[Narya Capital]] -- Vance/Thiel Cincinnati VC
 
 ### Principal individual figures
 
-- [[Peter Thiel]] (12.8KB) â€” cluster spine
-- [[Elon Musk]] (14.2KB) â€” DOGE / X / Tesla / SpaceX
-- [[JD Vance]] (12.5KB) â€” vice president, Thiel-protege
-- [[Marc Andreessen]] (11.8KB) â€” a16z, e/acc manifesto
-- [[Mark Zuckerberg]] (13.2KB) â€” Facebook / Meta
-- [[Leonard Leo]] (12.1KB) â€” Federalist Society / Marble Freedom Trust (cluster overlap with Religious-Right legal-pipeline)
-- [[Curtis Yarvin]] (12.2KB) â€” neoreactionary intellectual
-- [[Sam Bankman-Fried]] (11.3KB) â€” FTX-era crypto/EA principal
-- [[David Sacks]] â€” Trump 2.0 crypto-and-AI czar
-- [[Chamath Palihapitiya]] â€” All-In Podcast co-host
-- [[Palmer Luckey]] â€” Anduril founder
-- [[Charlie Kirk]] (8.3KB) â€” TPUSA, religious-right adjacent
+- [[Peter Thiel]] (12.8KB) -- cluster spine
+- [[Elon Musk]] (14.2KB) -- DOGE / X / Tesla / SpaceX
+- [[JD Vance]] (12.5KB) -- vice president, Thiel-protege
+- [[Marc Andreessen]] (11.8KB) -- a16z, e/acc manifesto
+- [[Mark Zuckerberg]] (13.2KB) -- Facebook / Meta
+- [[Leonard Leo]] (12.1KB) -- Federalist Society / Marble Freedom Trust (cluster overlap with Religious-Right legal-pipeline)
+- [[Curtis Yarvin]] (12.2KB) -- neoreactionary intellectual
+- [[Sam Bankman-Fried]] (11.3KB) -- FTX-era crypto/EA principal
+- [[David Sacks]] -- Trump 2.0 crypto-and-AI czar
+- [[Chamath Palihapitiya]] -- All-In Podcast co-host
+- [[Palmer Luckey]] -- Anduril founder
+- [[Charlie Kirk]] (8.3KB) -- TPUSA, religious-right adjacent
 
 ### Intellectual / movement adjacencies
 
-- [[Effective Accelerationism]] â€” e/acc intellectual frame
-- [[Network States]] â€” Balaji Srinivasan / Patri Friedman frame
-- [[Catholic Integralism]] â€” adjacent intellectual frame (Vance / Roberts)
-- [[TESCREAL]] â€” critique of the broader cluster
-- [[Effective Altruism]] (11.1KB) â€” pre-FTX-collapse intellectual adjacency
+- [[Effective Accelerationism]] -- e/acc intellectual frame
+- [[Network States]] -- Balaji Srinivasan / Patri Friedman frame
+- [[Catholic Integralism]] -- adjacent intellectual frame (Vance / Roberts)
+- [[TESCREAL]] -- critique of the broader cluster
+- [[Effective Altruism]] (11.1KB) -- pre-FTX-collapse intellectual adjacency
 
 ### Trump 2.0 policy-execution overlap
 
-- [[Project 2025]] (13.8KB) â€” substantial Tech-Right authorship and personnel overlap
-- [[Big Tech Trump 2.0 Alignment 2024-2025]] â€” the cross-platform realignment event
-- [[Stargate Project 2025]] â€” major AI-infrastructure project
-- [[Trump EO Eliminating Information Silos 2025-03-20]] (11.2KB) â€” load-bearing executive order
-- [[Twitter Files Release 2022-2023]] (11.9KB) â€” content-moderation reckoning
+- [[Project 2025]] (13.8KB) -- substantial Tech-Right authorship and personnel overlap
+- [[Big Tech Trump 2.0 Alignment 2024-2025]] -- the cross-platform realignment event
+- [[Stargate Project 2025]] -- major AI-infrastructure project
+- [[Trump EO Eliminating Information Silos 2025-03-20]] (11.2KB) -- load-bearing executive order
+- [[Twitter Files Release 2022-2023]] (11.9KB) -- content-moderation reckoning
 
 ### Cross-cluster connection notes
 
-- [[Compare - CA era influence ops vs Tech Right government convergence]] (12.3KB) â€” period comparison
-- [[Compare - Religious Right vs Tech Right]] (11.3KB) â€” cross-wing comparison
-- [[Lens - 2024-2026 Power Map]] (13.7KB) â€” current-state architecture
-- [[Hypothesis - Federal database supersedes CA model]] â€” load-bearing analytical claim
-- [[Hypothesis - Three-wing coalition]] (12.9KB) â€” cluster-position framing
+- [[Compare - CA era influence ops vs Tech Right government convergence]] (12.3KB) -- period comparison
+- [[Compare - Religious Right vs Tech Right]] (11.3KB) -- cross-wing comparison
+- [[Lens - 2024-2026 Power Map]] (13.7KB) -- current-state architecture
+- [[Hypothesis - Federal database supersedes CA model]] -- load-bearing analytical claim
+- [[Hypothesis - Three-wing coalition]] (12.9KB) -- cluster-position framing

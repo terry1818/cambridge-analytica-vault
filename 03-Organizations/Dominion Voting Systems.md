@@ -41,7 +41,7 @@ Most consequential settlement. Discovery yielded extensive evidence including in
 - Fox continued to amplify claims for ratings reasons
 - Tucker Carlson texts characterized Sidney Powell as "lying" and the claims as fabricated
 
-Settled mid-trial April 18, 2023 for $787,500,000 â€” the largest known defamation settlement in US history. Settled without on-air apology from Fox.
+Settled mid-trial April 18, 2023 for $787,500,000 -- the largest known defamation settlement in US history. Settled without on-air apology from Fox.
 
 ### Dominion v Sidney Powell ($1.3B filed January 2021)
 
@@ -53,11 +53,11 @@ Pending.
 
 ### Other defendants
 
-- Mike Lindell ($1.3B) â€” pending; key witness in Lindell's earlier Smartmatic case
-- Newsmax ($1.6B) â€” pending
-- One America News (OAN) â€” settled
-- Patrick Byrne â€” pending
-- L. Lin Wood â€” pending
+- Mike Lindell ($1.3B) -- pending; key witness in Lindell's earlier Smartmatic case
+- Newsmax ($1.6B) -- pending
+- One America News (OAN) -- settled
+- Patrick Byrne -- pending
+- L. Lin Wood -- pending
 
 ## Senior leadership and operations
 
@@ -68,10 +68,10 @@ Pending.
 
 ## Connections
 
-- [[Smartmatic]] â€” separate voting-machines company also defamed by same actors; separate suits
-- [[Donald Trump]] Â· [[Rudy Giuliani]] Â· [[Sidney Powell]] Â· [[Kenneth Chesebro]] â€” defamers/co-conspirators
-- [[Fox News]] â€” primary defamation settlement defendant
-- [[Mike Lindell]] Â· [[L Lin Wood]] Â· [[Patrick Byrne]] â€” defamation defendants
+- [[Smartmatic]] -- separate voting-machines company also defamed by same actors; separate suits
+- [[Donald Trump]] · [[Rudy Giuliani]] · [[Sidney Powell]] · [[Kenneth Chesebro]] -- defamers/co-conspirators
+- [[Fox News]] -- primary defamation settlement defendant
+- [[Mike Lindell]] · [[L Lin Wood]] · [[Patrick Byrne]] -- defamation defendants
 - [[Stop the Steal]]
 - [[January 6 Select Committee 2021-2023]]
 

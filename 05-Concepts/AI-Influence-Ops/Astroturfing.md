@@ -32,7 +32,7 @@ The Trinidad 2010 "Do So!" operation is **the perfect documented case study** of
 - **Funder:** [[Jack Warner]] (FIFA VP later indicted for corruption)
 - **Presentation:** spontaneous Afro-Trinidadian youth protest movement
 - **Reality:** targeted voter-suppression campaign disguised as grassroots resistance
-- **Methods:** graffiti, billboards, music videos, social media â€” all coordinated by SCL
+- **Methods:** graffiti, billboards, music videos, social media -- all coordinated by SCL
 
 ## Modern industrial-scale evolution
 

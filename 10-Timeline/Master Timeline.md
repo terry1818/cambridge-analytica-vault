@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-15
 description: Chronological spine across all domains in this vault
 tags: [timeline, index]
@@ -8,51 +8,51 @@ tags: [timeline, index]
 
 Single chronological view across CA, successors, state actors, and AI-era info warfare. Add entries as you build out entity notes - each row should link to the entity / event note.
 
-## Pre-2014 â€” SCL origins
+## Pre-2014 — SCL origins
 
-- `1993` â€” [[SCL Group]] founded as Strategic Communication Laboratories
-- `2003` â€” SCL begins defense / influence-ops contracting work
-- `~2013` â€” SCL Elections spin-out
+- `1993` — [[SCL Group]] founded as Strategic Communication Laboratories
+- `2003` — SCL begins defense / influence-ops contracting work
+- `~2013` — SCL Elections spin-out
 
-## 2014 â€” Cambridge Analytica buildout
+## 2014 — Cambridge Analytica buildout
 
-- `2014` â€” [[Cambridge Analytica LLC]] formed
-- `2014` â€” [[GSR Data Harvest]] begins (Kogan / Facebook app)
+- `2014` — [[Cambridge Analytica LLC]] formed
+- `2014` — [[GSR Data Harvest]] begins (Kogan / Facebook app)
 
-## 2015-2016 â€” Operations peak
+## 2015-2016 — Operations peak
 
-- `2015` â€” CA work on Ted Cruz presidential campaign
-- `2016` â€” [[Brexit]] â€” Leave.EU, Vote Leave, [[AggregateIQ (AIQ)]]
-- `2016` â€” [[2016 US Election]] â€” Trump campaign engagement
+- `2015` — CA work on Ted Cruz presidential campaign
+- `2016` — [[Brexit]] — Leave.EU, Vote Leave, [[AggregateIQ (AIQ)]]
+- `2016` — [[2016 US Election]] — Trump campaign engagement
 
-## 2017 â€” First disclosures
+## 2017 — First disclosures
 
-- `2017-05` â€” Cadwalladr in The Observer breaks first deep-reporting wave
+- `2017-05` — Cadwalladr in The Observer breaks first deep-reporting wave
 
-## 2018 â€” Collapse
+## 2018 — Collapse
 
-- `2018-03-17` â€” [[Christopher Wylie]] disclosures published ([[The Observer]] / [[NYT]])
-- `2018-03` â€” [[Channel 4 Sting 2018]] â€” undercover footage of [[Alexander Nix]]
-- `2018-05` â€” CA enters insolvency
-- `2018` â€” [[Emerdata Limited]] activity / restructuring
+- `2018-03-17` — [[Christopher Wylie]] disclosures published ([[The Observer]] / [[NYT]])
+- `2018-03` — [[Channel 4 Sting 2018]] — undercover footage of [[Alexander Nix]]
+- `2018-05` — CA enters insolvency
+- `2018` — [[Emerdata Limited]] activity / restructuring
 
-## 2018-2020 â€” Investigations
+## 2018-2020 — Investigations
 
-- `2019-02` â€” [[DCMS Final Report 2019]]
-- `2019` â€” [[FTC v Facebook 2019]] settlement
-- `2020` â€” [[The Great Hack]] documentary
+- `2019-02` — [[DCMS Final Report 2019]]
+- `2019` — [[FTC v Facebook 2019]] settlement
+- `2020` — [[The Great Hack]] documentary
 
-## 2020-2024 â€” Successor era, AI emergence
+## 2020-2024 — Successor era, AI emergence
 
-- `2020-2024` â€” Data Propria, Auspex active in elections
-- `2022-11` â€” ChatGPT released; generative AI mainstreams
-- `2023` â€” Slovakia election deepfake audio incident
-- `2024-01` â€” NH Biden AI robocall
+- `2020-2024` — Data Propria, Auspex active in elections
+- `2022-11` — ChatGPT released; generative AI mainstreams
+- `2023` — Slovakia election deepfake audio incident
+- `2024-01` — NH Biden AI robocall
 
-## 2024-present â€” Generative AI in elections
+## 2024-present — Generative AI in elections
 
-- `2024` â€” Multiple documented AI incidents across global elections
-- `2025-2026` â€” _add entries_
+- `2024` — Multiple documented AI incidents across global elections
+- `2025-2026` — _add entries_
 
 ## Per-era timelines
 

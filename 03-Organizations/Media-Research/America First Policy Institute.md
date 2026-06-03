@@ -29,7 +29,7 @@ US Trump-aligned think tank founded in **2021** by former Trump White House offi
 ## Trump 2.0 alumni
 
 Multiple AFPI personnel joined Trump 2.0 administration:
-- **Brooke Rollins** â€” Trump 2.0 Agriculture Secretary
+- **Brooke Rollins** -- Trump 2.0 Agriculture Secretary
 - Various other AFPI alumni in cabinet and sub-cabinet positions
 
 ## Connection to Project 2025 and broader infrastructure

@@ -27,17 +27,17 @@ aliases: ["Mueller Report 2019", "Source: Mueller Report 2019", "Mueller Report"
 - **DOJ official redacted release**: https://www.justice.gov/storage/report.pdf
 - **DOJ landing page**: https://www.justice.gov/sco
 - **Lightly-redacted version released April 2020**: portions of grand jury material released after court orders
-- **Mueller's letter to Barr (March 27, 2019)** â€” disputing Barr summary: https://www.justice.gov/storage/Letter_from_Special_Counsel_Mueller_to_AG_Barr.pdf
+- **Mueller's letter to Barr (March 27, 2019)** -- disputing Barr summary: https://www.justice.gov/storage/Letter_from_Special_Counsel_Mueller_to_AG_Barr.pdf
 
 ## Structure
 
-**Volume I â€” Russian Interference**:
+**Volume I -- Russian Interference**:
 - Russian "active measures" social media campaign by Internet Research Agency (IRA)
 - Russian hacking and dumping operation (GRU)
 - Trump campaign contacts with Russia
 - Conclusion: "while the investigation identified numerous links between individuals with ties to the Russian government and individuals associated with the Trump Campaign, the evidence was not sufficient to support criminal charges" of conspiracy/coordination
 
-**Volume II â€” Obstruction of Justice**:
+**Volume II -- Obstruction of Justice**:
 - 10 documented obstruction episodes (see [[Deep Dive - Mueller Report 10 Obstruction Episodes]])
 - Mueller did NOT reach a conclusion on whether Trump committed obstruction crimes
 - Cited OLC opinion that sitting President cannot be indicted
@@ -76,15 +76,15 @@ Following Barr's March 24, 2019 four-page summary letter to Congress, Mueller wr
 
 ## Indictments produced
 
-- Internet Research Agency + 13 Russian nationals (February 16, 2018) â€” IRA social media operation
-- 12 GRU officers (July 13, 2018) â€” hacking operations
-- [[Paul Manafort]] (October 27, 2017) â€” convicted; pardoned by Trump
-- [[Rick Gates]] (October 27, 2017) â€” pled guilty; cooperated
-- [[Michael Flynn]] (December 1, 2017) â€” pled guilty; pardoned by Trump
-- [[George Papadopoulos]] (October 5, 2017) â€” pled guilty; pardoned by Trump
-- [[Roger Stone]] (January 24, 2019) â€” convicted; pardoned by Trump
-- [[Michael Cohen]] (November 29, 2018, false-statements plea) â€” convicted; not pardoned
-- [[Konstantin Kilimnik]] (June 8, 2018) â€” indicted in absentia
+- Internet Research Agency + 13 Russian nationals (February 16, 2018) -- IRA social media operation
+- 12 GRU officers (July 13, 2018) -- hacking operations
+- [[Paul Manafort]] (October 27, 2017) -- convicted; pardoned by Trump
+- [[Rick Gates]] (October 27, 2017) -- pled guilty; cooperated
+- [[Michael Flynn]] (December 1, 2017) -- pled guilty; pardoned by Trump
+- [[George Papadopoulos]] (October 5, 2017) -- pled guilty; pardoned by Trump
+- [[Roger Stone]] (January 24, 2019) -- convicted; pardoned by Trump
+- [[Michael Cohen]] (November 29, 2018, false-statements plea) -- convicted; not pardoned
+- [[Konstantin Kilimnik]] (June 8, 2018) -- indicted in absentia
 - [[Richard Pinedo]], Alex van der Zwaan, and others
 
 ## Public reception and dispute
@@ -104,10 +104,10 @@ Following Barr's March 24, 2019 four-page summary letter to Congress, Mueller wr
 
 ## Connections in this vault
 
-- [[Deep Dive - Mueller Report 10 Obstruction Episodes]] â€” full per-episode breakdown
-- [[Mueller Investigation]] â€” investigation event note
-- [[Donald Trump]] Â· [[Paul Manafort]] Â· [[Michael Flynn]] Â· [[Roger Stone]] Â· [[Michael Cohen]] Â· [[Rick Gates]] Â· [[George Papadopoulos]] â€” indicted figures
-- [[William Barr]] â€” AG who released initial summary letter
-- [[Robert Mueller]] â€” Special Counsel
-- [[Trump First Impeachment 2019-2020]] Â· [[Trump Second Impeachment 2021]] â€” subsequent impeachments
+- [[Deep Dive - Mueller Report 10 Obstruction Episodes]] -- full per-episode breakdown
+- [[Mueller Investigation]] -- investigation event note
+- [[Donald Trump]] · [[Paul Manafort]] · [[Michael Flynn]] · [[Roger Stone]] · [[Michael Cohen]] · [[Rick Gates]] · [[George Papadopoulos]] -- indicted figures
+- [[William Barr]] -- AG who released initial summary letter
+- [[Robert Mueller]] -- Special Counsel
+- [[Trump First Impeachment 2019-2020]] · [[Trump Second Impeachment 2021]] -- subsequent impeachments
 - [[Trump Investigations MOC]]

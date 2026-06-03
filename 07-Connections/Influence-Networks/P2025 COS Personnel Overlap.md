@@ -1,22 +1,22 @@
-﻿---
+---
 date: 2026-05-16
 description: Documented personnel overlap between Project 2025 contributors and Convention of States movement
 tags: [connection, topic/project-2025, topic/cos, topic/personnel-overlap, era/2024-2026]
 type: connection
 ---
 
-# Personnel Overlap: Project 2025 Ãƒâ€” Convention of States
+# Personnel Overlap: Project 2025 × Convention of States
 
 The structural-coordination claim of [[Hypothesis - COS is the permanent capture arm of Project 2025]] rests on documented personnel overlap. This note catalogs the publicly-verified overlap as of 2026-05-16.
 
-## Tier 1 Ã¢â‚¬â€ direct dual roles
+## Tier 1 — direct dual roles
 
 These individuals have **both** Project 2025 and Convention of States movement involvement:
 
 ### Jim DeMint
 - **Project 2025:** Heritage Foundation institutional patron of P2025; DeMint was Heritage president 2013-2017; ousted but remains in Heritage-aligned network
 - **COS:** Senior advisor to Convention of States Action
-- **Bridge institution:** Conservative Partnership Institute (CPI) Ã¢â‚¬â€ DeMint chairs; provides personnel pipeline for both
+- **Bridge institution:** Conservative Partnership Institute (CPI) — DeMint chairs; provides personnel pipeline for both
 
 ### Tom Coburn (deceased 2020 but historical)
 - **Project 2025:** Coburn-aligned policy work influenced P2025 chapters on federal spending
@@ -34,9 +34,9 @@ These individuals have **both** Project 2025 and Convention of States movement i
 
 ### Michael Farris (legal infrastructure bridge)
 - **COS:** Co-founder of [[Convention of States Action]]
-- **P2025-adjacent:** CEO of Alliance Defending Freedom 2017-2022 Ã¢â‚¬â€ ADF designed the Dobbs litigation strategy; ADF alumni are throughout Trump 2.0; ADF aligned with P2025
+- **P2025-adjacent:** CEO of Alliance Defending Freedom 2017-2022 — ADF designed the Dobbs litigation strategy; ADF alumni are throughout Trump 2.0; ADF aligned with P2025
 
-## Tier 2 Ã¢â‚¬â€ institutional overlap
+## Tier 2 — institutional overlap
 
 These organizations are part of BOTH P2025 and the COS movement:
 
@@ -66,33 +66,33 @@ These organizations are part of BOTH P2025 and the COS movement:
 - **Function:** Koch-network donor-advised funds that anonymize giving to BOTH P2025-aligned orgs (Heritage, AFPI, ALEC, etc.) AND CSG/COSA
 - **Significance:** Single funding pipe serves both ends of the strategy
 
-## Tier 3 Ã¢â‚¬â€ state-legislator overlap
+## Tier 3 — state-legislator overlap
 
 ALEC member-legislators provide the on-the-ground personnel for COS state-by-state strategy. Selected examples (publicly verified):
 
 ### Ohio
-- **Riordan T. McClain** (R-87) Ã¢â‚¬â€ HJR 2 primary sponsor; ALEC member
-- **Bill Seitz** (R-30) Ã¢â‚¬â€ HJR 2 co-sponsor; longtime ALEC affiliated
-- **Michael Rulli** (R-33) Ã¢â‚¬â€ SJR 2 primary sponsor
+- **Riordan T. McClain** (R-87) — HJR 2 primary sponsor; ALEC member
+- **Bill Seitz** (R-30) — HJR 2 co-sponsor; longtime ALEC affiliated
+- **Michael Rulli** (R-33) — SJR 2 primary sponsor
 
 ### Pennsylvania
-- **Matt Gabler** (R-75) Ã¢â‚¬â€ HR 206 primary sponsor
+- **Matt Gabler** (R-75) — HR 206 primary sponsor
 
 ### Iowa
-- **Pat Grassley** (R-57) Ã¢â‚¬â€ House Speaker; ALEC member
+- **Pat Grassley** (R-57) — House Speaker; ALEC member
 
 ### Wyoming
-- **Chip Neiman** (R-1) Ã¢â‚¬â€ House Speaker; Freedom Caucus aligned
+- **Chip Neiman** (R-1) — House Speaker; Freedom Caucus aligned
 
 **Note:** ALEC membership lists are not fully public; CMD has documented ~2,000 ALEC member-legislators representing 24% of state legislative seats nationally.
 
-## Tier 4 Ã¢â‚¬â€ funding network triangulation
+## Tier 4 — funding network triangulation
 
 A single individual or family donor whose money flows through DonorsTrust appears in BOTH:
-- Heritage Foundation 990 receipts Ã¢â€ â€™ Project 2025 operations
-- CSG / COSA 990 receipts Ã¢â€ â€™ state-by-state COS legislative push
+- Heritage Foundation 990 receipts → Project 2025 operations
+- CSG / COSA 990 receipts → state-by-state COS legislative push
 
-**This is the structural smoking gun.** The same patron-class dollars fund both ends. The patron donates to DAF; DAF disburses to multiple recipients; recipients implement coordinated strategy. The DAF anonymization layer is a feature, not a bug Ã¢â‚¬â€ it allows the patron class to coordinate without public attribution.
+**This is the structural smoking gun.** The same patron-class dollars fund both ends. The patron donates to DAF; DAF disburses to multiple recipients; recipients implement coordinated strategy. The DAF anonymization layer is a feature, not a bug — it allows the patron class to coordinate without public attribution.
 
 ## What this proves
 

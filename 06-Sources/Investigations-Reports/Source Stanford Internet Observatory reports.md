@@ -34,7 +34,7 @@ Notable reports include the Election Integrity Partnership work covering 2020 an
 
 In June 2024, Stanford announced significant restructuring of SIO amid political pressure (House Judiciary Committee Republican investigations, lawsuits). Multiple senior researchers departed. The body of pre-2024 work remains available but ongoing operational research was substantially reduced.
 
-The political pressure on SIO is itself part of the **regulatory-response-to-research backlash** that emerged in the US around 2023-2024 â€” government-aligned research on coordinated inauthentic behavior became politically contested.
+The political pressure on SIO is itself part of the **regulatory-response-to-research backlash** that emerged in the US around 2023-2024 — government-aligned research on coordinated inauthentic behavior became politically contested.
 
 ## Significance
 

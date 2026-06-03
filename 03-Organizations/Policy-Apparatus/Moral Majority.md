@@ -40,13 +40,13 @@ The Moral Majority is the **first wave** of the modern Christian right's elector
 
 ## Connection to vault entities
 
-- [[Jerry Falwell Sr.]] Ã¢â‚¬" founder
-- [[Paul Weyrich]] Ã¢â‚¬" strategist; coined the name
-- [[Tim LaHaye]] Ã¢â‚¬" co-organizer
-- [[Christian Coalition]] Ã¢â‚¬" successor org
-- [[Council for National Policy]] Ã¢â‚¬" parallel coordinating institution (founded 1981 by same network)
-- [[The Heritage Foundation]] Ã¢â‚¬" parallel policy authoring (Weyrich co-founder)
-- [[Theocratic Wing Infrastructure 1935-2026]] Ã¢â‚¬" historical layer
+- [[Jerry Falwell Sr.]] -" founder
+- [[Paul Weyrich]] -" strategist; coined the name
+- [[Tim LaHaye]] -" co-organizer
+- [[Christian Coalition]] -" successor org
+- [[Council for National Policy]] -" parallel coordinating institution (founded 1981 by same network)
+- [[The Heritage Foundation]] -" parallel policy authoring (Weyrich co-founder)
+- [[Theocratic Wing Infrastructure 1935-2026]] -" historical layer
 
 ## Sources
 

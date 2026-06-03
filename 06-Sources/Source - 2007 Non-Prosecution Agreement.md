@@ -29,10 +29,10 @@ aliases: ["2007 Non-Prosecution Agreement", "Source: 2007 Non-Prosecution Agreem
 ### What Epstein agreed to (Section 2)
 
 Epstein agreed to plead guilty to two state charges in Florida state court:
-1. Solicitation of prostitution (Florida Statutes Â§ 796.07)
+1. Solicitation of prostitution (Florida Statutes § 796.07)
 2. Solicitation of prostitution from a minor
 
-### Sentence (Florida state court â€” formally separate from NPA but contemplated)
+### Sentence (Florida state court -- formally separate from NPA but contemplated)
 
 - 18 months sentence with 12 months at Palm Beach County Stockade
 - 12-hour-per-day work release at Epstein's office during 13-month period actually served
@@ -42,7 +42,7 @@ Epstein agreed to plead guilty to two state charges in Florida state court:
 
 > "...the United States also agrees that it will not institute any criminal charges against any potential co-conspirators of Epstein, including but not limited to [[Sarah Kellen]], [[Adriana Ross]], [[Lesley Groff]], or [[Nadia Marcinkova]]."
 
-**This is the extraordinarily unusual prospective co-conspirator immunity clause.** It granted federal immunity to four named individuals AND to "any" other potential co-conspirators â€” extending into territory not normally covered by US Attorney's office authority.
+**This is the extraordinarily unusual prospective co-conspirator immunity clause.** It granted federal immunity to four named individuals AND to "any" other potential co-conspirators -- extending into territory not normally covered by US Attorney's office authority.
 
 ### Settlement of civil claims (Section 9)
 
@@ -62,11 +62,11 @@ This sealing provision was the basis of the CVRA violation finding.
 
 ### Victims' rights waiver (excerpted):
 
-The NPA included provisions requiring Epstein to settle civil claims without admission of liability in cases initiated by the victims. The NPA did NOT include a victim-notification provision per CVRA â€” the basis of the later Marra ruling.
+The NPA included provisions requiring Epstein to settle civil claims without admission of liability in cases initiated by the victims. The NPA did NOT include a victim-notification provision per CVRA -- the basis of the later Marra ruling.
 
 ## Marra CVRA ruling (February 21, 2019)
 
-US District Judge Kenneth Marra ruled the 2008 NPA violated the Crime Victims Rights Act (18 USC Â§ 3771) because federal prosecutors failed to notify victims of the agreement before signing.
+US District Judge Kenneth Marra ruled the 2008 NPA violated the Crime Victims Rights Act (18 USC § 3771) because federal prosecutors failed to notify victims of the agreement before signing.
 
 Key Marra finding:
 
@@ -80,17 +80,17 @@ In subsequent years, Acosta gave varying explanations for the NPA's terms. Per D
 
 - 2018: Miami Herald *Perversion of Justice* series ([[Source: Brown - Perversion of Justice]]) brought NPA into renewed public scrutiny
 - February 2019: Marra ruling
-- July 2019: Epstein arrested SDNY ([[Source: 2019 SDNY Indictment]]) â€” SDNY took the position that the SDFL NPA did not bar SDNY prosecution
+- July 2019: Epstein arrested SDNY ([[Source: 2019 SDNY Indictment]]) -- SDNY took the position that the SDFL NPA did not bar SDNY prosecution
 - July 2019: Acosta resigned as Trump Labor Secretary
 - August 2019: Epstein died in MCC ([[Epstein 2019 SDNY Case and Death]])
 
 ## Connections in this vault
 
-- [[Epstein 2005-2008 Florida Case]] â€” case context
-- [[Alex Acosta]] â€” US Attorney who signed
-- [[Jeffrey Epstein]] â€” defendant
-- [[Sarah Kellen]] Â· [[Adriana Ross]] Â· [[Lesley Groff]] Â· [[Nadia Marcinkova]] â€” named co-conspirators granted immunity
-- [[Alan Dershowitz]] â€” defense team member
-- [[Kenneth Marra]] â€” federal judge who later ruled NPA violated CVRA
-- [[Source: Brown - Perversion of Justice]] â€” primary reporting series
+- [[Epstein 2005-2008 Florida Case]] -- case context
+- [[Alex Acosta]] -- US Attorney who signed
+- [[Jeffrey Epstein]] -- defendant
+- [[Sarah Kellen]] · [[Adriana Ross]] · [[Lesley Groff]] · [[Nadia Marcinkova]] -- named co-conspirators granted immunity
+- [[Alan Dershowitz]] -- defense team member
+- [[Kenneth Marra]] -- federal judge who later ruled NPA violated CVRA
+- [[Source: Brown - Perversion of Justice]] -- primary reporting series
 - [[Source: Marra CVRA Ruling Feb 2019]]

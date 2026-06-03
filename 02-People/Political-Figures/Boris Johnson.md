@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Former UK PM and Foreign Secretary; Vote Leave principal; FCO sought CA advice while he was FS
 tags: [person, role/politician, topic/brexit, topic/cambridge-analytica, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, jurisdiction/uk]
@@ -31,18 +31,18 @@ This is one of the most direct documented intersections between CA leadership an
 ## Brexit role
 
 - Public face of [[Vote Leave]] campaign 2016
-- The "Â£350 million for the NHS" bus claim (widely criticized as misleading)
-- 2018-07 â€” resigned as Foreign Secretary over Theresa Mays Brexit strategy
-- 2019-07 â€” became Prime Minister, led "Get Brexit Done" platform
-- 2020-01-31 â€” UK formal exit from EU
+- The "£350 million for the NHS" bus claim (widely criticized as misleading)
+- 2018-07 -- resigned as Foreign Secretary over Theresa Mays Brexit strategy
+- 2019-07 -- became Prime Minister, led "Get Brexit Done" platform
+- 2020-01-31 -- UK formal exit from EU
 
 ## Premiership and downfall
 
-- 2019-12 â€” won general election with 80-seat majority
-- 2020-01-31 â€” UK left EU
-- 2020-2022 â€” COVID pandemic; "Partygate" scandals
-- 2022-09 â€” resigned after 50+ ministerial resignations over scandals
-- 2023-06 â€” resigned as MP rather than face Privileges Committee suspension over Partygate misleading of Parliament
+- 2019-12 -- won general election with 80-seat majority
+- 2020-01-31 -- UK left EU
+- 2020-2022 -- COVID pandemic; "Partygate" scandals
+- 2022-09 -- resigned after 50+ ministerial resignations over scandals
+- 2023-06 -- resigned as MP rather than face Privileges Committee suspension over Partygate misleading of Parliament
 
 ## Connections
 

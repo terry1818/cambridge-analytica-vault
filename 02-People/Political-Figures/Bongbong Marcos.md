@@ -21,7 +21,7 @@ status: active
 
 Per [[Brittany Kaiser]]'s 2020 disclosure (and partial corroboration in [[HindsightFiles]] material):
 
-- **Bongbong Marcos approached [[Cambridge Analytica]] to request a "rebranding" of the Marcos family image** â€” exact date in 2017-2018 period
+- **Bongbong Marcos approached [[Cambridge Analytica]] to request a "rebranding" of the Marcos family image** -- exact date in 2017-2018 period
 - The pitch did not result in a finalized engagement (per Kaiser, before CAs collapse)
 - Marcos went on to win the **May 2022 Philippine presidential election in a landslide** (31 million votes, largest margin in 6-candidate field)
 
@@ -37,8 +37,8 @@ The Marcos victory is widely studied as a **successful long-running historical-r
 
 ## Presidency
 
-- 2022-07-30 â€” inaugurated
-- 2024+ â€” uneasy political alliance with the Duterte family fracturing
+- 2022-07-30 -- inaugurated
+- 2024+ -- uneasy political alliance with the Duterte family fracturing
 - Daughter Sara Duterte (Vice President) impeached February 2025
 - Continuing tension between Marcos and Duterte factions
 
@@ -46,7 +46,7 @@ The Marcos victory is widely studied as a **successful long-running historical-r
 
 - **CA approach:** documented by [[Brittany Kaiser]] disclosure 2020
 - **Family:** Marcos dictator dynasty
-- **VP:** Sara Duterte (daughter of [[Rodrigo Duterte]]) â€” alliance fracturing 2024-2025
+- **VP:** Sara Duterte (daughter of [[Rodrigo Duterte]]) -- alliance fracturing 2024-2025
 - **Win 2022:** ~31M votes, ~58.7%, largest margin in field
 
 ## Sources

@@ -13,7 +13,7 @@ aliases: ["Israel-Epstein bridge", "Israel-Epstein synthesis"]
 
 ## The argument in one paragraph
 
-The vault already contains substantial coverage of the Israeli state actor cluster ([[Lens - Israel]], [[Israel Cluster MOC]]), the hypothesis that [[Israel is the only six-cluster foreign-state node|Israel is operationally distinctive as a six-cluster foreign-state node]] in modern influence operations, and the hypothesis that [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations|Israeli intel-for-hire networks operate in parallel to Russian state operations]]. The Epstein operation is a Tier 2 candidate node for these existing arguments â€” the most-documented public-record example of a long-running US-based kompromat operation with structural ties (Robert Maxwell â†’ Ghislaine, Wexner â†’ Mega Group â†’ Israeli philanthropic network, the Acosta "belonged to intelligence" statement) to the Israeli state actor cluster. This thread integrates the Phase 1 Epstein notes ([[Epstein Network MOC]]) with the existing Israel coverage to make the bridge legible.
+The vault already contains substantial coverage of the Israeli state actor cluster ([[Lens - Israel]], [[Israel Cluster MOC]]), the hypothesis that [[Israel is the only six-cluster foreign-state node|Israel is operationally distinctive as a six-cluster foreign-state node]] in modern influence operations, and the hypothesis that [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations|Israeli intel-for-hire networks operate in parallel to Russian state operations]]. The Epstein operation is a Tier 2 candidate node for these existing arguments — the most-documented public-record example of a long-running US-based kompromat operation with structural ties (Robert Maxwell → Ghislaine, Wexner → Mega Group → Israeli philanthropic network, the Acosta "belonged to intelligence" statement) to the Israeli state actor cluster. This thread integrates the Phase 1 Epstein notes ([[Epstein Network MOC]]) with the existing Israel coverage to make the bridge legible.
 
 ## What the vault already establishes (Tier 2 from existing notes)
 
@@ -36,7 +36,7 @@ The Israel-cluster existing notes do not yet integrate the Epstein operation as 
 
 **The Epstein operation is to US-elite blackmail what [[Black Cube]] is to corporate intelligence-for-hire and what [[Team Jorge]] is to electoral manipulation: a privatized-but-state-adjacent operational layer producing leverage useful to a coordinating service.**
 
-This framing is Tier 2 â€” it integrates existing Tier-2 vault arguments. It is not Tier 1 â€” no documentary proof in the public record confirms the operational coordination.
+This framing is Tier 2 — it integrates existing Tier-2 vault arguments. It is not Tier 1 — no documentary proof in the public record confirms the operational coordination.
 
 ## What this synthesis adds to the existing arguments
 
@@ -72,7 +72,7 @@ This is a Tier 2 structural synthesis built on existing Tier 2/3 vault arguments
 - [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]]
 - [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]]
 - [[Deep Dive - Epstein as Capstone of the Blackmail Architecture]]
-- [[Robert Maxwell]] Â· [[Ghislaine Maxwell]] Â· [[Jeffrey Epstein]] Â· [[Leslie Wexner]] Â· [[Mega Group]]
+- [[Robert Maxwell]] · [[Ghislaine Maxwell]] · [[Jeffrey Epstein]] · [[Leslie Wexner]] · [[Mega Group]]
 - [[Connection - Wexner to Mega Group to Israeli philanthropy]]
 - [[Connection - Maxwell lineage Robert to Ghislaine to Epstein]]
 

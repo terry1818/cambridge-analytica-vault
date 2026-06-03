@@ -15,15 +15,15 @@ The Manhattan District Attorney's Office prosecution of [[Donald Trump]] in New 
 
 ## Charges
 
-34 counts of falsifying business records in the first degree, under NY Penal Law Â§ 175.10. Each count corresponded to a specific document (invoice, voucher, or check entry) in the Trump Organization's records related to the 2017 reimbursement of [[Michael Cohen]] for $130,000 paid to [[Stormy Daniels]] (Stephanie Clifford) days before the 2016 election. The records categorized the reimbursements as "legal services" pursuant to a retainer agreement.
+34 counts of falsifying business records in the first degree, under NY Penal Law § 175.10. Each count corresponded to a specific document (invoice, voucher, or check entry) in the Trump Organization's records related to the 2017 reimbursement of [[Michael Cohen]] for $130,000 paid to [[Stormy Daniels]] (Stephanie Clifford) days before the 2016 election. The records categorized the reimbursements as "legal services" pursuant to a retainer agreement.
 
-The first-degree felony enhancement required proof that the falsifications were committed with intent to commit or conceal another crime. The prosecution argued the predicate offense was violation of NY Election Law Â§ 17-152 â€” conspiracy to promote a candidacy by unlawful means â€” including violations of federal campaign finance law (excessive in-kind contribution to the campaign) and state tax law.
+The first-degree felony enhancement required proof that the falsifications were committed with intent to commit or conceal another crime. The prosecution argued the predicate offense was violation of NY Election Law § 17-152 -- conspiracy to promote a candidacy by unlawful means -- including violations of federal campaign finance law (excessive in-kind contribution to the campaign) and state tax law.
 
 ## Court and parties
 
 - **Court**: New York Supreme Court, New York County (Criminal Term)
 - **Judge**: [[Juan Merchan]]
-- **Prosecution**: Manhattan DA's Office â€” [[Alvin Bragg]] (DA); lead prosecutors Joshua Steinglass, Susan Hoffinger, Matthew Colangelo
+- **Prosecution**: Manhattan DA's Office -- [[Alvin Bragg]] (DA); lead prosecutors Joshua Steinglass, Susan Hoffinger, Matthew Colangelo
 - **Defense**: Todd Blanche, Susan Necheles, Emil Bove
 
 ## Timeline
@@ -55,7 +55,7 @@ The first-degree felony enhancement required proof that the falsifications were 
 
 - **[[Michael Cohen]]** (key witness): testified to Trump's direct involvement in directing the Daniels payment, the reimbursement structure, and the categorization of payments as legal services. Six days of testimony including cross-examination.
 - **[[Stormy Daniels]]**: testified to the 2006 encounter and the 2016 negotiation with Cohen.
-- **[[David Pecker]]** (AMI/National Enquirer CEO): testified to August 2015 Trump Tower meeting where he agreed to be the "eyes and ears" of the campaign â€” to surface negative stories so Cohen and Trump could intervene. Documented the AMI catch-and-kill payments to Karen McDougal and Dino Sajudin. **Granted immunity for testimony.**
+- **[[David Pecker]]** (AMI/National Enquirer CEO): testified to August 2015 Trump Tower meeting where he agreed to be the "eyes and ears" of the campaign -- to surface negative stories so Cohen and Trump could intervene. Documented the AMI catch-and-kill payments to Karen McDougal and Dino Sajudin. **Granted immunity for testimony.**
 - **[[Hope Hicks]]**: former Trump White House communications director; testified to 2016 campaign awareness of the Access Hollywood tape and the McDougal/Daniels stories.
 - **[[Madeleine Westerhout]]**: former Trump assistant; testified to Trump Organization workflow and Trump's personal involvement in correspondence.
 - **Trump Organization accountants and bookkeepers**: testified to the ledger entries.
@@ -70,7 +70,7 @@ The hush-money payment was a federal campaign finance violation (excessive in-ki
 
 ## Sentencing
 
-**January 10, 2025**: Judge Merchan imposed unconditional discharge â€” no incarceration, no probation, no fine. The unconditional discharge nonetheless preserved the conviction itself; Trump remains a convicted felon as a matter of law.
+**January 10, 2025**: Judge Merchan imposed unconditional discharge -- no incarceration, no probation, no fine. The unconditional discharge nonetheless preserved the conviction itself; Trump remains a convicted felon as a matter of law.
 
 ## Appeals status
 
@@ -90,13 +90,13 @@ Trump filed notice of appeal. Constitutional challenges to the prosecution have 
 
 ## Connections
 
-- [[Donald Trump]] â€” defendant; **convicted**
-- [[Michael Cohen]] â€” key witness; co-conspirator (separately convicted federally)
-- [[Stormy Daniels]] â€” payee; testified
-- [[David Pecker]] / [[AMI]] / [[National Enquirer]] â€” catch-and-kill mechanism
-- [[Alvin Bragg]] â€” Manhattan DA
-- [[Juan Merchan]] â€” trial judge
-- [[Karen McDougal]] â€” separate AMI catch-and-kill payment
+- [[Donald Trump]] -- defendant; **convicted**
+- [[Michael Cohen]] -- key witness; co-conspirator (separately convicted federally)
+- [[Stormy Daniels]] -- payee; testified
+- [[David Pecker]] / [[AMI]] / [[National Enquirer]] -- catch-and-kill mechanism
+- [[Alvin Bragg]] -- Manhattan DA
+- [[Juan Merchan]] -- trial judge
+- [[Karen McDougal]] -- separate AMI catch-and-kill payment
 
 ## Sources
 

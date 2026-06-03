@@ -6,40 +6,40 @@ type: thread
 status: active
 ---
 
-# Defensive Playbook Ã¢â‚¬â€ Iowa
+# Defensive Playbook — Iowa
 
 **Priority: CRITICAL.** Iowa is on COSA's 2026 target list. **GOP trifecta + Speaker Pat Grassley (grandson of Sen. Chuck Grassley) = high pass risk.**
 
 ## Key actors
 
-- **Speaker Pat Grassley** (R-57, NE Iowa) Ã¢â‚¬â€ likely floor support; Grassley family political weight
-- **Bobby Kaufmann** (R-82, Iowa City-adjacent) Ã¢â‚¬â€ has sponsored similar legislation
-- Iowa has GOP trifecta Ã¢â€ â€™ no governor veto backstop
+- **Speaker Pat Grassley** (R-57, NE Iowa) — likely floor support; Grassley family political weight
+- **Bobby Kaufmann** (R-82, Iowa City-adjacent) — has sponsored similar legislation
+- Iowa has GOP trifecta → no governor veto backstop
 - Iowa has no current public COS-aligned bill as of search date, but COSA is targeting
 
 ## Three-track strategy
 
-### Track 1 Ã¢â‚¬â€ Pre-emptive defensive resolution
+### Track 1 — Pre-emptive defensive resolution
 File a defensive resolution NOW (before COSA introduces) via Iowa Senate or House Dem caucus. Even if it dies in committee, it:
 - Forces public position-taking by R majorities
 - Generates press coverage
 - Establishes minority record
 
-### Track 2 Ã¢â‚¬â€ Pressure rural Republican voters via federal-funding frame
+### Track 2 — Pressure rural Republican voters via federal-funding frame
 Iowa's agricultural economy is deeply dependent on federal USDA, crop insurance, ethanol mandate, and rural broadband programs. Article V amendments that would gut federal regulatory authority threaten ALL of these. **This is the wedge.**
 
 - Iowa Farmers Union messaging (sympathetic)
 - Iowa State University ag-economics professors as messengers
 - Hyper-targeted mail to crop-insurance-dependent counties
 
-### Track 3 Ã¢â‚¬â€ Litigation pre-staging
+### Track 3 — Litigation pre-staging
 - Iowa courts are conservative; primary federal forum is 8th Circuit (also conservative)
 - Pre-stage briefs but expect litigation to fail in Iowa-specific forums
 - Iowa is most useful as a federal-level case origin for SCOTUS strategy
 
 ## Counter-narrative content for Iowa
 
-- **YouTube explainer:** "What Article V would mean for Iowa farmers" Ã¢â‚¬â€ narrated by ag-economist
+- **YouTube explainer:** "What Article V would mean for Iowa farmers" — narrated by ag-economist
 - **Op-ed:** Des Moines Register + Cedar Rapids Gazette
 - **Direct mail:** rural counties; federal-funding frame
 

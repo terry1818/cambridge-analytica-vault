@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Organizations spun out from or staffed by ex-Cambridge Analytica and SCL personnel
 tags: [moc, topic/cambridge-analytica]
@@ -11,19 +11,19 @@ When CA and SCL collapsed in 2018, the staff, IP, methods, and client relationsh
 
 ## Known successor entities
 
-- [[Emerdata Limited]] â€” UK holding co.; established Aug 2017 by SCL/CA chief data officer + chairman; raised $19M Jan 2018; per July 2019 reporting, "fully acquired" SCL/CA assets and paid the SCL companies' legal bills. Directors include [[Rebekah Mercer]], Jennifer Mercer, [[Alexander Nix]], [[Alexander Tayler]], [[Johnson Chun Shun Ko]] (Erik Prince-linked).
-- [[Auspex International]] â€” UK, July 2018, ex-CA staff including [[Mark Turnbull]]; Africa/Middle East focus.
-- [[Data Propria]] â€” US, May 2018; CloudCommerce division staffed by ex-CA officials; per AP June 2018, worked with Trump 2020 campaign and RNC.
-- [[AggregateIQ (AIQ)]] â€” Canadian (Victoria, BC); helped Vote Leave circumvent campaign finance laws per Wylie testimony.
-- **Firecrest Technologies** â€” partly-owned Emerdata subsidiary set up by Nix; reportedly wound down per Oakes May 2018 statement.
-- **Emic** â€” 2020, ex-SCL defence contractor staff, continuing government work (per [[Emma Briant]] OCCRP reporting).
+- [[Emerdata Limited]] -- UK holding co.; established Aug 2017 by SCL/CA chief data officer + chairman; raised $19M Jan 2018; per July 2019 reporting, "fully acquired" SCL/CA assets and paid the SCL companies' legal bills. Directors include [[Rebekah Mercer]], Jennifer Mercer, [[Alexander Nix]], [[Alexander Tayler]], [[Johnson Chun Shun Ko]] (Erik Prince-linked).
+- [[Auspex International]] -- UK, July 2018, ex-CA staff including [[Mark Turnbull]]; Africa/Middle East focus.
+- [[Data Propria]] -- US, May 2018; CloudCommerce division staffed by ex-CA officials; per AP June 2018, worked with Trump 2020 campaign and RNC.
+- [[AggregateIQ (AIQ)]] -- Canadian (Victoria, BC); helped Vote Leave circumvent campaign finance laws per Wylie testimony.
+- **Firecrest Technologies** -- partly-owned Emerdata subsidiary set up by Nix; reportedly wound down per Oakes May 2018 statement.
+- **Emic** -- 2020, ex-SCL defence contractor staff, continuing government work (per [[Emma Briant]] OCCRP reporting).
 
 ## Alumni network
 
-- [[Alexander Nix]] â†’ Emerdata director; later 7-year UK director ban
-- [[Alexander Tayler]] â†’ Emerdata director from 2018-03-28
-- [[Mark Turnbull]] â†’ Auspex International founder
-- Multiple unnamed staff â†’ Data Propria, Auspex
+- [[Alexander Nix]] → Emerdata director; later 7-year UK director ban
+- [[Alexander Tayler]] → Emerdata director from 2018-03-28
+- [[Mark Turnbull]] → Auspex International founder
+- Multiple unnamed staff → Data Propria, Auspex
 
 ## Open questions
 

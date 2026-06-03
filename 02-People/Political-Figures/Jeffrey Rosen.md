@@ -29,7 +29,7 @@ Rosen, Donoghue, and Engel:
 
 Trump met with Rosen, Donoghue, Clark, [[Pat Cipollone]], and Engel. Trump considered firing Rosen and installing Clark as Acting AG. The DOJ side (and White House counsel office) made clear they would resign en masse if Trump proceeded.
 
-Rosen reportedly told Trump: "Sir, I'm not the kind of lawyer who would resign quietly." The mass resignation threat â€” combined with Cipollone's assessment that the Clark plan was a "murder-suicide pact" â€” caused Trump to back down.
+Rosen reportedly told Trump: "Sir, I'm not the kind of lawyer who would resign quietly." The mass resignation threat -- combined with Cipollone's assessment that the Clark plan was a "murder-suicide pact" -- caused Trump to back down.
 
 ## Senate Judiciary testimony (August 2021)
 
@@ -41,13 +41,13 @@ Testified to J6 Select Committee in closed-door deposition and at the June 23, 2
 
 ## Connections
 
-- [[Donald Trump]] â€” pressure source
-- [[Richard Donoghue]] â€” Acting Deputy AG; partner in resistance
-- [[Jeffrey Clark]] â€” would-be replacement
-- [[Pat Cipollone]] â€” White House Counsel; aligned
-- [[William Barr]] â€” predecessor AG
-- [[January 6 Select Committee 2021-2023]] â€” testifying body
-- [[US v Trump DC Federal Election Interference Case]] â€” Smith witness
+- [[Donald Trump]] -- pressure source
+- [[Richard Donoghue]] -- Acting Deputy AG; partner in resistance
+- [[Jeffrey Clark]] -- would-be replacement
+- [[Pat Cipollone]] -- White House Counsel; aligned
+- [[William Barr]] -- predecessor AG
+- [[January 6 Select Committee 2021-2023]] -- testifying body
+- [[US v Trump DC Federal Election Interference Case]] -- Smith witness
 
 ## Sources
 

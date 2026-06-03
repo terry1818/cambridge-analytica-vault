@@ -38,7 +38,7 @@ Religious software company founded **2013 in Boulder, CO**. Built the **"Insight
 
 - **Tech / surveillance wing infrastructure** parallel to [[Palantir Technologies]] and [[Flock Safety]]
 - **Operationally fused with the theocratic wing** via [[United in Purpose]] partnership
-- **Direct ideological-political weaponization** of psychographic data Ã¢â‚¬â€ the CA model adapted for evangelical-political pipeline
+- **Direct ideological-political weaponization** of psychographic data -- the CA model adapted for evangelical-political pipeline
 
 ## Investor cluster
 
@@ -47,11 +47,11 @@ Religious software company founded **2013 in Boulder, CO**. Built the **"Insight
 
 ## Related entities
 
-- [[United in Purpose]] Ã¢â‚¬â€ primary church-data collaboration partner
-- [[COFI]] Ã¢â‚¬â€ religious charity partner in the same data platform
-- [[Cambridge Analytica]] Ã¢â‚¬â€ documented methodological partner (per Kriel's investigation; CA contests scope)
-- [[Bill Dallas]] Ã¢â‚¬â€ UIP founder
-- [[Koch network]] Ã¢â‚¬â€ reported commissioner
+- [[United in Purpose]] -- primary church-data collaboration partner
+- [[COFI]] -- religious charity partner in the same data platform
+- [[Cambridge Analytica]] -- documented methodological partner (per Kriel's investigation; CA contests scope)
+- [[Bill Dallas]] -- UIP founder
+- [[Koch network]] -- reported commissioner
 
 ## Open questions
 

@@ -20,7 +20,7 @@ NewsGuard. (2024). AI election misinformation tracking reports series. Multiple 
 
 ## What these reports document
 
-NewsGuard â€” a media reliability rating service â€” published an ongoing series of reports throughout 2024 documenting AI-generated political misinformation incidents across global elections. Coverage included:
+NewsGuard — a media reliability rating service — published an ongoing series of reports throughout 2024 documenting AI-generated political misinformation incidents across global elections. Coverage included:
 
 - US 2024 presidential election deepfakes and AI-generated content
 - Indian 2024 election AI use

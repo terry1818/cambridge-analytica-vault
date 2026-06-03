@@ -43,7 +43,7 @@ Rogan is **arguably the single most culturally consequential media figure** in t
 - Heterogeneous politically until recently
 - **Highly influential in 2024 election turnout**
 
-The Rogan endorsement of Trump (October 2024) is widely credited as one of the **decisive late-campaign factors** in Trump's 2024 win â€” illustrating that the right-wing media ecosystem now extends beyond formal Republican infrastructure into culturally-dominant podcasting.
+The Rogan endorsement of Trump (October 2024) is widely credited as one of the **decisive late-campaign factors** in Trump's 2024 win -- illustrating that the right-wing media ecosystem now extends beyond formal Republican infrastructure into culturally-dominant podcasting.
 
 ## Connections
 

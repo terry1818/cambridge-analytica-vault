@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Russian state-coordinated influence operation since ~2022; cloned-news-site mass deployment; expanded to Bluesky 2025; targeted German + Polish 2025 elections; AEZA hosting sanctioned 2025
 tags: [org, org/state-actor, org/russian-influence, era/2022-2026, jurisdiction/russia]
@@ -14,7 +14,7 @@ status: active (despite sanctions)
 wikipedia_url: https://en.wikipedia.org/wiki/Doppelganger_(disinformation_campaign)
 ---
 
-# DoppelgÃƒÂ¤nger
+# Doppelgänger
 
 ## Summary
 
@@ -22,7 +22,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Doppelganger_(disinformation_campai
 
 **Operationally durable despite multiple US Treasury sanctions:**
 - **DOJ September 2024 indictment** of two RT employees (also covered in [[Tenet Media DOJ Indictment 2024-09-04]])
-- **July 2025:** US Treasury sanctioned **AEZA Group** (Russian bulletproof hosting provider) for hosting DoppelgÃƒÂ¤nger infrastructure
+- **July 2025:** US Treasury sanctioned **AEZA Group** (Russian bulletproof hosting provider) for hosting Doppelgänger infrastructure
 - **January 2025:** Operation **expanded to Bluesky** per New Geopolitics Research Network
 - **February 2025:** Targeted **German federal election** per Recorded Future
 - **2025:** Targeted **Polish elections** per multiple investigators
@@ -58,7 +58,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Doppelganger_(disinformation_campai
 ## Connection to vault entities
 
 - [[Tenet Media DOJ Indictment 2024-09-04]] - parallel Russian influence operation
-- [[NPR Kirk Assassination Foreign Influence]] - DoppelgÃƒÂ¤nger-style operations attempted to spin Kirk assassination
+- [[NPR Kirk Assassination Foreign Influence]] - Doppelgänger-style operations attempted to spin Kirk assassination
 - [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]] - operational parallel
 - [[Cambridge Analytica]] - methodological adjacency (different lineage; similar effects)
 

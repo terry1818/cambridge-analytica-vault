@@ -15,11 +15,11 @@ first-documented: 2018 (Meta policy)
 
 ## CIB vs. legitimate political organizing
 
-The distinction is supposed to be about **deception about origin** â€” not about coordination itself. Political parties coordinating openly is fine; networks of fake accounts pretending to be grassroots is CIB.
+The distinction is supposed to be about **deception about origin** -- not about coordination itself. Political parties coordinating openly is fine; networks of fake accounts pretending to be grassroots is CIB.
 
 ## Connection to CA-era operations
 
-CA-style microtargeting is not CIB by itself â€” it targeted real users. But CA's MOU with [[Psy-Group]] (signed 2016-12-14) and Channel 4-revealed boasts about "untrackable" influence suggest CA was a bridge between targeted-microtargeting (real audience) and persona-network operations (fake speakers).
+CA-style microtargeting is not CIB by itself -- it targeted real users. But CA's MOU with [[Psy-Group]] (signed 2016-12-14) and Channel 4-revealed boasts about "untrackable" influence suggest CA was a bridge between targeted-microtargeting (real audience) and persona-network operations (fake speakers).
 
 ## Platform enforcement
 

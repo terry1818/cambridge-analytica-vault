@@ -31,20 +31,20 @@ The Twitter Files covered:
 
 The Twitter Files became a **foundational narrative artifact** for:
 
-1. **Tech Right anti-content-moderation politics** â€” used to argue Big Tech-government collaboration to suppress conservative speech
-2. **House Judiciary "Weaponization of the Federal Government" Subcommittee** â€” chaired by Rep. Jim Jordan; held multiple hearings using Twitter Files material
-3. **Right-wing legal cases** including *Missouri v. Biden* (2023) â€” challenging US government communications with platforms about content moderation
-4. **Trump 2.0 administration policy positioning** â€” anti-content-moderation framing carried directly into Trump 2.0 platform regulation
+1. **Tech Right anti-content-moderation politics** -- used to argue Big Tech-government collaboration to suppress conservative speech
+2. **House Judiciary "Weaponization of the Federal Government" Subcommittee** -- chaired by Rep. Jim Jordan; held multiple hearings using Twitter Files material
+3. **Right-wing legal cases** including *Missouri v. Biden* (2023) -- challenging US government communications with platforms about content moderation
+4. **Trump 2.0 administration policy positioning** -- anti-content-moderation framing carried directly into Trump 2.0 platform regulation
 
 ## Selected journalists
 
 Musk chose journalists for selective access:
-- **Matt Taibbi** â€” former Rolling Stone; published Twitter Files thread 1
-- **Bari Weiss** â€” founder of The Free Press; multiple Twitter Files threads
-- **Michael Shellenberger** â€” environmental writer turned culture-war commentator
+- **Matt Taibbi** -- former Rolling Stone; published Twitter Files thread 1
+- **Bari Weiss** -- founder of The Free Press; multiple Twitter Files threads
+- **Michael Shellenberger** -- environmental writer turned culture-war commentator
 - Others over time
 
-The selective-access model became controversial â€” critics noted journalists with broader views were excluded.
+The selective-access model became controversial -- critics noted journalists with broader views were excluded.
 
 ## Critique
 
@@ -61,7 +61,7 @@ The Twitter Files framing was used in **House Judiciary Republican investigation
 - Election Integrity Partnership
 - Various university research initiatives
 
-This represents an **important consequence**: research organizations studying coordinated inauthentic behavior faced political pressure that reduced operational capacity â€” making the influence-operations environment harder to monitor.
+This represents an **important consequence**: research organizations studying coordinated inauthentic behavior faced political pressure that reduced operational capacity -- making the influence-operations environment harder to monitor.
 
 ## Why this matters for this vault
 
@@ -73,7 +73,7 @@ The Twitter Files release was the **single most important narrative-construction
 4. Created legal-strategy precedent for *Missouri v. Biden*
 5. Reframed government-platform communications about state-actor influence operations as "censorship"
 
-This combined effects **substantially reduced the capacity** of platforms, regulators, and researchers to address influence operations â€” directly benefiting the post-CA continuation ecosystem.
+This combined effects **substantially reduced the capacity** of platforms, regulators, and researchers to address influence operations -- directly benefiting the post-CA continuation ecosystem.
 
 ## Sources
 

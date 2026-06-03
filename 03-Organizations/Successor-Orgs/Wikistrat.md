@@ -20,7 +20,7 @@ status: active
 
 Per [[Source Mueller Report 2019]] (Volume 1) and [[Source Senate Intel Vol 5 2020]]:
 
-- 2016-08-03 â€” Wikistrat (alongside [[Psy-Group]]) **pitched the Trump 2016 campaign on a $3M+ social-media manipulation proposal** at the [[Trump Tower August 2016 meeting]]
+- 2016-08-03 -- Wikistrat (alongside [[Psy-Group]]) **pitched the Trump 2016 campaign on a $3M+ social-media manipulation proposal** at the [[Trump Tower August 2016 meeting]]
 - The pitch involved thousands of fake online personas to influence the election
 - The pitch was discussed at the meeting attended by [[Donald Trump Jr.]], [[Joel Zamel]], [[Erik Prince]], [[George Nader]]
 - Pitch did not result in formal Trump campaign contract per Mueller findings
@@ -28,7 +28,7 @@ Per [[Source Mueller Report 2019]] (Volume 1) and [[Source Senate Intel Vol 5 20
 
 ## CA-relevance
 
-Wikistrat and Psy-Group both being Zamel-founded firms means **[[Joel Zamel]] was operationally adjacent to both CA and the Trump campaign in 2016** via two distinct corporate vehicles â€” a pattern characteristic of the Israeli private-intelligence ecosystem where the same operators front multiple firms.
+Wikistrat and Psy-Group both being Zamel-founded firms means **[[Joel Zamel]] was operationally adjacent to both CA and the Trump campaign in 2016** via two distinct corporate vehicles -- a pattern characteristic of the Israeli private-intelligence ecosystem where the same operators front multiple firms.
 
 ## Current status
 

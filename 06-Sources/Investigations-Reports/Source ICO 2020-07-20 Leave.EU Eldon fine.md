@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: ICO enforcement action against Leave.EU and Eldon Insurance â€” primary regulatory documentation of the Banks-Wigmore data-misuse between the Brexit campaign and Banks's commercial insurance business
+description: ICO enforcement action against Leave.EU and Eldon Insurance — primary regulatory documentation of the Banks-Wigmore data-misuse between the Brexit campaign and Banks's commercial insurance business
 aliases: ["Source: Source ICO 2020-07-20 Leave.EU Eldon fine"]
 tags: [source, evidence/primary-document, evidence/regulatory, topic/brexit, topic/cambridge-analytica, era/2018-2020, jurisdiction/uk]
 type: source
@@ -21,21 +21,21 @@ UK Information Commissioner's Office. (2020-07-20). *ICO to audit data protectio
 
 ## What it is
 
-The **UK Information Commissioner's Office (ICO)** announcement of fines and audit notices against **[[Leave.EU]]** (the [[Arron Banks]] / [[Andrew Wigmore]]-fronted Brexit campaign) and **[[Eldon Insurance]]** (Banks's commercial insurance business) for **unlawful marketing â€” specifically, using Eldon's commercial customer data to send Leave.EU political marketing messages without proper consent, and vice versa**. The action is the **primary regulatory finding documenting data-flow between Banks's commercial and political enterprises** â€” a finding directly relevant to the Brexit-finance investigation cluster and to the broader pattern of commercial-data being repurposed for political operations.
+The **UK Information Commissioner's Office (ICO)** announcement of fines and audit notices against **[[Leave.EU]]** (the [[Arron Banks]] / [[Andrew Wigmore]]-fronted Brexit campaign) and **[[Eldon Insurance]]** (Banks's commercial insurance business) for **unlawful marketing — specifically, using Eldon's commercial customer data to send Leave.EU political marketing messages without proper consent, and vice versa**. The action is the **primary regulatory finding documenting data-flow between Banks's commercial and political enterprises** — a finding directly relevant to the Brexit-finance investigation cluster and to the broader pattern of commercial-data being repurposed for political operations.
 
 ## Key claims / findings
 
-- **Combined fines:** approximately **Â£135,000** total against the two entities for ICO-administered breaches
+- **Combined fines:** approximately **£135,000** total against the two entities for ICO-administered breaches
   - Specifically: Leave.EU fined for unlawful political-marketing email sends; Eldon fined for unlawful commercial-marketing email sends
-- **The mechanism:** **Eldon's commercial insurance customer data** was used to send **Leave.EU political marketing messages** to customers who had not consented to political contact â€” and **Leave.EU's political-supporter data** was used for **Eldon commercial marketing** without consent
+- **The mechanism:** **Eldon's commercial insurance customer data** was used to send **Leave.EU political marketing messages** to customers who had not consented to political contact — and **Leave.EU's political-supporter data** was used for **Eldon commercial marketing** without consent
 - **Audit notice:** ICO also issued a **formal audit notice** requiring both entities to undergo compliance audit of their data-protection practices
-- **Data flow framing:** the action documents **explicit operational data-sharing between Banks's commercial and political entities** â€” central evidence in the broader Brexit-finance / data-misuse picture
+- **Data flow framing:** the action documents **explicit operational data-sharing between Banks's commercial and political entities** — central evidence in the broader Brexit-finance / data-misuse picture
 
 ## Significance for the vault
 
 - **Primary regulatory evidence** that the Banks commercial-political infrastructure operated **across the data-protection boundary** between commercial and political purposes
-- **Connects to the [[Hypothesis - Defense-to-elections pipeline]]** at the **commercial-to-political** end of the spectrum â€” distinct from defence-to-political but structurally parallel
-- **AggregateIQ context:** the ICO action is contemporaneous with the broader Brexit-finance investigation that included [[AggregateIQ (AIQ)|AggregateIQ]] / [[Vote Leave]] / [[BeLeave]] â€” see [[Source UK Electoral Commission Vote Leave 2018]]
+- **Connects to the [[Hypothesis - Defense-to-elections pipeline]]** at the **commercial-to-political** end of the spectrum — distinct from defence-to-political but structurally parallel
+- **AggregateIQ context:** the ICO action is contemporaneous with the broader Brexit-finance investigation that included [[AggregateIQ (AIQ)|AggregateIQ]] / [[Vote Leave]] / [[BeLeave]] — see [[Source UK Electoral Commission Vote Leave 2018]]
 - **Banks personal exposure:** Banks's commercial business [[Eldon Insurance]] was directly implicated alongside his political vehicle [[Leave.EU]]; the action does not name Banks personally but the corporate-officer relationship is documented
 
 ## Reliability assessment
@@ -43,26 +43,26 @@ The **UK Information Commissioner's Office (ICO)** announcement of fines and aud
 - **Type:** UK statutory regulator primary document
 - **Authority:** ICO is the UK's data-protection regulator; statutory powers; highest evidentiary weight for data-protection findings
 - **Caveats:**
-  - The ICO action is **regulatory civil**, not criminal â€” does not establish criminal conduct
+  - The ICO action is **regulatory civil**, not criminal — does not establish criminal conduct
   - The action focuses on **process violations** (consent, transparency) rather than on the substantive use of data for influence operations
 - **Disputed by:** Leave.EU and Eldon contested aspects of the findings; final settlements involved fine reductions in some cases
 - **Independent corroboration:** [[Source UK Electoral Commission Vote Leave 2018]] documents the parallel Brexit-finance findings; [[Source Cadwalladr 2018-03-24 Observer Sanni]] and the broader Cadwalladr reporting provided journalistic context
 
 ## Entities mentioned
 
-- [[Leave.EU]] (subject â€” political campaign)
-- [[Eldon Insurance]] (subject â€” Banks's commercial insurance business)
+- [[Leave.EU]] (subject — political campaign)
+- [[Eldon Insurance]] (subject — Banks's commercial insurance business)
 - [[Arron Banks]] (Leave.EU principal, Eldon owner)
 - [[Andrew Wigmore]] (Leave.EU spokesman, Banks's business associate)
 - ICO (regulator)
 
 ## How I'm using this
 
-- [[Eldon Insurance]] (entity hub) â€” primary regulatory source
-- [[Leave.EU]] (entity hub) â€” primary regulatory source
-- [[Arron Banks]] (Brexit-finance figure) â€” personal exposure context
-- [[Brexit Referendum 2016]] (event) â€” regulatory follow-on
-- [[ICO Investigation]] (event) â€” ICO investigation chronology
+- [[Eldon Insurance]] (entity hub) — primary regulatory source
+- [[Leave.EU]] (entity hub) — primary regulatory source
+- [[Arron Banks]] (Brexit-finance figure) — personal exposure context
+- [[Brexit Referendum 2016]] (event) — regulatory follow-on
+- [[ICO Investigation]] (event) — ICO investigation chronology
 - [[Investigations MOC]] (UK regulatory actions)
 
 ## Open questions

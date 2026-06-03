@@ -16,12 +16,12 @@ status: active
 
 Weekly podcast launched in 2020 (initially during COVID lockdown) featuring **four "Besties":**
 
-- **[[David Sacks]]** â€” PayPal Mafia; Craft Ventures; Trump 2.0 AI/Crypto Czar
-- **Chamath Palihapitiya** â€” Social Capital; SPAC pioneer; former Facebook VP
-- **David Friedberg** â€” The Production Board; serial entrepreneur
-- **Jason Calacanis** â€” LAUNCH; angel investor; podcast veteran
+- **[[David Sacks]]** -- PayPal Mafia; Craft Ventures; Trump 2.0 AI/Crypto Czar
+- **Chamath Palihapitiya** -- Social Capital; SPAC pioneer; former Facebook VP
+- **David Friedberg** -- The Production Board; serial entrepreneur
+- **Jason Calacanis** -- LAUNCH; angel investor; podcast veteran
 
-By 2024-2026, the show has become **arguably the single most influential right-leaning podcast in the Silicon Valley elite ecosystem** â€” with audience including most major Silicon Valley VCs, tech executives, and adjacent political figures.
+By 2024-2026, the show has become **arguably the single most influential right-leaning podcast in the Silicon Valley elite ecosystem** -- with audience including most major Silicon Valley VCs, tech executives, and adjacent political figures.
 
 ## Format and influence
 
@@ -44,7 +44,7 @@ All-In is the **media-and-messaging layer** of the Tech Right project, parallel 
 - **[[Government Accountability Institute]]** (Mercer/Bannon oppo research)
 - **[[Glittering Steel]]** (Bannon documentary film)
 
-The Tech Right's All-In ecosystem is **less explicitly partisan** than Breitbart but operationally similar â€” coordinated messaging from a network of major-donor figures pushing aligned political positions.
+The Tech Right's All-In ecosystem is **less explicitly partisan** than Breitbart but operationally similar -- coordinated messaging from a network of major-donor figures pushing aligned political positions.
 
 ## 2024-2025 Trump alignment
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: First major exposÃ© on Cambridge Analytica and Ted Cruz Facebook data use - Harry Davies in The Guardian
+description: First major exposé on Cambridge Analytica and Ted Cruz Facebook data use - Harry Davies in The Guardian
 aliases: ["Source: Source Davies 2015-12-11 Guardian"]
 tags: [source, evidence/journalism, topic/cambridge-analytica, topic/2016-us-election, era/2014-2016]
 type: source
@@ -33,7 +33,7 @@ Davies, Harry. (2015-12-11). "Ted Cruz campaign using firm that harvested data o
 Several reasons the 2015 Davies story didn't trigger the eventual scandal:
 
 1. Davies relied on documents and on-record sources but not a public whistleblower
-2. The Cruz campaign was a primary candidate â€” early in the cycle
+2. The Cruz campaign was a primary candidate — early in the cycle
 3. Facebook claimed it was "investigating" but no enforcement followed
 4. Mainstream media largely treated it as a campaign-data curiosity rather than a structural problem
 5. CA's actual scale and methods only became clear with the Wylie disclosures
@@ -44,7 +44,7 @@ Wylie went on record + Channel 4 sting + NYT's parallel investigation + Trump wi
 
 ## Davies the journalist
 
-Davies continued reporting at The Guardian on data and surveillance issues. His 2015 piece is the **journalistic ground zero** of the CA scandal â€” frequently undercited in retrospectives that focus on the 2018 break.
+Davies continued reporting at The Guardian on data and surveillance issues. His 2015 piece is the **journalistic ground zero** of the CA scandal — frequently undercited in retrospectives that focus on the 2018 break.
 
 ## URL
 

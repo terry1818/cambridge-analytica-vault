@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Theocratic theory that Christians are commanded to take dominion over secular institutions; the political program underlying contemporary Christian nationalism
 tags: [concept, topic/dominionism, topic/theocratic-wing, era/1973-2026]
@@ -12,7 +12,7 @@ aliases: ["Dominion Theology"]
 
 ## Definition
 
-**Dominionism** (also called dominion theology) is the theocratic theory that **God has called conservative Christians to exercise dominion over society** by taking control of political and cultural institutions. Derived from a particular reading of Genesis 1:28 ("Be fruitful and multiply... and have dominion over the fish of the sea and over the birds of the heavens and over every living thing"), dominionists hold that the "creation mandate" is in fact a **"dominion mandate"** ÃƒÂ¢Ã¢â€šÂ¬" commanding humans (specifically Christians) to bring every sphere of society into subjugation under Christ.
+**Dominionism** (also called dominion theology) is the theocratic theory that **God has called conservative Christians to exercise dominion over society** by taking control of political and cultural institutions. Derived from a particular reading of Genesis 1:28 ("Be fruitful and multiply... and have dominion over the fish of the sea and over the birds of the heavens and over every living thing"), dominionists hold that the "creation mandate" is in fact a **"dominion mandate"** â€" commanding humans (specifically Christians) to bring every sphere of society into subjugation under Christ.
 
 Operationally, dominionism is the **political program** underlying contemporary Christian nationalism. It is the theological framework that justifies:
 
@@ -83,9 +83,9 @@ Academic critique:
 
 ## Related concepts
 
-- [[Christian Reconstructionism]] ÃƒÂ¢Ã¢â€šÂ¬" theological foundation
-- [[Seven Mountains Mandate]] ÃƒÂ¢Ã¢â€šÂ¬" strategic operationalization
-- Christian Nationalism ÃƒÂ¢Ã¢â€šÂ¬" current popular term
+- [[Christian Reconstructionism]] â€" theological foundation
+- [[Seven Mountains Mandate]] â€" strategic operationalization
+- Christian Nationalism â€" current popular term
 
 ## Sources
 

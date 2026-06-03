@@ -22,7 +22,7 @@ Per Carroll's sworn testimony and contemporaneous accounts she told two friends 
 - They went to the lingerie department; Trump suggested she try on lingerie
 - In the dressing room, Trump pinned Carroll against the wall and sexually assaulted her including digital penetration without consent
 - Carroll escaped after a few minutes
-- She told two friends contemporaneously: Lisa Birnbach (journalist) and Carol Martin (former TV journalist) â€” both of whom testified at trial
+- She told two friends contemporaneously: Lisa Birnbach (journalist) and Carol Martin (former TV journalist) -- both of whom testified at trial
 
 ## Decision to come forward (2019)
 
@@ -30,7 +30,7 @@ Carroll included the account in her memoir during the post-#MeToo period. The *N
 - "I've never met this person in my life"
 - "This is a hoax"
 - "She's not my type"
-Trump also referenced a 1987 photograph of him with Carroll and Carroll's then-husband John Johnson at an NBC event â€” when shown the photograph in his 2022 deposition, Trump misidentified Carroll as his second wife Marla Maples.
+Trump also referenced a 1987 photograph of him with Carroll and Carroll's then-husband John Johnson at an NBC event -- when shown the photograph in his 2022 deposition, Trump misidentified Carroll as his second wife Marla Maples.
 
 ## Carroll II (2022-2023)
 
@@ -60,7 +60,7 @@ Carroll II conviction affirmed by Second Circuit December 30, 2024. Carroll I ap
 - **[[Jessica Leeds]]**: testified that Trump groped her on a first-class flight in approximately 1979
 - **[[Natasha Stoynoff]]** (former *People Magazine* reporter): testified that Trump forcibly kissed her at Mar-a-Lago in December 2005 during a pregnancy-cover-story interview
 
-The *Access Hollywood* tape was also introduced as Rule 415 evidence â€” Trump's recorded boast that "when you're a star they let you do it" including "grab them by the p---y."
+The *Access Hollywood* tape was also introduced as Rule 415 evidence -- Trump's recorded boast that "when you're a star they let you do it" including "grab them by the p---y."
 
 ## Significance
 
@@ -84,11 +84,11 @@ Carroll's case stands as a uniquely-positioned legal accountability outcome:
 
 ## Connections
 
-- [[Donald Trump]] â€” defendant; found civilly liable
-- [[Lewis Kaplan]] â€” trial judge
-- [[Carroll v Trump Civil Cases]] â€” the cases
-- [[Lisa Birnbach]] Â· [[Carol Martin]] â€” contemporaneous outcry witnesses
-- [[Jessica Leeds]] Â· [[Natasha Stoynoff]] â€” Rule 415 witnesses
+- [[Donald Trump]] -- defendant; found civilly liable
+- [[Lewis Kaplan]] -- trial judge
+- [[Carroll v Trump Civil Cases]] -- the cases
+- [[Lisa Birnbach]] · [[Carol Martin]] -- contemporaneous outcry witnesses
+- [[Jessica Leeds]] · [[Natasha Stoynoff]] -- Rule 415 witnesses
 - [[Access Hollywood tape]]
 
 ## Sources

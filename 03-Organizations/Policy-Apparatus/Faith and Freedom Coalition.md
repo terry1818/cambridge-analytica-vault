@@ -38,11 +38,11 @@ status: active
 
 ## Connection to vault entities
 
-- [[Ralph Reed]] Ã¢â‚¬" founder
-- [[Christian Coalition]] Ã¢â‚¬" predecessor model
-- [[Council for National Policy]] Ã¢â‚¬" coordinating institution Reed long-time officer
-- [[Project 2025]] Ã¢â‚¬" aligned implementation
-- [[Theocratic Wing Infrastructure 1935-2026]] Ã¢â‚¬" current operational arm
+- [[Ralph Reed]] -" founder
+- [[Christian Coalition]] -" predecessor model
+- [[Council for National Policy]] -" coordinating institution Reed long-time officer
+- [[Project 2025]] -" aligned implementation
+- [[Theocratic Wing Infrastructure 1935-2026]] -" current operational arm
 
 ## Sources
 

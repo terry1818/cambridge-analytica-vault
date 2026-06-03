@@ -8,11 +8,11 @@ aliases: ['Turkey']
 
 # Turkey
 
-Republic of TÃ¼rkiye. Under [[Recep Tayyip Erdogan]] since 2003 (PM 2003-2014, President since 2014).
+Republic of Türkiye. Under [[Recep Tayyip Erdogan]] since 2003 (PM 2003-2014, President since 2014).
 
 ## Vault relevance
 
-Turkey is one of the canonical contemporary cases of [[Democratic backsliding]] under elected leadership. Frequently cited as an analogue for US trajectory analysis. The 2016 attempted coup + ErdoÄŸan's subsequent institutional purge is the comparative case for post-J6 US institutional dynamics.
+Turkey is one of the canonical contemporary cases of [[Democratic backsliding]] under elected leadership. Frequently cited as an analogue for US trajectory analysis. The 2016 attempted coup + Erdoğan's subsequent institutional purge is the comparative case for post-J6 US institutional dynamics.
 
 ## See also
 

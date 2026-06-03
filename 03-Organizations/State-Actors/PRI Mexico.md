@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Mexico's Institutional Revolutionary Party; PRI ruled Mexico 1929-2000 + briefly returned; documented Cambridge Analytica defensive contract 2017-2018
 tags: [org, org/political-party, topic/cambridge-analytica, era/1929-2026, jurisdiction/mexico]
@@ -18,9 +18,9 @@ wikipedia_url: https://en.wikipedia.org/wiki/Institutional_Revolutionary_Party
 
 ## Summary
 
-**Mexico's Institutional Revolutionary Party** founded **March 4, 1929**. **Dominated Mexican politics 1929-2000** as essentially single-party state; **returned briefly 2012-2018 under Enrique PeÃƒÂ±a Nieto**. **Documented [[Cambridge Analytica]] defensive contract 2017-2018** Ã¢â‚¬â€ paid CA to **NOT work for opposition campaigns** rather than for direct political-data services (per [[Source Channel 4 2018-03-19 Exposed]] + [[Source HindsightFiles 2020]]).
+**Mexico's Institutional Revolutionary Party** founded **March 4, 1929**. **Dominated Mexican politics 1929-2000** as essentially single-party state; **returned briefly 2012-2018 under Enrique Peña Nieto**. **Documented [[Cambridge Analytica]] defensive contract 2017-2018** -- paid CA to **NOT work for opposition campaigns** rather than for direct political-data services (per [[Source Channel 4 2018-03-19 Exposed]] + [[Source HindsightFiles 2020]]).
 
-**Operationally:** out of government since 2018 (lost to LÃƒÂ³pez Obrador's MORENA). Continuing party but substantially reduced.
+**Operationally:** out of government since 2018 (lost to López Obrador's MORENA). Continuing party but substantially reduced.
 
 ## Connection to vault entities
 

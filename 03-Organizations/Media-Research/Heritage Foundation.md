@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/The_Heritage_Foundation
 
 ## Summary
 
-**The largest and most influential US conservative think tank.** Founded in 1973 by Paul Weyrich, Edwin Feulner, and Joseph Coors. Historically a primary intellectual infrastructure organization for the Reagan Revolution and subsequent conservative movements. Published **"Mandate for Leadership"** â€” the conservative policy blueprint that shaped every Republican administration from Reagan forward. **Author of [[Project 2025]]** â€” the Trump 2.0 policy blueprint that became central to the administration's operational approach.
+**The largest and most influential US conservative think tank.** Founded in 1973 by Paul Weyrich, Edwin Feulner, and Joseph Coors. Historically a primary intellectual infrastructure organization for the Reagan Revolution and subsequent conservative movements. Published **"Mandate for Leadership"** -- the conservative policy blueprint that shaped every Republican administration from Reagan forward. **Author of [[Project 2025]]** -- the Trump 2.0 policy blueprint that became central to the administration's operational approach.
 
 ## Project 2025 and Trump 2.0
 
@@ -38,7 +38,7 @@ Heritage has been a **major recipient of [[Mercer Family Foundation]] funding** 
 
 ## Heritage Action
 
-[[Heritage Action]] â€” the 501(c)(4) political arm of Heritage â€” operates alongside the 501(c)(3) think tank to:
+[[Heritage Action]] -- the 501(c)(4) political arm of Heritage -- operates alongside the 501(c)(3) think tank to:
 - Lobby Congress
 - Rate Republican voting records
 - Mobilize grassroots conservatives
@@ -103,7 +103,7 @@ Heritage's funder base includes the historical Coors family interests, the [[Mer
 
 Heritage was founded in 1973 by Edwin Feulner (longtime president), Paul Weyrich (also founder of [[Council for National Policy]] and the [[Free Congress Foundation]]), and Joseph Coors (Colorado brewing-family principal and seed funder). The founding occurred in the immediate aftermath of the 1972 Nixon landslide and the early 1973 Watergate disclosures, in a political environment where the existing conservative-movement infrastructure was perceived as inadequate to the policy-formulation task ahead.
 
-The 1980 publication of "Mandate for Leadership: Policy Management in a Conservative Administration" was the foundational document of the modern Heritage operating model. The 1,093-page volume contained more than 2,000 specific policy recommendations across the executive branch. Reagan-administration uptake was reportedly high (Heritage's own count claimed roughly 60 percent of the recommendations had been implemented or initiated by the end of Reagan's first term). The model â€” a comprehensive pre-administration policy blueprint produced by an external think tank for an incoming Republican White House â€” is the direct template for the 2023 [[Project 2025]] "Mandate for Leadership: The Conservative Promise" document.
+The 1980 publication of "Mandate for Leadership: Policy Management in a Conservative Administration" was the foundational document of the modern Heritage operating model. The 1,093-page volume contained more than 2,000 specific policy recommendations across the executive branch. Reagan-administration uptake was reportedly high (Heritage's own count claimed roughly 60 percent of the recommendations had been implemented or initiated by the end of Reagan's first term). The model -- a comprehensive pre-administration policy blueprint produced by an external think tank for an incoming Republican White House -- is the direct template for the 2023 [[Project 2025]] "Mandate for Leadership: The Conservative Promise" document.
 
 ## The Roberts-era pivot (2021-present)
 

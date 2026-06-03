@@ -19,7 +19,7 @@ Sri Lankan-born Canadian-American technology executive and investor. **Former Vi
 
 ## CA-era / Facebook relevance
 
-Palihapitiyas Facebook tenure (2007-2011) **predates the CA scandal proper but overlaps with the period of the Graph API v1.0 design** that would later enable the CA harvest. Palihapitiya has been publicly critical of Facebook in subsequent years â€” most famously in a 2017 Stanford talk where he said: "**The short-term, dopamine-driven feedback loops we have created are destroying how society works.**"
+Palihapitiyas Facebook tenure (2007-2011) **predates the CA scandal proper but overlaps with the period of the Graph API v1.0 design** that would later enable the CA harvest. Palihapitiya has been publicly critical of Facebook in subsequent years -- most famously in a 2017 Stanford talk where he said: "**The short-term, dopamine-driven feedback loops we have created are destroying how society works.**"
 
 This critique came BEFORE the CA scandal broke and is often cited as **prescient inside-Facebook commentary** on the platform's social effects. Palihapitiya's political evolution since 2017 has paralleled the broader Tech Right consolidation.
 

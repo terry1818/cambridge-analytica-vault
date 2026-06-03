@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Micro-timeline of Cadwalladr CA reporting through Banks libel case
 tags: [timeline, topic/cambridge-analytica]
@@ -6,22 +6,22 @@ tags: [timeline, topic/cambridge-analytica]
 
 # Micro-Timeline: [[Carole Cadwalladr]]
 
-- `pre-2016` â€” Established journalist at The Observer/Guardian
-- `2016` â€” Begins investigating CA / Brexit data operations
-- `2017-02-26` â€” "Robert Mercer: The big data billionaire" Observer
-- `2017-03-04` â€” "Watchdog to launch inquiry" Guardian (with Doward, Gibbs)
-- `2017-05-07` â€” "The Great British Brexit Robbery" Observer
-- `2017-2018` â€” ~1 year coaxing Wylie to go public
-- `2018-03-17` â€” Joint Guardian/Observer/NYT publication with Wylie on record
-- `2018-03-18` â€” Long-form Wylie portrait Guardian
-- `2018-03-24` â€” Shahmir Sanni whistleblower Observer
-- `2018-2019` â€” Sustained reporting on CA fallout; Arron Banks legal threats begin
-- `2019-04` â€” TED talk "Facebook's role in Brexit â€” and the threat to democracy"
-- `2019-07` â€” Sued by Arron Banks for libel over TED talk and tweets
-- `2022-06-13` â€” High Court ruling: Cadwalladr won principal public-interest defense; ordered to pay limited damages on narrower ground
-- `2023-02-15` â€” Co-byline on Forbidden Stories/Guardian Team Jorge investigation (continues CA reporting via Hanan-in-CA-emails)
-- `2023-2024` â€” Banks appeal; further legal proceedings
-- `2024-2025` â€” Continues writing on misinformation, AI, democracy at Observer
+- `pre-2016` — Established journalist at The Observer/Guardian
+- `2016` — Begins investigating CA / Brexit data operations
+- `2017-02-26` — "Robert Mercer: The big data billionaire" Observer
+- `2017-03-04` — "Watchdog to launch inquiry" Guardian (with Doward, Gibbs)
+- `2017-05-07` — "The Great British Brexit Robbery" Observer
+- `2017-2018` — ~1 year coaxing Wylie to go public
+- `2018-03-17` — Joint Guardian/Observer/NYT publication with Wylie on record
+- `2018-03-18` — Long-form Wylie portrait Guardian
+- `2018-03-24` — Shahmir Sanni whistleblower Observer
+- `2018-2019` — Sustained reporting on CA fallout; Arron Banks legal threats begin
+- `2019-04` — TED talk "Facebook's role in Brexit — and the threat to democracy"
+- `2019-07` — Sued by Arron Banks for libel over TED talk and tweets
+- `2022-06-13` — High Court ruling: Cadwalladr won principal public-interest defense; ordered to pay limited damages on narrower ground
+- `2023-02-15` — Co-byline on Forbidden Stories/Guardian Team Jorge investigation (continues CA reporting via Hanan-in-CA-emails)
+- `2023-2024` — Banks appeal; further legal proceedings
+- `2024-2025` — Continues writing on misinformation, AI, democracy at Observer
 
 ## Vault context and open research threads
 

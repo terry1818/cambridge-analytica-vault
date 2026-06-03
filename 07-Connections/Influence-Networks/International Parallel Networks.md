@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: How the US right-wing coalition is part of a global circuit; CPAC international franchises, National Conservatism conferences, Hungary/Brazil/Argentina/Italy alignment
 tags: [connection, topic/international, era/2010-2026]
@@ -95,7 +95,7 @@ PERSONNEL EXCHANGE
 ## CPAC Hungary specifically
 
 - **5 editions** held in Hungary (2022-2026)
-- **OrbÃƒÂ¡n hosting; 2026 leak revealed Hungarian taxpayer funding** to CPAC
+- **Orbán hosting; 2026 leak revealed Hungarian taxpayer funding** to CPAC
 - 2026 attendance: ~667 foreign guests from 51 countries
 - **Argentinian President Javier Milei surprise star guest 2026** (longer speaking slot than any other contributor)
 - Geert Wilders, Herbert Kickl, Alice Weidel, Georgian PM Kobakhidze all attended
@@ -114,7 +114,7 @@ Yoram Hazony's intellectual wing:
 The international dimension means:
 
 1. **Counter-strategy cannot be US-only** - the Right's coalition is internationally coordinated; the Left's counter is largely national / fragmented
-2. **Hungary is the institutional model** - OrbÃƒÂ¡n's 2010-2024 constitutional capture is the template Project 2025 + Convention of States are working toward
+2. **Hungary is the institutional model** - Orbán's 2010-2024 constitutional capture is the template Project 2025 + Convention of States are working toward
 3. **Capital flows are international** - Hungarian taxpayer money flowed to CPAC; Saudi PIF to Affinity Partners; UAE to MGX-WLF; this is a global cash-circuit
 4. **Ideological convergence** - the same talking points, the same legislative templates, the same enemies (LGBTQ+, migration, "woke")
 5. **The wedge issues are global** - not US-specific culture-war but a coordinated international culture-war

@@ -11,7 +11,7 @@ aliases: ["Second Trump impeachment", "Trump impeachment 2021", "January 6 impea
 
 # Trump Second Impeachment (2021)
 
-The impeachment of [[Donald Trump]] by the US House of Representatives on January 13, 2021 on a single article of incitement of insurrection arising from the January 6, 2021 attack on the US Capitol. The most-bipartisan presidential impeachment in US history: 10 House Republicans voted to impeach. Trump was acquitted by the US Senate on February 13, 2021 by a vote of **57-43** â€” 7 Republican senators joining all 50 Democrats in voting to convict, the most bipartisan vote to convict a President in US history but still 10 short of the 67 needed.
+The impeachment of [[Donald Trump]] by the US House of Representatives on January 13, 2021 on a single article of incitement of insurrection arising from the January 6, 2021 attack on the US Capitol. The most-bipartisan presidential impeachment in US history: 10 House Republicans voted to impeach. Trump was acquitted by the US Senate on February 13, 2021 by a vote of **57-43** -- 7 Republican senators joining all 50 Democrats in voting to convict, the most bipartisan vote to convict a President in US history but still 10 short of the 67 needed.
 
 ## Article of impeachment
 
@@ -57,7 +57,7 @@ The impeachment of [[Donald Trump]] by the US House of Representatives on Januar
 6. [[Ben Sasse]] (NE)
 7. [[Pat Toomey]] (PA)
 
-## Evidence base (Tier 1) â€” presented by House Impeachment Managers
+## Evidence base (Tier 1) -- presented by House Impeachment Managers
 
 ### Trump conduct
 - Months of false election-fraud claims documented in tweets, speeches, public statements
@@ -70,12 +70,12 @@ The impeachment of [[Donald Trump]] by the US House of Representatives on Januar
 ### Capitol attack evidence
 - Surveillance video, including never-before-seen footage assembled by impeachment managers
 - Officer testimony (post-trial)
-- Documented organized groups (Proud Boys, Oath Keepers, etc.) â€” later separately prosecuted
+- Documented organized groups (Proud Boys, Oath Keepers, etc.) -- later separately prosecuted
 - Casualties: 5 deaths in connection with the attack including Officer Brian Sicknick (heart attack day after; multiple officer suicides in following weeks); 138 officers injured
 
 ## Mitch McConnell post-acquittal statement
 
-Senator Mitch McConnell, after voting to acquit, delivered a Senate floor speech stating: "There's no question, none, that President Trump is practically and morally responsible for provoking the events of the day... He didn't get away with anything yet â€” yet." McConnell argued the appropriate forum for accountability was the criminal justice system. Tier 1.
+Senator Mitch McConnell, after voting to acquit, delivered a Senate floor speech stating: "There's no question, none, that President Trump is practically and morally responsible for provoking the events of the day... He didn't get away with anything yet -- yet." McConnell argued the appropriate forum for accountability was the criminal justice system. Tier 1.
 
 ## What the impeachment trial established
 
@@ -93,10 +93,10 @@ Senator Mitch McConnell, after voting to acquit, delivered a Senate floor speech
 
 ## Connections
 
-- [[Donald Trump]] â€” impeached; acquitted
-- [[Mike Pence]] â€” target of Trump pressure; physical danger during attack
-- [[Mitch McConnell]] â€” voted acquit; floor statement
-- [[Liz Cheney]] Â· [[Adam Kinzinger]] â€” House Republicans who voted impeach; later J6 Committee
+- [[Donald Trump]] -- impeached; acquitted
+- [[Mike Pence]] -- target of Trump pressure; physical danger during attack
+- [[Mitch McConnell]] -- voted acquit; floor statement
+- [[Liz Cheney]] · [[Adam Kinzinger]] -- House Republicans who voted impeach; later J6 Committee
 - Seven Senate Republicans who voted to convict
 - [[Stop the Steal]]
 - [[January 6 Select Committee 2021-2023]]

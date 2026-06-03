@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Lens - donors, investors, paying clients of CA-style operations
 tags: [moc, lens]
@@ -11,28 +11,28 @@ The money side. Who paid for what?
 
 ## CA's primary investors
 
-- [[Robert Mercer]] â€” $15M+ direct (NYT estimate)
-- [[Rebekah Mercer]] â€” investor + later Emerdata director
-- [[Steve Bannon]] â€” $1-5M stake (divested 2017)
-- [[Vincent Tchenguiz]] â€” billionaire UK Conservative donor
-- [[Jonathan Marland]] (Baron Marland) â€” former Conservative minister
-- [[Roger Gabb]] â€” Conservative donor; SCL director
+- [[Robert Mercer]] -- $15M+ direct (NYT estimate)
+- [[Rebekah Mercer]] -- investor + later Emerdata director
+- [[Steve Bannon]] -- $1-5M stake (divested 2017)
+- [[Vincent Tchenguiz]] -- billionaire UK Conservative donor
+- [[Jonathan Marland]] (Baron Marland) -- former Conservative minister
+- [[Roger Gabb]] -- Conservative donor; SCL director
 
 ## Super PACs / political-finance vehicles funded by Mercers
 
-- [[Make America Number 1 Super PAC]] â€” pro-Trump; paid CA
-- [[John Bolton Super PAC]] â€” 2014 work
-- Mercer Family Foundation â€” flowed to GAI, Heritage, Breitbart
+- [[Make America Number 1 Super PAC]] -- pro-Trump; paid CA
+- [[John Bolton Super PAC]] -- 2014 work
+- Mercer Family Foundation -- flowed to GAI, Heritage, Breitbart
 
 ## Paying clients (campaigns)
 
-- [[Ted Cruz Campaign 2016]] â€” $5.8M total
-- [[Donald Trump Campaign 2016]] â€” Sept-Nov 2016 payments
-- [[Ben Carson Campaign 2016]] â€” $220K
+- [[Ted Cruz Campaign 2016]] -- $5.8M total
+- [[Donald Trump Campaign 2016]] -- Sept-Nov 2016 payments
+- [[Ben Carson Campaign 2016]] -- $220K
 - [[Leave.EU]] / [[Vote Leave]] (disputed; ICO found no significant breach)
 - Uhuru Kenyatta campaigns (Kenya 2013, 2017)
 - [[Najib Razak]] / Barisan Nasional (Malaysia)
-- PRI (Mexico, 2017-2018) â€” paid CA to NOT work for rivals
+- PRI (Mexico, 2017-2018) -- paid CA to NOT work for rivals
 
 ## Paying clients (governments)
 
@@ -42,13 +42,13 @@ The money side. Who paid for what?
 ## International / shell investors in Emerdata
 
 - $19M raised Jan 2018 from "international investors" (specifics not fully public)
-- [[Johnson Chun Shun Ko]] / [[Frontier Services Group]] (China-linked) â€” director
+- [[Johnson Chun Shun Ko]] / [[Frontier Services Group]] (China-linked) -- director
 
 ## Brexit funding cluster
 
-- [[Arron Banks]] â€” Leave.EU founder (Â£8M+ to Brexit)
-- DUP â€” Â£435K via AIQ (largest in party history)
-- [[Constitutional Research Council]] â€” Richard Cook â€” DUP funding
+- [[Arron Banks]] -- Leave.EU founder (£8M+ to Brexit)
+- DUP -- £435K via AIQ (largest in party history)
+- [[Constitutional Research Council]] -- Richard Cook -- DUP funding
 
 ## Vault context and open research threads
 

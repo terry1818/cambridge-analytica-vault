@@ -23,7 +23,7 @@ Bernal, Natasha. (2019-08-07). "The man that killed Cambridge Analytica: 'We mad
 Long-form Telegraph profile of [[Julian Wheatland]], who took over as CEO of [[Cambridge Analytica]] after the Channel 4 sting forced [[Alexander Nix]] out, and oversaw the firm's May 2018 insolvency. Wheatland's account, given here:
 
 - Argued CA's "mistakes" were operational and reputational rather than substantive privacy violations
-- Pushed back on the public framing of CA as having "stolen" data â€” argued data acquisition was within Facebook's then-applicable terms (a position contradicted by FTC findings and Facebook's own enforcement)
+- Pushed back on the public framing of CA as having "stolen" data — argued data acquisition was within Facebook's then-applicable terms (a position contradicted by FTC findings and Facebook's own enforcement)
 - Defended the underlying methodology while conceding the firm's communications had been problematic
 - Described internal disputes about how to respond to the scandal
 

@@ -21,7 +21,7 @@ Constine, Josh. (2015-04-28). "Facebook Is Shutting Down Its API For Giving Your
 
 ## What this article established
 
-TechCrunch reporting on Facebooks final shutdown of the **friends-data permission in Graph API v1.0** â€” the mechanism that had enabled [[Aleksandr Kogan]] / [[Global Science Research (GSR)]] to harvest data on up to 87 million Facebook profiles for [[Cambridge Analytica]] from 2014. The piece:
+TechCrunch reporting on Facebooks final shutdown of the **friends-data permission in Graph API v1.0** — the mechanism that had enabled [[Aleksandr Kogan]] / [[Global Science Research (GSR)]] to harvest data on up to 87 million Facebook profiles for [[Cambridge Analytica]] from 2014. The piece:
 
 - Documented that the friends-data permission had been **deprecated in April 2014** (with one-year transition window)
 - Final shutdown was April 2015
@@ -29,7 +29,7 @@ TechCrunch reporting on Facebooks final shutdown of the **friends-data permissio
 
 ## Significance
 
-This piece documents **what Facebook DID do** (shut down the API after harvest had already occurred) and implicitly highlights **what Facebook did NOT do** (audit which third-party apps had harvested data during the open period, or enforce against those that retained it). The April 2015 shutdown closed the barn door after CAs harvest was already complete and the data was in CAs possession â€” where it would remain despite later deletion certifications.
+This piece documents **what Facebook DID do** (shut down the API after harvest had already occurred) and implicitly highlights **what Facebook did NOT do** (audit which third-party apps had harvested data during the open period, or enforce against those that retained it). The April 2015 shutdown closed the barn door after CAs harvest was already complete and the data was in CAs possession — where it would remain despite later deletion certifications.
 
 ## URL
 

@@ -29,9 +29,9 @@ The term covers a spectrum:
 
 ## Documented modern honey-trap operations
 
-- 2014-2018 â€” [[Psy-Group]] offered honey-trap operations to political clients
-- 2016-2017 â€” [[Black Cube]] used false-identity operations against Weinstein accusers (a variant of honey-trap methodology)
-- 2018+ â€” Various continuing operations by Israeli private-intelligence firms
+- 2014-2018 -- [[Psy-Group]] offered honey-trap operations to political clients
+- 2016-2017 -- [[Black Cube]] used false-identity operations against Weinstein accusers (a variant of honey-trap methodology)
+- 2018+ -- Various continuing operations by Israeli private-intelligence firms
 - [[JTRIG]] (GCHQ) documents leaked by Snowden indicate UK state-side honey-trap use
 
 ## Significance

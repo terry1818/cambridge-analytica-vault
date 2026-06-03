@@ -15,10 +15,10 @@ Academic field within comparative politics comparing **authoritarian and hybrid-
 
 ## Key cases informing the framework
 
-- **[[Hungary]] under Viktor OrbÃ¡n (2010-present)**: the canonical "competitive authoritarianism" case in Europe
+- **[[Hungary]] under Viktor Orbán (2010-present)**: the canonical "competitive authoritarianism" case in Europe
 - **[[Russia]] under Vladimir Putin (1999-present)**: progression from competitive authoritarianism to full authoritarianism
-- **[[Turkey]] under ErdoÄŸan (2003-present)**: democratic backsliding from semi-democracy to authoritarianism
-- **[[Venezuela]] under ChÃ¡vez/Maduro (1999-present)**: progression from semi-democracy to authoritarianism
+- **[[Turkey]] under Erdoğan (2003-present)**: democratic backsliding from semi-democracy to authoritarianism
+- **[[Venezuela]] under Chávez/Maduro (1999-present)**: progression from semi-democracy to authoritarianism
 - **[[Poland]] under PiS (2015-2023)**: democratic backsliding partially reversed by 2023 election
 - **[[Brazil]] under Bolsonaro (2019-2022)**: less successful authoritarian project
 - **[[India]] under Modi (2014-present)**: contested case; some scholars classify as backsliding
@@ -26,13 +26,13 @@ Academic field within comparative politics comparing **authoritarian and hybrid-
 
 ## Key scholars and frameworks
 
-- **[[Steven Levitsky]] and Lucan Way** â€” *Competitive Authoritarian Regimes* framework
-- **[[Anne Applebaum]]** â€” comparative analysis of authoritarian appeal
-- **[[Larry Diamond]]** â€” democracy measurement
-- **[[Daniel Ziblatt]]** â€” historical comparative
-- **[[Ruth Ben-Ghiat]]** â€” strongman politics
-- **V-Dem Institute** â€” quantitative measurement framework
-- **Freedom House** â€” annual ratings
+- **[[Steven Levitsky]] and Lucan Way** -- *Competitive Authoritarian Regimes* framework
+- **[[Anne Applebaum]]** -- comparative analysis of authoritarian appeal
+- **[[Larry Diamond]]** -- democracy measurement
+- **[[Daniel Ziblatt]]** -- historical comparative
+- **[[Ruth Ben-Ghiat]]** -- strongman politics
+- **V-Dem Institute** -- quantitative measurement framework
+- **Freedom House** -- annual ratings
 
 ## Application to contemporary US
 
@@ -42,13 +42,13 @@ The comparative authoritarianism literature treats the contemporary US as showin
 - Media diversity remains but with substantial polarization
 - Civil society remains active but under pressure
 
-[[Project 2025]] Â· [[Convention of States]] Â· [[Schedule F]] are read as operational mechanisms that would advance the US toward fuller competitive authoritarianism.
+[[Project 2025]] · [[Convention of States]] · [[Schedule F]] are read as operational mechanisms that would advance the US toward fuller competitive authoritarianism.
 
 ## Connections
 
-- [[Democratic backsliding]] â€” related concept
-- [[Anne Applebaum]] Â· [[Steven Levitsky]] Â· [[Daniel Ziblatt]] Â· [[Larry Diamond]] Â· [[Ruth Ben-Ghiat]]
-- [[Hungary]] Â· [[Viktor Orban]] â€” most-cited comparative case
+- [[Democratic backsliding]] -- related concept
+- [[Anne Applebaum]] · [[Steven Levitsky]] · [[Daniel Ziblatt]] · [[Larry Diamond]] · [[Ruth Ben-Ghiat]]
+- [[Hungary]] · [[Viktor Orban]] -- most-cited comparative case
 - [[Compare - Brexit vs 2016 US]]
 - [[Lens - 2024-2026 Power Map]]
 

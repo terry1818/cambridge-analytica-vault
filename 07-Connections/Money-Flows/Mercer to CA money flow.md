@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Mercer family financial flows into CA and successor entities
 tags: [connection, confidence/high]
@@ -10,11 +10,11 @@ period: 2014-2020
 aliases: ["Connection: Mercer to CA money flow"]
 ---
 
-# Connection: Mercer Family â†’ CA / Emerdata money flow
+# Connection: Mercer Family → CA / Emerdata money flow
 
 ## What the link is
 
-Sustained financial flows from [[Robert Mercer]] (and family / Mercer Family Foundation) into Cambridge Analytica's operations, plus direct flows into the pro-Trump [[Make America Number 1 Super PAC]] which then paid CA â€” and subsequently into [[Emerdata Limited]] as successor.
+Sustained financial flows from [[Robert Mercer]] (and family / Mercer Family Foundation) into Cambridge Analytica's operations, plus direct flows into the pro-Trump [[Make America Number 1 Super PAC]] which then paid CA — and subsequently into [[Emerdata Limited]] as successor.
 
 ## Evidence
 
@@ -26,7 +26,7 @@ Sustained financial flows from [[Robert Mercer]] (and family / Mercer Family Fou
 
 ## Confidence
 
-`#confidence/high` â€” multiple corroborated primary sources
+`#confidence/high` — multiple corroborated primary sources
 
 ## Implications
 

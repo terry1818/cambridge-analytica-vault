@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Yoram Hazony-led intellectual wing of the international populist-right; annual conferences in US + UK; philosophical legitimation for post-liberal politics
 tags: [concept, topic/intellectual-wing, topic/post-liberalism, era/2019-2026]
@@ -13,7 +13,7 @@ first-documented: 2019 (first NatCon conference)
 
 **National Conservatism** is the intellectual-philosophical wing of the contemporary international populist-right. Anchored by **Yoram Hazony** (Israeli-American political theorist; *The Virtue of Nationalism* 2018) and the **Edmund Burke Foundation** he leads. Hosts **annual National Conservatism Conferences** in the US, UK, and continental Europe since 2019.
 
-**The philosophical legitimation layer** for the political program implemented by Trump 2.0, OrbÃƒÂ¡n's Fidesz, Meloni's FdI, Milei's LLA, and other parallel movements. Frames itself as "post-liberal conservatism" - explicitly rejecting classical liberalism's individual-rights primacy in favor of nation, family, religion, and rootedness.
+**The philosophical legitimation layer** for the political program implemented by Trump 2.0, Orbán's Fidesz, Meloni's FdI, Milei's LLA, and other parallel movements. Frames itself as "post-liberal conservatism" - explicitly rejecting classical liberalism's individual-rights primacy in favor of nation, family, religion, and rootedness.
 
 ## Core tenets (per NatCon statement of principles)
 
@@ -57,7 +57,7 @@ first-documented: 2019 (first NatCon conference)
 - Provides **legitimating theory** for the political program
 - Bridges to **Catholic Integralism** (Deneen, Ahmari, Vermeule) as a more extreme variant
 - **Personnel pipeline** - NatCon speakers become Trump administration figures (Vance, Rubio, Gorka)
-- **Hungary connection** - NatCon ideology and OrbÃƒÂ¡n's institutional capture model are explicitly aligned
+- **Hungary connection** - NatCon ideology and Orbán's institutional capture model are explicitly aligned
 
 ## Catholic Integralism subset
 

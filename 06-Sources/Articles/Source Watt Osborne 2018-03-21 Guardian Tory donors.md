@@ -23,14 +23,14 @@ Watt, Holly; Osborne, Hilary. (2018-03-21). "Tory donors among investors in Camb
 
 Major reporting four days after the Wylie disclosures broke, mapping the **UK Conservative Party donor investors in SCL Group / Cambridge Analytica**:
 
-- **[[Vincent Tchenguiz]]** â€” Iranian-British billionaire property investor
-- **[[Jonathan Marland]] (Baron Marland)** â€” former Conservative Party treasurer, business minister under David Cameron
-- **[[Roger Gabb]]** â€” wine merchant, major Conservative donor, registered as having significant control over SCL Group as of 2018
+- **[[Vincent Tchenguiz]]** — Iranian-British billionaire property investor
+- **[[Jonathan Marland]] (Baron Marland)** — former Conservative Party treasurer, business minister under David Cameron
+- **[[Roger Gabb]]** — wine merchant, major Conservative donor, registered as having significant control over SCL Group as of 2018
 - **Mercer family** (US, but in the same investor pool)
 
 ## Significance
 
-Establishes that CA was not just a Mercer-funded American operation â€” it was **embedded in the UK Conservative donor establishment** alongside Old Etonian leadership at the firm. The political-class network around CA was bi-national: Mercer-Bannon-Trump on one side, Tory-Marland-Tchenguiz on the other.
+Establishes that CA was not just a Mercer-funded American operation — it was **embedded in the UK Conservative donor establishment** alongside Old Etonian leadership at the firm. The political-class network around CA was bi-national: Mercer-Bannon-Trump on one side, Tory-Marland-Tchenguiz on the other.
 
 ## URL
 

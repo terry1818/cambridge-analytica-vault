@@ -8,7 +8,7 @@ actors: [Cambridge Analytica, SCL Group, Brittany Kaiser, Uhuru Kenyatta, Raila 
 status: closed
 ---
 
-# HindsightFiles â€” Kenya Material
+# HindsightFiles -- Kenya Material
 
 ## What HindsightFiles documents cover
 
@@ -17,11 +17,11 @@ status: closed
 ### 2013 election (Kenyatta first run)
 - Documents reportedly confirm CA conducted polling and audience-segmentation work for the [[Jubilee Party]] / Uhuru Kenyatta
 - Material referenced the **47,000-Kenyan survey** that CA later cited on its website
-- Documents discuss the **death of a CA staffer in a Kenyan hotel** during the campaign â€” referenced in Channel 4 sting footage but not previously documented in the archive
+- Documents discuss the **death of a CA staffer in a Kenyan hotel** during the campaign -- referenced in Channel 4 sting footage but not previously documented in the archive
 
 ### 2017 election (Kenyatta re-election)
 - Documents reportedly include CA strategy memos on opposition framing
-- Material on **[[360 Media]]** partnership â€” the Kenyan firm formed by Simon Gicharu and Tom Mshindi
+- Material on **[[360 Media]]** partnership -- the Kenyan firm formed by Simon Gicharu and Tom Mshindi
 - Documents reportedly describe online campaign portraying [[Raila Odinga]] as "blood-thirsty," "sympathetic to Al-Shabaab," "no development agenda"
 - Material on Kenyatta as "tough on terrorism," "good for economy"
 
@@ -40,7 +40,7 @@ status: closed
 
 ## Implications
 
-- Kenya was an early/mid CA test environment â€” methods refined here before US 2016
+- Kenya was an early/mid CA test environment -- methods refined here before US 2016
 - Predecessor staffer death raises **unresolved questions about operational security in CA's developing-world work**
 - 360 Media partnership is a **template** for CA's use of local partners as deniable operating fronts
 

@@ -60,13 +60,13 @@ The Trump Foundation case is notable for being:
 
 ## Connections
 
-- [[Donald Trump]] â€” Foundation president; personally paid $2M
-- [[Donald Trump Jr]] Â· [[Ivanka Trump]] Â· [[Eric Trump]] â€” directors; mandatory training imposed
+- [[Donald Trump]] -- Foundation president; personally paid $2M
+- [[Donald Trump Jr]] · [[Ivanka Trump]] · [[Eric Trump]] -- directors; mandatory training imposed
 - [[Trump Foundation]]
-- [[Pam Bondi]] â€” recipient of Foundation contribution; Trump University investigation declined; later Trump 2.0 Attorney General
-- [[Barbara Underwood]] â€” NY AG who filed
-- [[Letitia James]] â€” NY AG who concluded the case
-- [[NY AG v Trump Organization Civil Fraud 2024]] â€” later civil fraud action
+- [[Pam Bondi]] -- recipient of Foundation contribution; Trump University investigation declined; later Trump 2.0 Attorney General
+- [[Barbara Underwood]] -- NY AG who filed
+- [[Letitia James]] -- NY AG who concluded the case
+- [[NY AG v Trump Organization Civil Fraud 2024]] -- later civil fraud action
 
 ## Sources
 

@@ -40,11 +40,11 @@ Per [[Connection - Wexner to Mega Group to Israeli philanthropy]], IAC is one of
 
 ## Connections
 
-- [[Sheldon Adelson]] Â· [[Miriam Adelson]] â€” major donors
-- [[Leslie Wexner]] Â· [[Wexner Foundation]] â€” documented funder
-- [[Mega Group]] â€” overlapping donor network
+- [[Sheldon Adelson]] · [[Miriam Adelson]] -- major donors
+- [[Leslie Wexner]] · [[Wexner Foundation]] -- documented funder
+- [[Mega Group]] -- overlapping donor network
 - [[Connection - Wexner to Mega Group to Israeli philanthropy]]
-- [[Adelson]] â€” entity disambiguation
+- [[Adelson]] -- entity disambiguation
 - [[Lens - Israel]]
 - [[Israel Cluster MOC]]
 

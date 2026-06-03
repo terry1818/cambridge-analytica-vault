@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: The 2017-2021 Kushner White House Middle East policy thread and the 2021-onward Affinity Partners / Saudi PIF private-equity arrangement that monetised the relationships built during the administration.
 tags:
@@ -51,8 +51,8 @@ This connection documents the principal post-administration foreign-state-financ
 
 ## Evidence sources
 
-- [[Source Variety 2025-09 EA PIF Affinity]] â€” recent Affinity reporting
-- [[Source Fortune 2025-12-08 Kushner Paramount]] â€” post-2024 Kushner activity
+- [[Source Variety 2025-09 EA PIF Affinity]] — recent Affinity reporting
+- [[Source Fortune 2025-12-08 Kushner Paramount]] — post-2024 Kushner activity
 - PIF investment-committee documents partially disclosed through investigative journalism
 - US Senate Finance Committee inquiry materials (2022 onward)
 - Kushner Senate-disclosure financial filings prior to 2021

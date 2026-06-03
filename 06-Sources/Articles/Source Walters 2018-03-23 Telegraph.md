@@ -31,7 +31,7 @@ Telegraph piece published days after the Wylie disclosures explored the **Britis
 
 ## Significance
 
-Walters piece is important for understanding the **British social context** of SCL/CA â€” why the firm operated as long as it did within the UK political-establishment comfort zone before exposure. Pairs well with [[Source Knight New Yorker - Life Inside SCL]] for the cultural-anthropology view.
+Walters piece is important for understanding the **British social context** of SCL/CA — why the firm operated as long as it did within the UK political-establishment comfort zone before exposure. Pairs well with [[Source Knight New Yorker - Life Inside SCL]] for the cultural-anthropology view.
 
 ## URL
 

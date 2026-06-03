@@ -18,7 +18,7 @@ Trump 2020 election challenge attorney; Harvard Law graduate (mentored by Lauren
 A series of memos written November-December 2020 to the Trump legal team that became the operational blueprint for the false-elector scheme:
 
 - **November 18, 2020 memo**: framed alternate slates of Trump electors as a "legal" device to preserve options for Pence on January 6
-- **December 6, 2020 memo**: detailed mechanics â€” alternate slates meet December 14, 2020 in seven states (the date the actual electors would meet), sign certificates, submit them to the Senate
+- **December 6, 2020 memo**: detailed mechanics -- alternate slates meet December 14, 2020 in seven states (the date the actual electors would meet), sign certificates, submit them to the Senate
 - **December 9, 2020 memo**: addressed legal vulnerabilities; acknowledged the strategy depended on Pence rejecting or delaying certification
 - **December 13, 2020 memo**: final operational instructions sent to state Republican organizers
 
@@ -46,12 +46,12 @@ Chesebro coordinated with [[John Eastman]] on the broader theory of Pence's auth
 
 ## Connections
 
-- [[Donald Trump]] â€” client; co-conspirator
-- [[John Eastman]] â€” coordinated on the Pence theory
-- [[Rudy Giuliani]] Â· [[Sidney Powell]] Â· [[Jenna Ellis]] â€” Trump legal team
-- [[Boris Epshteyn]] â€” coordinated implementation
-- [[Georgia v Trump RICO 2023]] â€” co-defendant; pled guilty
-- [[US v Trump DC Federal Election Interference Case]] â€” UCC5
+- [[Donald Trump]] -- client; co-conspirator
+- [[John Eastman]] -- coordinated on the Pence theory
+- [[Rudy Giuliani]] · [[Sidney Powell]] · [[Jenna Ellis]] -- Trump legal team
+- [[Boris Epshteyn]] -- coordinated implementation
+- [[Georgia v Trump RICO 2023]] -- co-defendant; pled guilty
+- [[US v Trump DC Federal Election Interference Case]] -- UCC5
 - [[January 6 Select Committee 2021-2023]]
 - [[Stop the Steal]]
 

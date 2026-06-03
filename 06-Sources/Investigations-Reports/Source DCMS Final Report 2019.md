@@ -16,19 +16,19 @@ reliability: high
 
 ## Citation
 
-UK Parliament, Digital, Culture, Media and Sport Committee. (2019-02-18). *Disinformation and fake news: Final Report â€” Eighth Report of Session 2017-19*. London: House of Commons. HC 1791.
+UK Parliament, Digital, Culture, Media and Sport Committee. (2019-02-18). *Disinformation and fake news: Final Report — Eighth Report of Session 2017-19*. London: House of Commons. HC 1791.
 
 ## What it covers
 
 Most comprehensive official UK report on the CA scandal and broader disinformation. ~110 pages. Covers:
 
-1. **Background and scope** â€” what is "fake news" / disinformation as a policy problem
-2. **The companies investigated** â€” CA, SCL, AIQ, Facebook
-3. **CA's methods** â€” data harvest, psychographic targeting
-4. **Russia's influence** â€” Russian state operations on UK politics
-5. **Specific findings on Brexit** â€” Leave.EU, Vote Leave, AIQ links
-6. **Specific findings on Malta** â€” SCL meetings; Christian Kalin / Henley & Partners introductions
-7. **Recommendations** â€” for legislation, platform regulation, transparency
+1. **Background and scope** — what is "fake news" / disinformation as a policy problem
+2. **The companies investigated** — CA, SCL, AIQ, Facebook
+3. **CA's methods** — data harvest, psychographic targeting
+4. **Russia's influence** — Russian state operations on UK politics
+5. **Specific findings on Brexit** — Leave.EU, Vote Leave, AIQ links
+6. **Specific findings on Malta** — SCL meetings; Christian Kalin / Henley & Partners introductions
+7. **Recommendations** — for legislation, platform regulation, transparency
 
 ## Key findings cited in this vault
 

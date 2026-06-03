@@ -32,7 +32,7 @@ Meta agreed to pay **$725 million** to settle a US class-action lawsuit alleging
 The $725M settlement is the **largest single CA-related corporate financial consequence** and the most comprehensive financial accounting of the harm to US users. Combined with:
 
 - $5B FTC fine on Facebook (July 2019)
-- Â£500K UK ICO fine (October 2019)
+- £500K UK ICO fine (October 2019)
 - $100M SEC settlement (July 2019)
 
 Brings Facebook/Meta's CA-related liabilities to ~**$6.35 billion** across all jurisdictions and forums.

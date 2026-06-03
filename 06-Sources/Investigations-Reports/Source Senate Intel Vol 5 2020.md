@@ -16,24 +16,24 @@ reliability: high
 
 ## Citation
 
-US Senate Select Committee on Intelligence. (2020-08-18). *Report on Russian Active Measures Campaigns and Interference in the 2016 US Election â€” Volume 5: Counterintelligence Threats and Vulnerabilities*. 116th Congress, 2nd Session.
+US Senate Select Committee on Intelligence. (2020-08-18). *Report on Russian Active Measures Campaigns and Interference in the 2016 US Election — Volume 5: Counterintelligence Threats and Vulnerabilities*. 116th Congress, 2nd Session.
 
 ## What it covers
 
 **947 pages.** The most authoritative US government document on 2016 Russian interference. Bipartisan; produced by Republican-majority Senate Intelligence Committee under chairmen Burr (R-NC) and Rubio (R-FL). Covers:
 
-1. **WikiLeaks operations** â€” Russian state coordination with WikiLeaks
-2. **Manafort-Kilimnik relationship** â€” most detailed account, established Kilimnik as Russian intelligence officer
-3. **Trump Tower Moscow project** â€” Cohen, Stone
-4. **Trump Tower June 2016 meeting** â€” Veselnitskaya
-5. **August 2016 Trump Tower meeting with Zamel/Prince/Nader** â€” Israeli/UAE pitch
-6. **Seychelles meeting** â€” Prince + Dmitriev January 2017
-7. **Multiple intermediaries** â€” Patten, Cohen, Stone, Papadopoulos, Page, Mifsud
+1. **WikiLeaks operations** — Russian state coordination with WikiLeaks
+2. **Manafort-Kilimnik relationship** — most detailed account, established Kilimnik as Russian intelligence officer
+3. **Trump Tower Moscow project** — Cohen, Stone
+4. **Trump Tower June 2016 meeting** — Veselnitskaya
+5. **August 2016 Trump Tower meeting with Zamel/Prince/Nader** — Israeli/UAE pitch
+6. **Seychelles meeting** — Prince + Dmitriev January 2017
+7. **Multiple intermediaries** — Patten, Cohen, Stone, Papadopoulos, Page, Mifsud
 
 ## CA-relevant findings
 
 - Confirms Manafort-Kilimnik shared polling data and battleground state strategy at August 2016 Grand Havana Room meeting
-- Documents the Trump Tower August 2016 meeting with [[Joel Zamel]], [[Erik Prince]], [[George Nader]] â€” links Israeli intel + UAE + Russia threads to CA
+- Documents the Trump Tower August 2016 meeting with [[Joel Zamel]], [[Erik Prince]], [[George Nader]] — links Israeli intel + UAE + Russia threads to CA
 - Names [[Sam Patten]] as link between CA work and Russia
 - Establishes that the data transferred to Kilimnik went to **Russian intelligence**
 

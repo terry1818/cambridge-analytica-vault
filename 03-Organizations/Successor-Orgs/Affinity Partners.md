@@ -29,20 +29,20 @@ Private equity firm founded 2021 by **[[Jared Kushner]]** after leaving the firs
 
 ## Leadership
 
-- [[Jared Kushner]] â€” Founder, CEO
-- Asad Naqvi â€” President
+- [[Jared Kushner]] -- Founder, CEO
+- Asad Naqvi -- President
 
 ## Capital sources
 
-- **Saudi PIF â€” $2B** (largest single LP)
+- **Saudi PIF -- $2B** (largest single LP)
 - UAE sovereign wealth (specific entity not fully disclosed)
 - Qatar Investment Authority (reported)
 - Other Gulf-state LPs
 
 ## Notable deals 2025
 
-- **September 2025 â€” Electronic Arts buyout, $55B** with PIF + Silver Lake; Affinity ~5% stake; Kushner brokered EA-PIF connection
-- **December 2025** â€” emerging as backer in Paramount / WBD / Netflix M&A activity, "backed by Saudi billions"
+- **September 2025 -- Electronic Arts buyout, $55B** with PIF + Silver Lake; Affinity ~5% stake; Kushner brokered EA-PIF connection
+- **December 2025** -- emerging as backer in Paramount / WBD / Netflix M&A activity, "backed by Saudi billions"
 - Second fund discussions with PIF underway (PIF holds contractual "first look" rights)
 
 ## How it fits the architecture
@@ -51,26 +51,26 @@ Affinity operates as a **parallel patron layer** that is *not* downstream of Her
 
 ## Investigations
 
-- **House Judiciary Committee** â€” investigating Saudi conflicts and foreign-influence questions
+- **House Judiciary Committee** -- investigating Saudi conflicts and foreign-influence questions
 - Senate Finance also reportedly probing tax-exempt structures used by Affinity LPs
 
 ## Timeline
 
-- `2021-07` â€” Kushner founds Affinity after leaving White House
-- `2022` â€” First close; ~$3B AUM
-- `2022-04` â€” Saudi PIF allocates $2B over board objection
-- `2023` â€” $3B AUM
-- `2024` â€” $4.8B AUM
-- `2025-09-30` â€” EA acquisition announced
-- `2025-12-08` â€” Fortune reports Affinity activity in Paramount/WBD/Netflix M&A
-- `2026-03` â€” Disclosure showing $6.16B AUM
+- `2021-07` -- Kushner founds Affinity after leaving White House
+- `2022` -- First close; ~$3B AUM
+- `2022-04` -- Saudi PIF allocates $2B over board objection
+- `2023` -- $3B AUM
+- `2024` -- $4.8B AUM
+- `2025-09-30` -- EA acquisition announced
+- `2025-12-08` -- Fortune reports Affinity activity in Paramount/WBD/Netflix M&A
+- `2026-03` -- Disclosure showing $6.16B AUM
 
 ## Related entities
 
-- [[Jared Kushner]] â€” Founder
-- [[Donald Trump]] â€” Father-in-law; political patron
-- Saudi PIF â€” anchor LP
-- Silver Lake â€” co-investor (EA deal)
+- [[Jared Kushner]] -- Founder
+- [[Donald Trump]] -- Father-in-law; political patron
+- Saudi PIF -- anchor LP
+- Silver Lake -- co-investor (EA deal)
 
 ## Open questions
 

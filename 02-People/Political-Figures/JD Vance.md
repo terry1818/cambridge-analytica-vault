@@ -21,12 +21,12 @@ aliases: ["J.D. Vance"]
 
 ## Pre-political career
 
-- 2010s â€” Marine Corps service (Iraq deployment)
-- 2013 â€” Ohio State undergraduate
-- 2016 â€” Yale Law School graduate; published **Hillbilly Elegy** (memoir of Appalachian poverty)
-- 2016-2017 â€” joined **[[Mithril Capital]]** (Peter Thiel's mid-stage VC) as principal
-- 2017-2019 â€” Mithril, then **Revolution LLC** (Steve Case's VC)
-- 2019 â€” founded **[[Narya Capital]]** in Cincinnati with Thiel as anchor investor; raised ~$93M for fund I
+- 2010s -- Marine Corps service (Iraq deployment)
+- 2013 -- Ohio State undergraduate
+- 2016 -- Yale Law School graduate; published **Hillbilly Elegy** (memoir of Appalachian poverty)
+- 2016-2017 -- joined **[[Mithril Capital]]** (Peter Thiel's mid-stage VC) as principal
+- 2017-2019 -- Mithril, then **Revolution LLC** (Steve Case's VC)
+- 2019 -- founded **[[Narya Capital]]** in Cincinnati with Thiel as anchor investor; raised ~$93M for fund I
 
 ## Political career
 
@@ -45,38 +45,38 @@ Vance's political positions shifted dramatically over time:
 - **2021+:** became enthusiastic Trump-aligned populist
 - **2022-2024:** US Senator with hardline immigration, anti-China, pro-Trump positions
 
-The shift coincided with Thiel patronage and the founding of Narya Capital â€” pattern critics describe as **opportunistic alignment with the funder/political-network that could elevate him**.
+The shift coincided with Thiel patronage and the founding of Narya Capital -- pattern critics describe as **opportunistic alignment with the funder/political-network that could elevate him**.
 
 ### 2024 VP selection
 
-- 2024-07-15 â€” Trump announced Vance as VP nominee
+- 2024-07-15 -- Trump announced Vance as VP nominee
 - Per multiple journalistic accounts, **Thiel was central in pushing Trump toward Vance**
 - Donald Trump Jr. and Tucker Carlson also reportedly advocated for Vance
 - The selection was a clear win for the Thiel-aligned Tech Right faction over more traditional Republican picks
 
 ### Vice Presidency
 
-- 2025-01-20 â€” inaugurated as 50th US Vice President
+- 2025-01-20 -- inaugurated as 50th US Vice President
 - Active role in Trump 2.0 administration including:
   - Foreign policy speeches (notably 2025 Munich Security Conference attacking European allies)
   - Domestic immigration policy
-  - 2025-02 â€” confrontational Oval Office meeting with Ukrainian President Zelensky
+  - 2025-02 -- confrontational Oval Office meeting with Ukrainian President Zelensky
 - Frequently cited as the **likely heir apparent** for the 2028 Republican presidential nomination
 
 ## Intellectual / political alignments
 
 Vance has publicly cited:
 - **[[Curtis Yarvin]]** ("Mencius Moldbug") neoreactionary thinking
-- **RenÃ© Girard** (mimetic theory; influential at Thiel-aligned circles)
+- **René Girard** (mimetic theory; influential at Thiel-aligned circles)
 - **Patrick Deneen** (anti-liberalism conservative)
 - **Catholic integralist** movement (Vance converted to Catholicism 2019)
 
-The Yarvin citation is particularly significant â€” Yarvin advocates dismantling democratic governance ("RAGE: Retire All Government Employees"), and the **DOGE federal-employee firings under Musk in 2025 implement that vision operationally**.
+The Yarvin citation is particularly significant -- Yarvin advocates dismantling democratic governance ("RAGE: Retire All Government Employees"), and the **DOGE federal-employee firings under Musk in 2025 implement that vision operationally**.
 
 ## Connections
 
 - **Patron:** [[Peter Thiel]] (Mithril, Narya, Senate, VP)
-- **Intellectual influences:** [[Curtis Yarvin]], RenÃ© Girard, Patrick Deneen
+- **Intellectual influences:** [[Curtis Yarvin]], René Girard, Patrick Deneen
 - **2024 selection advocates:** [[Donald Trump Jr.]], Tucker Carlson, [[Peter Thiel]]
 - **Tech Right ecosystem:** [[Marc Andreessen]], [[David Sacks]], [[Elon Musk]]
 - **VP under:** [[Donald Trump]]

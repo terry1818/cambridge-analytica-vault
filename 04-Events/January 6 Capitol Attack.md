@@ -38,16 +38,16 @@ Violent attack on the US Capitol building on January 6, 2021 by supporters of [[
 
 ## Deaths
 
-- **Brian Sicknick** â€” Capitol Police officer; died January 7 of strokes; DC ME ruled natural causes but linked to attack
-- **Ashli Babbitt** â€” Trump supporter; shot by Capitol Police while attempting to breach Speaker's Lobby
-- **Rosanne Boyland** â€” Trump supporter; died of drug overdose during attack
-- **Kevin Greeson** â€” Trump supporter; heart attack
-- **Benjamin Phillips** â€” Trump supporter; stroke
+- **Brian Sicknick** -- Capitol Police officer; died January 7 of strokes; DC ME ruled natural causes but linked to attack
+- **Ashli Babbitt** -- Trump supporter; shot by Capitol Police while attempting to breach Speaker's Lobby
+- **Rosanne Boyland** -- Trump supporter; died of drug overdose during attack
+- **Kevin Greeson** -- Trump supporter; heart attack
+- **Benjamin Phillips** -- Trump supporter; stroke
 
 In days/weeks following:
-- **Officer Howard Liebengood** â€” DC police; suicide January 9
-- **Officer Jeffrey Smith** â€” DC police; suicide January 15
-- Two other Capitol Police officers â€” suicides in subsequent months
+- **Officer Howard Liebengood** -- DC police; suicide January 9
+- **Officer Jeffrey Smith** -- DC police; suicide January 15
+- Two other Capitol Police officers -- suicides in subsequent months
 
 ## Casualties
 
@@ -70,25 +70,25 @@ In days/weeks following:
 - Sentences ranging from probation to 22 years (Enrique Tarrio, Proud Boys leader, seditious conspiracy)
 - Notable seditious conspiracy convictions: Proud Boys leadership ([[Enrique Tarrio]], [[Joseph Biggs]], [[Zachary Rehl]], [[Ethan Nordean]]) and Oath Keepers leadership ([[Stewart Rhodes]], [[Kelly Meggs]])
 
-**January 2025**: Trump issued blanket pardon on his first day of second term to approximately 1,500 January 6 defendants â€” including those convicted of violent assault on police officers and seditious conspiracy.
+**January 2025**: Trump issued blanket pardon on his first day of second term to approximately 1,500 January 6 defendants -- including those convicted of violent assault on police officers and seditious conspiracy.
 
 ## Investigations
 
-- [[January 6 Select Committee 2021-2023]] â€” comprehensive congressional investigation
-- DOJ Capitol Siege Section â€” ongoing prosecutions
-- [[US v Trump DC Federal Election Interference Case]] â€” federal prosecution of Trump (dismissed)
+- [[January 6 Select Committee 2021-2023]] -- comprehensive congressional investigation
+- DOJ Capitol Siege Section -- ongoing prosecutions
+- [[US v Trump DC Federal Election Interference Case]] -- federal prosecution of Trump (dismissed)
 - Various oversight investigations
 
 ## Connections
 
-- [[Donald Trump]] â€” rally speech principal; second-term pardon issuer
-- [[Mike Pence]] â€” target of "Hang Mike Pence" chants
-- [[Stop the Steal]] â€” animating movement
-- [[Proud Boys]] Â· [[Oath Keepers]] â€” organized groups convicted of seditious conspiracy
-- [[Trump Second Impeachment 2021]] â€” based on this conduct
-- [[January 6 Select Committee 2021-2023]] â€” investigating body
-- [[US v Trump DC Federal Election Interference Case]] â€” federal Trump prosecution
-- [[Georgia v Trump RICO 2023]] â€” parallel state prosecution
+- [[Donald Trump]] -- rally speech principal; second-term pardon issuer
+- [[Mike Pence]] -- target of "Hang Mike Pence" chants
+- [[Stop the Steal]] -- animating movement
+- [[Proud Boys]] · [[Oath Keepers]] -- organized groups convicted of seditious conspiracy
+- [[Trump Second Impeachment 2021]] -- based on this conduct
+- [[January 6 Select Committee 2021-2023]] -- investigating body
+- [[US v Trump DC Federal Election Interference Case]] -- federal Trump prosecution
+- [[Georgia v Trump RICO 2023]] -- parallel state prosecution
 
 ## Sources
 

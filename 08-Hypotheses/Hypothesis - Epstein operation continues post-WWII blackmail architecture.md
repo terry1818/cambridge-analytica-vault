@@ -30,16 +30,16 @@ The architectural pattern is documented and consistent. The specific operational
 
 ### Personnel continuity (tier 2)
 
-1. **Roy Cohn â†’ Donald Trump â†’ Epstein** (tier 2 connective): documented. Cohn was Trump's mentor 1970s-1980s. Epstein and Trump were documented social acquaintances 1980s-2000s. Cohn was operationally tied to the alleged Rosenstiel/Hoover compromise apparatus per Anthony Summers and Susan Rosenstiel testimony.
-2. **Robert Maxwell â†’ Ghislaine Maxwell â†’ Epstein**: documented. Robert Maxwell's alleged Mossad connection (tier 2/3) and operational network was inherited by Ghislaine after his 1991 death. Her relocation to NYC and partnership with Epstein began ~1991-1992. See [[Robert Maxwell]] and [[Hypothesis - Epstein had intelligence-service connections]].
+1. **Roy Cohn → Donald Trump → Epstein** (tier 2 connective): documented. Cohn was Trump's mentor 1970s-1980s. Epstein and Trump were documented social acquaintances 1980s-2000s. Cohn was operationally tied to the alleged Rosenstiel/Hoover compromise apparatus per Anthony Summers and Susan Rosenstiel testimony.
+2. **Robert Maxwell → Ghislaine Maxwell → Epstein**: documented. Robert Maxwell's alleged Mossad connection (tier 2/3) and operational network was inherited by Ghislaine after his 1991 death. Her relocation to NYC and partnership with Epstein began ~1991-1992. See [[Robert Maxwell]] and [[Hypothesis - Epstein had intelligence-service connections]].
 3. **Mega Group lineage**: [[Leslie Wexner]] (Epstein's primary funder), Edgar Bronfman Sr., Charles Bronfman, Michael Steinhardt, Max Fisher, and others formed the "Mega Group" of Jewish-American billionaires. Bronfman family history runs through the Prohibition-era Lansky/Costello organized-crime network. See [[Source: Webb - One Nation Under Blackmail Vol 1]].
 
 ### Methodological continuity (tier 2)
 
-- **Use of minors specifically** as a category of leverage that creates particularly strong, particularly unrecoverable kompromat â€” the same logic that drove the [[Hoover Blue Room Allegation]] pattern
-- **Geographic operating model** with multiple secured properties â€” same as the Plaza Hotel "blue suite" operating model at industrial scale
-- **Maintained photographic/video archive** â€” same as the Lansky/Cohn era model
-- **Cultivated relationships with state figures** to ensure prosecution protection â€” same as the Hoover era model
+- **Use of minors specifically** as a category of leverage that creates particularly strong, particularly unrecoverable kompromat — the same logic that drove the [[Hoover Blue Room Allegation]] pattern
+- **Geographic operating model** with multiple secured properties — same as the Plaza Hotel "blue suite" operating model at industrial scale
+- **Maintained photographic/video archive** — same as the Lansky/Cohn era model
+- **Cultivated relationships with state figures** to ensure prosecution protection — same as the Hoover era model
 
 ## Evidence against / complications
 
@@ -55,13 +55,13 @@ The architectural pattern is documented and consistent. The specific operational
 
 ## Implications for the vault thesis
 
-If this hypothesis is correct (or substantially correct), the Epstein operation is best read as the modern capstone of the architecture the vault traces â€” not a one-off scandal. This frames it as Tier-1 evidence for the [[Hypothesis - Three-wing coalition]] structural argument that elite political control in the United States runs through a long-standing kompromat-and-finance apparatus.
+If this hypothesis is correct (or substantially correct), the Epstein operation is best read as the modern capstone of the architecture the vault traces — not a one-off scandal. This frames it as Tier-1 evidence for the [[Hypothesis - Three-wing coalition]] structural argument that elite political control in the United States runs through a long-standing kompromat-and-finance apparatus.
 
 ## Connections
 
-- [[Deep Dive - Epstein as Capstone of the Blackmail Architecture]] â€” long-form synthesis
-- [[Hoover Blue Room Allegation]] â€” direct ancestral pattern
-- [[Hypothesis - Epstein had intelligence-service connections]] â€” adjacent hypothesis
-- [[Mega Group]] â€” connective node
+- [[Deep Dive - Epstein as Capstone of the Blackmail Architecture]] — long-form synthesis
+- [[Hoover Blue Room Allegation]] — direct ancestral pattern
+- [[Hypothesis - Epstein had intelligence-service connections]] — adjacent hypothesis
+- [[Mega Group]] — connective node
 - [[Source: Webb - One Nation Under Blackmail Vol 1]]
 - [[Source: Webb - One Nation Under Blackmail Vol 2]]

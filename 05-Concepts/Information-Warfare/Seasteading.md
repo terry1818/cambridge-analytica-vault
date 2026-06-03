@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Movement to build floating cities in international waters; Thiel-funded; Patri Friedman; pivoted to charter cities
 tags: [concept, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020]
@@ -30,8 +30,8 @@ By mid-2010s, seasteading had **mostly failed in its original maritime form**:
 
 ## Pivot to charter cities
 
-Friedman and others pivoted to **charter cities** â€” autonomous economic zones on land within existing nation-states:
-- **PrÃ³spera** (Honduras) â€” Friedman's Pronomos Capital investment
+Friedman and others pivoted to **charter cities** -- autonomous economic zones on land within existing nation-states:
+- **Próspera** (Honduras) -- Friedman's Pronomos Capital investment
 - Various other charter-city projects globally
 - Connect to broader **[[Network States]]** framework ([[Balaji Srinivasan]])
 

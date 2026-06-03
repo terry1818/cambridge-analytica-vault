@@ -19,7 +19,7 @@ In a December 27, 2020 phone call from Trump to Rosen and Donoghue, Donoghue too
 
 > "Just say the election was corrupt + leave the rest to me and the R. Congressmen."
 
-This handwritten note â€” produced to congressional investigators in 2021 â€” became one of the most-quoted pieces of evidence in the J6 Committee's case for Trump's intent.
+This handwritten note -- produced to congressional investigators in 2021 -- became one of the most-quoted pieces of evidence in the J6 Committee's case for Trump's intent.
 
 ## January 3, 2021 Oval Office meeting
 
@@ -38,12 +38,12 @@ Testified at the June 23, 2022 public hearing focused on the DOJ pressure track.
 
 ## Connections
 
-- [[Donald Trump]] â€” pressure source
-- [[Jeffrey Rosen]] â€” Acting AG; partner
-- [[Jeffrey Clark]] â€” would-be replacement
-- [[Pat Cipollone]] â€” White House Counsel
+- [[Donald Trump]] -- pressure source
+- [[Jeffrey Rosen]] -- Acting AG; partner
+- [[Jeffrey Clark]] -- would-be replacement
+- [[Pat Cipollone]] -- White House Counsel
 - [[January 6 Select Committee 2021-2023]]
-- [[US v Trump DC Federal Election Interference Case]] â€” Smith witness
+- [[US v Trump DC Federal Election Interference Case]] -- Smith witness
 
 ## Sources
 

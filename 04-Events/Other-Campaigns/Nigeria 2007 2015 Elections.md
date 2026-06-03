@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: SCL/CA Nigerian election work 2007 and 2015 cycles; alleged disinformation and Israeli contractor involvement
 tags: [event, topic/cambridge-analytica, topic/election-interference, era/pre-2014, era/2014-2016, jurisdiction/nigeria]
@@ -19,13 +19,13 @@ status: closed
 Per [[Carole Cadwalladr]]'s March 2018 Guardian reporting and follow-on investigation:
 
 - **2015 election work** for unnamed Nigerian client (likely Jonathan reelection campaign)
-- **Israeli contractor involvement** â€” possibly connected to [[Psy-Group]] / [[Joel Zamel]]
-- **Reference to stolen/unauthorized email materials** used in campaign â€” consistent with Nix's later Channel 4 boasts about "intelligence gathering"
+- **Israeli contractor involvement** -- possibly connected to [[Psy-Group]] / [[Joel Zamel]]
+- **Reference to stolen/unauthorized email materials** used in campaign -- consistent with Nix's later Channel 4 boasts about "intelligence gathering"
 - Payment structures partially documented
 
 ## The Israeli intelligence angle
 
-The Nigeria 2015 case is significant because it's an **early documented example of CA Ã— Israeli private intelligence cooperation**:
+The Nigeria 2015 case is significant because it's an **early documented example of CA × Israeli private intelligence cooperation**:
 
 - Predates the December 2016 CA-Psy-Group MOU
 - Suggests longer-running CA-Israeli intel relationship
@@ -38,7 +38,7 @@ The [[Source HindsightFiles 2020]] release included Nigeria-related material tha
 
 ## Buhari's 2015 victory
 
-Despite SCL/CA reportedly working for Jonathan, **Buhari won** the 2015 election â€” a notable case where CA's reported work did NOT result in client victory. This is one of multiple cases where CA's effectiveness was empirically tested and found wanting.
+Despite SCL/CA reportedly working for Jonathan, **Buhari won** the 2015 election -- a notable case where CA's reported work did NOT result in client victory. This is one of multiple cases where CA's effectiveness was empirically tested and found wanting.
 
 ## Open questions
 

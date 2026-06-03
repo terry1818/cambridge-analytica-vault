@@ -21,7 +21,7 @@ American investigative journalist and Dartmouth professor. In 2002 lived at **Iv
 - **The Family: The Secret Fundamentalism at the Heart of American Power** (2008)
 - **C Street: The Fundamentalist Threat to American Democracy** (2010)
 - **Sweet Heaven When I Die** (2011)
-- **The Undertow: Scenes from a Slow Civil War** (2023) Ã¢â‚¬" extends the analysis to contemporary far-right movements
+- **The Undertow: Scenes from a Slow Civil War** (2023) -" extends the analysis to contemporary far-right movements
 
 The Netflix docuseries [[Source The Family Netflix 2019|The Family]] (2019) was based directly on Sharlet's two books. His subsequent journalism has continued tracking the network including the Ugandan Anti-Homosexuality Act lineage.
 
@@ -44,9 +44,9 @@ Sharlet is the **primary credible witness** for the existence, doctrine, and rea
 
 ## Related entities
 
-- [[The Fellowship]] Ã¢â‚¬" subject of his work
-- [[Doug Coe]] Ã¢â‚¬" subject of his work
-- [[David Bahati]] Ã¢â‚¬" interviewed by Sharlet re Uganda
+- [[The Fellowship]] -" subject of his work
+- [[Doug Coe]] -" subject of his work
+- [[David Bahati]] -" interviewed by Sharlet re Uganda
 
 ## Sources
 

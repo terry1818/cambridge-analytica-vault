@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Lens - how data moved from individuals through CA to end users
 tags: [moc, lens]
@@ -9,47 +9,47 @@ type: moc
 
 Trace the data, not the people.
 
-## The Facebook â†’ CA â†’ Trump pipeline
+## The Facebook → CA → Trump pipeline
 
 ```
 Facebook users (~87M)
-    â†“ [Graph API v1.0 friends-data permission]
+    ↓ [Graph API v1.0 friends-data permission]
 TIYDL app installs (~270K)
-    â†“ [Aleksandr Kogan / GSR]
+    ↓ [Aleksandr Kogan / GSR]
 GSR dataset
-    â†“ [purchased 2014, breaching FB ToS]
+    ↓ [purchased 2014, breaching FB ToS]
 Cambridge Analytica
-    â†“ [psychographic models]
+    ↓ [psychographic models]
 Cruz Campaign / Trump Campaign / Make America Number 1 PAC
 ```
 
-## The CA â†’ Russia data flow (documented)
+## The CA → Russia data flow (documented)
 
 ```
 Trump Campaign polling data
-    â†“ [Paul Manafort]
+    ↓ [Paul Manafort]
 Konstantin Kilimnik (Russian intel)
-    â†“ [+ Sam Patten parallel pipeline]
+    ↓ [+ Sam Patten parallel pipeline]
 Russian state interests
 ```
 
 (Confirmed by [[Source Senate Intel Vol 5 2020]])
 
-## CA â†’ Lukoil (separate thread)
+## CA → Lukoil (separate thread)
 
 ```
 CA / Wylie
-    â†“ [pitch meetings; data interest documented]
+    ↓ [pitch meetings; data interest documented]
 Lukoil (Russian state-linked oil company)
 ```
 
 (Confirmed by Wylie testimony)
 
-## CA â†’ Russian-IP-accessed infrastructure
+## CA → Russian-IP-accessed infrastructure
 
 ```
 GSR / Cambridge Psychometrics Centre
-    â†“ [IP addresses from Russia, Tor entry points]
+    ↓ [IP addresses from Russia, Tor entry points]
 Russian-associated countries / actors (per ICO finding)
 ```
 
@@ -57,9 +57,9 @@ Russian-associated countries / actors (per ICO finding)
 
 ```
 CA servers (2018)
-    â†“ [data NOT destroyed despite certifications - NYT viewed samples]
+    ↓ [data NOT destroyed despite certifications - NYT viewed samples]
 Emerdata / successor orgs
-    â†“ [personnel migration + asset transfer per Pasternack/Witt FC 2019]
+    ↓ [personnel migration + asset transfer per Pasternack/Witt FC 2019]
 ?? (current location uncertain)
 ```
 

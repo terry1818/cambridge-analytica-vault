@@ -20,7 +20,7 @@ first-documented: 2025
 4. Scores address-confidence (likelihood the individual is at a given address)
 5. Provides target lists to ICE field operations
 
-**Heavy reliance on HHS data** (medical, social-services records) is the most controversial element â€” using government-provided assistance records to target individuals for deportation enforcement is operationally significant because it **chills access to public services for vulnerable populations**.
+**Heavy reliance on HHS data** (medical, social-services records) is the most controversial element -- using government-provided assistance records to target individuals for deportation enforcement is operationally significant because it **chills access to public services for vulnerable populations**.
 
 ## Relationship to ImmigrationOS
 
@@ -33,14 +33,14 @@ first-documented: 2025
 - ICE / DHS internal databases (TECS, EAGLE, EARM)
 - IRS tax data
 - SSA records
-- **HHS data** (Medicaid, Medicare, ACA, refugee health programs) â€” controversial
+- **HHS data** (Medicaid, Medicare, ACA, refugee health programs) -- controversial
 - Passport / visa records
 - Automated license plate reader feeds (Flock Safety "side door")
 - DOL employment records
 
 ## Why ELITE matters
 
-ELITE represents the **operational integration of the [[Federated Master Database]]** with **immigration-enforcement targeting**. It is **the concrete deliverable** that demonstrates what cross-agency data integration is being used for in practice â€” and shows the federated-database thesis is **not theoretical** but **operationally deployed**.
+ELITE represents the **operational integration of the [[Federated Master Database]]** with **immigration-enforcement targeting**. It is **the concrete deliverable** that demonstrates what cross-agency data integration is being used for in practice -- and shows the federated-database thesis is **not theoretical** but **operationally deployed**.
 
 ## Connection to vault entities
 

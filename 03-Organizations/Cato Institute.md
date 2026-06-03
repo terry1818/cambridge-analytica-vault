@@ -33,8 +33,8 @@ Annual budget approximately $30M+. Approximately 100 staff scholars, fellows, an
 
 ## Notable scholars / fellows over time
 
-- [[Tom Palmer]] Â· Jagadeesh Gokhale Â· various others
-- Connections to broader [[Mont Pelerin Society]] Â· [[Federalist Society]] Â· adjacent libertarian-conservative legal-philosophical infrastructure
+- [[Tom Palmer]] · Jagadeesh Gokhale · various others
+- Connections to broader [[Mont Pelerin Society]] · [[Federalist Society]] · adjacent libertarian-conservative legal-philosophical infrastructure
 
 ## Position in vault
 
@@ -42,10 +42,10 @@ Per [[Patron Wing MOC]] and [[Compare - Major right-wing donor networks]], Cato 
 
 ## Connections
 
-- [[Charles Koch]] Â· [[Koch network]] â€” founding/funding network
-- [[James M Buchanan]] Â· [[Gordon Tullock]] â€” public choice theory foundational figures
-- [[Mont Pelerin Society]] Â· [[Federalist Society]] Â· [[Heritage Foundation]] â€” adjacent institutional infrastructure
-- [[Patron Wing MOC]] Â· [[Lens - 2024-2026 Power Map]]
+- [[Charles Koch]] · [[Koch network]] -- founding/funding network
+- [[James M Buchanan]] · [[Gordon Tullock]] -- public choice theory foundational figures
+- [[Mont Pelerin Society]] · [[Federalist Society]] · [[Heritage Foundation]] -- adjacent institutional infrastructure
+- [[Patron Wing MOC]] · [[Lens - 2024-2026 Power Map]]
 
 ## Sources
 

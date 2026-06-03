@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Additional detail on AggregateIQ - Canadian firm at center of Brexit campaign finance controversy
 tags: [org, org/data-firm, topic/brexit, topic/cambridge-analytica, era/2014-2016, era/2016-2018, jurisdiction/other]
@@ -7,7 +7,7 @@ legal_name: AggregateIQ Data Services Ltd.
 aliases: [AIQ]
 ---
 
-# AggregateIQ â€” Detail
+# AggregateIQ -- Detail
 
 ## Supplementary to [[AggregateIQ (AIQ)]]
 
@@ -15,19 +15,19 @@ aliases: [AIQ]
 
 - **Jeff Silvester** and **Zackary Massingham** founded AIQ
 - Based in Victoria, British Columbia
-- Per Wylie testimony, founded with assistance from SCL/CA â€” described as "SCL Canada" by Wylie
+- Per Wylie testimony, founded with assistance from SCL/CA -- described as "SCL Canada" by Wylie
 
 ### Brexit campaign finance scheme
 
-- **[[Vote Leave]] paid AIQ ~Â£2.7M** of their Â£7M campaign budget
-- **[[BeLeave]]** (youth group) reportedly directed by Vote Leave to spend Â£625K with AIQ
-- **DUP** spent Â£435K (largest in party history) on Brexit ads â€” via AIQ
+- **[[Vote Leave]] paid AIQ ~£2.7M** of their £7M campaign budget
+- **[[BeLeave]]** (youth group) reportedly directed by Vote Leave to spend £625K with AIQ
+- **DUP** spent £435K (largest in party history) on Brexit ads -- via AIQ
 - **Veterans for Britain** also paid AIQ
-- All three campaigns shared AIQ as common contractor â€” **UK Electoral Commission found this constituted illegal coordination** of spending over Vote Leave's spending cap
+- All three campaigns shared AIQ as common contractor -- **UK Electoral Commission found this constituted illegal coordination** of spending over Vote Leave's spending cap
 
 ### Investigations
 
-- UK Electoral Commission fined Vote Leave Â£61,000 (July 2018) for breaching spending limits
+- UK Electoral Commission fined Vote Leave £61,000 (July 2018) for breaching spending limits
 - BC (Canada) Information and Privacy Commissioner investigated AIQ
 - AIQ briefly suspended from Facebook
 - Continued operating; reportedly rebranded operations post-2018

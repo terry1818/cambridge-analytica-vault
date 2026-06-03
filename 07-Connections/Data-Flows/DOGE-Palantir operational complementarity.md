@@ -59,10 +59,10 @@ The vault treats this connection as the operational backbone of the broader [[Hy
 
 ## Evidence sources
 
-- [[Source Rolling Out 2025-11-24 Vance Palantir]] â€” Vance-Palantir relationship reporting
-- [[Source New Republic 2025 Trump Palantir Database]] â€” HHS master-database reporting
-- [[Source ACLU Palantir Deportation]] â€” ICE integration context
-- [[State of Surveillance 2026 DOGE Privacy Act Lawsuits]] â€” Privacy Act litigation
+- [[Source Rolling Out 2025-11-24 Vance Palantir]] — Vance-Palantir relationship reporting
+- [[Source New Republic 2025 Trump Palantir Database]] — HHS master-database reporting
+- [[Source ACLU Palantir Deportation]] — ICE integration context
+- [[State of Surveillance 2026 DOGE Privacy Act Lawsuits]] — Privacy Act litigation
 - DOGE-related court filings (Tier-1, partially disclosed)
 - Palantir federal contract awards (Tier-1, via USAspending.gov and FPDS)
 

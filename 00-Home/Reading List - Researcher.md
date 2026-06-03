@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Researcher reading list - primary sources and methodological foundation for investigation
 tags: [meta, guide, reading-list]
@@ -10,19 +10,19 @@ For someone planning to do investigative or academic work on this domain. Approx
 
 ## Books (read in full)
 
-- [[Source Mindfck (Wylie 2019)]] â€” primary whistleblower memoir
-- [[Source Targeted (Kaiser 2019)]] â€” second whistleblower memoir
-- [[Source Briant 2015 Propaganda and Counter-Terrorism]] â€” pre-scandal academic foundation
+- [[Source Mindfck (Wylie 2019)]] -- primary whistleblower memoir
+- [[Source Targeted (Kaiser 2019)]] -- second whistleblower memoir
+- [[Source Briant 2015 Propaganda and Counter-Terrorism]] -- pre-scandal academic foundation
 - Pomerantsev, *This Is Not Propaganda* (2019)
 - Vaidhyanathan, *Antisocial Media* (2018)
 
 ## Government reports
 
-- [[Source DCMS Final Report 2019]] â€” 110+ pages, full read
-- [[Source Senate Intel Vol 5 2020]] â€” 947 pages; read Vol 1 and 5 fully
-- [[Source Mueller Report 2019]] â€” 448 pages, full read
-- [[Source FTC Complaint Cambridge Analytica 2019]] â€” administrative complaint
-- [[Source ICO 2020-11 Cambridge Analytica investigation]] â€” Denham letter
+- [[Source DCMS Final Report 2019]] -- 110+ pages, full read
+- [[Source Senate Intel Vol 5 2020]] -- 947 pages; read Vol 1 and 5 fully
+- [[Source Mueller Report 2019]] -- 448 pages, full read
+- [[Source FTC Complaint Cambridge Analytica 2019]] -- administrative complaint
+- [[Source ICO 2020-11 Cambridge Analytica investigation]] -- Denham letter
 
 ## Court filings and primary documents
 
@@ -34,17 +34,17 @@ For someone planning to do investigative or academic work on this domain. Approx
 ## Journalism foundations
 
 - Read the full [[Carole Cadwalladr]] Guardian/Observer corpus 2017-2018
-- [[Source Davies 2015-12-11 Guardian]] â€” the journalistic ground zero
-- [[Source Channel 4 2018-03-19 Exposed]] â€” watch all three episodes
-- [[Source Pasternack Witt Fast Company 2019-07-26]] Â· [[Source Pasternack Witt 2019 Before Trump SCL psyops]]
-- [[Source Forbidden Stories 2023 Team Jorge]] â€” Story Killers consortium series
+- [[Source Davies 2015-12-11 Guardian]] -- the journalistic ground zero
+- [[Source Channel 4 2018-03-19 Exposed]] -- watch all three episodes
+- [[Source Pasternack Witt Fast Company 2019-07-26]] · [[Source Pasternack Witt 2019 Before Trump SCL psyops]]
+- [[Source Forbidden Stories 2023 Team Jorge]] -- Story Killers consortium series
 
 ## Academic foundations
 
-- [[Source Kosinski Stillwell Graepel 2013 PNAS]] â€” the foundational psychographic-prediction paper
-- [[Source Matz Kosinski Nave Stillwell 2017 PNAS]] â€” effectiveness study
-- Hersh, *Hacking the Electorate* (2015) â€” skeptical counterweight
-- Tufekci, *Twitter and Tear Gas* (2017) â€” broader platform-politics context
+- [[Source Kosinski Stillwell Graepel 2013 PNAS]] -- the foundational psychographic-prediction paper
+- [[Source Matz Kosinski Nave Stillwell 2017 PNAS]] -- effectiveness study
+- Hersh, *Hacking the Electorate* (2015) -- skeptical counterweight
+- Tufekci, *Twitter and Tear Gas* (2017) -- broader platform-politics context
 
 ## Documentaries
 
@@ -54,10 +54,10 @@ For someone planning to do investigative or academic work on this domain. Approx
 
 ## Investigation methodology
 
-- [[Lens - Disputed Claims]] â€” what is and isn't settled
-- [[HindsightFiles Analytical Index]] â€” the largest unanalyzed archive
-- [[Source Companies House CA Records]] â€” how to use UK primary records
-- [[Source FEC CA Records]] â€” how to use US primary records
+- [[Lens - Disputed Claims]] -- what is and isn't settled
+- [[HindsightFiles Analytical Index]] -- the largest unanalyzed archive
+- [[Source Companies House CA Records]] -- how to use UK primary records
+- [[Source FEC CA Records]] -- how to use US primary records
 
 ## Ongoing watch list
 

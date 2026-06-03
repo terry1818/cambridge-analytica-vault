@@ -1,11 +1,11 @@
-﻿---
+---
 date: 2026-05-17
-description: DoppelgÃƒÂ¢Ã‹â€ Ã…Â¡Ãƒâ€šÃ‚Â§nger - vault navigation node.
+description: DoppelgâˆšÂ§nger - vault navigation node.
 tags:
   - entity
 ---
 
-# DoppelgÃƒÂ¢Ã‹â€ Ã…Â¡Ãƒâ€šÃ‚Â§nger
+# DoppelgâˆšÂ§nger
 
 ## Vault context
 

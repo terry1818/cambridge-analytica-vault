@@ -6,15 +6,15 @@ type: thread
 status: active
 ---
 
-# Defensive Playbook Ã¢â‚¬â€ Wyoming
+# Defensive Playbook — Wyoming
 
 **Priority: CRITICAL.** Wyoming is on COSA's 2026 target list. **GOP supermajority = vote-margin defense impossible.** Strategy must rely on **inserting the federal-lands wedge** to peel off rural-conservative votes.
 
 ## Key actors
 
-- **Speaker Chip Neiman** (R-1) Ã¢â‚¬â€ Freedom Caucus aligned; likely sponsor
+- **Speaker Chip Neiman** (R-1) — Freedom Caucus aligned; likely sponsor
 - Wyoming has GOP supermajority in both chambers
-- Governor Mark Gordon (R) Ã¢â‚¬â€ no veto backstop
+- Governor Mark Gordon (R) — no veto backstop
 
 ## The federal-lands wedge
 
@@ -24,7 +24,7 @@ status: active
 - National parks tourism (Yellowstone, Grand Teton)
 - Wyoming outdoor-rec industry
 
-**The COSA / Williamsburg 2023 mock convention proposed transferring federal lands to states** Ã¢â‚¬â€ which sounds good in theory but in practice would:
+**The COSA / Williamsburg 2023 mock convention proposed transferring federal lands to states** — which sounds good in theory but in practice would:
 - Force Wyoming to assume management costs ($1B+ annually)
 - Transfer revenue streams to private development
 - Threaten outdoor-rec tourism
@@ -34,7 +34,7 @@ status: active
 
 ## Three-track strategy
 
-### Track 1 Ã¢â‚¬â€ Federal lands counter-coalition
+### Track 1 — Federal lands counter-coalition
 Build a coalition of:
 - Wyoming Outdoor Council
 - Wyoming Stock Growers Association (conservative-but-pragmatic)
@@ -44,15 +44,15 @@ Build a coalition of:
 
 Frame: "The same group pushing this wants to transfer federal lands to state control. That destroys our grazing leases, our hunting access, and our tourism economy."
 
-### Track 2 Ã¢â‚¬â€ Senator Cynthia Lummis pressure
+### Track 2 — Senator Cynthia Lummis pressure
 Lummis is a federal senator but Wyoming-grounded. She's been ambivalent on federal-lands transfer. Pressure her to take a public position; her stance influences state legislators.
 
-### Track 3 Ã¢â‚¬â€ Direct outreach to Speaker Neiman's caucus
+### Track 3 — Direct outreach to Speaker Neiman's caucus
 There are ~10 Wyoming legislators with deep ag / outdoor-rec ties who would lose constituent goodwill from federal-lands transfer. Brief them specifically with district-level economic data.
 
 ## Counter-narrative content for Wyoming
 
-- **TikTok/IG/YouTube:** "What Article V Means for Wyoming Hunters" Ã¢â‚¬â€ narrated by Wyoming outfitter
+- **TikTok/IG/YouTube:** "What Article V Means for Wyoming Hunters" — narrated by Wyoming outfitter
 - **Op-ed:** Wyoming Tribune Eagle + Casper Star-Tribune
 - **Direct mail:** federal-lands-adjacent counties
 

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: The personnel, mentorship, financing, and ideological pipeline connecting Peter Thiel to JD Vance from 2011 through 2026 vice presidency.
 tags:
@@ -45,8 +45,8 @@ This connection is the principal operational channel through which Tech-Right ca
 
 ## Evidence sources
 
-- [[Source Fortune 2025-05-21 Thiel Proteges Trump]] â€” substantial reconstruction of the pipeline
-- [[Source Rolling Out 2025-11-24 Vance Palantir]] â€” operational current-state
+- [[Source Fortune 2025-05-21 Thiel Proteges Trump]] — substantial reconstruction of the pipeline
+- [[Source Rolling Out 2025-11-24 Vance Palantir]] — operational current-state
 - FEC filings on Protect Ohio Values PAC (Tier-1)
 - Vance Senate-disclosure financial filings (Tier-1)
 - Various journalistic reconstructions of the Thiel-Vance relationship

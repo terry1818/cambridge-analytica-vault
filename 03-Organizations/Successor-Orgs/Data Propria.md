@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: US data analytics firm launched May 2018 with ex-CA staff; worked with RNC and Trump 2020
 tags: [org, org/data-firm, topic/cambridge-analytica, era/2018-2020, era/2020-2024, jurisdiction/us]
@@ -18,9 +18,9 @@ Data analytics firm launched **May 2018** as the new data analytics division of 
 
 ## Founding context
 
-- 2018-05 â€” CA insolvency (May 1)
-- 2018-05-29 â€” CloudCommerce press release announces formation of Data Propria
-- Timing â€” three weeks after CA insolvency â€” strongly suggests successor planning predated CA's collapse
+- 2018-05 -- CA insolvency (May 1)
+- 2018-05-29 -- CloudCommerce press release announces formation of Data Propria
+- Timing -- three weeks after CA insolvency -- strongly suggests successor planning predated CA's collapse
 - Multiple ex-CA staff staffed up the firm rapidly
 
 ## Trump 2020 work
@@ -28,16 +28,16 @@ Data analytics firm launched **May 2018** as the new data analytics division of 
 - Per AP (June 2018) and SC Magazine (June 2018):
   - Data Propria contracted with the Republican National Committee
   - Data Propria contracted with Trumps 2020 campaign organization
-  - Combination raised same potential FEC coordination questions that surrounded CA Ã— Make America Number 1 PAC in 2016
+  - Combination raised same potential FEC coordination questions that surrounded CA × Make America Number 1 PAC in 2016
 - Trump campaign publicly minimized Data Propria's role (similar pattern to 2016 CA distancing)
 
 ## CA-successor pattern
 
 Data Propria is the **US-side** of the CA afterlife pattern:
-- [[Auspex International]] â€” UK; Africa/Middle East
-- **Data Propria â€” US; political**
-- [[Emerdata Limited]] â€” UK; holding/successor
-- [[Emic]] â€” UK; defense-side (ex-SCL Defence)
+- [[Auspex International]] -- UK; Africa/Middle East
+- **Data Propria -- US; political**
+- [[Emerdata Limited]] -- UK; holding/successor
+- [[Emic]] -- UK; defense-side (ex-SCL Defence)
 
 The CloudCommerce subsidiary structure provided **commercial cover** for the ex-CA personnel to continue political-data work without the CA brand.
 

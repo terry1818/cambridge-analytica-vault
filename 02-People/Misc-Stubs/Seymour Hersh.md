@@ -8,7 +8,7 @@ aliases: ['Seymour Hersh','Sy Hersh']
 
 # Seymour Hersh
 
-US investigative journalist. Author of "The Samson Option" (1991) - documented account of Israeli nuclear weapons program. My Lai massacre exposÃ© (1969).
+US investigative journalist. Author of "The Samson Option" (1991) - documented account of Israeli nuclear weapons program. My Lai massacre exposé (1969).
 
 ## Vault relevance
 

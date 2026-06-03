@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Blackwater founder; chairman of Frontier Services Group (China-linked); connection to Emerdata via Johnson Chun Shun Ko
 tags: [person, role/executive, role/operative, topic/cambridge-analytica, topic/info-warfare, era/2016-2018, era/2018-2020, jurisdiction/us]
@@ -16,15 +16,15 @@ wikipedia_url: https://en.wikipedia.org/wiki/Erik_Prince
 
 ## Summary
 
-American businessman and former Navy SEAL; founder of private military contractor **Blackwater** (later Academi/Constellis). Chairman of **[[Frontier Services Group]]** â€” a Hong Kong-listed private security firm with major Chinese state-owned investment (CITIC Group). Brother of Trump Education Secretary Betsy DeVos. **CA-relevant link:** [[Johnson Chun Shun Ko]], a FSG officer, sits on the board of [[Emerdata Limited]] alongside [[Rebekah Mercer]] and [[Alexander Nix]] â€” the direct CA-successor entity. Subject of [[Mueller Investigation]]: held a January 2017 Seychelles meeting with Russian Direct Investment Fund head Kirill Dmitriev. Reportedly attended August 2016 Trump Tower meeting with [[Joel Zamel]] regarding social-media manipulation proposal. ([[Source Wikipedia - Erik Prince]], [[Source Mueller Report 2019]])
+American businessman and former Navy SEAL; founder of private military contractor **Blackwater** (later Academi/Constellis). Chairman of **[[Frontier Services Group]]** -- a Hong Kong-listed private security firm with major Chinese state-owned investment (CITIC Group). Brother of Trump Education Secretary Betsy DeVos. **CA-relevant link:** [[Johnson Chun Shun Ko]], a FSG officer, sits on the board of [[Emerdata Limited]] alongside [[Rebekah Mercer]] and [[Alexander Nix]] -- the direct CA-successor entity. Subject of [[Mueller Investigation]]: held a January 2017 Seychelles meeting with Russian Direct Investment Fund head Kirill Dmitriev. Reportedly attended August 2016 Trump Tower meeting with [[Joel Zamel]] regarding social-media manipulation proposal. ([[Source Wikipedia - Erik Prince]], [[Source Mueller Report 2019]])
 
 ## Connections
 
 - **Sister:** Betsy DeVos (Trump Education Secretary)
 - **CA-Emerdata link:** [[Johnson Chun Shun Ko]] (Frontier Services Group officer; Emerdata director)
 - **2016 Trump Tower pitch:** [[Joel Zamel]], George Nader, Donald Trump Jr.
-- **Russian contact:** Kirill Dmitriev (Russian Direct Investment Fund) â€” Seychelles 2017
-- **Companies:** Blackwater â†’ Xe Services â†’ Academi â†’ Constellis; Frontier Services Group; Reflex Responses
+- **Russian contact:** Kirill Dmitriev (Russian Direct Investment Fund) -- Seychelles 2017
+- **Companies:** Blackwater → Xe Services → Academi → Constellis; Frontier Services Group; Reflex Responses
 
 ## Sources
 
@@ -106,7 +106,7 @@ Prince is the single human node whose removal from the network graph would disco
 - The [[Frontier Services Group]] / China-PRC operational vehicle (via the FSG ownership structure and Chinese state co-investment).
 - The UAE / Saudi / Russia state-actor cluster (via [[George Nader]], [[Kirill Dmitriev]], the Seychelles meeting, and subsequent informal advisory work).
 
-His operational style â€” privatised military and intelligence capability deployed across permissive jurisdictions for paying clients â€” is also the closest historical analogue to what a fully privatised AI-era influence-operations stack would look like, which makes him a continuing reference point for the vault's analysis of post-CA successor structures.
+His operational style -- privatised military and intelligence capability deployed across permissive jurisdictions for paying clients -- is also the closest historical analogue to what a fully privatised AI-era influence-operations stack would look like, which makes him a continuing reference point for the vault's analysis of post-CA successor structures.
 
 ## Open research threads
 

@@ -21,10 +21,10 @@ Amer, Karim; Noujaim, Jehane (Dirs.). (2019). *The Great Hack*. Netflix / The Ot
 
 ## Featured subjects
 
-- [[Brittany Kaiser]] â€” central narrative figure
+- [[Brittany Kaiser]] — central narrative figure
 - [[Christopher Wylie]]
 - [[Carole Cadwalladr]]
-- [[David Carroll]] â€” Parsons professor whose UK Data Protection Act case is the narrative spine
+- [[David Carroll]] — Parsons professor whose UK Data Protection Act case is the narrative spine
 
 ## What it documents
 

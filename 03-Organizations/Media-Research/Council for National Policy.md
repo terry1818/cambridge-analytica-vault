@@ -39,11 +39,11 @@ Per various leaks and journalism over decades:
 ## CA-era / contemporary relevance
 
 The CNP has been a **coordination layer** for major right-wing political efforts including:
-- 1980-1990s â€” Reagan-era conservative consolidation
-- 2010s â€” Tea Party / opposition to Obama
-- 2016+ â€” Trump-era populist consolidation
-- 2020-2024 â€” Election denial / "election integrity" movements
-- 2024+ â€” Trump 2.0 personnel coordination
+- 1980-1990s -- Reagan-era conservative consolidation
+- 2010s -- Tea Party / opposition to Obama
+- 2016+ -- Trump-era populist consolidation
+- 2020-2024 -- Election denial / "election integrity" movements
+- 2024+ -- Trump 2.0 personnel coordination
 
 CNP membership has historically overlapped with **religious right leadership, conservative legal infrastructure (FedSoc), and conservative donor networks (Mercer, DeVos, Koch adjacent).** The contemporary CNP is part of the **broader right-wing coordination layer** that the Tech Right has integrated with.
 
@@ -51,7 +51,7 @@ CNP membership has historically overlapped with **religious right leadership, co
 
 CNP is **structurally important** because it represents the **historical institutional coordination layer** that pre-existed the contemporary Tech Right consolidation. The Mercer family, the Federalist Society, Heritage Foundation, and other vault-documented entities have all operated through or adjacent to CNP for decades.
 
-The contemporary Trump 2.0 alignment is **layered on top of pre-existing CNP coordination** â€” Tech Right figures have joined / coordinated with CNP-affiliated networks rather than displacing them.
+The contemporary Trump 2.0 alignment is **layered on top of pre-existing CNP coordination** -- Tech Right figures have joined / coordinated with CNP-affiliated networks rather than displacing them.
 
 ## Connections
 

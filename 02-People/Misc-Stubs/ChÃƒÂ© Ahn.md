@@ -1,11 +1,11 @@
-﻿---
+---
 date: 2026-05-17
-description: ChÃƒÂ© Ahn - vault note (auto-populated from cross-referenced wikilink).
+description: Ché Ahn - vault note (auto-populated from cross-referenced wikilink).
 tags:
   - entity
 ---
 
-# ChÃƒÂ© Ahn
+# Ché Ahn
 
 ## Entity-tier vault note
 

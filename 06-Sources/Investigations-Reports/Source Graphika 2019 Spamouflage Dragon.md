@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Graphika's September 2019 identification of the Spamouflage Dragon Chinese state-linked network â€” the foundational public attribution that subsequent threat-report analysis built on
+description: Graphika's September 2019 identification of the Spamouflage Dragon Chinese state-linked network — the foundational public attribution that subsequent threat-report analysis built on
 aliases: ["Source: Source Graphika 2019 Spamouflage Dragon"]
 tags: [source, evidence/investigation-report, topic/info-warfare, topic/disinformation, era/2018-2020, jurisdiction/china]
 type: source
@@ -21,9 +21,9 @@ Graphika. (2019-09-25). *Spamouflage Dragon: A Persistent Chinese Influence Oper
 
 ## What it is
 
-The **first major public attribution** of the [[Spamouflage Dragonbridge]] Chinese state-linked coordinated-inauthentic-behavior network. Published by **Graphika** â€” an investigative network-analysis firm with a strong technical methodology for mapping inauthentic-behavior clusters across platforms. The 2019 report established the operational signature, scale, and persistence of what later became one of the most-tracked Chinese state-linked influence operations of the 2020s.
+The **first major public attribution** of the [[Spamouflage Dragonbridge]] Chinese state-linked coordinated-inauthentic-behavior network. Published by **Graphika** — an investigative network-analysis firm with a strong technical methodology for mapping inauthentic-behavior clusters across platforms. The 2019 report established the operational signature, scale, and persistence of what later became one of the most-tracked Chinese state-linked influence operations of the 2020s.
 
-The Spamouflage network is significant for this vault because it represents the **state-actor end of the spectrum** alongside [[Doppelganger]] (Russia), [[Team Jorge]] (Israeli private-intel-for-hire), and the [[Hypothesis - Federal database supersedes CA model|US federal-database architecture]] â€” illustrating that **CA's commercial model is one segment of a much wider influence-operations ecosystem**.
+The Spamouflage network is significant for this vault because it represents the **state-actor end of the spectrum** alongside [[Doppelganger]] (Russia), [[Team Jorge]] (Israeli private-intel-for-hire), and the [[Hypothesis - Federal database supersedes CA model|US federal-database architecture]] — illustrating that **CA's commercial model is one segment of a much wider influence-operations ecosystem**.
 
 ## Key claims / findings
 
@@ -32,12 +32,12 @@ The Spamouflage network is significant for this vault because it represents the 
 - **Content:** Pro-Beijing political messaging, anti-Hong-Kong-protest content, anti-dissident messaging, attacks on critics of the Chinese government, narratives favorable to Chinese geopolitical positioning
 - **Methodology:** Network discovery via behavioral fingerprinting (account creation patterns, posting cadence, follower-network structure, content-recycling patterns)
 - **Scale:** Thousands of inauthentic accounts at time of initial reporting; subsequent reports document growth into tens of thousands across platforms
-- **Persistence:** "Persistent" in the title is deliberate â€” unlike one-off campaigns, Spamouflage rebuilds and re-emerges after takedowns; takedown-and-reconstitute cycle characterizes the operation
+- **Persistence:** "Persistent" in the title is deliberate — unlike one-off campaigns, Spamouflage rebuilds and re-emerges after takedowns; takedown-and-reconstitute cycle characterizes the operation
 
 ## Significance for the vault
 
 - **Comparative baseline:** sits alongside [[Doppelganger]] (Russia, [[Source EU DisinfoLab 2022 Doppelganger]]) and [[Team Jorge]] ([[Source Forbidden Stories 2023 Team Jorge]]) in the [[Compare - State vs Private vs Commercial influence ops]] taxonomy
-- **State-actor framing:** the cleanest single example of a **state-attributed, persistent, cross-platform** influence operation â€” distinct from CA's commercial-vendor model
+- **State-actor framing:** the cleanest single example of a **state-attributed, persistent, cross-platform** influence operation — distinct from CA's commercial-vendor model
 - **Methodology innovation:** Graphika's network-analysis approach has been widely adopted by Meta's threat-reporting team and Stanford Internet Observatory
 
 ## Reliability assessment
@@ -46,7 +46,7 @@ The Spamouflage network is significant for this vault because it represents the 
 - **Independent corroboration:** subsequent Meta threat reports ([[Source Meta Threat Reports 2022-2024]]), Stanford Internet Observatory reporting, Google TAG, and academic researchers have all corroborated and extended the Spamouflage attribution
 - **Strengths:** technical methodology disclosed; reproducible behavioral fingerprinting; cross-platform scope
 - **Caveats:**
-  - Attribution to "Chinese state-linked" is **circumstantial** â€” Graphika does not claim direct PLA/MSS attribution; the inference rests on operational signature, content alignment, and access patterns
+  - Attribution to "Chinese state-linked" is **circumstantial** — Graphika does not claim direct PLA/MSS attribution; the inference rests on operational signature, content alignment, and access patterns
   - Initial 2019 scale estimates have been revised upward in subsequent reporting (suggesting under-detection at first attribution)
 - **Disputed by:** the Chinese government has rejected attribution; specific takedown criteria have been criticized by some open-source researchers as conflating different operator clusters
 
@@ -58,9 +58,9 @@ The Spamouflage network is significant for this vault because it represents the 
 
 ## How I'm using this
 
-- [[Spamouflage Dragonbridge]] (entity hub) â€” foundational attribution source
+- [[Spamouflage Dragonbridge]] (entity hub) — foundational attribution source
 - [[Coordinated Inauthentic Behavior]] (concept node)
-- [[Compare - State vs Private vs Commercial influence ops]] â€” state-actor anchor
+- [[Compare - State vs Private vs Commercial influence ops]] — state-actor anchor
 - [[AI Influence Ops MOC]]
 - [[State Actors MOC]]
 - [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]] (contrast: state-attributed vs commercial parallel)
@@ -68,7 +68,7 @@ The Spamouflage network is significant for this vault because it represents the 
 ## Open questions
 
 - [ ] What is the current 2024-2026 scale of the Spamouflage network across platforms?
-- [ ] How has the operation adapted to generative-AI capabilities â€” see [[Source NewsGuard 2024 AI election report]] for adjacent context
+- [ ] How has the operation adapted to generative-AI capabilities — see [[Source NewsGuard 2024 AI election report]] for adjacent context
 - [ ] Specific links (if any) to Chinese commercial PR firms operating in parallel
 
 ## Archive

@@ -20,11 +20,11 @@ Sellers, Frances Stead. (2015-10-19). "Cruz campaign paid $750,000 to 'psychogra
 
 ## What this article established
 
-Pre-scandal Washington Post reporting on **specific FEC-recorded payments from the Cruz campaign to Cambridge Analytica**: $750K disclosed in October 2015. Came before the December 2015 [[Source Davies 2015-12-11 Guardian]] exposÃ© that established CA's harvest methodology. This piece was about the **commercial transaction** without yet revealing the data sourcing.
+Pre-scandal Washington Post reporting on **specific FEC-recorded payments from the Cruz campaign to Cambridge Analytica**: $750K disclosed in October 2015. Came before the December 2015 [[Source Davies 2015-12-11 Guardian]] exposé that established CA's harvest methodology. This piece was about the **commercial transaction** without yet revealing the data sourcing.
 
 ## Significance
 
-Demonstrates that CA's commercial profile was visible in mainstream US political reporting in 2015 â€” **the firm was not hidden, but its methodology was**. The 2015 Davies piece and this Sellers piece together establish that the structural facts of CA were available 30+ months before the 2018 scandal broke globally â€” but didn't trigger enforcement.
+Demonstrates that CA's commercial profile was visible in mainstream US political reporting in 2015 — **the firm was not hidden, but its methodology was**. The 2015 Davies piece and this Sellers piece together establish that the structural facts of CA were available 30+ months before the 2018 scandal broke globally — but didn't trigger enforcement.
 
 ## Sources
 

@@ -13,7 +13,7 @@ status: closed
 
 ## Summary
 
-[[Cambridge Analytica]] was reportedly involved in the 2016 Philippines presidential election that elected **[[Rodrigo Duterte]]**. [[SCL Group]] claimed to have rebranded Duterte's image to target voters swayed by toughness and decisiveness. Duterte's camp denied the association. During this election cycle, **Facebook confirmed that data of more than 1 million Filipino users was improperly shared with CA**. In 2020, [[Brittany Kaiser]] alleged that former Senator [[Bongbong Marcos]] (son of dictator Ferdinand Marcos Sr.) had approached CA to "rebrand" the Marcos family image â€” Bongbong went on to win the Philippine presidency in May 2022. ([[Source Wikipedia - Cambridge Analytica]])
+[[Cambridge Analytica]] was reportedly involved in the 2016 Philippines presidential election that elected **[[Rodrigo Duterte]]**. [[SCL Group]] claimed to have rebranded Duterte's image to target voters swayed by toughness and decisiveness. Duterte's camp denied the association. During this election cycle, **Facebook confirmed that data of more than 1 million Filipino users was improperly shared with CA**. In 2020, [[Brittany Kaiser]] alleged that former Senator [[Bongbong Marcos]] (son of dictator Ferdinand Marcos Sr.) had approached CA to "rebrand" the Marcos family image -- Bongbong went on to win the Philippine presidency in May 2022. ([[Source Wikipedia - Cambridge Analytica]])
 
 ## Sources
 

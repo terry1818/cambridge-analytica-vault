@@ -6,10 +6,10 @@ type: organization
 legal_name: New Apostolic Reformation (movement; not a single legal entity)
 aliases: [NAR, Apostolic-Prophetic movement, ICA (International Coalition of Apostolic Leaders)]
 founded: ~1990s (term coined by Wagner)
-headquarters: distributed; key nodes at Bethel Church (Redding CA), Global Spheres (Corinth TX), ChÃ© Ahn's HRock (Pasadena CA)
+headquarters: distributed; key nodes at Bethel Church (Redding CA), Global Spheres (Corinth TX), Ché Ahn's HRock (Pasadena CA)
 jurisdiction: US + 100+ countries
 parent_org: ""
-key_people: [C. Peter Wagner (founder; deceased 2016), Lance Wallnau, Cindy Jacobs, ChÃ© Ahn, Lou Engle, Paula White-Cain, Bill Johnson, Mike Bickle, Sean Feucht, Dutch Sheets]
+key_people: [C. Peter Wagner (founder; deceased 2016), Lance Wallnau, Cindy Jacobs, Ché Ahn, Lou Engle, Paula White-Cain, Bill Johnson, Mike Bickle, Sean Feucht, Dutch Sheets]
 status: active
 wikipedia_url: https://en.wikipedia.org/wiki/New_Apostolic_Reformation
 ---
@@ -48,7 +48,7 @@ The **dominant current operational form of the theocratic wing's mass-mobilizati
 - **[[Lance Wallnau]]** - Popularized [[Seven Mountains Mandate]] via 2013 *Invasion of Babylon*; first to "prophesy" Trump's 2016 victory; runs Courage Tour 2024 (19 bellwether counties, 9 states); active in Trump 2.0 era
 - **[[Paula White-Cain]]** - Trump's longtime spiritual advisor; led White House Faith and Opportunity Initiative; brought NAR apostles into Trump 2015 meetings
 - **Cindy Jacobs** - Generals International apostle; declared in 2023 that "wartime president" was needed in 2024 or there would be war in 2025
-- **ChÃ© Ahn** - HRock Church (Pasadena); founder of Harvest International Ministry; central NAR networking apostle
+- **Ché Ahn** - HRock Church (Pasadena); founder of Harvest International Ministry; central NAR networking apostle
 - **Lou Engle** - The Call; mass prayer rallies; longtime NAR organizer
 - **Bill Johnson** - Bethel Church (Redding CA); major NAR institutional center
 - **Mike Bickle** - International House of Prayer Kansas City (IHOPKC); major training center
@@ -99,7 +99,7 @@ NAR theology positions Trump as **a "wartime president" / "God's chosen warrior"
 
 ## Internal NAR rifts
 
-In October 2022, **60+ Charismatic figures signed a statement denouncing Christian nationalism, racial and ethnic supremacy, and the conflation of spirituality and patriotism**. Notable refusers: Cindy Jacobs, ChÃ© Ahn, Lance Wallnau, Dutch Sheets - i.e., the most politically active NAR figures **refused to sign**, indicating the depth of their political commitment.
+In October 2022, **60+ Charismatic figures signed a statement denouncing Christian nationalism, racial and ethnic supremacy, and the conflation of spirituality and patriotism**. Notable refusers: Cindy Jacobs, Ché Ahn, Lance Wallnau, Dutch Sheets - i.e., the most politically active NAR figures **refused to sign**, indicating the depth of their political commitment.
 
 This rift is a **counter-strategy opportunity** - the moderate-charismatic wing is separable from the politically-extreme wing.
 
@@ -124,7 +124,7 @@ This rift is a **counter-strategy opportunity** - the moderate-charismatic wing 
 - [[Lance Wallnau]] - operational lead
 - [[Paula White]] - Trump-administration bridge
 - [[Cindy Jacobs]] - wartime-president prophecy
-- [[ChÃ© Ahn]] - networking apostle
+- [[Ché Ahn]] - networking apostle
 - [[Sean Feucht]] - rally organizer
 - [[Seven Mountains Mandate]] - operationalized framework
 - [[Dominionism]] - theological foundation

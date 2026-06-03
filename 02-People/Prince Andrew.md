@@ -15,14 +15,14 @@ Born February 19, 1960, Buckingham Palace, London. Second son of Queen Elizabeth
 
 ## Documented connections to the Epstein operation
 
-### Tier 1 â€” documented
+### Tier 1 -- documented
 
 - Photographed with [[Ghislaine Maxwell]] and Giuffre at the London home of Maxwell in March 2001. The photograph showing Andrew with his arm around Giuffre is widely reproduced. Andrew has questioned its authenticity; the photograph has never been authoritatively proven fake.
 - Stayed at Epstein's properties on multiple occasions documented across the 2000s including the New York mansion. Flight log presence documented.
 - Photographed walking with Epstein in Central Park in December 2010 (after Epstein's 2008 NPA conviction).
 - November 2019 BBC Newsnight interview with Emily Maitlis publicly addressed the Epstein association; widely viewed as a failed defense.
 
-### Tier 1 â€” sworn allegations (existence of allegation; underlying facts contested)
+### Tier 1 -- sworn allegations (existence of allegation; underlying facts contested)
 
 [[Virginia Giuffre]] testified under oath in depositions in Giuffre v. Maxwell that Maxwell and Epstein trafficked her to Prince Andrew on three separate occasions:
 1. In London (March 2001)
@@ -31,7 +31,7 @@ Born February 19, 1960, Buckingham Palace, London. Second son of Queen Elizabeth
 
 Prince Andrew denied the allegations.
 
-### Tier 1 â€” civil resolution
+### Tier 1 -- civil resolution
 
 - **August 2021**: Giuffre filed civil suit against Andrew in the Southern District of New York under the New York Child Victims Act.
 - **January 2022**: US District Judge Lewis Kaplan denied Andrew's motion to dismiss.
@@ -49,8 +49,8 @@ The civil settlement is **not a criminal conviction** and Andrew did not admit l
 ## Connections
 
 - [[Jeffrey Epstein]]
-- [[Ghislaine Maxwell]] â€” long-standing personal friend
-- [[Virginia Giuffre]] â€” accuser; civil plaintiff
+- [[Ghislaine Maxwell]] -- long-standing personal friend
+- [[Virginia Giuffre]] -- accuser; civil plaintiff
 - [[Little St James]]
 
 ## Sources

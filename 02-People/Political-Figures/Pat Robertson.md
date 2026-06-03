@@ -35,10 +35,10 @@ Televangelist, broadcasting executive, and politician. Founded the **Christian B
 
 ## Related vault entries
 
-- [[Christian Coalition]] Ã¢â‚¬" founded
-- [[Ralph Reed]] Ã¢â‚¬" his executive director
-- [[Council for National Policy]] Ã¢â‚¬" member
-- [[Theocratic Wing Infrastructure 1935-2026]] Ã¢â‚¬" historical-layer figure
+- [[Christian Coalition]] -" founded
+- [[Ralph Reed]] -" his executive director
+- [[Council for National Policy]] -" member
+- [[Theocratic Wing Infrastructure 1935-2026]] -" historical-layer figure
 
 ## Sources
 

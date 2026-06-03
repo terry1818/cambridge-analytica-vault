@@ -18,9 +18,9 @@ US conservative 501(c)(4) advocacy organization founded in **2010** as the **pol
 
 ## Operational role
 
-- **Congressional Scorecard** â€” rates Republican legislators' voting records
-- **Grassroots lobbying** â€” mobilizes Heritage-aligned grassroots conservatives
-- **Coalition building** â€” coordinates with other conservative advocacy organizations
+- **Congressional Scorecard** -- rates Republican legislators' voting records
+- **Grassroots lobbying** -- mobilizes Heritage-aligned grassroots conservatives
+- **Coalition building** -- coordinates with other conservative advocacy organizations
 - **Trump 2.0 era:** active coordination on Project 2025 implementation, judicial nominations, federal restructuring
 
 ## Why this matters for this vault
@@ -32,7 +32,7 @@ Heritage Action represents the **political-pressure arm** of the broader Heritag
 - [[Project 2025]] (Trump 2.0 personnel and policy blueprint)
 - Coordination with [[Federalist Society]] judicial pipeline
 
-â€” makes Heritage / Heritage Action **arguably the most operationally important conservative institutional infrastructure** for Trump 2.0.
+-- makes Heritage / Heritage Action **arguably the most operationally important conservative institutional infrastructure** for Trump 2.0.
 
 ## Connections
 

@@ -20,7 +20,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/SCL_Group
 
 ## Summary
 
-Private British behavioural research and strategic communication company. Founded 1990 by [[Nigel Oakes]] as the **Behavioural Dynamics Institute (BDI)**; renamed Strategic Communication Laboratories in 1993; later "SCL Group". Described itself as a "global election management agency". Parent of [[Cambridge Analytica]]; held defense contracts with US DoD and UK MoD; ran influence operations and election campaigns worldwide. Disbanded 2018-05-01 following the Facebookâ€“Cambridge Analytica data scandal. ([[Source Wikipedia - SCL Group]])
+Private British behavioural research and strategic communication company. Founded 1990 by [[Nigel Oakes]] as the **Behavioural Dynamics Institute (BDI)**; renamed Strategic Communication Laboratories in 1993; later "SCL Group". Described itself as a "global election management agency". Parent of [[Cambridge Analytica]]; held defense contracts with US DoD and UK MoD; ran influence operations and election campaigns worldwide. Disbanded 2018-05-01 following the Facebook-Cambridge Analytica data scandal. ([[Source Wikipedia - SCL Group]])
 
 ## Identity
 
@@ -34,22 +34,22 @@ Private British behavioural research and strategic communication company. Founde
 
 ## Leadership
 
-- [[Nigel John Oakes]] â€” founder, CEO (TV/advertising background)
-- [[Alexander Oakes]] â€” co-founder (brother of Nigel)
-- [[Alexander Nix]] â€” CEO of CA subsidiary; director
-- [[Julian Wheatland]] â€” director, later CEO of CA
-- [[Sir Geoffrey Pattie]] â€” founding chairman; former Conservative MP and defense minister
-- [[Lord Ivar Mountbatten]] â€” director (great-nephew of Louis Mountbatten)
-- [[Roger Michael Gabb]] â€” investor and director; major Conservative Party donor; registered as having significant control 2018
-- [[Jonathan Marland]] (Baron Marland) â€” investor; former Conservative Party treasurer and minister
-- Paul David Ashburner Nix â€” investor (banker; father of Alexander Nix)
-- Jacquelyn James-Varga â€” director (previously at Mercer Family Foundation)
+- [[Nigel John Oakes]] -- founder, CEO (TV/advertising background)
+- [[Alexander Oakes]] -- co-founder (brother of Nigel)
+- [[Alexander Nix]] -- CEO of CA subsidiary; director
+- [[Julian Wheatland]] -- director, later CEO of CA
+- [[Sir Geoffrey Pattie]] -- founding chairman; former Conservative MP and defense minister
+- [[Lord Ivar Mountbatten]] -- director (great-nephew of Louis Mountbatten)
+- [[Roger Michael Gabb]] -- investor and director; major Conservative Party donor; registered as having significant control 2018
+- [[Jonathan Marland]] (Baron Marland) -- investor; former Conservative Party treasurer and minister
+- Paul David Ashburner Nix -- investor (banker; father of Alexander Nix)
+- Jacquelyn James-Varga -- director (previously at Mercer Family Foundation)
 
 ## Activities & methods
 
 - Combined data mining, data analysis, and targeted communications to **modify audience behaviour** per client goals
 - Pioneer of "psy ops" applied to civilian elections
-- 2005: showcased "influence operations" capacity at DSEI (UK's largest military tech showcase) â€” capacity for "mass deception" of a city like London
+- 2005: showcased "influence operations" capacity at DSEI (UK's largest military tech showcase) -- capacity for "mass deception" of a city like London
 - Defense contracts: US DoD, UK MoD; also war-on-terror "behavioral conflict" work in 2000s
 - Claimed >25 international political/electoral campaigns since 1994; some sources cite involvement in 200+ elections
 
@@ -57,41 +57,41 @@ Private British behavioural research and strategic communication company. Founde
 
 Italy, Latvia, Ukraine, Albania, Romania, South Africa, Nigeria, Kenya, Mauritius, India, Indonesia, Philippines, Thailand, Taiwan, Colombia, Antigua, St. Vincent & the Grenadines, St. Kitts & Nevis, Trinidad & Tobago
 
-After 1997 did NOT engage in UK election campaigns â€” staff didn't show "the same 'aloof sensibility' as with projects abroad" (per Wikipedia summarizing Slate piece by [[Sharon Weinberger]])
+After 1997 did NOT engage in UK election campaigns -- staff didn't show "the same 'aloof sensibility' as with projects abroad" (per Wikipedia summarizing Slate piece by [[Sharon Weinberger]])
 
 ## Successor entities & continuity
 
-- **[[Cambridge Analytica]]** â€” formed 2013; collapsed 2018
-- **[[Emerdata Limited]]** â€” formed Aug 2017 by SCL/CA chief data officer + chairman; same building as CA; raised $19M Jan 2018 from international investors; reportedly acquired SCL/CA assets per July 2019 reporting
-- **[[Firecrest Technologies]]** â€” set up by Nix
-- **[[Auspex International]]** â€” July 2018, ex-CA staff (Africa/Middle East focus)
-- **[[Data Propria]]** â€” May 2018, ex-CA staff (US political)
-- **Emic** â€” 2020 â€” set up by SCL defence contractor staff, continues to work for governments (per [[Emma Briant]] reporting)
-- **Cairo office** â€” opened during COVID-19 pandemic
-- **Crow Trading Ltd. (Bahrain)** â€” 2020 link; founded by Egyptian behavioral psychology scientist Dr. Mohamed Y. Abdelrahman
+- **[[Cambridge Analytica]]** -- formed 2013; collapsed 2018
+- **[[Emerdata Limited]]** -- formed Aug 2017 by SCL/CA chief data officer + chairman; same building as CA; raised $19M Jan 2018 from international investors; reportedly acquired SCL/CA assets per July 2019 reporting
+- **[[Firecrest Technologies]]** -- set up by Nix
+- **[[Auspex International]]** -- July 2018, ex-CA staff (Africa/Middle East focus)
+- **[[Data Propria]]** -- May 2018, ex-CA staff (US political)
+- **Emic** -- 2020 -- set up by SCL defence contractor staff, continues to work for governments (per [[Emma Briant]] reporting)
+- **Cairo office** -- opened during COVID-19 pandemic
+- **Crow Trading Ltd. (Bahrain)** -- 2020 link; founded by Egyptian behavioral psychology scientist Dr. Mohamed Y. Abdelrahman
 
 ## Investigations & enforcement
 
-- 2019 â€” [[FTC v Cambridge Analytica]] complaint (Nix and Kogan settled; CA case ongoing)
-- 2020-09-14 â€” [[Alexander Nix]] signed disqualification undertaking; banned 7 years as UK company director (effective 2020-10-05). Insolvency Service: Nix "caused or permitted SCL Elections Ltd or associated companies to market themselves as offering potentially unethical services to prospective clients; demonstrating a lack of commercial probity"
+- 2019 -- [[FTC v Cambridge Analytica]] complaint (Nix and Kogan settled; CA case ongoing)
+- 2020-09-14 -- [[Alexander Nix]] signed disqualification undertaking; banned 7 years as UK company director (effective 2020-10-05). Insolvency Service: Nix "caused or permitted SCL Elections Ltd or associated companies to market themselves as offering potentially unethical services to prospective clients; demonstrating a lack of commercial probity"
 
 ## Timeline
 
-- `1990` â€” BDI founded by Nigel Oakes
-- `1993` â€” Strategic Communication Laboratories established
-- `1994` â€” first political campaigns claimed
-- `2005-07-20` â€” incorporated as SCL Ltd at Companies House via SDG Registrars
-- `2005-09-19` â€” [[Sharon Weinberger]] Slate piece "You Can't Handle the Truth" exposes SCL methods
-- `2013` â€” subsidiary Cambridge Analytica formed
-- `2014` â€” CA buys [[GSR]] data; enters 44 US races
-- `2015-12-11` â€” [[Source Davies 2015-12-11 Guardian]] first major CA/Cruz exposÃ©
-- `2017-08` â€” [[Emerdata Limited]] established
-- `2018-03-19` â€” [[Channel 4 Sting 2018]] broadcast
-- `2018-05-01` â€” SCL and CA file for insolvency
-- `2018-07-12` â€” Auspex announced ([[Source BBC 2018-07-12 staff set up new firm]])
-- `2019-07-23` â€” FTC files complaint
-- `2019-07` â€” Emerdata "fully acquired" what remained of SCL/CA
-- `2020-09-14` â€” Nix director disqualification signed
+- `1990` -- BDI founded by Nigel Oakes
+- `1993` -- Strategic Communication Laboratories established
+- `1994` -- first political campaigns claimed
+- `2005-07-20` -- incorporated as SCL Ltd at Companies House via SDG Registrars
+- `2005-09-19` -- [[Sharon Weinberger]] Slate piece "You Can't Handle the Truth" exposes SCL methods
+- `2013` -- subsidiary Cambridge Analytica formed
+- `2014` -- CA buys [[GSR]] data; enters 44 US races
+- `2015-12-11` -- [[Source Davies 2015-12-11 Guardian]] first major CA/Cruz exposé
+- `2017-08` -- [[Emerdata Limited]] established
+- `2018-03-19` -- [[Channel 4 Sting 2018]] broadcast
+- `2018-05-01` -- SCL and CA file for insolvency
+- `2018-07-12` -- Auspex announced ([[Source BBC 2018-07-12 staff set up new firm]])
+- `2019-07-23` -- FTC files complaint
+- `2019-07` -- Emerdata "fully acquired" what remained of SCL/CA
+- `2020-09-14` -- Nix director disqualification signed
 
 ## Open questions
 

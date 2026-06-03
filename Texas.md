@@ -11,20 +11,20 @@ Texas references in this vault point to multiple specific entities:
 
 ## State-level political infrastructure
 
-- **[[Texas Public Policy Foundation]]** (TPPF) Ã¢â‚¬â€ Texas [[State Policy Network]] affiliate; one of the largest SPN affiliates
+- **[[Texas Public Policy Foundation]]** (TPPF) -- Texas [[State Policy Network]] affiliate; one of the largest SPN affiliates
 - **Texas Republican Party**
-- **Texas Department of Education** Ã¢â‚¬â€ adopted [[PragerU]] Kids curriculum 2024
+- **Texas Department of Education** -- adopted [[PragerU]] Kids curriculum 2024
 
 ## Texas-based entities in vault
 
-- **[[Convention of States Action]]** Ã¢â‚¬â€ Texas passed COS application May 2017; Texas has delegate-selection statute
-- **[[True the Vote]]** Ã¢â‚¬â€ Houston-headquartered ([[Catherine Engelbrecht]])
-- **[[Citizens for Self-Governance]]** Ã¢â‚¬â€ Houston-headquartered ([[Mark Meckler]]'s org)
-- **[[Ted Cruz Campaign 2016]]** Ã¢â‚¬â€ primary CA client
-- Various NAR-affiliated megachurches Ã¢â‚¬â€ Texas cluster per [[NAR Megachurch State-by-State Concentration]]
-- **[[Project Stargate]]** Ã¢â‚¬â€ initial Texas data-center deployment
-- **Charles Koch / [[Koch Industries]]** Ã¢â‚¬â€ Texas (substantial business presence; Wichita KS HQ)
-- **Wilks brothers** Ã¢â‚¬â€ Texas oil; major [[PragerU]] funders
+- **[[Convention of States Action]]** -- Texas passed COS application May 2017; Texas has delegate-selection statute
+- **[[True the Vote]]** -- Houston-headquartered ([[Catherine Engelbrecht]])
+- **[[Citizens for Self-Governance]]** -- Houston-headquartered ([[Mark Meckler]]'s org)
+- **[[Ted Cruz Campaign 2016]]** -- primary CA client
+- Various NAR-affiliated megachurches -- Texas cluster per [[NAR Megachurch State-by-State Concentration]]
+- **[[Project Stargate]]** -- initial Texas data-center deployment
+- **Charles Koch / [[Koch Industries]]** -- Texas (substantial business presence; Wichita KS HQ)
+- **Wilks brothers** -- Texas oil; major [[PragerU]] funders
 
 
 ## Vault context

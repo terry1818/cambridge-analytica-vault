@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Seasteading Institute founder; Thiel-funded; Milton Friedman grandson
 tags: [person, role/operative, role/philosopher, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, jurisdiction/us]
@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Patri_Friedman
 
 ## Summary
 
-American libertarian intellectual and entrepreneur. **Grandson of Nobel-laureate economist Milton Friedman**. Co-founded **The Seasteading Institute** in 2008 with [[Peter Thiel]] as anchor funder. Currently runs **Pronomos Capital** investing in "**charter cities**" and special economic zones â€” successor concept to seasteading.
+American libertarian intellectual and entrepreneur. **Grandson of Nobel-laureate economist Milton Friedman**. Co-founded **The Seasteading Institute** in 2008 with [[Peter Thiel]] as anchor funder. Currently runs **Pronomos Capital** investing in "**charter cities**" and special economic zones -- successor concept to seasteading.
 
 ## Seasteading
 
@@ -26,12 +26,12 @@ Original concept (2008+):
 - Allow experimentation in political-economic models
 - Thiel was anchor funder (~$1M+ early)
 
-Largely failed in original maritime form. Friedman pivoted to **charter cities** â€” autonomous economic zones on land within existing nation-states.
+Largely failed in original maritime form. Friedman pivoted to **charter cities** -- autonomous economic zones on land within existing nation-states.
 
 ## Pronomos Capital
 
 Friedman's current vehicle invests in:
-- **PrÃ³spera** (Honduras) â€” for-profit charter city
+- **Próspera** (Honduras) -- for-profit charter city
 - Various other charter-city / special-economic-zone projects globally
 - Aligned with **[[Balaji Srinivasan]]'s Network State** framework
 

@@ -14,20 +14,20 @@ status: closed
 
 ## Summary
 
-UK Parliament **Digital, Culture, Media and Sport (DCMS) Committee inquiry into "Disinformation and Fake News"** â€” the **most comprehensive parliamentary investigation of [[Cambridge Analytica]] and related issues** conducted in any jurisdiction. Chaired by Damian Collins MP. Operated from September 2017 through February 2019. Resulted in the foundational [[Source DCMS Final Report 2019]] (~110 pages).
+UK Parliament **Digital, Culture, Media and Sport (DCMS) Committee inquiry into "Disinformation and Fake News"** -- the **most comprehensive parliamentary investigation of [[Cambridge Analytica]] and related issues** conducted in any jurisdiction. Chaired by Damian Collins MP. Operated from September 2017 through February 2019. Resulted in the foundational [[Source DCMS Final Report 2019]] (~110 pages).
 
 ## Witnesses
 
 The inquiry took testimony from a broad range of witnesses:
 
-- **[[Christopher Wylie]]** â€” primary CA whistleblower; testified March 2018
-- **[[Brittany Kaiser]]** â€” CA whistleblower; testified April 2018
-- **[[Alexander Nix]]** â€” CA CEO; testified under oath; subsequently held in contempt for false statements
-- **[[Emma Briant]]** â€” academic; submitted extensive evidence on SCL/CA
-- **[[Mark Zuckerberg]] (declined)** â€” repeatedly invited; refused to testify in person; sent representatives
+- **[[Christopher Wylie]]** -- primary CA whistleblower; testified March 2018
+- **[[Brittany Kaiser]]** -- CA whistleblower; testified April 2018
+- **[[Alexander Nix]]** -- CA CEO; testified under oath; subsequently held in contempt for false statements
+- **[[Emma Briant]]** -- academic; submitted extensive evidence on SCL/CA
+- **[[Mark Zuckerberg]] (declined)** -- repeatedly invited; refused to testify in person; sent representatives
   - Zuckerberg subsequently formally **held in contempt** by the Committee
 - **Multiple Facebook representatives** including Mike Schroepfer (CTO)
-- **Aleksandr Kogan** â€” testified April 2018
+- **Aleksandr Kogan** -- testified April 2018
 - Various other academics, journalists, and platform representatives
 
 ## Findings (per Final Report February 2019)
@@ -45,15 +45,15 @@ The report concluded:
 
 The DCMS inquiry was significant because:
 
-1. **Subpoena power** â€” UK parliamentary committees can compel testimony
-2. **Multi-stakeholder scope** â€” investigated CA, Facebook, AIQ, Brexit campaigns, Russian operations
-3. **International standing** â€” multiple non-UK figures testified or cooperated
+1. **Subpoena power** -- UK parliamentary committees can compel testimony
+2. **Multi-stakeholder scope** -- investigated CA, Facebook, AIQ, Brexit campaigns, Russian operations
+3. **International standing** -- multiple non-UK figures testified or cooperated
 4. **Findings influenced** subsequent UK ICO, Electoral Commission, and EU regulatory actions
-5. **Public testimony** â€” major contribution to public understanding of CA scandal
+5. **Public testimony** -- major contribution to public understanding of CA scandal
 
 ## Trump-era US contrast
 
-The DCMS inquiry was **substantially more thorough** than parallel US Congressional investigations of CA â€” which were limited to:
+The DCMS inquiry was **substantially more thorough** than parallel US Congressional investigations of CA -- which were limited to:
 - Senate Judiciary brief hearing May 2018 (Wylie testified)
 - House Intelligence Russia investigation (CA was tangential)
 - Mueller probe (CA was tangential)

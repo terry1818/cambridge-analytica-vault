@@ -29,7 +29,7 @@ First major journalistic mapping of the **Mercer-Bannon-Trump-Brexit-CA infrastr
 - Steve Bannon's central role
 - The connection between US 2016 election work and Brexit (via shared CA)
 
-Used an anonymous source â€” later revealed as [[Christopher Wylie]] â€” for substantive operational claims.
+Used an anonymous source — later revealed as [[Christopher Wylie]] — for substantive operational claims.
 
 ## Significance
 

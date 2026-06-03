@@ -19,7 +19,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Megan_Ellison
 
 **Larry Ellison's daughter** (born January 31, 1986). **Founder + CEO of [[Annapurna Pictures]]** (founded 2011). **Prestige independent film production financier** - films include Zero Dark Thirty (2012), American Hustle (2013), Her (2013), Foxcatcher (2014), Phantom Thread (2017), Vice (2018), If Beale Street Could Talk (2018), Booksmart (2019).
 
-**Politically distinct from father + brother** â€” Megan has been documented as more progressive-aligned in donation patterns + film selection (Vice was a Cheney-critical biopic; Zero Dark Thirty engaged with US drone war policy critically). **Not directly part of the [[Paramount Skydance Corporation]] empire** â€” Annapurna operates independently.
+**Politically distinct from father + brother** -- Megan has been documented as more progressive-aligned in donation patterns + film selection (Vice was a Cheney-critical biopic; Zero Dark Thirty engaged with US drone war policy critically). **Not directly part of the [[Paramount Skydance Corporation]] empire** -- Annapurna operates independently.
 
 **Operationally important to note** because the Ellison family's media-empire-via-David is sometimes mischaracterized as monolithic. **Megan's Annapurna represents a separate Ellison-family media-production node** with distinctly different political-cultural positioning from David's Paramount Skydance.
 

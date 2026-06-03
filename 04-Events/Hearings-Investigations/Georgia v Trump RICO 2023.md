@@ -40,7 +40,7 @@ In the original indictment:
 ## Charges
 
 41 counts across the indictment. Trump faced 13 counts:
-- 1 count of violation of the Georgia RICO Act (OCGA Â§ 16-14-4(b))
+- 1 count of violation of the Georgia RICO Act (OCGA § 16-14-4(b))
 - 3 counts of solicitation of violation of oath by public officer
 - 2 counts of conspiracy to commit impersonating a public officer
 - 1 count of conspiracy to commit forgery in the first degree
@@ -123,13 +123,13 @@ Additional Trump evidence in the indictment includes:
 
 ## Connections
 
-- [[Donald Trump]] â€” defendant
-- [[Fani Willis]] â€” disqualified DA
-- [[Rudy Giuliani]] Â· [[John Eastman]] Â· [[Mark Meadows]] Â· [[Sidney Powell]] Â· [[Jenna Ellis]] Â· [[Kenneth Chesebro]] Â· [[Jeffrey Clark]] â€” co-defendants
-- [[Brad Raffensperger]] â€” pressure target; key witness
-- [[Ruby Freeman]] Â· [[Shaye Moss]] â€” election workers harassed
+- [[Donald Trump]] -- defendant
+- [[Fani Willis]] -- disqualified DA
+- [[Rudy Giuliani]] · [[John Eastman]] · [[Mark Meadows]] · [[Sidney Powell]] · [[Jenna Ellis]] · [[Kenneth Chesebro]] · [[Jeffrey Clark]] -- co-defendants
+- [[Brad Raffensperger]] -- pressure target; key witness
+- [[Ruby Freeman]] · [[Shaye Moss]] -- election workers harassed
 - [[Stop the Steal]]
-- [[US v Trump DC Federal Election Interference Case]] â€” parallel federal prosecution
+- [[US v Trump DC Federal Election Interference Case]] -- parallel federal prosecution
 
 ## Sources
 

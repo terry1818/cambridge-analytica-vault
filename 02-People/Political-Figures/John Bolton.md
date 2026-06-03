@@ -11,7 +11,7 @@ aliases: ["John Robert Bolton"]
 
 # John Bolton
 
-Born November 20, 1948, Baltimore, MD. Republican foreign policy figure. US Permanent Representative to the UN under George W. Bush 2005-2006. **National Security Adviser to [[Donald Trump]] April 9, 2018 - September 10, 2019**. Published *The Room Where It Happened* (June 2020) with substantial allegations about Trump's Ukraine-related conduct and other matters. The book's contents â€” particularly Bolton's account of Trump telling him explicitly that Trump wanted military aid withheld until Ukraine announced investigations â€” became central to public discussion of [[Trump First Impeachment 2019-2020]] although Bolton did not testify in the Senate trial.
+Born November 20, 1948, Baltimore, MD. Republican foreign policy figure. US Permanent Representative to the UN under George W. Bush 2005-2006. **National Security Adviser to [[Donald Trump]] April 9, 2018 - September 10, 2019**. Published *The Room Where It Happened* (June 2020) with substantial allegations about Trump's Ukraine-related conduct and other matters. The book's contents -- particularly Bolton's account of Trump telling him explicitly that Trump wanted military aid withheld until Ukraine announced investigations -- became central to public discussion of [[Trump First Impeachment 2019-2020]] although Bolton did not testify in the Senate trial.
 
 ## Ukraine conduct allegations in Bolton's book
 
@@ -45,10 +45,10 @@ Trump administration sought to enjoin publication of *The Room Where It Happened
 
 ## Connections
 
-- [[Donald Trump]] â€” former boss; published critic
-- [[Trump First Impeachment 2019-2020]] â€” book contents related
-- [[Rudy Giuliani]] Â· [[Mick Mulvaney]] â€” Ukraine track principals
-- [[Bill Taylor]] Â· [[Gordon Sondland]] Â· [[Marie Yovanovitch]] Â· [[Alexander Vindman]] Â· [[Fiona Hill]] â€” impeachment witnesses (corroborated)
+- [[Donald Trump]] -- former boss; published critic
+- [[Trump First Impeachment 2019-2020]] -- book contents related
+- [[Rudy Giuliani]] · [[Mick Mulvaney]] -- Ukraine track principals
+- [[Bill Taylor]] · [[Gordon Sondland]] · [[Marie Yovanovitch]] · [[Alexander Vindman]] · [[Fiona Hill]] -- impeachment witnesses (corroborated)
 
 ## Sources
 

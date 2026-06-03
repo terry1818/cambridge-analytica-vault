@@ -19,15 +19,15 @@ L Brands is the corporate vehicle through which the documented financial flow fr
 
 - **NES LLC mansion transfer 1996** (tier 1): NES LLC, a Wexner/L Brands-affiliated entity, transferred the 9 East 71st Street mansion to an Epstein-controlled entity (Maple Inc) for nominal consideration. NYC property records.
 - **2019 Davis Polk & Wardwell internal investigation** (tier 1): L Brands retained Davis Polk to investigate the company's exposure to Epstein after the July 2019 arrest. Public statements from L Brands acknowledged the investigation but findings were never made public.
-- **Wexner's 2020 step-down** (tier 1): Wexner announced he would step down as L Brands CEO in May 2020. The timing â€” months after the Epstein arrest, scandal, and death â€” is widely treated as related, though L Brands cited other reasons.
+- **Wexner's 2020 step-down** (tier 1): Wexner announced he would step down as L Brands CEO in May 2020. The timing -- months after the Epstein arrest, scandal, and death -- is widely treated as related, though L Brands cited other reasons.
 - **Connection to Mega Group**: L Brands and its Wexner Foundation are documented funders of several organizations operating in the [[Mega Group]] orbit. See [[Source: Webb - One Nation Under Blackmail Vol 1]].
 
 ## Connections
 
-- [[Leslie Wexner]] â€” founder, CEO, controlling shareholder
-- [[Jeffrey Epstein]] â€” recipient of asset transfers, advisor role through Wexner power of attorney
-- [[Wexner Foundation]] â€” affiliated philanthropic vehicle
-- [[Mega Group]] â€” Wexner founding membership
+- [[Leslie Wexner]] -- founder, CEO, controlling shareholder
+- [[Jeffrey Epstein]] -- recipient of asset transfers, advisor role through Wexner power of attorney
+- [[Wexner Foundation]] -- affiliated philanthropic vehicle
+- [[Mega Group]] -- Wexner founding membership
 
 ## Open questions
 

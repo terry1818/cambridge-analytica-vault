@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-American conservative author and investigator. **Co-founded [[Government Accountability Institute]] with [[Steve Bannon]] in 2012**, funded by the Mercer family. President of GAI. Authored *[[Clinton Cash]]* (2015) â€” the Schweizer/GAI investigation of Clinton Foundation financial dealings that became central anti-Hillary content for the 2016 election cycle. Continues as a major right-wing oppo researcher and Breitbart News podcaster.
+American conservative author and investigator. **Co-founded [[Government Accountability Institute]] with [[Steve Bannon]] in 2012**, funded by the Mercer family. President of GAI. Authored *[[Clinton Cash]]* (2015) -- the Schweizer/GAI investigation of Clinton Foundation financial dealings that became central anti-Hillary content for the 2016 election cycle. Continues as a major right-wing oppo researcher and Breitbart News podcaster.
 
 ## CA-relevance
 

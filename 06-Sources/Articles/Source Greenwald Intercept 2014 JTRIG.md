@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: 'Greenwald''s analysis of Snowden-leaked JTRIG documents â€” primary public exposure of UK GCHQ''s offensive online-influence capabilities; establishes that "CA''s methods" predated CA inside Five Eyes intelligence services'
+description: 'Greenwald''s analysis of Snowden-leaked JTRIG documents — primary public exposure of UK GCHQ''s offensive online-influence capabilities; establishes that "CA''s methods" predated CA inside Five Eyes intelligence services'
 aliases: ["Source: Source Greenwald Intercept 2014 JTRIG"]
 tags: [source, evidence/leak, evidence/journalism, topic/info-warfare, topic/psyops, era/2014-2016, jurisdiction/uk]
 type: source
@@ -22,31 +22,31 @@ Greenwald, Glenn. (2014-02-24). "How Covert Agents Infiltrate the Internet to Ma
 
 ## What it is
 
-Glenn Greenwald's published analysis of **Snowden-leaked documents** detailing the operational doctrine and capabilities of **[[JTRIG]]** â€” the **Joint Threat Research Intelligence Group**, a unit within UK signals-intelligence agency **[[GCHQ]]**. The leaked materials include internal JTRIG presentations on **persona management, honey traps, false-flag operations, manipulation of online polls and discourse, and reputation-destruction techniques**. The piece is the **single most important publicly available document on Five Eyes offensive online-influence capabilities** as practiced inside state intelligence services.
+Glenn Greenwald's published analysis of **Snowden-leaked documents** detailing the operational doctrine and capabilities of **[[JTRIG]]** — the **Joint Threat Research Intelligence Group**, a unit within UK signals-intelligence agency **[[GCHQ]]**. The leaked materials include internal JTRIG presentations on **persona management, honey traps, false-flag operations, manipulation of online polls and discourse, and reputation-destruction techniques**. The piece is the **single most important publicly available document on Five Eyes offensive online-influence capabilities** as practiced inside state intelligence services.
 
 This source is critical to the vault because it establishes that **the capabilities CA later commercialized for elections were already operational doctrine inside Western intelligence services years before CA existed**. It is the **state-intelligence end** of the line that runs through [[HBGary Federal]] (commercial private-sector PSYOPS) and [[Cambridge Analytica]] (commercial election services) and into the [[Hypothesis - Federal database supersedes CA model|2024-2026 federal-database architecture]].
 
 ## Key claims / findings
 
-- **JTRIG mission:** explicitly **offensive online operations** â€” beyond intelligence gathering, JTRIG conducts **active disruption** of targets through deception, manipulation, and reputation attacks
-- **"4 D's" doctrine:** **Deny, Disrupt, Degrade, Deceive** â€” internal JTRIG framing of its mission
+- **JTRIG mission:** explicitly **offensive online operations** — beyond intelligence gathering, JTRIG conducts **active disruption** of targets through deception, manipulation, and reputation attacks
+- **"4 D's" doctrine:** **Deny, Disrupt, Degrade, Deceive** — internal JTRIG framing of its mission
 - **Persona management:** internal slides describe operating **fake online personas** to infiltrate communities, plant disinformation, and shape discourse
-- **Honey traps:** documented use of **sexual / romantic entrapment operations** against targets â€” including detailed slide-deck content on technique
-- **False-flag operations:** documented capability and use of **operations designed to be attributed to others** â€” including hostile states, criminal groups, or activists
+- **Honey traps:** documented use of **sexual / romantic entrapment operations** against targets — including detailed slide-deck content on technique
+- **False-flag operations:** documented capability and use of **operations designed to be attributed to others** — including hostile states, criminal groups, or activists
 - **Poll manipulation:** documented capability to **artificially inflate or deflate online polls** and voting outcomes (e.g., reader polls on news sites)
 - **Reputation destruction:** specific techniques described for **destroying targets' reputations** through coordinated content campaigns
 - **Targets:** include not only terrorism / state-adversary targets but also **hacktivists, journalists, and political activists** in democratic countries
 
 ## Notable specifics
 
-- JTRIG's "**Online Covert Action**" doctrine includes named techniques: "Honey Trap," "Stop Their Comms," "Discredit a Target," "Discredit a Company," "Effect a Change of Mood" â€” all from leaked internal slides
+- JTRIG's "**Online Covert Action**" doctrine includes named techniques: "Honey Trap," "Stop Their Comms," "Discredit a Target," "Discredit a Company," "Effect a Change of Mood" — all from leaked internal slides
 - The leaked materials are part of the broader **Snowden trove** released in coordination with The Guardian, Washington Post, and other outlets from 2013 onward
 
 ## Significance for the vault
 
 - **The state-intelligence baseline:** establishes that CA-style methodology was **operational doctrine inside Western intelligence services** by at least the early 2010s
 - **[[Hypothesis - Defense-to-elections pipeline]] anchor:** primary documentary evidence that the techniques later commercialized by CA were developed and refined inside state intelligence first
-- **[[Christopher Wylie]] connection:** Wylie has discussed in public statements (memoir, parliamentary testimony) the awareness within SCL that their commercial methodology overlapped with JTRIG-style state work â€” this article is the public confirmation that such state work existed
+- **[[Christopher Wylie]] connection:** Wylie has discussed in public statements (memoir, parliamentary testimony) the awareness within SCL that their commercial methodology overlapped with JTRIG-style state work — this article is the public confirmation that such state work existed
 - **Methodology continuity:** the **honey traps** discussed in this JTRIG documentation are the **same operational category** [[Alexander Nix]] boasted about in the [[Channel 4 Sting 2018|Channel 4 sting]] four years later
 
 ## Reliability assessment
@@ -66,13 +66,13 @@ This source is critical to the vault because it establishes that **the capabilit
 
 ## How I'm using this
 
-- [[JTRIG]] (entity hub) â€” primary public-disclosure source
+- [[JTRIG]] (entity hub) — primary public-disclosure source
 - [[GCHQ]] (parent context)
-- [[Hypothesis - Defense-to-elections pipeline]] â€” state-intelligence precedent
+- [[Hypothesis - Defense-to-elections pipeline]] — state-intelligence precedent
 - [[Persona Management]] (concept node)
 - [[Honey Trap]] (concept node)
 - [[Behavioral Conflict]] (concept node)
-- [[Privatized Intelligence]] (lens â€” contrast with state-side operations)
+- [[Privatized Intelligence]] (lens — contrast with state-side operations)
 - [[Compare - State vs Private vs Commercial influence ops]]
 
 ## Open questions

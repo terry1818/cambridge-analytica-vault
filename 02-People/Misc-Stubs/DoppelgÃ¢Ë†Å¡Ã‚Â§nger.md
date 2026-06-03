@@ -1,11 +1,11 @@
-﻿---
+---
 date: 2026-05-17
-description: DoppelgÃ¢Ë†Å¡Ã‚Â§nger - vault note (auto-populated from cross-referenced wikilink).
+description: Doppelg√§nger - vault note (auto-populated from cross-referenced wikilink).
 tags:
   - entity
 ---
 
-# DoppelgÃ¢Ë†Å¡Ã‚Â§nger
+# Doppelg√§nger
 
 ## Entity-tier vault note
 

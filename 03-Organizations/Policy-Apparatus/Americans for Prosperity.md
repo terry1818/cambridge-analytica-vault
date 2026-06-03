@@ -32,11 +32,11 @@ wikipedia_url: https://en.wikipedia.org/wiki/Americans_for_Prosperity
 
 ## Operational arms
 
-- **AFP Foundation** (501(c)(3)) Ã¢â‚¬â€ educational + research; tax-deductible
-- **AFP** (501(c)(4)) Ã¢â‚¬â€ advocacy; not tax-deductible
-- **AFP Action** Ã¢â‚¬â€ SuperPAC for direct candidate spending
-- **LIBRE Initiative** Ã¢â‚¬â€ Hispanic-outreach affiliate
-- **Concerned Veterans for America** Ã¢â‚¬â€ veteran-outreach affiliate
+- **AFP Foundation** (501(c)(3)) -- educational + research; tax-deductible
+- **AFP** (501(c)(4)) -- advocacy; not tax-deductible
+- **AFP Action** -- SuperPAC for direct candidate spending
+- **LIBRE Initiative** -- Hispanic-outreach affiliate
+- **Concerned Veterans for America** -- veteran-outreach affiliate
 
 ## Key activities
 
@@ -54,7 +54,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Americans_for_Prosperity
 - **Grassroots-mobilization arm** of the [[Koch network]]
 - **Parallel to [[Faith and Freedom Coalition]]** (which mobilizes evangelical voters) but mobilizes **economic-libertarian/free-market voters**
 - **State-level operational integration** with [[State Policy Network]] affiliates (often share staff + venues)
-- **Trump tension** Ã¢â‚¬â€ AFP infrastructure exists alongside MAGA but is not identical to MAGA
+- **Trump tension** -- AFP infrastructure exists alongside MAGA but is not identical to MAGA
 
 ## Connection to vault entities
 

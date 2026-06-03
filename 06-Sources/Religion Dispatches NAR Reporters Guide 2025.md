@@ -26,7 +26,7 @@ Religion Dispatches reporter's guide to New Apostolic Reformation - foundational
 
 ## Key claims / findings
 
-- NAR overview + key figures`n- October 2022 anti-Christian-nationalism statement signatories vs non-signatories`n- Politically-extreme wing identification`n- ChÃƒÂ© Ahn + Lance Wallnau + Cindy Jacobs categorization
+- NAR overview + key figures`n- October 2022 anti-Christian-nationalism statement signatories vs non-signatories`n- Politically-extreme wing identification`n- Ché Ahn + Lance Wallnau + Cindy Jacobs categorization
 
 ## Entities mentioned
 

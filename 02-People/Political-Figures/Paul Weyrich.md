@@ -20,10 +20,10 @@ wikipedia_url: https://en.wikipedia.org/wiki/Paul_Weyrich
 
 The **single most consequential institutional architect of the modern American conservative coalition.** Co-founded:
 
-- **[[The Heritage Foundation]]** (1973) Ã¢â‚¬" with Edwin Feulner and Joseph Coors
-- **[[American Legislative Exchange Council]]** (1973) Ã¢â‚¬" with state legislators
-- **[[Council for National Policy]]** (1981) Ã¢â‚¬" with [[Tim LaHaye]] and others
-- **Free Congress Foundation** (1977) Ã¢â‚¬" direct-mail / strategy operation
+- **[[The Heritage Foundation]]** (1973) -" with Edwin Feulner and Joseph Coors
+- **[[American Legislative Exchange Council]]** (1973) -" with state legislators
+- **[[Council for National Policy]]** (1981) -" with [[Tim LaHaye]] and others
+- **Free Congress Foundation** (1977) -" direct-mail / strategy operation
 
 Also **coined the name "Moral Majority"** for [[Jerry Falwell Sr.]]'s organization. Pioneered the **strategic insight** that the religious right could be welded to economic conservatism into a single durable Republican coalition.
 
@@ -53,11 +53,11 @@ Direct lineage from his work to:
 
 ## Related vault entries
 
-- [[The Heritage Foundation]] Ã¢â‚¬" co-founded
-- [[American Legislative Exchange Council]] Ã¢â‚¬" co-founded
-- [[Council for National Policy]] Ã¢â‚¬" co-founded
-- [[Moral Majority]] Ã¢â‚¬" named by him
-- [[Theocratic Wing Infrastructure 1935-2026]] Ã¢â‚¬" central architect
+- [[The Heritage Foundation]] -" co-founded
+- [[American Legislative Exchange Council]] -" co-founded
+- [[Council for National Policy]] -" co-founded
+- [[Moral Majority]] -" named by him
+- [[Theocratic Wing Infrastructure 1935-2026]] -" central architect
 
 ## Sources
 

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: $725M Meta class action settlement December 2022 for CA-related Facebook user data harm
 tags: [event, topic/cambridge-analytica, topic/facebook-data, era/2018-2020, jurisdiction/us]
@@ -32,7 +32,7 @@ The $725M settlement is the **largest single CA-related corporate financial cons
 |---|---|---|
 | FTC fine | $5 billion | July 2019 |
 | SEC settlement | $100 million | July 2019 |
-| UK ICO fine | Â£500,000 | October 2019 |
+| UK ICO fine | £500,000 | October 2019 |
 | Meta class action | $725 million | December 2022 |
 | **Total Meta CA-related liability** | **~$6.35 billion** | |
 

@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: US Senator (TX); 2016 Republican presidential candidate; Cambridge Analytica's first major US political client â€” the proving ground for CA's psychographic-targeting methodology before the Trump campaign engagement
+description: US Senator (TX); 2016 Republican presidential candidate; Cambridge Analytica's first major US political client -- the proving ground for CA's psychographic-targeting methodology before the Trump campaign engagement
 tags: [person, role/politician, role/client, topic/cambridge-analytica, topic/2016-election, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-2026, jurisdiction/us]
 type: person
 full_name: 'Rafael Edward "Ted" Cruz'
@@ -16,15 +16,15 @@ status: active
 
 ## Summary
 
-US Senator from Texas (2013-present); 2016 Republican presidential primary candidate (finished 2nd to Donald Trump); 2024 Republican presidential primary considered, deferred. Critically for this vault, **Cruz's 2014-2016 campaigns were [[Cambridge Analytica]]'s first major US political client**. The **[[Robert Mercer]] and [[Rebekah Mercer]] funding apparatus**, which later moved to [[Donald Trump]] after Cruz's primary loss, was initially **deployed in support of Cruz** â€” making the Cruz campaigns the **proving ground for CA's psychographic-targeting methodology** in US politics. The **Mercer-to-Cruz-to-Trump funding pivot** in mid-2016 is one of the most consequential single events in the CA story.
+US Senator from Texas (2013-present); 2016 Republican presidential primary candidate (finished 2nd to Donald Trump); 2024 Republican presidential primary considered, deferred. Critically for this vault, **Cruz's 2014-2016 campaigns were [[Cambridge Analytica]]'s first major US political client**. The **[[Robert Mercer]] and [[Rebekah Mercer]] funding apparatus**, which later moved to [[Donald Trump]] after Cruz's primary loss, was initially **deployed in support of Cruz** -- making the Cruz campaigns the **proving ground for CA's psychographic-targeting methodology** in US politics. The **Mercer-to-Cruz-to-Trump funding pivot** in mid-2016 is one of the most consequential single events in the CA story.
 
 ## Key facts
 
 - **Office:** US Senator from Texas (2013-present, current term)
 - **2016 presidential primary:** Republican primary candidate; finished 2nd to [[Donald Trump]]
 - **CA engagement:** Cruz's 2014 Senate work and 2016 presidential campaign were **CA's first substantial US political client roster**; CA was paid ~**$5.8M** by Cruz-affiliated entities (FEC records) during the 2014-2016 cycles
-- **Mercer support pre-pivot:** [[Robert Mercer]] funded Cruz via **[[Make America Number 1 Super PAC]]** (later repurposed to Trump) and adjacent vehicles â€” reported in the millions
-- **Mercer pivot:** Following Cruz's primary loss to Trump (May 2016), the Mercer apparatus â€” including CA â€” pivoted to support Trump for the general election
+- **Mercer support pre-pivot:** [[Robert Mercer]] funded Cruz via **[[Make America Number 1 Super PAC]]** (later repurposed to Trump) and adjacent vehicles -- reported in the millions
+- **Mercer pivot:** Following Cruz's primary loss to Trump (May 2016), the Mercer apparatus -- including CA -- pivoted to support Trump for the general election
 - **2024-2026 context:** Cruz has remained a prominent Senate Republican voice; aligned with [[Project 2025]]-adjacent positions; potential 2028 presidential considerations
 
 ## Significance for the vault
@@ -33,26 +33,26 @@ The Cruz engagement is the **operational proof point** for CA's US political wor
 
 - **Pre-Trump testing ground:** CA developed and tested its US-political toolkit on Cruz before Trump
 - **Mercer-funding-vehicle disclosure:** the Cruz campaign's FEC filings provided the **first public-record documentation** of CA's US political revenue at scale
-- **The "what did the methodology actually do?" question:** [[Eitan Hersh]] and [[Brendan Nyhan]] empirical-skepticism applies as much to the Cruz primary as to the Trump general â€” both campaigns deployed similar CA methodology, with very different electoral outcomes (Cruz lost a primary to a candidate who had less of the same methodology; Trump won a general election where the methodology's marginal contribution is genuinely disputed)
-- **The Mercer-pivot is a fork in the story:** had Cruz won the primary, the entire post-2016 CA-scandal narrative would have followed a different path â€” Mercer would have remained Cruz-aligned, and the CA-Trump-Bannon-2016 narrative would not have materialized in its actual form
+- **The "what did the methodology actually do?" question:** [[Eitan Hersh]] and [[Brendan Nyhan]] empirical-skepticism applies as much to the Cruz primary as to the Trump general -- both campaigns deployed similar CA methodology, with very different electoral outcomes (Cruz lost a primary to a candidate who had less of the same methodology; Trump won a general election where the methodology's marginal contribution is genuinely disputed)
+- **The Mercer-pivot is a fork in the story:** had Cruz won the primary, the entire post-2016 CA-scandal narrative would have followed a different path -- Mercer would have remained Cruz-aligned, and the CA-Trump-Bannon-2016 narrative would not have materialized in its actual form
 
 ## Connections
 
 - **2016 campaign principals:** Jeff Roe (campaign manager); Chris Wilson (data); the broader Cruz political-data operation
-- **CA / Mercer relationship:** [[Robert Mercer]], [[Rebekah Mercer]], [[Steve Bannon]], [[Alexander Nix]] â€” pre-2016 Cruz-aligned, post-mid-2016 Trump-aligned
+- **CA / Mercer relationship:** [[Robert Mercer]], [[Rebekah Mercer]], [[Steve Bannon]], [[Alexander Nix]] -- pre-2016 Cruz-aligned, post-mid-2016 Trump-aligned
 - **Notable peers in CA's US-political client roster:** [[John Bolton]] (Senate-related work), other 2014 Republican-aligned campaigns
 - **Source citations:**
-  - [[Source Sellers 2015-10-19 WaPo Cruz $750K]] â€” early WaPo reporting on Cruz-CA payments
-  - [[Source Vogel 2015-07-07 Politico Cruz psychographic]] â€” Politico on Cruz's psychographic-targeting deployment
-  - [[Source Issenberg 2015-11-12 Bloomberg Cruz data miner]] â€” Bloomberg long-form on the Cruz data operation
-  - [[Source Biesecker Bykowicz 2016-02-11 AP Cruz app]] â€” AP on Cruz campaign app
+  - [[Source Sellers 2015-10-19 WaPo Cruz $750K]] -- early WaPo reporting on Cruz-CA payments
+  - [[Source Vogel 2015-07-07 Politico Cruz psychographic]] -- Politico on Cruz's psychographic-targeting deployment
+  - [[Source Issenberg 2015-11-12 Bloomberg Cruz data miner]] -- Bloomberg long-form on the Cruz data operation
+  - [[Source Biesecker Bykowicz 2016-02-11 AP Cruz app]] -- AP on Cruz campaign app
 
 ## Open questions
 
 - [ ] What did CA's methodology actually accomplish for Cruz's primary campaign, distinct from his Texas-political base and Iowa-caucus performance?
 - [ ] Did any CA-derived datasets or models migrate from Cruz to Trump infrastructure in the May 2016 transition?
 - [ ] What is Cruz's current relationship with CA-successor entities (if any)?
-- [ ] How does the Cruz-CA case fit the [[Hypothesis - Federal database supersedes CA model]] thesis â€” does Cruz still operate within the older microtargeting-vendor model or has he integrated with the federal-database architecture?
+- [ ] How does the Cruz-CA case fit the [[Hypothesis - Federal database supersedes CA model]] thesis -- does Cruz still operate within the older microtargeting-vendor model or has he integrated with the federal-database architecture?
 
 ## Sources
 

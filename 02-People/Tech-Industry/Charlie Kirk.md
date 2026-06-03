@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Charlie_Kirk
 
 ## Summary
 
-American conservative activist; **founder and CEO of [[Turning Point USA]]** (founded 2012). Has built TPUSA into the **dominant conservative youth-organizing institution in the United States** â€” campus chapters at hundreds of colleges and universities. Major Trump-aligned figure; hosted Trump at multiple TPUSA events 2024-2025.
+American conservative activist; **founder and CEO of [[Turning Point USA]]** (founded 2012). Has built TPUSA into the **dominant conservative youth-organizing institution in the United States** -- campus chapters at hundreds of colleges and universities. Major Trump-aligned figure; hosted Trump at multiple TPUSA events 2024-2025.
 
 ## Turning Point USA
 

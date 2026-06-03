@@ -19,7 +19,7 @@ These are the **only judicial findings of sexual-misconduct liability against a 
 
 ### Filing and statute
 
-E. Jean Carroll filed November 24, 2022 under the New York Adult Survivors Act (CPLR Â§ 214-j), which opened a one-year lookback window allowing civil suits for sexual abuse committed beyond the normal statute of limitations.
+E. Jean Carroll filed November 24, 2022 under the New York Adult Survivors Act (CPLR § 214-j), which opened a one-year lookback window allowing civil suits for sexual abuse committed beyond the normal statute of limitations.
 
 ### Claims
 
@@ -38,7 +38,7 @@ E. Jean Carroll filed November 24, 2022 under the New York Adult Survivors Act (
 ### Verdict (May 9, 2023)
 
 The jury:
-- Found Trump liable for sexual abuse (battery) â€” finding rape under the technical NY Penal Law definition NOT proven by preponderance, but sexual abuse (digital penetration without consent) WAS proven
+- Found Trump liable for sexual abuse (battery) -- finding rape under the technical NY Penal Law definition NOT proven by preponderance, but sexual abuse (digital penetration without consent) WAS proven
 - Found Trump liable for defamation of Carroll
 - Awarded Carroll $2,020,000 in compensatory damages and $20,000 in punitive damages for the battery
 - Awarded Carroll $2,700,000 in compensatory damages and $280,000 in punitive damages for the defamation
@@ -95,11 +95,11 @@ Jury awarded Carroll:
 
 ## Connections
 
-- [[Donald Trump]] â€” defendant; found civilly liable on sexual abuse and defamation
-- [[E. Jean Carroll]] â€” plaintiff
-- [[Lewis Kaplan]] â€” trial judge for both cases
-- [[Jessica Leeds]] Â· [[Natasha Stoynoff]] â€” Rule 415 witnesses
-- [[Access Hollywood tape]] â€” Rule 415 evidence
+- [[Donald Trump]] -- defendant; found civilly liable on sexual abuse and defamation
+- [[E. Jean Carroll]] -- plaintiff
+- [[Lewis Kaplan]] -- trial judge for both cases
+- [[Jessica Leeds]] · [[Natasha Stoynoff]] -- Rule 415 witnesses
+- [[Access Hollywood tape]] -- Rule 415 evidence
 - [[Donald Trump]] sexual-misconduct allegations (broader; multiple accusers across decades)
 
 ## Sources

@@ -41,11 +41,11 @@ March 17, 2023: International Criminal Court issued arrest warrant for Putin for
 
 ## Connections
 
-- [[Russia]] Â· [[FSB]] Â· [[GRU]] Â· [[KGB]] â€” institutional context
-- [[Internet Research Agency (IRA)]] â€” 2016 interference vehicle
-- [[Donald Trump]] â€” counterpart
-- [[Mueller Investigation]] Â· [[Trump First Impeachment 2019-2020]]
-- [[Lens - Russia]] Â· [[State Actor MOC]]
+- [[Russia]] · [[FSB]] · [[GRU]] · [[KGB]] -- institutional context
+- [[Internet Research Agency (IRA)]] -- 2016 interference vehicle
+- [[Donald Trump]] -- counterpart
+- [[Mueller Investigation]] · [[Trump First Impeachment 2019-2020]]
+- [[Lens - Russia]] · [[State Actor MOC]]
 
 ## Sources
 

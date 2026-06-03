@@ -21,8 +21,8 @@ The evolution from CA-era psychographic microtargeting to AI-native influence op
 
 ## Documented incidents 2023-2024
 
-- [[Slovakia 2023 Deepfake Audio]] â€” first plausible-impact European deepfake
-- [[NH Biden AI Robocall 2024]] â€” first US enforcement action
+- [[Slovakia 2023 Deepfake Audio]] -- first plausible-impact European deepfake
+- [[NH Biden AI Robocall 2024]] -- first US enforcement action
 - 2023 Argentina election AI imagery
 - 2024 Indonesia election AI use
 - 2024 India election deepfake incidents

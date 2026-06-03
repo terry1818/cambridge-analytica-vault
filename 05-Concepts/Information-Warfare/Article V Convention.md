@@ -49,7 +49,7 @@ The Article V convention path is constitutionally unprecedented in modern times 
 **The convention can write its own rules.** A convention nominally called to address fiscal restraint and term limits could:
 
 - Vote to expand its agenda
-- Propose amendments on **abortion, gun rights, immigration, federal lands, voting rights, religious establishment** Ã¢â‚¬â€ any topic
+- Propose amendments on **abortion, gun rights, immigration, federal lands, voting rights, religious establishment** -- any topic
 - **August 2023 Williamsburg mock convention already demonstrated this**, drafting proposals on federal-lands transfer outside the stated three-pillar scope
 
 See: [[Runaway Convention]]
@@ -88,16 +88,16 @@ Amendments proposed (one-state-one-vote default)
 
 ## Related concepts
 
-- [[Runaway Convention]] Ã¢â‚¬â€ the central risk concept
-- [[Delegate Selection]] Ã¢â‚¬â€ state-legislature determines
-- [[State Rescission]] Ã¢â‚¬â€ disputed legal right to withdraw applications
+- [[Runaway Convention]] -- the central risk concept
+- [[Delegate Selection]] -- state-legislature determines
+- [[State Rescission]] -- disputed legal right to withdraw applications
 
 ## Application in this domain
 
-- [[Convention of States Action]] Ã¢â‚¬â€ driving the application count
-- [[Citizens for Self-Governance]] Ã¢â‚¬â€ parent org; ran Williamsburg mock convention
-- [[American Legislative Exchange Council|ALEC]] Ã¢â‚¬â€ provides model resolution language
-- [[The Heritage Foundation]] Ã¢â‚¬â€ institutional endorser
+- [[Convention of States Action]] -- driving the application count
+- [[Citizens for Self-Governance]] -- parent org; ran Williamsburg mock convention
+- [[American Legislative Exchange Council|ALEC]] -- provides model resolution language
+- [[The Heritage Foundation]] -- institutional endorser
 
 ## Sources
 

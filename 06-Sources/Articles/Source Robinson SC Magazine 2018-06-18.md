@@ -29,7 +29,7 @@ Cybersecurity industry trade press reporting on [[Data Propria]] as a CA-success
 
 ## Significance
 
-SC Magazines coverage gave the Data Propria story reach into the cybersecurity professional community â€” a different audience than political-press AP coverage. The pattern of trade-press confirmation of mainstream press scoops is important for establishing **scope of acknowledgment** rather than just publication of a single story.
+SC Magazines coverage gave the Data Propria story reach into the cybersecurity professional community — a different audience than political-press AP coverage. The pattern of trade-press confirmation of mainstream press scoops is important for establishing **scope of acknowledgment** rather than just publication of a single story.
 
 ## Why this source matters in the vault
 

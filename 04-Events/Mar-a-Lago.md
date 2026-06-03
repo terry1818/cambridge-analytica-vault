@@ -41,13 +41,13 @@ See [[Connection - Trump-Epstein social association 1987-2004]].
 
 ## Connections
 
-- [[Donald Trump]] â€” owner
-- [[Jeffrey Epstein]] Â· [[Ghislaine Maxwell]] â€” documented members / visitors
-- [[Virginia Giuffre]] â€” recruited there 2000
-- [[US v Trump Mar-a-Lago Documents Case]] â€” site of FBI search
-- [[Walt Nauta]] Â· [[Carlos De Oliveira]] â€” Trump employees there; co-defendants
-- [[Jack Smith]] â€” Special Counsel who indicted
-- [[Aileen Cannon]] â€” federal judge who dismissed
+- [[Donald Trump]] -- owner
+- [[Jeffrey Epstein]] · [[Ghislaine Maxwell]] -- documented members / visitors
+- [[Virginia Giuffre]] -- recruited there 2000
+- [[US v Trump Mar-a-Lago Documents Case]] -- site of FBI search
+- [[Walt Nauta]] · [[Carlos De Oliveira]] -- Trump employees there; co-defendants
+- [[Jack Smith]] -- Special Counsel who indicted
+- [[Aileen Cannon]] -- federal judge who dismissed
 
 ## Sources
 

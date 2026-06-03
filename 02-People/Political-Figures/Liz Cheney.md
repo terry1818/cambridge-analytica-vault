@@ -43,12 +43,12 @@ In her concluding remarks (December 19, 2022):
 
 ## Connections
 
-- [[Donald Trump]] â€” political adversary
-- [[Dick Cheney]] â€” father
-- [[Bennie Thompson]] â€” J6 Committee Chair
-- [[Adam Kinzinger]] â€” fellow Republican J6 Committee member
-- [[Trump Second Impeachment 2021]] â€” voted yes
-- [[January 6 Select Committee 2021-2023]] â€” Vice Chair
+- [[Donald Trump]] -- political adversary
+- [[Dick Cheney]] -- father
+- [[Bennie Thompson]] -- J6 Committee Chair
+- [[Adam Kinzinger]] -- fellow Republican J6 Committee member
+- [[Trump Second Impeachment 2021]] -- voted yes
+- [[January 6 Select Committee 2021-2023]] -- Vice Chair
 - [[January 6 Capitol Attack]]
 - [[Trump Investigations MOC]]
 

@@ -14,15 +14,15 @@ status: active
 
 ## Summary
 
-A comprehensive policy blueprint for a second Trump administration, produced by the **[[Heritage Foundation]]** and its coalition of conservative organizations (over 100 partner organizations). Formally launched in **April 2023** with the publication of *Mandate for Leadership: The Conservative Promise* â€” a ~900-page document. Became central to Trumps 2024 campaign and the 2025 Trump administration's policy approach despite Trumps own attempts to publicly distance himself from it during the campaign.
+A comprehensive policy blueprint for a second Trump administration, produced by the **[[Heritage Foundation]]** and its coalition of conservative organizations (over 100 partner organizations). Formally launched in **April 2023** with the publication of *Mandate for Leadership: The Conservative Promise* -- a ~900-page document. Became central to Trumps 2024 campaign and the 2025 Trump administration's policy approach despite Trumps own attempts to publicly distance himself from it during the campaign.
 
 ## Project structure
 
 Four pillars per the project:
 1. **Policy agenda** (the Mandate for Leadership document)
-2. **Personnel database** â€” pre-vetted candidates for thousands of political appointee positions
-3. **Training** â€” "Presidential Administration Academy" for incoming officials
-4. **Playbook** â€” first 180 days transition plan
+2. **Personnel database** -- pre-vetted candidates for thousands of political appointee positions
+3. **Training** -- "Presidential Administration Academy" for incoming officials
+4. **Playbook** -- first 180 days transition plan
 
 ## CA-relevance
 
@@ -93,13 +93,13 @@ Trump publicly disavowed Project 2025 during the 2024 campaign. The personnel an
 
 ## Operational structure: the four pillars in detail
 
-**Pillar 1 â€” The Mandate document.** "Mandate for Leadership: The Conservative Promise" (2023) is a 922-page edited volume produced by Heritage with contributions from 30+ named authors plus 100+ partner organisations. The document is organised by federal department and agency, with each chapter authored by a former first-Trump-administration official or a closely-affiliated policy entrepreneur. The chapter authors are themselves a personnel map: most of the chapter authors are candidates for the relevant Trump 2.0 appointee positions covering the agencies their chapters address.
+**Pillar 1 -- The Mandate document.** "Mandate for Leadership: The Conservative Promise" (2023) is a 922-page edited volume produced by Heritage with contributions from 30+ named authors plus 100+ partner organisations. The document is organised by federal department and agency, with each chapter authored by a former first-Trump-administration official or a closely-affiliated policy entrepreneur. The chapter authors are themselves a personnel map: most of the chapter authors are candidates for the relevant Trump 2.0 appointee positions covering the agencies their chapters address.
 
-**Pillar 2 â€” The Personnel Database.** Heritage maintains a vetted database of conservatives ready to fill the approximately 4,000 political appointee slots across the executive branch (the roughly 1,200 Senate-confirmed positions plus the larger universe of Schedule C and non-career SES positions). Applicants submit through an online portal; vetting is conducted by Heritage staff against ideological-alignment and movement-loyalty criteria.
+**Pillar 2 -- The Personnel Database.** Heritage maintains a vetted database of conservatives ready to fill the approximately 4,000 political appointee slots across the executive branch (the roughly 1,200 Senate-confirmed positions plus the larger universe of Schedule C and non-career SES positions). Applicants submit through an online portal; vetting is conducted by Heritage staff against ideological-alignment and movement-loyalty criteria.
 
-**Pillar 3 â€” The Presidential Administration Academy.** A series of online training courses preparing prospective appointees for confirmation, agency operations, regulatory process, and the specific procedural and substantive challenges of executive-branch service. Course material is drawn from former first-term Trump-administration officials and from the broader conservative-policy operator base.
+**Pillar 3 -- The Presidential Administration Academy.** A series of online training courses preparing prospective appointees for confirmation, agency operations, regulatory process, and the specific procedural and substantive challenges of executive-branch service. Course material is drawn from former first-term Trump-administration officials and from the broader conservative-policy operator base.
 
-**Pillar 4 â€” The Day One Playbook.** A detailed sequencing plan for executive orders, regulatory rollbacks, agency reorganisations, and personnel actions designed to maximise the legal durability of changes through the first 180 days. The playbook is the part of Project 2025 that maps most directly onto the actual policy outputs of Trump 2.0 from January 2025 onward.
+**Pillar 4 -- The Day One Playbook.** A detailed sequencing plan for executive orders, regulatory rollbacks, agency reorganisations, and personnel actions designed to maximise the legal durability of changes through the first 180 days. The playbook is the part of Project 2025 that maps most directly onto the actual policy outputs of Trump 2.0 from January 2025 onward.
 
 ## Authorship map
 

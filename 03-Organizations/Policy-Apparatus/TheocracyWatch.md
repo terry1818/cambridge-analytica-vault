@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Cornell-based research project by Joan Bokaer documenting the religious right's takeover of the Republican Party using voting-pattern analysis; archive of dominionism research
 tags: [org, org/watchdog, org/research, topic/dominionism, topic/theocratic-wing, era/2000-2026, jurisdiction/us]
@@ -60,16 +60,16 @@ The original site being potentially offline matters: **this is research at risk 
 
 ## Related vault entries
 
-- [[Joan Bokaer]] ÃƒÂ¢Ã¢â€šÂ¬" founder
-- [[Council for National Policy]] ÃƒÂ¢Ã¢â€šÂ¬" central CNP analysis
-- [[Dominionism]] ÃƒÂ¢Ã¢â€šÂ¬" core concept
-- [[Christian Reconstructionism]] ÃƒÂ¢Ã¢â€šÂ¬" theological foundation
-- [[Seven Mountains Mandate]] ÃƒÂ¢Ã¢â€šÂ¬" charismatic version
-- [[R.J. Rushdoony]] ÃƒÂ¢Ã¢â€šÂ¬" theological founder
-- [[Moral Majority]] ÃƒÂ¢Ã¢â€šÂ¬" 1979-1989 political phase
-- [[Christian Coalition]] ÃƒÂ¢Ã¢â€šÂ¬" 1989+ successor
-- [[Theocratic Wing Infrastructure 1935-2026]] ÃƒÂ¢Ã¢â€šÂ¬" connection note
-- [[Hypothesis - Three-wing coalition]] ÃƒÂ¢Ã¢â€šÂ¬" overall framing
+- [[Joan Bokaer]] â€" founder
+- [[Council for National Policy]] â€" central CNP analysis
+- [[Dominionism]] â€" core concept
+- [[Christian Reconstructionism]] â€" theological foundation
+- [[Seven Mountains Mandate]] â€" charismatic version
+- [[R.J. Rushdoony]] â€" theological founder
+- [[Moral Majority]] â€" 1979-1989 political phase
+- [[Christian Coalition]] â€" 1989+ successor
+- [[Theocratic Wing Infrastructure 1935-2026]] â€" connection note
+- [[Hypothesis - Three-wing coalition]] â€" overall framing
 
 ## Open questions
 

@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-Stanford computational psychologist (formerly at University of Cambridge Psychometrics Centre). His 2013 PNAS paper with Stillwell and Graepel showed that personal attributes â€” including personality, sexual orientation, and political views â€” could be predicted with high accuracy from Facebook Likes alone, warning that these capabilities could "prove dangerous for individuals." [[Cambridge Analytica]] reportedly hired Centre insider [[Aleksandr Kogan]] to build a "clone" of the Psychometrics Centre's technology via [[Global Science Research (GSR)]] after they couldn't access the Centre's data directly. ([[Source Wikipedia - Facebook-CA scandal]], [[Source Kosinski Stillwell Graepel 2013 PNAS]])
+Stanford computational psychologist (formerly at University of Cambridge Psychometrics Centre). His 2013 PNAS paper with Stillwell and Graepel showed that personal attributes -- including personality, sexual orientation, and political views -- could be predicted with high accuracy from Facebook Likes alone, warning that these capabilities could "prove dangerous for individuals." [[Cambridge Analytica]] reportedly hired Centre insider [[Aleksandr Kogan]] to build a "clone" of the Psychometrics Centre's technology via [[Global Science Research (GSR)]] after they couldn't access the Centre's data directly. ([[Source Wikipedia - Facebook-CA scandal]], [[Source Kosinski Stillwell Graepel 2013 PNAS]])
 
 ## Sources
 

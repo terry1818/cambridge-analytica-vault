@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Micro-timeline of Brittany Kaiser career and post-CA advocacy
 tags: [timeline, topic/cambridge-analytica]
@@ -6,21 +6,21 @@ tags: [timeline, topic/cambridge-analytica]
 
 # Micro-Timeline: [[Brittany Kaiser]]
 
-- `1987` â€” Born (US)
-- `2007-2008` â€” Obama campaign volunteer
-- `~2014-2018` â€” Director of Business Development at Cambridge Analytica
-- `2016` â€” CA work for Leave.EU (disputed by CA, confirmed by Kaiser)
-- `2018-03-23` â€” Goes public contradicting CA's Leave.EU denials
-- `2018-04` â€” Testifies before UK Parliament DCMS Committee
-- `2018-05-16` â€” Testifies before US Senate Judiciary Committee
-- `2019-01` â€” Featured prominently in The Great Hack Sundance premiere
-- `2019-10-22` â€” Publishes [[Source Targeted (Kaiser 2019)]]
-- `2019-2020` â€” France 24 interviews; #OwnYourData campaign
-- `2020-01-04` â€” Begins [[HindsightFiles]] release via Twitter
-- `2020` â€” Founds Own Your Data Foundation
-- `2020` â€” Discloses Bongbong Marcos approached CA
-- `2020-present` â€” Continues advocacy and document releases
-- `2024+` â€” Active in AI ethics / digital rights advocacy
+- `1987` — Born (US)
+- `2007-2008` — Obama campaign volunteer
+- `~2014-2018` — Director of Business Development at Cambridge Analytica
+- `2016` — CA work for Leave.EU (disputed by CA, confirmed by Kaiser)
+- `2018-03-23` — Goes public contradicting CA's Leave.EU denials
+- `2018-04` — Testifies before UK Parliament DCMS Committee
+- `2018-05-16` — Testifies before US Senate Judiciary Committee
+- `2019-01` — Featured prominently in The Great Hack Sundance premiere
+- `2019-10-22` — Publishes [[Source Targeted (Kaiser 2019)]]
+- `2019-2020` — France 24 interviews; #OwnYourData campaign
+- `2020-01-04` — Begins [[HindsightFiles]] release via Twitter
+- `2020` — Founds Own Your Data Foundation
+- `2020` — Discloses Bongbong Marcos approached CA
+- `2020-present` — Continues advocacy and document releases
+- `2024+` — Active in AI ethics / digital rights advocacy
 
 ## Vault context and open research threads
 

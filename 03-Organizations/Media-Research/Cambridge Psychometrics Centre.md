@@ -16,22 +16,22 @@ status: active
 
 ## Summary
 
-Research centre within the University of Cambridge. Built the **MyPersonality dataset** (~6 million Facebook users who completed Big Five personality questionnaires + shared their Facebook profiles between approximately 2007 and 2014). Published the foundational 2013 paper ([[Source Kosinski Stillwell Graepel 2013 PNAS]]) demonstrating that personal attributes â€” including personality, sexual orientation, political views â€” could be predicted with high accuracy from Facebook Likes alone.
+Research centre within the University of Cambridge. Built the **MyPersonality dataset** (~6 million Facebook users who completed Big Five personality questionnaires + shared their Facebook profiles between approximately 2007 and 2014). Published the foundational 2013 paper ([[Source Kosinski Stillwell Graepel 2013 PNAS]]) demonstrating that personal attributes -- including personality, sexual orientation, political views -- could be predicted with high accuracy from Facebook Likes alone.
 
 **Refused [[Cambridge Analytica]]'s request to access the MyPersonality data for political use.** CA then hired Centre insider [[Aleksandr Kogan]] to build a methodological clone via his side-business [[Global Science Research (GSR)]].
 
 ## Key personnel
 
-- **[[David Stillwell]]** â€” created the MyPersonality application; central data collection
-- **[[Michal Kosinski]]** â€” co-author of seminal 2013 paper; later moved to Stanford
-- **Thore Graepel** â€” third author of the 2013 paper; previously at Microsoft Research
-- **[[Aleksandr Kogan]]** â€” was insider with access to the methodology before founding GSR
+- **[[David Stillwell]]** -- created the MyPersonality application; central data collection
+- **[[Michal Kosinski]]** -- co-author of seminal 2013 paper; later moved to Stanford
+- **Thore Graepel** -- third author of the 2013 paper; previously at Microsoft Research
+- **[[Aleksandr Kogan]]** -- was insider with access to the methodology before founding GSR
 
 ## Significance
 
 - The **academic root** of psychographic targeting from Facebook data
 - The published research was the **enabling event** for CA's commercial proposition (see [[Hypothesis - Academic methodology proliferation enabled CA]])
-- The Centre itself acted responsibly within academic norms â€” published warnings about misuse
+- The Centre itself acted responsibly within academic norms -- published warnings about misuse
 - But the research's foreseeable misuse went forward anyway via CA
 
 ## Open questions

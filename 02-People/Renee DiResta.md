@@ -3,10 +3,10 @@ title: Renee DiResta
 type: person
 date: 2026-05-29
 tags: [person, researcher, disinformation, sio, eip]
-aliases: ['Renee DiResta','RenÃ©e DiResta','Rene DiResta']
+aliases: ['Renee DiResta','Renée DiResta','Rene DiResta']
 ---
 
-# RenÃ©e DiResta
+# Renée DiResta
 
 US researcher of online information operations. Former research manager at the [[Stanford Internet Observatory]] (2019-2024). Author of "Invisible Rulers: The People Who Turn Lies into Reality" (2024).
 

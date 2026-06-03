@@ -11,7 +11,7 @@ first-documented: ~2013 (CA buildout; Kosinski PNAS paper)
 
 ## Definition
 
-Method of audience segmentation and targeting based on **inferred psychological traits, values, attitudes, and personality** â€” as opposed to (or layered on top of) demographic targeting (age, location, income) or behavioral targeting (purchase history, browsing).
+Method of audience segmentation and targeting based on **inferred psychological traits, values, attitudes, and personality** -- as opposed to (or layered on top of) demographic targeting (age, location, income) or behavioral targeting (purchase history, browsing).
 
 ## CA-era methodology
 
@@ -21,13 +21,13 @@ Method of audience segmentation and targeting based on **inferred psychological 
 2. **Recruit participants** for survey-based training data (~200,000 paid Qualtrics respondents at $4 each)
 3. **Apply trained model** to broader population of profiles harvested via [[Facebook Graph API v1.0]]
 4. **Segment audience** into 32 personality clusters (per CA marketing)
-5. **Tailor messaging** â€” adjust content, tone, imagery to inferred personality
+5. **Tailor messaging** -- adjust content, tone, imagery to inferred personality
 
 ## Effectiveness (substantially disputed)
 
 ### Pro arguments
-- [[Source Kosinski Stillwell Graepel 2013 PNAS]] â€” personality predictable from Facebook Likes with measurable accuracy
-- [[Source Matz Kosinski Nave Stillwell 2017 PNAS]] â€” personality-tailored ads boosted sales ~50% in commercial study
+- [[Source Kosinski Stillwell Graepel 2013 PNAS]] -- personality predictable from Facebook Likes with measurable accuracy
+- [[Source Matz Kosinski Nave Stillwell 2017 PNAS]] -- personality-tailored ads boosted sales ~50% in commercial study
 - CA's own marketing claims of transformative political effectiveness
 
 ### Skeptical arguments

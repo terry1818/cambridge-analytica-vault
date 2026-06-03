@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Pattern observation - 2024 crypto industry Fairshake successfully defeated Sherrod Brown; demonstration effect for other industries
 tags: [hypothesis, topic/tech-right, confidence/high]
@@ -6,7 +6,7 @@ type: hypothesis
 status: active
 ---
 
-# Pattern: Industry SuperPAC â†’ Defeat-Senator â†’ Demonstration Effect
+# Pattern: Industry SuperPAC → Defeat-Senator → Demonstration Effect
 
 ## Pattern observation
 
@@ -18,15 +18,15 @@ This is now functioning as a **demonstration effect** for other industries consi
 
 ```
 1. Industry has aligned regulatory grievance
-   â†“
+   ↓
 2. Major industry firms coordinate via single SuperPAC
-   â†“
+   ↓
 3. SuperPAC focuses spending on specific Senator(s) deemed hostile
-   â†“
+   ↓
 4. Combined spending defeats the targeted Senator
-   â†“
+   ↓
 5. Other Senators observe the demonstration; adjust positions
-   â†“
+   ↓
 6. Industry achieves favorable legislative / regulatory outcomes
 ```
 
@@ -51,14 +51,14 @@ Following the demonstration:
 
 The Fairshake template is being studied or partly implemented by:
 
-- **AI industry** â€” particularly a16z-aligned firms opposing AI safety regulation
-- **Defense tech industry** â€” including Anduril and related firms
+- **AI industry** — particularly a16z-aligned firms opposing AI safety regulation
+- **Defense tech industry** — including Anduril and related firms
 - **Various Big Tech firms** considering coordinated political spending
-- **Crypto industry continuation** â€” Fairshake continues into 2026 cycle
+- **Crypto industry continuation** — Fairshake continues into 2026 cycle
 
 ## Why this matters for this vault
 
-The Industry SuperPAC pattern represents the **operational maturation of industry-coordinated political influence** â€” building on earlier Mercer-Bannon-CA-era models but **scaled significantly higher**. Combined with **personnel placement** (Tech Right figures into Trump 2.0 administration), it provides a coordinated political-power model that:
+The Industry SuperPAC pattern represents the **operational maturation of industry-coordinated political influence** — building on earlier Mercer-Bannon-CA-era models but **scaled significantly higher**. Combined with **personnel placement** (Tech Right figures into Trump 2.0 administration), it provides a coordinated political-power model that:
 
 1. Defeats specific hostile Senators
 2. Demonstrates electoral capability to other politicians
@@ -77,7 +77,7 @@ This is **structurally analogous** to but **vastly more powerful than** the CA-e
 
 ## Confidence
 
-`#confidence/high` â€” well-documented 2024 case; multiple industries already adopting pattern.
+`#confidence/high` — well-documented 2024 case; multiple industries already adopting pattern.
 
 ## Related
 

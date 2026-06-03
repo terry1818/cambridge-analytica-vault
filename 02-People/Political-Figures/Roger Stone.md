@@ -19,7 +19,7 @@ American political operative; longtime Trump confidant. Acted as **back-channel 
 
 ## CA-relevance
 
-Stone is not a CA principal but operated in the **same Trump-campaign environment** during the same period and his WikiLeaks back-channel runs parallel to the [[Alexander Nix]] approach to [[Julian Assange]] (Nix asking for Clinton's 33,000 deleted emails). Both demonstrate the same operational pattern â€” Trump-campaign-adjacent figures pursuing leaked Clinton material via WikiLeaks.
+Stone is not a CA principal but operated in the **same Trump-campaign environment** during the same period and his WikiLeaks back-channel runs parallel to the [[Alexander Nix]] approach to [[Julian Assange]] (Nix asking for Clinton's 33,000 deleted emails). Both demonstrate the same operational pattern -- Trump-campaign-adjacent figures pursuing leaked Clinton material via WikiLeaks.
 
 ## Sources
 

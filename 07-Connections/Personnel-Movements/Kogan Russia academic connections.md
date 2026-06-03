@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Aleksandr Kogans Russian academic and infrastructure ties
 tags: [connection, confidence/medium, topic/facebook-data, topic/election-interference]
@@ -11,7 +11,7 @@ period: 2013-2018
 aliases: ["Connection: Kogan Russia academic connections"]
 ---
 
-# Connection: Kogan â†” Russian academic infrastructure
+# Connection: Kogan ↔ Russian academic infrastructure
 
 ## What the link is
 
@@ -19,10 +19,10 @@ aliases: ["Connection: Kogan Russia academic connections"]
 
 ## Documented connections
 
-- **2013 visit to Saint Petersburg State University** â€” subsequently named on a Russian government grant for cyberbullying research
+- **2013 visit to Saint Petersburg State University** — subsequently named on a Russian government grant for cyberbullying research
 - **Russian IP addresses and a server linked to Kogan** identified by UK ICO during investigation
 - **IP addresses originating from Russia** connected to an earlier application at the [[Cambridge Psychometrics Centre]]; addresses linked to a Tor entry point and alleged past cyber attacks
-- **Cambridge Analytica's methods of interest to [[Lukoil]]** (Russian state-linked oil company) â€” confirmed by [[Christopher Wylie]]
+- **Cambridge Analytica's methods of interest to [[Lukoil]]** (Russian state-linked oil company) — confirmed by [[Christopher Wylie]]
 - **Kogan changed his name to Aleksandr Spectre** during the relevant period
 
 ## Kogan's defense
@@ -33,7 +33,7 @@ aliases: ["Connection: Kogan Russia academic connections"]
 
 ## Confidence
 
-`#confidence/medium` â€” the connections are documented but the **significance** of those connections (i.e., whether Russian intelligence actually accessed CA-derived data through Kogan-linked infrastructure) remains contested.
+`#confidence/medium` — the connections are documented but the **significance** of those connections (i.e., whether Russian intelligence actually accessed CA-derived data through Kogan-linked infrastructure) remains contested.
 
 ## Sources
 

@@ -22,7 +22,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Home_School_Legal_Defense_Associati
 
 **Direct intellectual + institutional lineage:** HSLDA grew from **[[R.J. Rushdoony]]'s Chalcedon Foundation** homeschooling advocacy. **Farris later founded [[Patrick Henry College]] (2000) as the higher-ed extension** of the homeschooling-Christian-nationalist pipeline. **Farris later led [[Alliance Defending Freedom]] (2017-2022)** during the period ADF designed + won Dobbs.
 
-**The single most operationally consequential homeschool-movement legal organization in the US** â€” and the structural origin point of the Farris-led Christian-nationalist legal pipeline that runs HSLDA â†’ Patrick Henry College â†’ ADF â†’ Trump-era judicial capture.
+**The single most operationally consequential homeschool-movement legal organization in the US** -- and the structural origin point of the Farris-led Christian-nationalist legal pipeline that runs HSLDA → Patrick Henry College → ADF → Trump-era judicial capture.
 
 ## Identity
 

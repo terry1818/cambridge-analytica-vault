@@ -20,7 +20,7 @@ BBC News. (2018-07-12). "Cambridge Analytica staff set up new firm." BBC News Te
 
 ## What this article established
 
-Initial reporting that ex-Cambridge Analytica staff had launched **[[Auspex International]]** â€” a new political consultancy focused on Africa and the Middle East â€” just **ten weeks after CAs May 2018 insolvency**. The piece:
+Initial reporting that ex-Cambridge Analytica staff had launched **[[Auspex International]]** — a new political consultancy focused on Africa and the Middle East — just **ten weeks after CAs May 2018 insolvency**. The piece:
 
 - Confirmed [[Mark Turnbull]] (former CA Managing Director of Political Global) as a founder
 - Named other ex-CA staff joining
@@ -29,7 +29,7 @@ Initial reporting that ex-Cambridge Analytica staff had launched **[[Auspex Inte
 
 ## Significance
 
-BBC reporting on this story carries particular weight given the UKs role as primary CA jurisdiction. The article triggered subsequent reporting in FT, Wired UK, Boing Boing, and others â€” all building the narrative that CAs collapse was operationally cosmetic.
+BBC reporting on this story carries particular weight given the UKs role as primary CA jurisdiction. The article triggered subsequent reporting in FT, Wired UK, Boing Boing, and others — all building the narrative that CAs collapse was operationally cosmetic.
 
 ## URL
 

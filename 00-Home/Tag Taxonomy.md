@@ -1,18 +1,18 @@
-﻿---
+---
 date: 2026-05-16
 description: Multi-axis tag schema for slicing the vault from different analytical angles
 tags: [meta, taxonomy]
 ---
 
-# Tag Taxonomy (v2 â€” multi-axis)
+# Tag Taxonomy (v2 -- multi-axis)
 
-Tags are **hierarchical** (`#axis/value` or `#axis/subaxis/value`) and **orthogonal** â€” most notes will carry tags from multiple axes. The point is to be able to filter the vault by any combination ("show me all #role/operative people active in the #era/2014-2016 period in #jurisdiction/uk").
+Tags are **hierarchical** (`#axis/value` or `#axis/subaxis/value`) and **orthogonal** -- most notes will carry tags from multiple axes. The point is to be able to filter the vault by any combination ("show me all #role/operative people active in the #era/2014-2016 period in #jurisdiction/uk").
 
 Always tag at least: type, era, and at least one topic. Add as many additional axis tags as fit.
 
 ---
 
-## AXIS 1 â€” Entity type (one)
+## AXIS 1 -- Entity type (one)
 
 What KIND of note is this?
 
@@ -23,50 +23,50 @@ What KIND of note is this?
 - `#concept`
 - `#connection`
 - `#hypothesis`
-- `#moc` Â· `#lens`
+- `#moc` · `#lens`
 
 ---
 
-## AXIS 2 â€” Functional role (for people and orgs)
+## AXIS 2 -- Functional role (for people and orgs)
 
 What did the entity DO in the system?
 
 ### People
 
-- `#role/operative` â€” built or ran the work (Nix, Kogan, Turnbull, Tayler, Zamel, Hanan, Chmieliauskas)
-- `#role/executive` â€” formal leadership (Nix, Wheatland, Mercers, Bannon)
-- `#role/founder` â€” created the firms (Oakes, Nix, Zamel)
-- `#role/donor-funder` â€” paid for it (Mercers, Bannon, Tchenguiz, Marland, Gabb, Banks)
-- `#role/whistleblower` â€” broke their silence (Wylie, Kaiser, Sanni)
-- `#role/journalist` â€” investigative reporting (Cadwalladr, Rosenberg, Confessore)
-- `#role/investigator` â€” outside academic / civil-society investigators (Briant, Carroll)
-- `#role/academic` â€” research / analysis (Kosinski, Stillwell, Briant, Hersh, Nyhan)
-- `#role/researcher` â€” applied research role inside a firm (Wylie, Kogan, Tayler)
-- `#role/politician` â€” beneficiary or actor (Trump, Cruz, Johnson, Duterte, Kenyatta)
-- `#role/regulator` â€” official enforcement (Denham, FTC commissioners)
-- `#role/prosecutor` â€” criminal prosecution (Mueller)
-- `#role/lawyer` â€” legal counsel (Laurence Levy)
+- `#role/operative` -- built or ran the work (Nix, Kogan, Turnbull, Tayler, Zamel, Hanan, Chmieliauskas)
+- `#role/executive` -- formal leadership (Nix, Wheatland, Mercers, Bannon)
+- `#role/founder` -- created the firms (Oakes, Nix, Zamel)
+- `#role/donor-funder` -- paid for it (Mercers, Bannon, Tchenguiz, Marland, Gabb, Banks)
+- `#role/whistleblower` -- broke their silence (Wylie, Kaiser, Sanni)
+- `#role/journalist` -- investigative reporting (Cadwalladr, Rosenberg, Confessore)
+- `#role/investigator` -- outside academic / civil-society investigators (Briant, Carroll)
+- `#role/academic` -- research / analysis (Kosinski, Stillwell, Briant, Hersh, Nyhan)
+- `#role/researcher` -- applied research role inside a firm (Wylie, Kogan, Tayler)
+- `#role/politician` -- beneficiary or actor (Trump, Cruz, Johnson, Duterte, Kenyatta)
+- `#role/regulator` -- official enforcement (Denham, FTC commissioners)
+- `#role/prosecutor` -- criminal prosecution (Mueller)
+- `#role/lawyer` -- legal counsel (Laurence Levy)
 - `#role/lobbyist`
-- `#role/backchannel` â€” intermediary in influence operation (Nader, Mifsud, Kilimnik, Patten)
+- `#role/backchannel` -- intermediary in influence operation (Nader, Mifsud, Kilimnik, Patten)
 
 ### Organizations
 
-- `#org/data-firm` â€” CA, GSR, AIQ, Data Propria, Emerdata, Palantir
-- `#org/political-consultancy` â€” CA, SCL Elections, Auspex
-- `#org/military-contractor` â€” SCL Defence, Emic, HBGary Federal, FSG
-- `#org/private-intelligence` â€” Psy-Group, Black Cube, Wikistrat, Team Jorge
-- `#org/state-actor` â€” IRA, JTRIG, GRU
-- `#org/tech-platform` â€” Facebook, X, YouTube, TikTok
-- `#org/media` â€” Breitbart, Channel 4 News, The Observer, NYT
-- `#org/research-institute` â€” GAI, Mercer Family Foundation, Cambridge Psychometrics Centre
-- `#org/shell-front` â€” Emerdata, Firecrest, Crow Trading
-- `#org/government` â€” UK Cabinet Office, US DoD, FCO
-- `#org/regulator` â€” ICO, FTC, SEC, UK Electoral Commission
-- `#org/campaign` â€” Trump 2016, Cruz 2016, Leave.EU, Vote Leave, PRI
+- `#org/data-firm` -- CA, GSR, AIQ, Data Propria, Emerdata, Palantir
+- `#org/political-consultancy` -- CA, SCL Elections, Auspex
+- `#org/military-contractor` -- SCL Defence, Emic, HBGary Federal, FSG
+- `#org/private-intelligence` -- Psy-Group, Black Cube, Wikistrat, Team Jorge
+- `#org/state-actor` -- IRA, JTRIG, GRU
+- `#org/tech-platform` -- Facebook, X, YouTube, TikTok
+- `#org/media` -- Breitbart, Channel 4 News, The Observer, NYT
+- `#org/research-institute` -- GAI, Mercer Family Foundation, Cambridge Psychometrics Centre
+- `#org/shell-front` -- Emerdata, Firecrest, Crow Trading
+- `#org/government` -- UK Cabinet Office, US DoD, FCO
+- `#org/regulator` -- ICO, FTC, SEC, UK Electoral Commission
+- `#org/campaign` -- Trump 2016, Cruz 2016, Leave.EU, Vote Leave, PRI
 
 ---
 
-## AXIS 3 â€” Topic (multiple)
+## AXIS 3 -- Topic (multiple)
 
 Subject-matter areas.
 
@@ -91,20 +91,20 @@ Subject-matter areas.
 
 ---
 
-## AXIS 4 â€” Era (one or range)
+## AXIS 4 -- Era (one or range)
 
 When this entity was operational / relevant.
 
-- `#era/pre-2014` â€” SCL origins, defense contracting
-- `#era/2014-2016` â€” CA buildout, Facebook harvesting
-- `#era/2016-2018` â€” peak operations, elections, exposÃ©
-- `#era/2018-2020` â€” collapse, investigations, successor formation
-- `#era/2020-2024` â€” AI-era successor influence ops
-- `#era/2024-present` â€” generative AI mainstreaming
+- `#era/pre-2014` -- SCL origins, defense contracting
+- `#era/2014-2016` -- CA buildout, Facebook harvesting
+- `#era/2016-2018` -- peak operations, elections, exposé
+- `#era/2018-2020` -- collapse, investigations, successor formation
+- `#era/2020-2024` -- AI-era successor influence ops
+- `#era/2024-present` -- generative AI mainstreaming
 
 ---
 
-## AXIS 5 â€” Jurisdiction (one or more)
+## AXIS 5 -- Jurisdiction (one or more)
 
 Where the entity operated / where the action took place.
 
@@ -126,93 +126,93 @@ Where the entity operated / where the action took place.
 - `#jurisdiction/nigeria`
 - `#jurisdiction/argentina`
 - `#jurisdiction/australia`
-- `#jurisdiction/global` â€” multi-country
+- `#jurisdiction/global` -- multi-country
 
 ---
 
-## AXIS 6 â€” Evidence type (for sources only)
+## AXIS 6 -- Evidence type (for sources only)
 
-- `#evidence/primary-document` â€” Companies House filings, court filings, official correspondence
-- `#evidence/court-filing` â€” formal legal documents
-- `#evidence/leak` â€” unauthorized disclosure (HindsightFiles, Snowden, Anonymous-HBGary)
-- `#evidence/whistleblower-testimony` â€” Wylie/Kaiser testimony and books
-- `#evidence/investigation-report` â€” DCMS, ICO, FTC, Mueller, Senate Intel
-- `#evidence/journalism` â€” published news reporting
-- `#evidence/book` â€” published book
-- `#evidence/academic` â€” peer-reviewed
-- `#evidence/video-doc` â€” broadcast / documentary
+- `#evidence/primary-document` -- Companies House filings, court filings, official correspondence
+- `#evidence/court-filing` -- formal legal documents
+- `#evidence/leak` -- unauthorized disclosure (HindsightFiles, Snowden, Anonymous-HBGary)
+- `#evidence/whistleblower-testimony` -- Wylie/Kaiser testimony and books
+- `#evidence/investigation-report` -- DCMS, ICO, FTC, Mueller, Senate Intel
+- `#evidence/journalism` -- published news reporting
+- `#evidence/book` -- published book
+- `#evidence/academic` -- peer-reviewed
+- `#evidence/video-doc` -- broadcast / documentary
 - `#evidence/social-media`
 
 ---
 
-## AXIS 7 â€” Confidence (for analytical claims)
+## AXIS 7 -- Confidence (for analytical claims)
 
 How well-supported is the claim?
 
-- `#confidence/high` â€” multiple independent primary sources
-- `#confidence/medium` â€” one strong primary or several secondary
-- `#confidence/low` â€” circumstantial, single secondary
-- `#confidence/speculative` â€” pattern recognition, no direct evidence
+- `#confidence/high` -- multiple independent primary sources
+- `#confidence/medium` -- one strong primary or several secondary
+- `#confidence/low` -- circumstantial, single secondary
+- `#confidence/speculative` -- pattern recognition, no direct evidence
 
 ---
 
-## AXIS 8 â€” Claim status (for assertions)
+## AXIS 8 -- Claim status (for assertions)
 
-- `#claim/verified` â€” fact, well-established
-- `#claim/disputed` â€” sources disagree
-- `#claim/unverified` â€” pending verification
-- `#claim/debunked` â€” disproven
-
----
-
-## AXIS 9 â€” Status (workflow)
-
-- `#status/stub` â€” placeholder
-- `#status/in-progress` â€” actively researching
-- `#status/verified` â€” facts cross-checked
-- `#status/archived` â€” superseded but kept
+- `#claim/verified` -- fact, well-established
+- `#claim/disputed` -- sources disagree
+- `#claim/unverified` -- pending verification
+- `#claim/debunked` -- disproven
 
 ---
 
-## AXIS 10 â€” Cluster (which thematic story does this belong to)
+## AXIS 9 -- Status (workflow)
 
-NEW â€” added v2. Lets you filter by the four major thematic clusters.
-
-- `#cluster/defense-pipeline` â€” origin story: SCL Defence â†’ CA
-- `#cluster/data-pipeline` â€” operational: harvest â†’ models â†’ targeting
-- `#cluster/capital-pipeline` â€” money: Mercers â†’ CA â†’ Trump + ecosystem
-- `#cluster/continuity` â€” afterlife: successors, Israeli intel, AI-era
+- `#status/stub` -- placeholder
+- `#status/in-progress` -- actively researching
+- `#status/verified` -- facts cross-checked
+- `#status/archived` -- superseded but kept
 
 ---
 
-## AXIS 11 â€” Power-relationship (NEW)
+## AXIS 10 -- Cluster (which thematic story does this belong to)
+
+NEW -- added v2. Lets you filter by the four major thematic clusters.
+
+- `#cluster/defense-pipeline` -- origin story: SCL Defence → CA
+- `#cluster/data-pipeline` -- operational: harvest → models → targeting
+- `#cluster/capital-pipeline` -- money: Mercers → CA → Trump + ecosystem
+- `#cluster/continuity` -- afterlife: successors, Israeli intel, AI-era
+
+---
+
+## AXIS 11 -- Power-relationship (NEW)
 
 What is this entity's relationship to state-like power?
 
-- `#power/state-intel` â€” operated inside state intelligence agency (JTRIG, IRA, GRU)
-- `#power/private-intel` â€” privatized intelligence (Psy-Group, Black Cube, Wikistrat, Team Jorge)
-- `#power/military-contractor` â€” defense contracting (SCL Defence, HBGary Federal, FSG)
-- `#power/political-vendor` â€” commercial political services (CA, AIQ, Data Propria)
-- `#power/political-finance` â€” donor/funder/Super PAC (Mercers, Banks, Make America Number 1)
-- `#power/platform` â€” tech platform (Facebook/Meta, Twitter)
-- `#power/regulator` â€” official enforcement
-- `#power/press` â€” investigative journalism
-- `#power/civil-society` â€” academic / NGO / whistleblower-side
+- `#power/state-intel` -- operated inside state intelligence agency (JTRIG, IRA, GRU)
+- `#power/private-intel` -- privatized intelligence (Psy-Group, Black Cube, Wikistrat, Team Jorge)
+- `#power/military-contractor` -- defense contracting (SCL Defence, HBGary Federal, FSG)
+- `#power/political-vendor` -- commercial political services (CA, AIQ, Data Propria)
+- `#power/political-finance` -- donor/funder/Super PAC (Mercers, Banks, Make America Number 1)
+- `#power/platform` -- tech platform (Facebook/Meta, Twitter)
+- `#power/regulator` -- official enforcement
+- `#power/press` -- investigative journalism
+- `#power/civil-society` -- academic / NGO / whistleblower-side
 
 ---
 
 ## How to use this in Obsidian
 
-1. **Tag panel** â€” Obsidian's tag panel lets you click any tag to see all notes with it
-2. **Tag search** â€” `tag:#role/operative tag:#era/2014-2016` shows operatives active in CA's peak
-3. **Bases / dataview** â€” for table views, see [[People.base]] and other base files (Obsidian Bases / Dataview required)
-4. **Graph view** â€” color nodes by tag for visual cluster identification
+1. **Tag panel** -- Obsidian's tag panel lets you click any tag to see all notes with it
+2. **Tag search** -- `tag:#role/operative tag:#era/2014-2016` shows operatives active in CA's peak
+3. **Bases / dataview** -- for table views, see [[People.base]] and other base files (Obsidian Bases / Dataview required)
+4. **Graph view** -- color nodes by tag for visual cluster identification
 
 ---
 
 ## Migration note
 
-Existing notes in this vault were tagged with v1 schema (no #cluster, #power axes). Notes can be progressively re-tagged. The Tag Taxonomy itself is the source of truth â€” if a tag isn't on this list, it shouldn't be in the vault.
+Existing notes in this vault were tagged with v1 schema (no #cluster, #power axes). Notes can be progressively re-tagged. The Tag Taxonomy itself is the source of truth -- if a tag isn't on this list, it shouldn't be in the vault.
 
 ## Tag taxonomy in vault use
 

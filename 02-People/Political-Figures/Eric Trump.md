@@ -34,12 +34,12 @@ As Trump Foundation director, required to undergo mandatory training on fiduciar
 
 ## Connections
 
-- [[Donald Trump]] â€” father
-- [[Donald Trump Jr]] Â· [[Ivanka Trump]] â€” siblings
+- [[Donald Trump]] -- father
+- [[Donald Trump Jr]] · [[Ivanka Trump]] -- siblings
 - [[Trump Organization]]
-- [[Allen Weisselberg]] â€” Trump Organization CFO
-- [[NY AG v Trump Organization Civil Fraud 2024]] â€” civilly liable
-- [[Trump Foundation NY AG Settlement 2019]] â€” director
+- [[Allen Weisselberg]] -- Trump Organization CFO
+- [[NY AG v Trump Organization Civil Fraud 2024]] -- civilly liable
+- [[Trump Foundation NY AG Settlement 2019]] -- director
 
 ## Sources
 

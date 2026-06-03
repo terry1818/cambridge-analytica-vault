@@ -36,8 +36,8 @@ The 2021 Maxwell trial included testimony from "Jane" and others describing traf
 This is the area where evidence-tier discipline is critical. People documented at or near the island include various tier-distinct categories:
 
 - **Sworn-testimony accused of sexual contact on the island** (Tier 1 sworn allegation; underlying truth claims separately tiered):
-  - [[Prince Andrew]] â€” Giuffre testimony places one alleged encounter at Little St James
-  - [[Marvin Minsky]] â€” Giuffre testimony places an alleged encounter at the island (Minsky deceased before allegations public)
+  - [[Prince Andrew]] -- Giuffre testimony places one alleged encounter at Little St James
+  - [[Marvin Minsky]] -- Giuffre testimony places an alleged encounter at the island (Minsky deceased before allegations public)
 - **Documented to have visited the island but not subject to sworn allegations of misconduct** (Tier 1 visit; no allegation):
   - Various scientific salon attendees per investigative reporting
 - **Documented overflights / unverified visits** (Tier 2/3):
@@ -45,7 +45,7 @@ This is the area where evidence-tier discipline is critical. People documented a
 
 ## 2019 FBI search
 
-August 12, 2019 â€” two days after Epstein's death â€” FBI executed search warrant on Little St James. Materials seized included:
+August 12, 2019 -- two days after Epstein's death -- FBI executed search warrant on Little St James. Materials seized included:
 - Photographic and video media (volume and contents not fully disclosed publicly)
 - Documents
 - Sexual paraphernalia
@@ -64,12 +64,12 @@ The Government of the USVI sued Epstein's estate January 2020 alleging the islan
 
 ## Connections
 
-- [[Jeffrey Epstein]] â€” owner; principal
-- [[Ghislaine Maxwell]] â€” operational manager
-- [[Great St James]] â€” adjacent island also acquired by Epstein
-- [[Southern Trust Company]] â€” Epstein USVI tax entity
-- [[Maxwell 2021 SDNY Trial]] â€” trafficking testimony locations
-- [[Epstein 2019 SDNY Case and Death]] â€” charged site
+- [[Jeffrey Epstein]] -- owner; principal
+- [[Ghislaine Maxwell]] -- operational manager
+- [[Great St James]] -- adjacent island also acquired by Epstein
+- [[Southern Trust Company]] -- Epstein USVI tax entity
+- [[Maxwell 2021 SDNY Trial]] -- trafficking testimony locations
+- [[Epstein 2019 SDNY Case and Death]] -- charged site
 - [[USVI v Epstein Estate Lawsuit 2020]]
 
 ## Sources

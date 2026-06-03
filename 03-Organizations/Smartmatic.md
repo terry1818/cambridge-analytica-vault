@@ -15,7 +15,7 @@ International voting technology company founded in 2000 in Boca Raton, FL by Ant
 
 ## Use in 2020 election (Tier 1)
 
-Smartmatic technology was used in 2020 **only in Los Angeles County, California** â€” not in any of the contested swing states where Trump challenged results. The false claims about Smartmatic's role in flipping votes across the country had no factual basis. Smartmatic publicly clarified its limited 2020 footprint multiple times in the post-election period.
+Smartmatic technology was used in 2020 **only in Los Angeles County, California** -- not in any of the contested swing states where Trump challenged results. The false claims about Smartmatic's role in flipping votes across the country had no factual basis. Smartmatic publicly clarified its limited 2020 footprint multiple times in the post-election period.
 
 ## False claims (November 2020 - 2021)
 
@@ -50,12 +50,12 @@ Various lawsuits pending or in advanced stages.
 
 ## Connections
 
-- [[Dominion Voting Systems]] â€” separate company also defamed by same actors
-- [[Donald Trump]] Â· [[Rudy Giuliani]] Â· [[Sidney Powell]] â€” defamers
-- [[Fox News]] Â· [[Newsmax]] Â· [[OAN]] â€” media defendants
-- [[Mike Lindell]] Â· [[Patrick Byrne]] Â· [[L Lin Wood]] â€” additional defendants
+- [[Dominion Voting Systems]] -- separate company also defamed by same actors
+- [[Donald Trump]] · [[Rudy Giuliani]] · [[Sidney Powell]] -- defamers
+- [[Fox News]] · [[Newsmax]] · [[OAN]] -- media defendants
+- [[Mike Lindell]] · [[Patrick Byrne]] · [[L Lin Wood]] -- additional defendants
 - [[Stop the Steal]]
-- Hugo Chavez Â· Venezuela â€” false-claim subjects
+- Hugo Chavez · Venezuela -- false-claim subjects
 
 ## Sources
 

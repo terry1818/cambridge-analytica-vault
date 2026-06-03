@@ -11,23 +11,23 @@ Florida references in this vault point to multiple specific entities:
 
 ## State-level political infrastructure
 
-- **[[James Madison Institute]]** Ã¢â‚¬â€ Florida [[State Policy Network]] affiliate
+- **[[James Madison Institute]]** -- Florida [[State Policy Network]] affiliate
 - **Florida Republican Party**
-- **Florida Department of Education** Ã¢â‚¬â€ adopted [[PragerU]] Kids curriculum 2023 (first state)
-- **New College of Florida** Ã¢â‚¬â€ [[Christopher Rufo]]-led takeover 2023
+- **Florida Department of Education** -- adopted [[PragerU]] Kids curriculum 2023 (first state)
+- **New College of Florida** -- [[Christopher Rufo]]-led takeover 2023
 
 ## Florida-based entities in vault
 
 - **Ron DeSantis** (Florida Governor; presidential candidate 2024)
-- **[[Moms for Liberty]]** Ã¢â‚¬â€ HQ Melbourne FL; founded January 2021 by 3 Florida women
-- **[[Convention of States Action]]** Ã¢â‚¬â€ Florida was first state to pass (April 2014)
+- **[[Moms for Liberty]]** -- HQ Melbourne FL; founded January 2021 by 3 Florida women
+- **[[Convention of States Action]]** -- Florida was first state to pass (April 2014)
 - **[[Bridget Ziegler]]** (M4L co-founder; Sarasota County school board)
 - **[[Tiffany Justice]]** (M4L co-founder; Indian River County school board)
 - **[[Tina Descovich]]** (M4L co-founder; Brevard County school board)
 - **[[Marco Rubio]]** (FL Senator; now Secretary of State Trump 2.0)
-- **Various NAR-affiliated megachurches** Ã¢â‚¬â€ Florida cluster per [[NAR Megachurch State-by-State Concentration]]
-- **Trump operations** Ã¢â‚¬â€ Mar-a-Lago; Trump Org Florida properties
-- **Affinity Partners** Ã¢â‚¬â€ Jared Kushner HQ Miami FL
+- **Various NAR-affiliated megachurches** -- Florida cluster per [[NAR Megachurch State-by-State Concentration]]
+- **Trump operations** -- Mar-a-Lago; Trump Org Florida properties
+- **Affinity Partners** -- Jared Kushner HQ Miami FL
 
 
 ## Vault context

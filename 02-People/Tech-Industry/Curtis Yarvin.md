@@ -19,16 +19,16 @@ wikipedia_url: https://en.wikipedia.org/wiki/Curtis_Yarvin
 
 American political philosopher and software engineer. Founder of **Urbit** (decentralized computing project). Under the pseudonym **"Mencius Moldbug"** (2007-2014), wrote extensively on a political philosophy he called **"neoreactionary"** ("NRx") or part of the broader **"Dark Enlightenment"** movement.
 
-**Key intellectual influence on [[Peter Thiel]], [[JD Vance]], and the Trump 2.0 administration ideology.** Yarvin advocates **dismantling democratic governance** in favor of a return to monarchical or corporate-CEO-style governance â€” described in slogans like "**RAGE: Retire All Government Employees**" which the 2025 Trump 2.0 DOGE federal-employee firings have operationally implemented.
+**Key intellectual influence on [[Peter Thiel]], [[JD Vance]], and the Trump 2.0 administration ideology.** Yarvin advocates **dismantling democratic governance** in favor of a return to monarchical or corporate-CEO-style governance -- described in slogans like "**RAGE: Retire All Government Employees**" which the 2025 Trump 2.0 DOGE federal-employee firings have operationally implemented.
 
 ## The neoreactionary / NRx movement
 
 Core arguments per Yarvin's writing:
 
-1. **Democracy is incompetent governance** â€” produces poor outcomes and is captured by what Yarvin calls "**the Cathedral**" (a coordinated mainstream-institutions network including universities, media, NGOs, civil service)
-2. **The Cathedral is the real ruling class** â€” democratically-elected officials are figureheads
-3. **The solution is "monarchy" or "CEO-king" governance** â€” concentrated executive power, with the existing democratic civil service dismantled
-4. **The federal civil service must be eliminated** â€” replaced by political appointees loyal to the executive
+1. **Democracy is incompetent governance** -- produces poor outcomes and is captured by what Yarvin calls "**the Cathedral**" (a coordinated mainstream-institutions network including universities, media, NGOs, civil service)
+2. **The Cathedral is the real ruling class** -- democratically-elected officials are figureheads
+3. **The solution is "monarchy" or "CEO-king" governance** -- concentrated executive power, with the existing democratic civil service dismantled
+4. **The federal civil service must be eliminated** -- replaced by political appointees loyal to the executive
 5. **The "Cathedral" institutions (universities, media) must be defunded or destroyed**
 
 ## Influence on Trump 2.0
@@ -36,7 +36,7 @@ Core arguments per Yarvin's writing:
 - **JD Vance has publicly cited Yarvin** as an influence multiple times
 - **DOGE federal-employee firings** (2025) operationally implement Yarvin's "RAGE" framework
 - **Trump 2.0 mass purges of federal civil service** align with Yarvin's "dismantle the bureaucracy" thesis
-- **Schedule F executive order** (2020 first term, expanded 2025) reclassifies federal positions to enable political-firing â€” aligned with Yarvin's framework
+- **Schedule F executive order** (2020 first term, expanded 2025) reclassifies federal positions to enable political-firing -- aligned with Yarvin's framework
 - **Attacks on universities** (funding cuts, immigration restrictions on foreign academics) aligned with the "destroy the Cathedral" thesis
 
 ## Thiel patronage
@@ -47,7 +47,7 @@ Core arguments per Yarvin's writing:
 
 ## The Dark Enlightenment / NRx ecosystem
 
-- **Nick Land** â€” British philosopher; co-architect of NRx
+- **Nick Land** -- British philosopher; co-architect of NRx
 - **Patri Friedman** (Milton Friedman's grandson; seasteading; Thiel-funded)
 - **Balaji Srinivasan** (network states; Thiel-aligned)
 - **Various younger tech-right intellectuals** (writers at IM-1776, Asterisk, others)
@@ -61,7 +61,7 @@ Core arguments per Yarvin's writing:
 
 ## Why Yarvin matters for this vault
 
-If the CA scandal was the **commercial misuse** of data-targeting infrastructure, and the post-CA Mercer-Bannon political infrastructure was the **operational deployment** of that toolkit, then **Yarvin/NRx is the intellectual justification** for the entire project â€” providing the philosophical framework that:
+If the CA scandal was the **commercial misuse** of data-targeting infrastructure, and the post-CA Mercer-Bannon political infrastructure was the **operational deployment** of that toolkit, then **Yarvin/NRx is the intellectual justification** for the entire project -- providing the philosophical framework that:
 
 1. Justifies dismantling democratic institutions
 2. Justifies replacing civil service with political appointees
@@ -113,7 +113,7 @@ Yarvin's "Unqualified Reservations" blog (writing as Mencius Moldbug, 2007-2014)
 
 **The "Brahmin" caste analysis.** Contemporary US political-cultural elite are functionally a distinct social caste, with characteristic credentials (Ivy League education, advanced degrees from elite institutions), characteristic professional roles (academic faculty, journalism, federal bureaucracy, nonprofit foundation leadership), and characteristic cultural-political alignments that operationally reproduce the caste across generations. Yarvin's framing is adapted from older sociological work on professional-class identity but applied with explicit polemical intent.
 
-**The neocameralist alternative.** The proposed alternative governance form is "neocameralist" â€” explicitly hierarchical-corporate governance, modelled loosely on sovereign-debt-backed city-state structures, in which the political authority is treated as a corporate entity owned by sovereign-debt-holders rather than as a representative-democratic entity accountable to citizens. The neocameralist frame is openly hostile to representative-democratic legitimacy as a governance principle.
+**The neocameralist alternative.** The proposed alternative governance form is "neocameralist" -- explicitly hierarchical-corporate governance, modelled loosely on sovereign-debt-backed city-state structures, in which the political authority is treated as a corporate entity owned by sovereign-debt-holders rather than as a representative-democratic entity accountable to citizens. The neocameralist frame is openly hostile to representative-democratic legitimacy as a governance principle.
 
 ## The 2020-2026 operational influence
 

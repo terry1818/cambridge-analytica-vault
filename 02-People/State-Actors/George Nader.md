@@ -22,13 +22,13 @@ Lebanese-American businessman who operated as a **backchannel intermediary for t
 
 Per [[Source Mueller Report 2019]] and [[Source Senate Intel Vol 5 2020]]:
 
-### August 3, 2016 â€” Trump Tower meeting
+### August 3, 2016 -- Trump Tower meeting
 
 - Attended meeting with [[Donald Trump Jr.]], [[Joel Zamel]], [[Erik Prince]]
 - Helped facilitate Zamel's pitch of social-media manipulation plan
 - Acted as UAE government representative
 
-### January 11, 2017 â€” Seychelles meeting
+### January 11, 2017 -- Seychelles meeting
 
 - **Arranged the meeting** between [[Erik Prince]] and [[Kirill Dmitriev]] (RDIF head)
 - UAE intermediation for potential Trump-Russia back-channel

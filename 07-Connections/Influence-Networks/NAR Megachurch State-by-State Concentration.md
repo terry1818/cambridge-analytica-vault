@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: State-by-state geographic concentration of major NAR-affiliated megachurches; counter-mapping to CSPOA state distribution; mass-mobilization vector mapping
 tags: [connection, topic/nar, topic/megachurch-mapping, era/1990-2026]
@@ -21,7 +21,7 @@ Counter-mapping to [[CSPOA State-by-State Mapping]] - documents the geographic c
 
 | State | Notable churches |
 |---|---|
-| **California** | Bethel Church (Redding) Ã¢Ëœâ€¦Ã¢Ëœâ€¦Ã¢Ëœâ€¦ flagship; HRock Pasadena (Ahn) Ã¢Ëœâ€¦Ã¢Ëœâ€¦; Saddleback adjacent; multiple |
+| **California** | Bethel Church (Redding) ★★★ flagship; HRock Pasadena (Ahn) ★★; Saddleback adjacent; multiple |
 | **Texas** | Lakewood (Osteen; NAR-adjacent); Gateway (Robert Morris; scandals 2024); Christ For The Nations Dallas; Heritage of Faith |
 | **Florida** | River Church Tampa Bay; multiple Pensacola-area NAR churches; Liberty Church Pensacola |
 | **Missouri** | International House of Prayer KC (collapsed 2023; restructured as Forerunner Church); Christ Community Olathe |

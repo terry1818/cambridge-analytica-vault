@@ -32,25 +32,25 @@ If true, then:
 
 - **[[The Heritage Foundation]] is institutional patron of BOTH.** Heritage publishes [[Project 2025]] AND formally endorses [[Article V Convention]] via COS
 - **[[American Legislative Exchange Council|ALEC]] is on Project 2025 advisory board AND publishes the Article V how-to manual + model resolution**
-- **[[Mercer Family Foundation]] funded both** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â $500K founding grant to CSG; Rebekah Mercer is Heritage trustee since 2014
+- **[[Mercer Family Foundation]] funded both** â€” $500K founding grant to CSG; Rebekah Mercer is Heritage trustee since 2014
 - **Heritage Foundation's "Conservative Partnership Institute"** (chaired by Jim DeMint, former Heritage president, current COS senior advisor) operates personnel pipeline for both
 
 ### Personnel overlap
 
-- [[Jim DeMint]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â former Heritage president AND COS senior advisor
-- [[Tom Coburn]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â COS senior advisor (deceased 2020)
-- [[Mark Meckler]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â COS founder AND Parler interim CEO 2021 (during Rebekah Mercer's reorganization of Parler); Parler is part of [[Rebekah Mercer]]'s post-CA media infrastructure
-- [[Michael Farris]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â COS co-founder AND CEO of [[Alliance Defending Freedom]] 2017-2022 (ADF was Project 2025-aligned legal infrastructure that delivered Dobbs)
-- [[Eric O'Keefe]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â COS founding board AND Wisconsin Club for Growth director; Koch network across both
+- [[Jim DeMint]] â€” former Heritage president AND COS senior advisor
+- [[Tom Coburn]] â€” COS senior advisor (deceased 2020)
+- [[Mark Meckler]] â€” COS founder AND Parler interim CEO 2021 (during Rebekah Mercer's reorganization of Parler); Parler is part of [[Rebekah Mercer]]'s post-CA media infrastructure
+- [[Michael Farris]] â€” COS co-founder AND CEO of [[Alliance Defending Freedom]] 2017-2022 (ADF was Project 2025-aligned legal infrastructure that delivered Dobbs)
+- [[Eric O'Keefe]] â€” COS founding board AND Wisconsin Club for Growth director; Koch network across both
 
 ### Agenda overlap
 
 The **August 2023 Williamsburg mock convention** drafted proposals that **directly match Project 2025's stated agenda**:
 
-- Federal-lands transfer to states ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ matches P2025 chapter on Interior Department
-- Commerce Clause restrictions ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ matches P2025 deregulation agenda
-- Likely Establishment Clause changes ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ matches P2025's Christian-nationalist policy frame
-- Restrictions on federal jurisdiction ÃƒÂ¢Ã¢â‚¬Â Ã¢â‚¬â„¢ matches P2025's "dismantle administrative state"
+- Federal-lands transfer to states â†’ matches P2025 chapter on Interior Department
+- Commerce Clause restrictions â†’ matches P2025 deregulation agenda
+- Likely Establishment Clause changes â†’ matches P2025's Christian-nationalist policy frame
+- Restrictions on federal jurisdiction â†’ matches P2025's "dismantle administrative state"
 
 ### Funding overlap
 
@@ -58,12 +58,12 @@ Same DAFs fund both: DonorsTrust, Donors Capital Fund, Vanguard Charitable, Armr
 
 ## Current confidence
 
-`#confidence/high` ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â direct institutional, personnel, and funding overlap; explicitly coordinated agenda; mock-convention evidence demonstrates intent to use COS to lock in P2025-style outcomes.
+`#confidence/high` â€” direct institutional, personnel, and funding overlap; explicitly coordinated agenda; mock-convention evidence demonstrates intent to use COS to lock in P2025-style outcomes.
 
 ## Disconfirming evidence
 
-- Some Heritage Foundation pieces have expressed concern about Article V (e.g. "Reconsidering the Wisdom of an Article V Convention") ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â but the dominant Heritage line endorses
-- Some right-wing groups (John Birch Society) oppose COS ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â but they oppose from a different ideological angle (states-rights absolutism, anti-runaway), not from disagreement with the underlying agenda
+- Some Heritage Foundation pieces have expressed concern about Article V (e.g. "Reconsidering the Wisdom of an Article V Convention") â€” but the dominant Heritage line endorses
+- Some right-wing groups (John Birch Society) oppose COS â€” but they oppose from a different ideological angle (states-rights absolutism, anti-runaway), not from disagreement with the underlying agenda
 - The mock-convention proposals are not binding on a future real convention
 
 None of these significantly weaken the central claim.
@@ -106,40 +106,40 @@ The app's data model should **link COS and Project 2025 entities under a unified
 
 ## 2026-05-16 update: see broader coalition framing
 
-This hypothesis specifically concerns the COS-as-permanent-capture relationship to Project 2025. For the broader analytical framing of the coalition structure (patron + theocratic + tech-surveillance wings), see [[Hypothesis - Three-wing coalition]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â which contextualizes COS as one specific mechanism deployed by a structurally three-wing coalition.
+This hypothesis specifically concerns the COS-as-permanent-capture relationship to Project 2025. For the broader analytical framing of the coalition structure (patron + theocratic + tech-surveillance wings), see [[Hypothesis - Three-wing coalition]] â€” which contextualizes COS as one specific mechanism deployed by a structurally three-wing coalition.
 
 The two hypotheses are complementary:
 
-- **This hypothesis** (COS as permanent-capture arm of P2025) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â *vector-specific* analysis of one strategic mechanism
-- **[[Hypothesis - Three-wing coalition]]** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â *coalition-structural* analysis of the underlying actor configuration
+- **This hypothesis** (COS as permanent-capture arm of P2025) â€” *vector-specific* analysis of one strategic mechanism
+- **[[Hypothesis - Three-wing coalition]]** â€” *coalition-structural* analysis of the underlying actor configuration
 
-For the theocratic-wing depth that the original hypothesis treated lightly, see [[Theocratic Wing Infrastructure 1935-2026]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â which catalogs the four layers from [[The Fellowship]] (1935) through [[Capitol Ministries]] (1996), [[Alliance Defending Freedom]] (1994), and [[United in Purpose]] (2008-).
+For the theocratic-wing depth that the original hypothesis treated lightly, see [[Theocratic Wing Infrastructure 1935-2026]] â€” which catalogs the four layers from [[The Fellowship]] (1935) through [[Capitol Ministries]] (1996), [[Alliance Defending Freedom]] (1994), and [[United in Purpose]] (2008-).
 
 ---
 
 ## 2026-05-16 update: see broader coalition framing
 
-This hypothesis specifically concerns the COS-as-permanent-capture relationship to Project 2025. For the broader analytical framing of the coalition structure (patron + theocratic + tech-surveillance wings), see [[Hypothesis - Three-wing coalition]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â which contextualizes COS as one specific mechanism deployed by a structurally three-wing coalition.
+This hypothesis specifically concerns the COS-as-permanent-capture relationship to Project 2025. For the broader analytical framing of the coalition structure (patron + theocratic + tech-surveillance wings), see [[Hypothesis - Three-wing coalition]] â€” which contextualizes COS as one specific mechanism deployed by a structurally three-wing coalition.
 
 The two hypotheses are complementary:
 
-- **This hypothesis** (COS as permanent-capture arm of P2025) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â *vector-specific* analysis of one strategic mechanism
-- **[[Hypothesis - Three-wing coalition]]** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â *coalition-structural* analysis of the underlying actor configuration
+- **This hypothesis** (COS as permanent-capture arm of P2025) â€” *vector-specific* analysis of one strategic mechanism
+- **[[Hypothesis - Three-wing coalition]]** â€” *coalition-structural* analysis of the underlying actor configuration
 
-For the theocratic-wing depth that the original hypothesis treated lightly, see [[Theocratic Wing Infrastructure 1935-2026]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â which catalogs the four layers from [[The Fellowship]] (1935) through [[Capitol Ministries]] (1996), [[Alliance Defending Freedom]] (1994), and [[United in Purpose]] (2008-).
+For the theocratic-wing depth that the original hypothesis treated lightly, see [[Theocratic Wing Infrastructure 1935-2026]] â€” which catalogs the four layers from [[The Fellowship]] (1935) through [[Capitol Ministries]] (1996), [[Alliance Defending Freedom]] (1994), and [[United in Purpose]] (2008-).
 
 ---
 
 ## 2026-05-16 update: see broader coalition framing
 
-This hypothesis specifically concerns the COS-as-permanent-capture relationship to Project 2025. For the broader analytical framing of the coalition structure (patron + theocratic + tech-surveillance wings), see [[Hypothesis - Three-wing coalition]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â which contextualizes COS as one specific mechanism deployed by a structurally three-wing coalition.
+This hypothesis specifically concerns the COS-as-permanent-capture relationship to Project 2025. For the broader analytical framing of the coalition structure (patron + theocratic + tech-surveillance wings), see [[Hypothesis - Three-wing coalition]] â€” which contextualizes COS as one specific mechanism deployed by a structurally three-wing coalition.
 
 The two hypotheses are complementary:
 
-- **This hypothesis** (COS as permanent-capture arm of P2025) ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â *vector-specific* analysis of one strategic mechanism
-- **[[Hypothesis - Three-wing coalition]]** ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â *coalition-structural* analysis of the underlying actor configuration
+- **This hypothesis** (COS as permanent-capture arm of P2025) â€” *vector-specific* analysis of one strategic mechanism
+- **[[Hypothesis - Three-wing coalition]]** â€” *coalition-structural* analysis of the underlying actor configuration
 
-For the theocratic-wing depth that the original hypothesis treated lightly, see [[Theocratic Wing Infrastructure 1935-2026]] ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â which catalogs the four layers from [[The Fellowship]] (1935) through [[Capitol Ministries]] (1996), [[Alliance Defending Freedom]] (1994), and [[United in Purpose]] (2008-).
+For the theocratic-wing depth that the original hypothesis treated lightly, see [[Theocratic Wing Infrastructure 1935-2026]] â€” which catalogs the four layers from [[The Fellowship]] (1935) through [[Capitol Ministries]] (1996), [[Alliance Defending Freedom]] (1994), and [[United in Purpose]] (2008-).
 
 ## Falsification tests for this hypothesis
 
@@ -151,7 +151,7 @@ The vault treats this hypothesis as confidence/high but explicitly falsifiable. 
 
 **Falsification test 3: Personnel overlap dissipates.** The [[P2025 COS Personnel Overlap]] connection note documents the substantial overlap between Project 2025 contributing-organisation personnel and Convention of States Action / Citizens for Self-Governance leadership. If that personnel overlap meaningfully dissipates over 2025-2027 (different personnel cohorts running the two operations), the operational-integration claim weakens.
 
-**Falsification test 4: Constitutional drafting becomes pluralistic.** If the COS-affiliated constitutional drafting work (the Simulated Convention of States and adjacent drafting infrastructure) produces output that is meaningfully pluralistic across the conservative-libertarian-religious-right ideological space â€” rather than the more uniform integralist-leaning output the current drafting infrastructure has produced â€” the "permanent capture arm" framing loses force because COS would be a forum for genuine constitutional deliberation rather than a vehicle for specific policy locked-in.
+**Falsification test 4: Constitutional drafting becomes pluralistic.** If the COS-affiliated constitutional drafting work (the Simulated Convention of States and adjacent drafting infrastructure) produces output that is meaningfully pluralistic across the conservative-libertarian-religious-right ideological space - rather than the more uniform integralist-leaning output the current drafting infrastructure has produced - the "permanent capture arm" framing loses force because COS would be a forum for genuine constitutional deliberation rather than a vehicle for specific policy locked-in.
 
 ## Cross-referencing evidence
 

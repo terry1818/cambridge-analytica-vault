@@ -26,7 +26,7 @@ Wikipedia overview of Facebook / Meta Platforms
 
 ## Key claims / findings
 
-- Founded 2004 by Zuckerberg`n- Renamed Meta 2021`n- CA data-harvest occurred via Graph API v1.0`n-  FTC settlement 2019`n- ICO Ã‚Â£500K fine 2018
+- Founded 2004 by Zuckerberg`n- Renamed Meta 2021`n- CA data-harvest occurred via Graph API v1.0`n-  FTC settlement 2019`n- ICO £500K fine 2018
 
 ## Entities mentioned
 

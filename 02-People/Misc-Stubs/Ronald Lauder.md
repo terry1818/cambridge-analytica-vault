@@ -8,11 +8,11 @@ aliases: ['Ronald Lauder','Ronald S Lauder']
 
 # Ronald Lauder
 
-US billionaire. EstÃ©e Lauder Companies executive and heir. President of the World Jewish Congress (since 2007, succeeding [[Edgar Bronfman Sr.]]). Major US-Israel philanthropist.
+US billionaire. Estée Lauder Companies executive and heir. President of the World Jewish Congress (since 2007, succeeding [[Edgar Bronfman Sr.]]). Major US-Israel philanthropist.
 
 ## See also
 
-[[World Jewish Congress]] | [[Edgar Bronfman Sr.]] | [[Mega Group]] | [[EstÃ©e Lauder Companies]] | [[Israel]]
+[[World Jewish Congress]] | [[Edgar Bronfman Sr.]] | [[Mega Group]] | [[Estée Lauder Companies]] | [[Israel]]
 
 ---
 

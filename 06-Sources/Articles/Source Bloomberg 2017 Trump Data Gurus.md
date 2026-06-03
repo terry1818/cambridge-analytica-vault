@@ -28,7 +28,7 @@ Bloomberg investigation published ~10 months after Trumps election win and ~12 m
 
 ## Significance
 
-This piece is one of several mid-2016 to early-2017 mainstream business-press investigations that **could have triggered the scandal earlier**. The fact that it didnt â€” that the story still required the March 2018 Wylie disclosures + Channel 4 sting + multi-newsroom coordination to break â€” illustrates the difficulty of converting documented concerns into actionable public pressure.
+This piece is one of several mid-2016 to early-2017 mainstream business-press investigations that **could have triggered the scandal earlier**. The fact that it didnt — that the story still required the March 2018 Wylie disclosures + Channel 4 sting + multi-newsroom coordination to break — illustrates the difficulty of converting documented concerns into actionable public pressure.
 
 ## Sources
 

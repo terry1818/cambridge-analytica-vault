@@ -21,9 +21,9 @@ wikipedia_url: https://en.wikipedia.org/wiki/America_First_Policy_Institute
 **Trump-aligned policy think tank** founded **April 2021** during the Biden interregnum. **Frequently called "Trump's Heritage Foundation."** Staffed by **dozens of ex-Trump 1.0 officials** + designed to **provide Trump 2.0 with personnel + policy infrastructure independent of (but parallel to) [[The Heritage Foundation]]**. Operated in **explicit and sometimes-tense relationship with Heritage + [[Project 2025]]** during 2024 campaign cycle.
 
 **Trump 2.0 personnel placement (extremely high):**
-- **Brooke Rollins** (former AFPI CEO) Ã¢â€ â€™ **USDA Secretary** Trump 2.0
-- **Linda McMahon** (former AFPI chair) Ã¢â€ â€™ **Education Secretary** Trump 2.0
-- **Larry Kudlow** (former AFPI senior fellow) Ã¢â€ â€™ economic advisory role
+- **Brooke Rollins** (former AFPI CEO) -- **USDA Secretary** Trump 2.0
+- **Linda McMahon** (former AFPI chair) -- **Education Secretary** Trump 2.0
+- **Larry Kudlow** (former AFPI senior fellow) -- economic advisory role
 - **Multiple ex-AFPI staff** scattered across Trump 2.0 sub-cabinet
 
 **The most successful single ex-Trump-1.0 personnel-warehouse + restaging operation of the Biden interregnum.**
@@ -48,7 +48,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/America_First_Policy_Institute
 
 AFPI organized into **30+ specialized "Centers"** mirroring federal-agency portfolio:
 
-- Center for Education Opportunity (now Linda McMahon Ã¢â€ â€™ Education)
+- Center for Education Opportunity (now Linda McMahon -- Education)
 - Center for the American Worker
 - Center for Energy Independence
 - Center for American Prosperity

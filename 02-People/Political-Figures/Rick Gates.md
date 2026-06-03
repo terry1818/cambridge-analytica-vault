@@ -23,7 +23,7 @@ Gates's plea and cooperation produced material evidence used in:
 
 Gates provided sworn testimony to the grand jury and at trial about:
 - His and Manafort's Ukraine-related lobbying work (failure to register under FARA)
-- Manafort's August 2, 2016 Havana cigar bar meeting with [[Konstantin Kilimnik]] â€” at which Manafort shared Trump campaign polling data with a Russian intelligence-connected operative
+- Manafort's August 2, 2016 Havana cigar bar meeting with [[Konstantin Kilimnik]] -- at which Manafort shared Trump campaign polling data with a Russian intelligence-connected operative
 - Trump campaign's awareness of and coordination with Manafort
 - Inaugural Committee financial practices
 
@@ -33,17 +33,17 @@ Gates was reportedly cooperator in the parallel SDNY investigation into the Trum
 
 ## Sentencing (December 17, 2019)
 
-Despite Mueller-team recommendation for substantial confinement, Judge Amy Berman Jackson â€” citing Gates's "extraordinary cooperation" â€” imposed 45 days of intermittent confinement (weekends), 3 years probation, $20,000 fine, and 300 hours community service.
+Despite Mueller-team recommendation for substantial confinement, Judge Amy Berman Jackson -- citing Gates's "extraordinary cooperation" -- imposed 45 days of intermittent confinement (weekends), 3 years probation, $20,000 fine, and 300 hours community service.
 
 ## Connections
 
-- [[Paul Manafort]] â€” longtime business partner and Mueller co-conspirator
-- [[Konstantin Kilimnik]] â€” Russian intelligence-connected operative
-- [[Roger Stone]] â€” Trump campaign associate
-- [[Donald Trump]] â€” campaign principal
-- [[Mueller Investigation]] â€” investigated and cooperated
+- [[Paul Manafort]] -- longtime business partner and Mueller co-conspirator
+- [[Konstantin Kilimnik]] -- Russian intelligence-connected operative
+- [[Roger Stone]] -- Trump campaign associate
+- [[Donald Trump]] -- campaign principal
+- [[Mueller Investigation]] -- investigated and cooperated
 - [[Trump Tower August 2016 meeting]] (Manafort/Gates context)
-- [[Tom Barrack]] â€” Inaugural Committee chair
+- [[Tom Barrack]] -- Inaugural Committee chair
 
 ## Sources
 

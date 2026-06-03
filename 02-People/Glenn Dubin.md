@@ -15,13 +15,13 @@ Co-founder (1992) of Highbridge Capital Management hedge fund; later sold to JPM
 
 ## Documented connections to the Epstein operation
 
-### Tier 1 â€” documented
+### Tier 1 -- documented
 
 - Long-term close personal association with Epstein documented across decades
 - Eva Andersson-Dubin had documented prior personal relationship with Epstein before her marriage to Glenn Dubin
 - Flight log presence on Epstein aircraft documented for both Dubins
 
-### Tier 1 â€” sworn allegations (existence of allegation)
+### Tier 1 -- sworn allegations (existence of allegation)
 
 [[Sarah Ransome]], a Maxwell trial-era accuser, alleged in sworn statements that she was trafficked to Glenn Dubin on multiple occasions. Ransome's sworn statements are in the public record from her own litigation against Epstein and Maxwell.
 
@@ -35,9 +35,9 @@ Dubin has denied the allegations through statements via counsel.
 
 ## Connections
 
-- [[Jeffrey Epstein]] â€” long-term associate
-- [[Eva Andersson-Dubin]] â€” spouse; former Epstein girlfriend
-- [[Sarah Ransome]] â€” accuser
+- [[Jeffrey Epstein]] -- long-term associate
+- [[Eva Andersson-Dubin]] -- spouse; former Epstein girlfriend
+- [[Sarah Ransome]] -- accuser
 
 ## Sources
 

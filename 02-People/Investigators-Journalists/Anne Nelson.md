@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Investigative journalist; author of Shadow Network (2019) on the Council for National Policy; the foundational academic / journalistic exposÃ© on CNP
+description: Investigative journalist; author of Shadow Network (2019) on the Council for National Policy; the foundational academic / journalistic exposé on CNP
 tags: [person, role/journalist, role/investigator, era/2019-2026]
 type: person
 full_name: Anne Nelson
@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-Investigative journalist and Columbia adjunct professor. Author of **[[Source Anne Nelson Shadow Network 2019|*Shadow Network: Media, Money, and the Secret Hub of the Radical Right*]]** (Bloomsbury, 2019) - **the foundational academic / journalistic exposÃ© of [[Council for National Policy|CNP]]**. The book chronicles CNP's 40-year history from 1981 founding through Trump 1.0 and exposes the membership structure, funding flows, and operational role connecting religious right + corporate money + GOP operatives.
+Investigative journalist and Columbia adjunct professor. Author of **[[Source Anne Nelson Shadow Network 2019|*Shadow Network: Media, Money, and the Secret Hub of the Radical Right*]]** (Bloomsbury, 2019) - **the foundational academic / journalistic exposé of [[Council for National Policy|CNP]]**. The book chronicles CNP's 40-year history from 1981 founding through Trump 1.0 and exposes the membership structure, funding flows, and operational role connecting religious right + corporate money + GOP operatives.
 
 Featured in **[[Source Bad Faith Documentary 2024|Bad Faith]]**. Continues publishing on CNP-adjacent topics.
 

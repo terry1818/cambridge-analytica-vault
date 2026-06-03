@@ -29,8 +29,8 @@ Trump senior advisor and son-in-law (married to Ivanka Trump). Ran Trumps **2016
 
 - Senior White House advisor 2017-2021 (Middle East policy, criminal justice)
 - Left government 2021
-- Founded **Affinity Partners** in 2021 â€” private equity firm
-- Affinity Partners received $2 billion from Saudi Arabian sovereign wealth fund within months of Kushner leaving government â€” subject of ongoing ethics inquiries
+- Founded **Affinity Partners** in 2021 -- private equity firm
+- Affinity Partners received $2 billion from Saudi Arabian sovereign wealth fund within months of Kushner leaving government -- subject of ongoing ethics inquiries
 - 2024+: rumored to advise Trump 2024-2028 administration informally
 
 ## Connections

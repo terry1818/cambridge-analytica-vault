@@ -29,15 +29,15 @@ Founders Fund is **central to the Thiel network's operational reach**:
 
 ## Notable partners
 
-- **[[Peter Thiel]]** â€” co-founder; remains involved
-- **Ken Howery** â€” co-founder; later US Ambassador to Sweden (Trump first term)
-- **Brian Singerman** â€” long-time partner
-- **Trae Stephens** â€” partner; co-founder of Anduril; Trump 2016 transition team member; ongoing Trump 2.0 advisory role
-- **Joe Lonsdale** â€” adjacent figure; co-founder of Palantir and 8VC
+- **[[Peter Thiel]]** -- co-founder; remains involved
+- **Ken Howery** -- co-founder; later US Ambassador to Sweden (Trump first term)
+- **Brian Singerman** -- long-time partner
+- **Trae Stephens** -- partner; co-founder of Anduril; Trump 2016 transition team member; ongoing Trump 2.0 advisory role
+- **Joe Lonsdale** -- adjacent figure; co-founder of Palantir and 8VC
 
 ## CA / scandal relevance
 
-Founders Fund has no direct CA involvement. It matters here as the **central financial vehicle of the Thiel network** â€” the entity that has built the operational infrastructure that converged with US executive-branch power in 2024-2026.
+Founders Fund has no direct CA involvement. It matters here as the **central financial vehicle of the Thiel network** -- the entity that has built the operational infrastructure that converged with US executive-branch power in 2024-2026.
 
 ## Sources
 

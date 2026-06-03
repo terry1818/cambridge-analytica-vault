@@ -18,7 +18,7 @@ US-organized international-right political network founded 2017 by [[Steve Banno
 
 ## Significance
 
-The Movement is the documented vehicle through which Bannon attempted to transfer the Trump-coalition methodology to international populist-right parties. The Brazilian outcome ([[Jair Bolsonaro]] election â†’ January 8 attack) is the most-complete cycle.
+The Movement is the documented vehicle through which Bannon attempted to transfer the Trump-coalition methodology to international populist-right parties. The Brazilian outcome ([[Jair Bolsonaro]] election → January 8 attack) is the most-complete cycle.
 
 ## See also
 

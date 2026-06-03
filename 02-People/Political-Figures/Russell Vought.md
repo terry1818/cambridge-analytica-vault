@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: OMB Director Trump 2.0; Project 2025 lead author; Center for Renewing America founder
 tags: [person, role/politician, role/operative, topic/tech-right, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -20,7 +20,7 @@ American conservative political operative; **Director of the US Office of Manage
 
 ## Project 2025 role
 
-Vought was a **central author of Project 2025** â€” the [[Heritage Foundation]] policy blueprint for the Trump 2.0 administration. Specifically:
+Vought was a **central author of Project 2025** -- the [[Heritage Foundation]] policy blueprint for the Trump 2.0 administration. Specifically:
 
 - Wrote the Executive Office of the President / OMB chapter
 - Helped develop the **personnel database** (pre-vetted candidates for thousands of positions)
@@ -28,14 +28,14 @@ Vought was a **central author of Project 2025** â€” the [[Heritage Foundati
 
 ## Schedule F
 
-Vought is the **architect of Schedule F** â€” the executive order originally issued by Trump in October 2020 (rescinded by Biden 2021) and **re-implemented by Trump 2.0 in 2025**. Schedule F:
+Vought is the **architect of Schedule F** -- the executive order originally issued by Trump in October 2020 (rescinded by Biden 2021) and **re-implemented by Trump 2.0 in 2025**. Schedule F:
 
 - Reclassifies federal positions in "policy-influencing" roles
 - Removes civil-service protections for those positions
 - Enables mass political firing without traditional process
 - Operationalizes the [[Curtis Yarvin]] "RAGE: Retire All Government Employees" framework
 
-The Schedule F â†’ DOGE mass-firings pipeline is a **defining feature** of Trump 2.0 administration governance.
+The Schedule F → DOGE mass-firings pipeline is a **defining feature** of Trump 2.0 administration governance.
 
 ## Center for Renewing America
 

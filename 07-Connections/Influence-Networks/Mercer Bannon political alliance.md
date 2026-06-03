@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Mercer-Bannon political alliance that built CA, Breitbart, GAI infrastructure
 tags: [connection, confidence/high, topic/cambridge-analytica]
@@ -11,7 +11,7 @@ period: 2011-2017
 aliases: ["Connection: Mercer Bannon political alliance"]
 ---
 
-# Connection: Mercers â†” Bannon (political alliance)
+# Connection: Mercers ↔ Bannon (political alliance)
 
 ## What the link is
 
@@ -28,7 +28,7 @@ The **Mercer-Bannon political alliance** was the strategic engine of the CA-era 
 
 ## Confidence
 
-`#confidence/high` â€” extensively documented across multiple primary sources.
+`#confidence/high` — extensively documented across multiple primary sources.
 
 ## Implications
 

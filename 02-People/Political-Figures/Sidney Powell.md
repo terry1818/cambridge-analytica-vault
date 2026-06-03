@@ -19,7 +19,7 @@ Born May 1, 1955, Durham, NC. Former federal prosecutor (Western District of Tex
 - Joined Trump campaign legal team November 14, 2020
 - Co-presented at November 19, 2020 RNC press conference (the "hair dye" press conference) with Giuliani
 - Promoted Dominion Voting Systems and Smartmatic conspiracy theories
-- Trump publicly stepped back from her November 22, 2020 ("Sidney Powell is practicing law on her own") â€” but she continued working with Trump through January
+- Trump publicly stepped back from her November 22, 2020 ("Sidney Powell is practicing law on her own") -- but she continued working with Trump through January
 - **December 18, 2020 White House meeting**: Powell, [[Michael Flynn]], and Patrick Byrne met with Trump in the Oval Office; reportedly proposed seizure of voting machines under emergency authority and appointment of Powell as Special Counsel
 - Coordinated [[Coffee County voting system breach]] in Georgia January 7, 2021 (per Georgia indictment)
 
@@ -58,12 +58,12 @@ Indicted in [[Georgia v Trump RICO 2023]] on:
 
 ## Connections
 
-- [[Donald Trump]] â€” client; co-conspirator
-- [[Rudy Giuliani]] Â· [[John Eastman]] Â· [[Kenneth Chesebro]] Â· [[Jenna Ellis]] â€” Trump legal team
-- [[Michael Flynn]] Â· [[Patrick Byrne]] â€” December 18, 2020 White House meeting
-- [[Dominion Voting Systems]] Â· [[Smartmatic]] â€” defamation plaintiffs
-- [[Georgia v Trump RICO 2023]] â€” co-defendant; pled guilty
-- [[US v Trump DC Federal Election Interference Case]] â€” UCC3
+- [[Donald Trump]] -- client; co-conspirator
+- [[Rudy Giuliani]] · [[John Eastman]] · [[Kenneth Chesebro]] · [[Jenna Ellis]] -- Trump legal team
+- [[Michael Flynn]] · [[Patrick Byrne]] -- December 18, 2020 White House meeting
+- [[Dominion Voting Systems]] · [[Smartmatic]] -- defamation plaintiffs
+- [[Georgia v Trump RICO 2023]] -- co-defendant; pled guilty
+- [[US v Trump DC Federal Election Interference Case]] -- UCC3
 - [[Stop the Steal]]
 
 ## Sources

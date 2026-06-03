@@ -8,7 +8,7 @@ actors: [Cambridge Analytica, PRI]
 status: closed
 ---
 
-# HindsightFiles â€” Mexico PRI Material
+# HindsightFiles -- Mexico PRI Material
 
 ## What HindsightFiles documents cover
 
@@ -17,13 +17,13 @@ The Mexican PRI material in HindsightFiles corroborated and expanded the [[Mexic
 ### Disclosures
 
 - Documents on CA's pitching to PRI for the 2018 Mexican presidential election
-- Material confirming the **defensive contract** â€” PRI paid CA to NOT work for rival parties
+- Material confirming the **defensive contract** -- PRI paid CA to NOT work for rival parties
 - References to specific payments and timelines
 - Material on CA's data-sourcing arrangements with Mexican consumer-research firms
 
 ## Significance
 
-The "pay to not compete" arrangement with PRI is operationally significant â€” it means CA was selling a **non-engagement product**, not just engagement. This is **how mature private-political-services markets work** â€” and a window into CA's pricing power.
+The "pay to not compete" arrangement with PRI is operationally significant -- it means CA was selling a **non-engagement product**, not just engagement. This is **how mature private-political-services markets work** -- and a window into CA's pricing power.
 
 ## Open questions
 

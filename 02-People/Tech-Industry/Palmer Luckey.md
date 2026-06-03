@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Palmer_Luckey
 
 ## Summary
 
-American technology entrepreneur. As a teenager created the **Oculus Rift** VR headset prototype (2010-2012); founded **Oculus VR** (2012); company acquired by Facebook in **March 2014 for $2 billion** when Luckey was 21. **Fired from Facebook in March 2017** following a **2016 controversy** over his secret $10,000 donation to "Nimble America" â€” a pro-Trump pro-meme political organization. After Facebook firing, founded **[[Anduril]]** in 2017 with [[Founders Fund]] backing.
+American technology entrepreneur. As a teenager created the **Oculus Rift** VR headset prototype (2010-2012); founded **Oculus VR** (2012); company acquired by Facebook in **March 2014 for $2 billion** when Luckey was 21. **Fired from Facebook in March 2017** following a **2016 controversy** over his secret $10,000 donation to "Nimble America" -- a pro-Trump pro-meme political organization. After Facebook firing, founded **[[Anduril]]** in 2017 with [[Founders Fund]] backing.
 
 ## The 2016 firing
 
@@ -31,7 +31,7 @@ The Luckey firing in 2017 became a Tech Right grievance touchstone:
 
 ## Anduril founding
 
-- **2017** â€” Luckey founds Anduril with co-founders including Trae Stephens ([[Founders Fund]] partner)
+- **2017** -- Luckey founds Anduril with co-founders including Trae Stephens ([[Founders Fund]] partner)
 - Initial focus: AI-driven border-surveillance systems
 - Anchor investor: [[Founders Fund]] / [[Peter Thiel]]
 - Rapidly expanded into broader defense-tech: autonomous weapons, command/control software, electronic warfare

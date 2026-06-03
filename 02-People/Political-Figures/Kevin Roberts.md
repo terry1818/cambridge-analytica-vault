@@ -16,7 +16,7 @@ status: active
 
 ## Summary
 
-President of [[The Heritage Foundation]] since 2021. Previously president of Wyoming Catholic College. Under Roberts, Heritage launched and executed [[Project 2025]] Ã¢â‚¬â€ the 922-page Mandate for Leadership that became the operational blueprint for Trump's second administration. Stated openly that the institutional goal is a "second American Revolution" Ã¢â‚¬â€ language that aligned with Project 2025's confrontational framing toward the administrative state.
+President of [[The Heritage Foundation]] since 2021. Previously president of Wyoming Catholic College. Under Roberts, Heritage launched and executed [[Project 2025]] -- the 922-page Mandate for Leadership that became the operational blueprint for Trump's second administration. Stated openly that the institutional goal is a "second American Revolution" -- language that aligned with Project 2025's confrontational framing toward the administrative state.
 
 ## Key facts
 
@@ -27,12 +27,12 @@ President of [[The Heritage Foundation]] since 2021. Previously president of Wyo
 
 ## Public statements
 
-- "We are in the process of the second American Revolution, which will remain bloodless if the left allows it to be." Ã¢â‚¬â€ July 2024 (controversial public remark amid Trump campaign distancing from P2025)
+- "We are in the process of the second American Revolution, which will remain bloodless if the left allows it to be." -- July 2024 (controversial public remark amid Trump campaign distancing from P2025)
 
 ## Relationships
 
 - **Patrons / institutional supporters:** [[Rebekah Mercer]] (trustee), Koch network, Coors family
-- **Architect under him:** [[Russ Vought]] Ã¢â‚¬â€ Project 2025 chief architect
+- **Architect under him:** [[Russ Vought]] -- Project 2025 chief architect
 - **Successor / placed personnel:** Many P2025 contributors now in Trump 2.0 cabinet
 
 ## Open questions

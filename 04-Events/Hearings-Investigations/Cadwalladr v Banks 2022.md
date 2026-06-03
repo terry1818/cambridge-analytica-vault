@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: 2022 UK libel case Cadwalladr v Banks; Banks sued Cadwalladr over Russian-connection TED talk references; Cadwalladr largely won
 tags: [event, topic/brexit, topic/cambridge-analytica, era/2020-2024, jurisdiction/uk]
@@ -14,7 +14,7 @@ status: closed
 
 ## Summary
 
-Multi-year UK libel case brought by [[Arron Banks]] against journalist [[Carole Cadwalladr]] over her **2019 TED talk** ("Facebook's role in Brexit â€” and the threat to democracy") and several tweets referencing Banks's documented Russian Embassy contacts during the Brexit campaign period. UK High Court judgment delivered by Justice Karen Steyn on **June 13, 2022**.
+Multi-year UK libel case brought by [[Arron Banks]] against journalist [[Carole Cadwalladr]] over her **2019 TED talk** ("Facebook's role in Brexit -- and the threat to democracy") and several tweets referencing Banks's documented Russian Embassy contacts during the Brexit campaign period. UK High Court judgment delivered by Justice Karen Steyn on **June 13, 2022**.
 
 ## What Cadwalladr said
 
@@ -28,16 +28,16 @@ The contested statements primarily concerned:
 
 Justice Steyn ruled:
 
-- **Cadwalladr won on the principal public-interest defense** under the Defamation Act 2013 â€” the major substantive finding in her favor
-- However, the **public-interest defense lapsed after a certain date** â€” after which the continuing publication of the statements without correction became defamatory
-- **Cadwalladr ordered to pay limited damages** on this narrower secondary ground (~Â£35,000)
+- **Cadwalladr won on the principal public-interest defense** under the Defamation Act 2013 -- the major substantive finding in her favor
+- However, the **public-interest defense lapsed after a certain date** -- after which the continuing publication of the statements without correction became defamatory
+- **Cadwalladr ordered to pay limited damages** on this narrower secondary ground (~£35,000)
 - Cadwalladr ordered to pay portion of Banks's legal costs
 
 ## Subsequent appeals
 
 - Both parties pursued appeals
-- 2023-2024 â€” appeals continued; ultimate outcomes mixed
-- Cadwalladr's legal defense was substantially crowd-funded (~Â£800K+ raised across the multi-year case)
+- 2023-2024 -- appeals continued; ultimate outcomes mixed
+- Cadwalladr's legal defense was substantially crowd-funded (~£800K+ raised across the multi-year case)
 
 ## Significance
 

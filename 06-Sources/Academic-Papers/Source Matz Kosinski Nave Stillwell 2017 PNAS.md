@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: PNAS 2017 paper â€” first large-scale empirical demonstration that personality-targeted ads outperform untargeted ads in commercial advertising; the empirical follow-on to Kosinski 2013
+description: PNAS 2017 paper — first large-scale empirical demonstration that personality-targeted ads outperform untargeted ads in commercial advertising; the empirical follow-on to Kosinski 2013
 aliases: ["Source: Source Matz Kosinski Nave Stillwell 2017 PNAS"]
 tags: [source, evidence/academic, topic/psychographics, topic/microtargeting, topic/cambridge-analytica, era/2016-2018]
 type: source
@@ -22,23 +22,23 @@ Matz, S. C.; Kosinski, M.; Nave, G.; Stillwell, D. J. (2017-11-28). "Psychologic
 
 ## What it is
 
-The **first large-scale empirical demonstration** that psychological-trait-targeted advertising **outperforms untargeted advertising** in commercial-conversion outcomes. The 2017 follow-on to [[Source Kosinski Stillwell Graepel 2013 PNAS|Kosinski et al. 2013]], it moved the field from **"we can predict traits"** to **"trait-matched messaging produces measurable behavioral lift."** The paper is **the empirical counterweight** to academic skeptics ([[Eitan Hersh]], [[Brendan Nyhan]]) who argue that microtargeting effects are small or null in field deployment â€” but the counterweight is itself bounded (see methodological caveats below).
+The **first large-scale empirical demonstration** that psychological-trait-targeted advertising **outperforms untargeted advertising** in commercial-conversion outcomes. The 2017 follow-on to [[Source Kosinski Stillwell Graepel 2013 PNAS|Kosinski et al. 2013]], it moved the field from **"we can predict traits"** to **"trait-matched messaging produces measurable behavioral lift."** The paper is **the empirical counterweight** to academic skeptics ([[Eitan Hersh]], [[Brendan Nyhan]]) who argue that microtargeting effects are small or null in field deployment — but the counterweight is itself bounded (see methodological caveats below).
 
 ## Key claims / findings
 
 - **Methodology:** Three field studies on **>3.5 million Facebook users** running real Facebook ad campaigns
 - **Experimental design:** Subjects' likely personality traits (introvert vs extrovert, high vs low openness) inferred from Facebook Likes using the [[Source Kosinski Stillwell Graepel 2013 PNAS|Kosinski 2013]] methodology; ad copy then matched or mismatched to inferred personality
-- **Key result â€” purchase outcomes:** Personality-matched ads generated:
+- **Key result — purchase outcomes:** Personality-matched ads generated:
   - Up to **~40% more clicks** than personality-mismatched ads
   - Up to **~50% more purchases** in some product categories than mismatched ads
 - **Mechanism:** the lift comes from **message framing aligned to trait-relevant psychological motivations**, not from changing what's being sold
-- **Implication (the authors' own framing):** psychological targeting is "effective for digital mass persuasion" â€” explicit field-validated effect, not just laboratory inference
+- **Implication (the authors' own framing):** psychological targeting is "effective for digital mass persuasion" — explicit field-validated effect, not just laboratory inference
 
 ## Notable quotes
 
 > "Targeting people with persuasive appeals tailored to their psychological profiles can be used to influence their behavior."
 
-> "Our findings suggest that psychological mass persuasion â€” the application of psychological targeting to large groups of people â€” can be used to influence the behavior of large groups by tailoring persuasive appeals to the psychological needs of the target audiences."
+> "Our findings suggest that psychological mass persuasion — the application of psychological targeting to large groups of people — can be used to influence the behavior of large groups by tailoring persuasive appeals to the psychological needs of the target audiences."
 
 ## Reliability assessment
 
@@ -46,8 +46,8 @@ The **first large-scale empirical demonstration** that psychological-trait-targe
 - **Independent corroboration:** subsequent replications have produced mixed effect sizes; some independent labs find smaller effects in different domains
 - **Methodological strengths:** large N; real-world ad-platform deployment (not lab); pre-registered analyses
 - **Methodological caveats:**
-  - **Commercial advertising context** (consumer products) â€” does NOT directly establish that the same effect sizes carry to **political persuasion** at the **electoral-outcome** scale
-  - Effect sizes are **relative** (compared to mismatched ads) â€” absolute base-rate conversion remains low
+  - **Commercial advertising context** (consumer products) — does NOT directly establish that the same effect sizes carry to **political persuasion** at the **electoral-outcome** scale
+  - Effect sizes are **relative** (compared to mismatched ads) — absolute base-rate conversion remains low
   - The [[Eitan Hersh]] / [[Brendan Nyhan]] critique survives: per-individual targeting precision and political-persuasion transfer are distinct empirical questions
 
 ## Significance for this vault
@@ -69,7 +69,7 @@ This is the **honest empirical baseline** for the disputed-claims thread.
 ## How I'm using this
 
 - [[Hypothesis - Academic methodology proliferation enabled CA]] (the academic line that fed CA's methodology)
-- [[Psychographic Targeting]] (concept node) â€” empirical-evidence anchor
+- [[Psychographic Targeting]] (concept node) — empirical-evidence anchor
 - [[Microtargeting]] (concept node)
 - [[Lens - Disputed Claims]] (counterweight to Hersh/Nyhan skepticism, with caveats)
 - [[Methodology - Verifying a CA claim]] (the field-effect-vs-marketing-claim distinction)

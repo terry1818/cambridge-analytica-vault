@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Department of Government Efficiency; Trump 2.0 executive office; founded Jan 2025; Musk-led initially; mass federal-workforce purges; RAGE in operation
 tags: [org, org/government, org/doge, era/2024-2026, jurisdiction/us]
@@ -63,7 +63,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Department_of_Government_Efficiency
 
 DOGE is **the operational implementation of [[Curtis Yarvin]]'s [[RAGE]] doctrine** - the framework explicitly cited by [[JD Vance]] in his 2022 Senate campaign. Musk's operational style + Yarvin's "Cathedral"-attack framework + Vance's vice-presidential endorsement = DOGE.
 
-**This is the documented intellectual-operational pipeline:** NRx philosophy (Yarvin) Ã¢â€ â€™ political endorsement (Vance) Ã¢â€ â€™ operational execution (Musk + DOGE personnel).
+**This is the documented intellectual-operational pipeline:** NRx philosophy (Yarvin) -- political endorsement (Vance) -- operational execution (Musk + DOGE personnel).
 
 ## Legal challenges
 

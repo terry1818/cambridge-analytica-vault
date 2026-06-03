@@ -16,11 +16,11 @@ wikipedia_url: https://en.wikipedia.org/wiki/Emma_Briant
 
 ## Summary
 
-British academic specializing in **political propaganda, information warfare, and counter-terrorism communications**. Author of **[[Source Briant 2015 Propaganda and Counter-Terrorism]]** â€” a foundational pre-scandal academic study of UK and US propaganda integrating direct interview research with [[SCL Group]] employees. Brought substantial evidence to the UK Parliament's [[DCMS Disinformation Inquiry]] including detailed analysis of CA-Leave.EU relationships.
+British academic specializing in **political propaganda, information warfare, and counter-terrorism communications**. Author of **[[Source Briant 2015 Propaganda and Counter-Terrorism]]** -- a foundational pre-scandal academic study of UK and US propaganda integrating direct interview research with [[SCL Group]] employees. Brought substantial evidence to the UK Parliament's [[DCMS Disinformation Inquiry]] including detailed analysis of CA-Leave.EU relationships.
 
 ## Pre-scandal SCL research
 
-Briant had **direct interview access to SCL personnel** during her academic research starting in the early 2010s â€” making her one of the **earliest academic experts on SCL** before the firm became famous for the CA scandal. Her 2015 book documents:
+Briant had **direct interview access to SCL personnel** during her academic research starting in the early 2010s -- making her one of the **earliest academic experts on SCL** before the firm became famous for the CA scandal. Her 2015 book documents:
 
 - SCL methodology in detail
 - Defense-contracting work for US DoD and UK MoD
@@ -40,8 +40,8 @@ During the 2017-2019 UK Parliament Disinformation and Fake News Inquiry:
 
 ## Post-scandal continuing work
 
-- 2018+ â€” continued academic research on CA aftermath
-- 2020 â€” published [[Source Briant OCCRP 2020-10-12]] revealing that **Emic** â€” a firm set up by ex-SCL Defence staff â€” was continuing to work for governments
+- 2018+ -- continued academic research on CA aftermath
+- 2020 -- published [[Source Briant OCCRP 2020-10-12]] revealing that **Emic** -- a firm set up by ex-SCL Defence staff -- was continuing to work for governments
 - Continuing research on AI-era information operations
 - Academic appointments at American University, then Bard College
 - Frequent expert commentator on propaganda research

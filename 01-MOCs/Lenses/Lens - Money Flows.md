@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Lens - tracing capital from donors through CA to political campaigns and successor orgs
 tags: [moc, lens]
@@ -14,25 +14,25 @@ Follow the money.
 
 ```
 Robert Mercer + family
-    â†“ ($15M+)
+    ↓ ($15M+)
 Cambridge Analytica
-    â†“
+    ↓
 Cruz / Trump campaigns
 ```
 
 ```
 Robert Mercer + family
-    â†“
+    ↓
 Make America Number 1 Super PAC
-    â†“
+    ↓
 Cambridge Analytica
-    â†“
+    ↓
 Pro-Trump operations
 ```
 
 ```
 Mercer Family Foundation
-    â†“
+    ↓
 GAI / Breitbart / Heritage / Reclaim NY / Parler
 ```
 
@@ -40,19 +40,19 @@ GAI / Breitbart / Heritage / Reclaim NY / Parler
 
 ```
 Arron Banks
-    â†“ (Â£8M+ personally; Russian-meeting timeline disputed)
+    ↓ (£8M+ personally; Russian-meeting timeline disputed)
 Leave.EU
-    â†“
+    ↓
 [CA work disputed; ICO finding: no significant breach]
 ```
 
 ```
-Vote Leave (Â£7M budget)
-    â†“ (Â£2.7M direct)
+Vote Leave (£7M budget)
+    ↓ (£2.7M direct)
 AggregateIQ
-    â† (Â£625K via BeLeave - found illegal by Electoral Commission)
-    â† (Â£435K via DUP)
-    â† (Veterans for Britain)
+    ← (£625K via BeLeave - found illegal by Electoral Commission)
+    ← (£435K via DUP)
+    ← (Veterans for Britain)
 ```
 
 (See [[Brexit Referendum 2016]] and [[AggregateIQ Detail]])
@@ -61,9 +61,9 @@ AggregateIQ
 
 ```
 $19M from "international investors" (Jan 2018)
-    â†“
+    ↓
 Emerdata Limited
-    â†“ (acquires CA/SCL assets per Fast Company 2019)
+    ↓ (acquires CA/SCL assets per Fast Company 2019)
 + continued legal bills for SCL companies in bankruptcy
 ```
 
@@ -71,9 +71,9 @@ Emerdata Limited
 
 ```
 US DoD + UK MoD
-    â†“ (various contracts)
+    ↓ (various contracts)
 SCL Group + SCL Defence
-    â†“ (~25 years of behavioral conflict work)
+    ↓ (~25 years of behavioral conflict work)
 [Personnel and methods that became CA]
 ```
 

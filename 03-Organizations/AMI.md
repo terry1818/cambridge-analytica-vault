@@ -13,7 +13,7 @@ aliases: ["American Media Inc", "American Media", "American Media Inc.", "A360 M
 
 American Media Inc. Publisher of the *National Enquirer*, *Star*, *OK!*, *Us Weekly*, *Globe*, and other tabloid titles. CEO 1999-2020: [[David Pecker]]. Operationally central to the 2016 "catch and kill" scheme that suppressed negative stories about [[Donald Trump]] during the 2016 election. Entered a Sept 20, 2018 non-prosecution agreement with the [[Southern District of New York]] US Attorney's Office admitting the McDougal payment was made "in concert with" the Trump campaign for the purpose of influencing the election. Reorganized in 2020 and rebranded as A360 Media.
 
-## 2016 election interference (Tier 1 â€” per AMI's own admissions in NPA)
+## 2016 election interference (Tier 1 -- per AMI's own admissions in NPA)
 
 AMI admitted in its 2018 non-prosecution agreement that:
 - It paid Karen McDougal $150,000 in August 2016
@@ -42,13 +42,13 @@ CEO David Pecker testified extensively at the [[People v Trump NY Hush Money 202
 
 ## Connections
 
-- [[David Pecker]] â€” CEO; primary witness
-- [[Donald Trump]] â€” political beneficiary; criminal counterparty
-- [[Michael Cohen]] â€” operational counterpart
-- [[Karen McDougal]] Â· [[Stormy Daniels]] Â· Dino Sajudin â€” payees
-- [[National Enquirer]] â€” flagship tabloid
-- [[People v Trump NY Hush Money 2024]] â€” evidence basis
-- [[SDNY US Attorney's Office]] â€” NPA counterparty
+- [[David Pecker]] -- CEO; primary witness
+- [[Donald Trump]] -- political beneficiary; criminal counterparty
+- [[Michael Cohen]] -- operational counterpart
+- [[Karen McDougal]] · [[Stormy Daniels]] · Dino Sajudin -- payees
+- [[National Enquirer]] -- flagship tabloid
+- [[People v Trump NY Hush Money 2024]] -- evidence basis
+- [[SDNY US Attorney's Office]] -- NPA counterparty
 
 ## Sources
 

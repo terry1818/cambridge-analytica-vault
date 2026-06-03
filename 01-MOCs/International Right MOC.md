@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: Cluster MOC for the international right-wing network that connects US conservative movement to Hungarian, German, Italian, Argentine, Brazilian, Indian, and other national right-wing operations.
 tags:
@@ -21,9 +21,9 @@ A cluster-specific MOC for the international right-wing network that connects th
 
 ## German thread
 
-- [[AfD]] - Alternative fÃ¼r Deutschland, principal German far-right party
+- [[AfD]] - Alternative für Deutschland, principal German far-right party
 - [[Alice Weidel]] - AfD co-leader
-- [[BjÃ¶rn HÃ¶cke]] - AfD Thuringia state leader, HÃ¶cke-wing principal
+- [[Björn Höcke]] - AfD Thuringia state leader, Höcke-wing principal
 - [[Elon Musk]] AfD endorsement 2024-2025
 
 ## Italian thread

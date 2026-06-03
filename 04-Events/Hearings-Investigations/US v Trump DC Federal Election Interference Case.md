@@ -16,10 +16,10 @@ US Department of Justice Special Counsel [[Jack Smith]] prosecution of [[Donald 
 ## Charges (original indictment August 2023)
 
 Four counts:
-1. **Conspiracy to defraud the United States** (18 USC Â§ 371) â€” conspiracy with co-conspirators to use dishonesty, fraud, and deceit to impair the function of the federal government in collecting, counting, and certifying the results of the 2020 presidential election
-2. **Conspiracy to obstruct an official proceeding** (Â§ 1512(k)) â€” the January 6 joint session of Congress
-3. **Obstruction of, and attempt to obstruct, an official proceeding** (Â§ 1512(c)(2))
-4. **Conspiracy against rights** (Â§ 241) â€” conspiracy to interfere with the right of millions of Americans to have their votes counted
+1. **Conspiracy to defraud the United States** (18 USC § 371) -- conspiracy with co-conspirators to use dishonesty, fraud, and deceit to impair the function of the federal government in collecting, counting, and certifying the results of the 2020 presidential election
+2. **Conspiracy to obstruct an official proceeding** (§ 1512(k)) -- the January 6 joint session of Congress
+3. **Obstruction of, and attempt to obstruct, an official proceeding** (§ 1512(c)(2))
+4. **Conspiracy against rights** (§ 241) -- conspiracy to interfere with the right of millions of Americans to have their votes counted
 
 Six unindicted co-conspirators (identified by description):
 - CC1 = [[Rudy Giuliani]]
@@ -36,7 +36,7 @@ Six unindicted co-conspirators (identified by description):
 - **December-January**: Trump moved to dismiss on immunity grounds; denied by Chutkan; Trump appealed
 - **February-April 2024**: DC Circuit and then SCOTUS heard immunity question; trial date vacated
 - **July 1, 2024**: Supreme Court issued *Trump v. United States* (6-3) holding that former presidents have absolute immunity for "core" presidential functions and presumptive immunity for other "official acts," with no immunity for unofficial acts
-- **August 27, 2024**: Smith filed superseding indictment narrowing factual allegations to align with the immunity ruling â€” removed allegations involving Trump's interactions with DOJ officials (deemed "core" official function)
+- **August 27, 2024**: Smith filed superseding indictment narrowing factual allegations to align with the immunity ruling -- removed allegations involving Trump's interactions with DOJ officials (deemed "core" official function)
 - **September-October 2024**: pre-trial litigation continued
 - **November 5, 2024**: Trump won presidential election
 - **November 25, 2024**: DOJ moved to dismiss without prejudice
@@ -66,7 +66,7 @@ Coordination of "alternate" or "contingent" elector slates in Arizona, Georgia, 
 
 ## Key evidence (in indictment and Smith's public filings)
 
-### Tier 1 â€” primary documents
+### Tier 1 -- primary documents
 - The Eastman January 6 memos (privileged-then-disclosed under crime-fraud exception)
 - The Trump-Raffensperger call transcript and audio
 - The Trump-Pence calls timeline
@@ -75,13 +75,13 @@ Coordination of "alternate" or "contingent" elector slates in Arizona, Georgia, 
 - White House Visitor logs
 - White House call records
 
-### Tier 1 â€” witness testimony obtained pre-trial
+### Tier 1 -- witness testimony obtained pre-trial
 - VP Pence's chief of staff Marc Short
 - VP Pence's counsel Greg Jacob (extensive grand jury testimony)
 - Trump White House counsel Pat Cipollone (grand jury after privilege challenges)
 - Multiple Trump campaign and White House aides
 
-### Tier 1 â€” Smith's August 2024 evidentiary appendix
+### Tier 1 -- Smith's August 2024 evidentiary appendix
 Smith filed a 165-page evidentiary appendix October 2, 2024 (over Trump objection) detailing the evidence the prosecution would have presented at trial including witness summaries.
 
 ## What the indictment established but never went to trial
@@ -99,13 +99,13 @@ Smith filed a 165-page evidentiary appendix October 2, 2024 (over Trump objectio
 
 ## Connections
 
-- [[Donald Trump]] â€” defendant; dismissed
-- [[Jack Smith]] â€” Special Counsel
-- [[Tanya Chutkan]] â€” trial judge
-- [[John Eastman]] Â· [[Rudy Giuliani]] Â· [[Sidney Powell]] Â· [[Jeffrey Clark]] Â· [[Kenneth Chesebro]] Â· [[Boris Epshteyn]] â€” unindicted co-conspirators
+- [[Donald Trump]] -- defendant; dismissed
+- [[Jack Smith]] -- Special Counsel
+- [[Tanya Chutkan]] -- trial judge
+- [[John Eastman]] · [[Rudy Giuliani]] · [[Sidney Powell]] · [[Jeffrey Clark]] · [[Kenneth Chesebro]] · [[Boris Epshteyn]] -- unindicted co-conspirators
 - [[Stop the Steal]]
 - [[January 6 Select Committee 2021-2023]]
-- [[Georgia v Trump RICO 2023]] â€” parallel state prosecution covering same scheme
+- [[Georgia v Trump RICO 2023]] -- parallel state prosecution covering same scheme
 
 ## Sources
 

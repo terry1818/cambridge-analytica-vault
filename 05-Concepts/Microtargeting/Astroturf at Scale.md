@@ -11,7 +11,7 @@ first-documented: ~2022 (Doppelganger / Spamouflage scale)
 
 ## Definition
 
-The **industrial-scale version of [[Astroturfing]]** â€” using AI-generated personas, content, and amplification to create the appearance of organic public sentiment at a scale and quality previously impossible.
+The **industrial-scale version of [[Astroturfing]]** -- using AI-generated personas, content, and amplification to create the appearance of organic public sentiment at a scale and quality previously impossible.
 
 ## How it differs from CA-era astroturfing
 

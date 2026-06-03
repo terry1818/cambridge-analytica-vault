@@ -20,7 +20,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Bharatiya_Janata_Party
 
 **India's ruling Hindu-nationalist political party** since 2014. Founded **April 6, 1980**. Led by **Narendra Modi** as Prime Minister (since 2014) + Amit Shah as party president. **Ideologically aligned with Rashtriya Swayamsevak Sangh (RSS)** Hindu-nationalist organization. **Major participant in international right-wing alliance** including **CPAC India franchise** + adjacent infrastructure.
 
-**Operationally parallel to multiple Western right-wing parties** in techniques: anti-minority targeting, religious-nationalist mobilization, media capture, institutional restructuring. **Documented historical Cambridge Analytica activity** in India (per [[Christopher Wylie]] + Channel 4 footage) â€” multiple Indian state-election campaigns; specific BJP-CA connection contested but documented contacts existed.
+**Operationally parallel to multiple Western right-wing parties** in techniques: anti-minority targeting, religious-nationalist mobilization, media capture, institutional restructuring. **Documented historical Cambridge Analytica activity** in India (per [[Christopher Wylie]] + Channel 4 footage) -- multiple Indian state-election campaigns; specific BJP-CA connection contested but documented contacts existed.
 
 ## Identity
 

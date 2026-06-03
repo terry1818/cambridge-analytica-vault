@@ -6,17 +6,17 @@ type: event
 event_date: 2018-03-17 # major public break date
 location: UK / US (data globally affected)
 actors: [Cambridge Analytica, SCL Group, Facebook, Aleksandr Kogan, Global Science Research, Christopher Wylie, Brittany Kaiser, Mark Zuckerberg, Alexander Nix]
-outcome: CA bankruptcy; $5B FTC fine on Facebook; Â£500K UK ICO fine; $725M class settlement
+outcome: CA bankruptcy; $5B FTC fine on Facebook; £500K UK ICO fine; $725M class settlement
 status: closed
 wikipedia_url: https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal
 aliases: ["Facebook-Cambridge Analytica Scandal"]
 ---
 
-# Facebookâ€“Cambridge Analytica Data Scandal
+# Facebook-Cambridge Analytica Data Scandal
 
 ## Summary
 
-In the 2010s, [[Cambridge Analytica]] harvested personal data of up to **87 million Facebook users** without informed consent, via an app called **"This Is Your Digital Life"** built by [[Aleksandr Kogan]]'s firm [[Global Science Research (GSR)]] in 2013. The data was used to build psychographic profiles for political ad targeting â€” notably for the 2016 [[Ted Cruz]] and [[Donald Trump]] presidential campaigns. First reported in December 2015 by [[Harry Davies]] in [[The Guardian]]; broke open globally on March 17, 2018 via simultaneous reporting from [[The Guardian]]/[[The Observer]] and [[The New York Times]] based on disclosures by whistleblower [[Christopher Wylie]]. ([[Source Wikipedia - Facebook-CA scandal]])
+In the 2010s, [[Cambridge Analytica]] harvested personal data of up to **87 million Facebook users** without informed consent, via an app called **"This Is Your Digital Life"** built by [[Aleksandr Kogan]]'s firm [[Global Science Research (GSR)]] in 2013. The data was used to build psychographic profiles for political ad targeting -- notably for the 2016 [[Ted Cruz]] and [[Donald Trump]] presidential campaigns. First reported in December 2015 by [[Harry Davies]] in [[The Guardian]]; broke open globally on March 17, 2018 via simultaneous reporting from [[The Guardian]]/[[The Observer]] and [[The New York Times]] based on disclosures by whistleblower [[Christopher Wylie]]. ([[Source Wikipedia - Facebook-CA scandal]])
 
 ## When & where
 
@@ -27,22 +27,22 @@ In the 2010s, [[Cambridge Analytica]] harvested personal data of up to **87 mill
 ## Actors
 
 ### Data harvesters
-- [[Aleksandr Kogan]] â€” Cambridge University psychologist; built TIYDL app via [[GSR]]
-- [[Global Science Research (GSR)]] â€” Kogan's company that built the app
-- [[Cambridge Analytica]] â€” bought the data from GSR
-- [[SCL Group]] â€” CA's parent
-- [[Alexander Nix]] â€” CA CEO
+- [[Aleksandr Kogan]] -- Cambridge University psychologist; built TIYDL app via [[GSR]]
+- [[Global Science Research (GSR)]] -- Kogan's company that built the app
+- [[Cambridge Analytica]] -- bought the data from GSR
+- [[SCL Group]] -- CA's parent
+- [[Alexander Nix]] -- CA CEO
 
 ### Whistleblowers / disclosure
-- [[Christopher Wylie]] â€” primary whistleblower, ex-Director of Research at CA
-- [[Brittany Kaiser]] â€” whistleblower; later HindsightFiles disclosures (2020)
-- [[Shahmir Sanni]] â€” separate Vote Leave whistleblower
-- [[Carole Cadwalladr]] â€” Guardian/Observer journalist who coaxed Wylie to come forward
-- [[Emma Briant]] â€” Essex academic; brought additional evidence to UK Parliament
+- [[Christopher Wylie]] -- primary whistleblower, ex-Director of Research at CA
+- [[Brittany Kaiser]] -- whistleblower; later HindsightFiles disclosures (2020)
+- [[Shahmir Sanni]] -- separate Vote Leave whistleblower
+- [[Carole Cadwalladr]] -- Guardian/Observer journalist who coaxed Wylie to come forward
+- [[Emma Briant]] -- Essex academic; brought additional evidence to UK Parliament
 
 ### Platform
 - [[Facebook]] / [[Meta]]
-- [[Mark Zuckerberg]] â€” CEO; testified to US Congress April 2018
+- [[Mark Zuckerberg]] -- CEO; testified to US Congress April 2018
 
 ### Regulators
 - [[Information Commissioner's Office (ICO)]] (UK)
@@ -55,19 +55,19 @@ In the 2010s, [[Cambridge Analytica]] harvested personal data of up to **87 mill
 
 1. [[Aleksandr Kogan]] built a personality-quiz app, "This Is Your Digital Life"
 2. ~270,000 users downloaded and consented (paid $4 via Qualtrics)
-3. App exploited [[Facebook Graph API v1.0]] **friends-data permission** â€” collected profile data of every Facebook friend of each user (no friends' consent)
-4. Average user had ~300 friends â†’ up to **87M profiles harvested**
+3. App exploited [[Facebook Graph API v1.0]] **friends-data permission** -- collected profile data of every Facebook friend of each user (no friends' consent)
+4. Average user had ~300 friends → up to **87M profiles harvested**
 5. Kogan/GSR shared data with [[Cambridge Analytica]], breaching Facebook ToS
-6. Facebook deprecated friends-data API in **April 2014**; shut it down entirely **April 2015** â€” but data already harvested remained in developers' hands
+6. Facebook deprecated friends-data API in **April 2014**; shut it down entirely **April 2015** -- but data already harvested remained in developers' hands
 7. CA used data for psychographic profiling, then targeted political messaging
 
 ## Data used by
 
-- [[Ted Cruz Campaign 2016]] â€” paid CA $5.8M
-- [[Donald Trump Campaign 2016]] â€” used during primaries and summer; later switched to RNC data
-- [[Make America Number 1 Super PAC]] â€” pro-Trump (Mercer-funded) attack ads on [[Hillary Clinton]]
+- [[Ted Cruz Campaign 2016]] -- paid CA $5.8M
+- [[Donald Trump Campaign 2016]] -- used during primaries and summer; later switched to RNC data
+- [[Make America Number 1 Super PAC]] -- pro-Trump (Mercer-funded) attack ads on [[Hillary Clinton]]
 - [[Leave.EU]] (alleged; ICO later found "not involved beyond initial enquiries")
-- [[Trinidad 2010 Do So Campaign]] â€” voter suppression of Afro-Trinidadians
+- [[Trinidad 2010 Do So Campaign]] -- voter suppression of Afro-Trinidadians
 
 ## Russia / GRU connection thread
 
@@ -75,42 +75,42 @@ In the 2010s, [[Cambridge Analytica]] harvested personal data of up to **87 mill
 - Cambridge University Psychometrics Centre had earlier app accessed from Russian IPs linked to Tor entry point and alleged cyber attacks
 - Kogan named on a grant at Saint Petersburg State University (cyberbullying research, post-2013 visit)
 - Cambridge Analytica's data was of interest to Russian oil company [[Lukoil]] (confirmed by [[Christopher Wylie]])
-- US polling/election data flowed via [[Sam Patten]] (CA contractor) â†’ [[Paul Manafort]] (Trump campaign manager) â†’ [[Konstantin Kilimnik]] (Russian agent, indicted)
+- US polling/election data flowed via [[Sam Patten]] (CA contractor) → [[Paul Manafort]] (Trump campaign manager) → [[Konstantin Kilimnik]] (Russian agent, indicted)
 - [[Alexander Nix]] reportedly approached [[Julian Assange]]/[[WikiLeaks]] for Clinton's 33,000 deleted emails
 
 ## Sequence of events
 
-- `2012` â€” Facebook patents personality-prediction technology from social-network data
-- `2013` â€” [[GSR]] / [[Aleksandr Kogan]] launches "This Is Your Digital Life"
-- `2014-04` â€” Facebook deprecates friends-data API (Graph API v1.0 â†’ v2.0)
-- `2014` â€” CA buys GSR data
-- `2015-04` â€” Facebook shuts friends-data API entirely
-- `2015-12-11` â€” [[Source Davies 2015-12-11 Guardian]] first major exposÃ© on Cruz/CA Facebook data use
-- `2016-01` â€” Facebook receives signed certifications from Nix and Kogan that data was deleted (later proven false)
-- `2016-11` â€” [[McKenzie Funk]] NYT Sunday Review follow-up
-- `2016-12` â€” Grasseger/Krogerus Das Magazin (Swiss); later translated by Vice
-- `2017-02-26` â€” Cadwalladr in The Observer "Robert Mercer: The big data billionaire waging war on mainstream media"
-- `2017-05` â€” Cadwalladr in The Guardian "The Great British Brexit Robbery"
-- `2017-03` â€” Mattathias Schwartz The Intercept
-- `2018-03-17` â€” Wylie disclosures: simultaneous publication in [[The Guardian]] / [[The Observer]] and [[The New York Times]]
-- `2018-03-19` â€” [[Channel 4 News]] broadcasts undercover Nix sting
-- `2018-03-23` â€” Facebook bans CA; UK High Court grants ICO warrant
-- `2018-03-25` â€” Zuckerberg publishes apology letter in newspapers
-- `2018-03-26` â€” Facebook stock falls ~24%, $134B market cap loss
-- `2018-04-10` â€” Zuckerberg testifies to US Congress
-- `2018-04` â€” Facebook applies EU GDPR globally; establishes Social Science One
-- `2018-05-01` â€” Cambridge Analytica files Chapter 7 bankruptcy
-- `2018-05-16` â€” Senate Judiciary CA-focused hearing â€” testimony from [[Eitan Hersh]], Mark Jamison, Wylie
-- `2018-07` â€” UK ICO announces intent to fine Facebook Â£500K (max under pre-GDPR law)
-- `2019-02-18` â€” [[Source DCMS Final Report 2019]]
-- `2019-03` â€” US AG for DC alleges Facebook knew of CA's "improper data-gathering practices" before Dec 2015
-- `2019-07` â€” FTC $5B fine on Facebook (largest US privacy fine); 20-year settlement order
-- `2019-07` â€” Facebook agrees $100M SEC settlement for misleading investors
-- `2019-07-23` â€” FTC files complaint vs CA; Nix and Kogan accept 20-year restrictions
-- `2019-10` â€” Facebook agrees Â£500K ICO fine
-- `2020-01-04` â€” [[HindsightFiles]] release: 100,000+ docs from Brittany Kaiser, work in 68 countries
-- `2020-11` â€” ICO closes Brexit inquiry: SCL/CA "not involved" in Brexit referendum
-- `2022-12-23` â€” Meta agrees **$725M class-action settlement**
+- `2012` -- Facebook patents personality-prediction technology from social-network data
+- `2013` -- [[GSR]] / [[Aleksandr Kogan]] launches "This Is Your Digital Life"
+- `2014-04` -- Facebook deprecates friends-data API (Graph API v1.0 → v2.0)
+- `2014` -- CA buys GSR data
+- `2015-04` -- Facebook shuts friends-data API entirely
+- `2015-12-11` -- [[Source Davies 2015-12-11 Guardian]] first major exposé on Cruz/CA Facebook data use
+- `2016-01` -- Facebook receives signed certifications from Nix and Kogan that data was deleted (later proven false)
+- `2016-11` -- [[McKenzie Funk]] NYT Sunday Review follow-up
+- `2016-12` -- Grasseger/Krogerus Das Magazin (Swiss); later translated by Vice
+- `2017-02-26` -- Cadwalladr in The Observer "Robert Mercer: The big data billionaire waging war on mainstream media"
+- `2017-05` -- Cadwalladr in The Guardian "The Great British Brexit Robbery"
+- `2017-03` -- Mattathias Schwartz The Intercept
+- `2018-03-17` -- Wylie disclosures: simultaneous publication in [[The Guardian]] / [[The Observer]] and [[The New York Times]]
+- `2018-03-19` -- [[Channel 4 News]] broadcasts undercover Nix sting
+- `2018-03-23` -- Facebook bans CA; UK High Court grants ICO warrant
+- `2018-03-25` -- Zuckerberg publishes apology letter in newspapers
+- `2018-03-26` -- Facebook stock falls ~24%, $134B market cap loss
+- `2018-04-10` -- Zuckerberg testifies to US Congress
+- `2018-04` -- Facebook applies EU GDPR globally; establishes Social Science One
+- `2018-05-01` -- Cambridge Analytica files Chapter 7 bankruptcy
+- `2018-05-16` -- Senate Judiciary CA-focused hearing -- testimony from [[Eitan Hersh]], Mark Jamison, Wylie
+- `2018-07` -- UK ICO announces intent to fine Facebook £500K (max under pre-GDPR law)
+- `2019-02-18` -- [[Source DCMS Final Report 2019]]
+- `2019-03` -- US AG for DC alleges Facebook knew of CA's "improper data-gathering practices" before Dec 2015
+- `2019-07` -- FTC $5B fine on Facebook (largest US privacy fine); 20-year settlement order
+- `2019-07` -- Facebook agrees $100M SEC settlement for misleading investors
+- `2019-07-23` -- FTC files complaint vs CA; Nix and Kogan accept 20-year restrictions
+- `2019-10` -- Facebook agrees £500K ICO fine
+- `2020-01-04` -- [[HindsightFiles]] release: 100,000+ docs from Brittany Kaiser, work in 68 countries
+- `2020-11` -- ICO closes Brexit inquiry: SCL/CA "not involved" in Brexit referendum
+- `2022-12-23` -- Meta agrees **$725M class-action settlement**
 
 ## Disputed facts
 
@@ -125,7 +125,7 @@ In the 2010s, [[Cambridge Analytica]] harvested personal data of up to **87 mill
 - ~$134B Facebook market cap drop (recovered by May 2018)
 - $5B FTC fine (Facebook)
 - $100M SEC settlement (Facebook)
-- Â£500K UK ICO fine (Facebook)
+- £500K UK ICO fine (Facebook)
 - $725M Meta class-action settlement (2022)
 - 7-year UK director disqualification of [[Alexander Nix]] (2020)
 - Sparked **#DeleteFacebook** movement (~400K tweets in 30 days)

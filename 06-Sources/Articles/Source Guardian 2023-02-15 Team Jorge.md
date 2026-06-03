@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Guardian / Forbidden Stories consortium reporting on Tal Hanan's Team Jorge â€” Israeli ex-intel commercial election-manipulation service that claimed influence in 33+ elections
+description: Guardian / Forbidden Stories consortium reporting on Tal Hanan's Team Jorge — Israeli ex-intel commercial election-manipulation service that claimed influence in 33+ elections
 aliases: ["Source: Source Guardian 2023-02-15 Team Jorge"]
 tags: [source, evidence/journalism, topic/disinformation, topic/info-warfare, topic/israeli-intel-for-hire, era/2020-2024, jurisdiction/israel]
 type: source
@@ -22,29 +22,29 @@ Kirchgaessner, Stephanie; Ganguly, Manisha; Pegg, David; Cadwalladr, Carole; Bur
 
 ## What it is
 
-The **Guardian's contribution** to the [[Forbidden Stories]] consortium investigation that publicly exposed **[[Team Jorge]]** â€” the commercial election-manipulation service run by Israeli former intelligence officer **[[Tal Hanan]]**. The investigation was led by Forbidden Stories alongside **30+ international news organizations** (The Guardian, Le Monde, Der Spiegel, Haaretz, NDR, others); the Guardian piece is the English-language anchor of the consortium release. Critically for this vault, **Carole Cadwalladr** is one of the bylined Guardian authors â€” her involvement continues the CA reporting thread and **explicitly connects Hanan to leaked CA emails**.
+The **Guardian's contribution** to the [[Forbidden Stories]] consortium investigation that publicly exposed **[[Team Jorge]]** — the commercial election-manipulation service run by Israeli former intelligence officer **[[Tal Hanan]]**. The investigation was led by Forbidden Stories alongside **30+ international news organizations** (The Guardian, Le Monde, Der Spiegel, Haaretz, NDR, others); the Guardian piece is the English-language anchor of the consortium release. Critically for this vault, **Carole Cadwalladr** is one of the bylined Guardian authors — her involvement continues the CA reporting thread and **explicitly connects Hanan to leaked CA emails**.
 
 ## Key claims / findings
 
 - **Tal Hanan's operation:** A Modi'in, Israel-based commercial service operating since the early-to-mid 2010s offering full-spectrum **election manipulation services** including:
   - **Hacking** (compromising email and social media accounts of political figures)
-  - **Persona networks** ("Advanced Impact Media Solutions" / AIMS â€” a software platform with 40,000+ avatars across social platforms)
+  - **Persona networks** ("Advanced Impact Media Solutions" / AIMS — a software platform with 40,000+ avatars across social platforms)
   - **Disinformation campaigns** tailored to specific national-political contexts
 - **33+ elections claimed:** Hanan claimed on hidden camera to have **influenced 33 national-level elections**, including 27 successfully; specifics partly corroborated by additional consortium reporting
 - **Geographic scope:** Documented or claimed operations across Africa (Kenya, Nigeria, Cameroon, Senegal, Mali, others), Latin America (Mexico, Argentina, Venezuela others), and former Soviet states
-- **CA-era connection:** **Hanan's pseudonym appears in leaked CA emails** â€” the Forbidden Stories investigation surfaced this connection, establishing operational adjacency between Team Jorge and CA-orbit work
-- **Methodology:** Hanan demonstrated AIMS live for undercover reporters â€” including manipulating actual social-media engagement metrics on a real Telegram channel, demonstrating end-to-end persona-network operation
+- **CA-era connection:** **Hanan's pseudonym appears in leaked CA emails** — the Forbidden Stories investigation surfaced this connection, establishing operational adjacency between Team Jorge and CA-orbit work
+- **Methodology:** Hanan demonstrated AIMS live for undercover reporters — including manipulating actual social-media engagement metrics on a real Telegram channel, demonstrating end-to-end persona-network operation
 
 ## Significance for the vault
 
-- **State-intel-to-private parallel:** Team Jorge is the **clearest documented contemporary instance** of [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]] â€” ex-Israeli-intelligence operators running election manipulation **as a commercial service** for paying clients globally
+- **State-intel-to-private parallel:** Team Jorge is the **clearest documented contemporary instance** of [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]] — ex-Israeli-intelligence operators running election manipulation **as a commercial service** for paying clients globally
 - **Hanan-CA email connection:** the **direct operational adjacency** between Team Jorge and CA-orbit work documents the broader private-influence-ops ecosystem that CA was part of
 - **AIMS as Persona Management v2:** the AIMS platform represents the **commercial evolution** of the persona-management category that ran from [[HBGary Federal]] (2011) through [[JTRIG]] (state intel) to Team Jorge (commercial 2023)
-- **33-election claim as scale anchor:** Hanan's self-reported scale (even if discounted for self-promotion) establishes that **commercial election-manipulation services operate at near-state scale** â€” central to the Israeli-private-intel hypothesis
+- **33-election claim as scale anchor:** Hanan's self-reported scale (even if discounted for self-promotion) establishes that **commercial election-manipulation services operate at near-state scale** — central to the Israeli-private-intel hypothesis
 
 ## Notable quotes (from undercover footage)
 
-> Tal Hanan (on hidden camera): "We are now involved in one election in Africa... We have a team in Greece and a team in [Emirates]. We do â€” we just finished an election in eastern Europe."
+> Tal Hanan (on hidden camera): "We are now involved in one election in Africa... We have a team in Greece and a team in [Emirates]. We do — we just finished an election in eastern Europe."
 
 > Hanan (describing AIMS): "Each of these avatars has a Twitter [account], a LinkedIn, a Facebook, a Telegram, a Gmail, an Amazon account, an Airbnb..."
 
@@ -52,7 +52,7 @@ The **Guardian's contribution** to the [[Forbidden Stories]] consortium investig
 
 - **Type:** investigative journalism based on **months of undercover work** and consortium document analysis
 - **Independent corroboration:** the Forbidden Stories consortium model means **multiple independent newsrooms** verified the core findings before joint publication; Haaretz (Israeli outlet) was in the consortium, providing local verification
-- **Hidden-camera footage:** Hanan's claims were captured on undercover video â€” extremely high evidentiary weight for what was said
+- **Hidden-camera footage:** Hanan's claims were captured on undercover video — extremely high evidentiary weight for what was said
 - **Caveats:**
   - Hanan's claims include self-promotional elements; the **33-election figure** is his own claim, partly corroborated and partly not
   - Specific client-name attributions are deliberately limited in published reporting for legal and source-protection reasons
@@ -62,8 +62,8 @@ The **Guardian's contribution** to the [[Forbidden Stories]] consortium investig
 
 - [[Tal Hanan]] (subject)
 - [[Team Jorge]] (operation)
-- [[Forbidden Stories]] (consortium organizer â€” see [[Source Forbidden Stories 2023 Team Jorge]])
-- AIMS â€” Advanced Impact Media Solutions (Hanan's persona-network platform)
+- [[Forbidden Stories]] (consortium organizer — see [[Source Forbidden Stories 2023 Team Jorge]])
+- AIMS — Advanced Impact Media Solutions (Hanan's persona-network platform)
 - [[Cambridge Analytica]] (via leaked-emails connection)
 - [[Carole Cadwalladr]] (as bylined author and CA-connection investigator)
 
@@ -71,10 +71,10 @@ The **Guardian's contribution** to the [[Forbidden Stories]] consortium investig
 
 - [[Tal Hanan]] (entity hub)
 - [[Team Jorge]] (entity hub)
-- [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]] â€” primary documentary source
+- [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]] — primary documentary source
 - [[Compare - CA vs Team Jorge]] (comparative analysis)
 - [[Compare - Psy-Group vs Team Jorge]] (comparative analysis)
-- [[Persona Management]] (concept node) â€” AIMS as instance
+- [[Persona Management]] (concept node) — AIMS as instance
 - [[Privatized Intelligence]] (lens)
 - [[Carole Cadwalladr]] (journalism track)
 

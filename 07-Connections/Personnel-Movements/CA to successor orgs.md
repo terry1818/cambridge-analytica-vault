@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Personnel migration from CA into Auspex, Data Propria, Emerdata, Emic post-2018
 tags: [connection, confidence/high]
@@ -12,17 +12,17 @@ aliases: ["Connection: CA to successor orgs"]
 
 ## Pattern
 
-When CA / SCL Group collapsed on 2018-05-01, the **personnel and toolkit did not disappear** â€” they migrated across multiple successor entities.
+When CA / SCL Group collapsed on 2018-05-01, the **personnel and toolkit did not disappear** — they migrated across multiple successor entities.
 
 ## Documented migrations
 
-- [[Alexander Nix]] â†’ [[Emerdata Limited]] director; [[Firecrest Technologies]] founder; UK-disqualified 2020
-- [[Alexander Tayler]] â†’ [[Emerdata Limited]] director (appointed 2018-03-28, before insolvency)
-- [[Rebekah Mercer]] / Jennifer Mercer â†’ [[Emerdata Limited]] directors
-- [[Mark Turnbull]] â†’ [[Auspex International]] (founded July 2018)
-- Ex-CA staff (multiple) â†’ [[Data Propria]] (CloudCommerce subsidiary, US political)
-- Ex-SCL Defence staff â†’ **Emic** (reported by [[Emma Briant]] 2020 â€” still working for governments)
-- [[Johnson Chun Shun Ko]] â†’ [[Emerdata Limited]] (bringing [[Frontier Services Group]] / [[Erik Prince]] linkage)
+- [[Alexander Nix]] → [[Emerdata Limited]] director; [[Firecrest Technologies]] founder; UK-disqualified 2020
+- [[Alexander Tayler]] → [[Emerdata Limited]] director (appointed 2018-03-28, before insolvency)
+- [[Rebekah Mercer]] / Jennifer Mercer → [[Emerdata Limited]] directors
+- [[Mark Turnbull]] → [[Auspex International]] (founded July 2018)
+- Ex-CA staff (multiple) → [[Data Propria]] (CloudCommerce subsidiary, US political)
+- Ex-SCL Defence staff → **Emic** (reported by [[Emma Briant]] 2020 — still working for governments)
+- [[Johnson Chun Shun Ko]] → [[Emerdata Limited]] (bringing [[Frontier Services Group]] / [[Erik Prince]] linkage)
 
 ## Confidence
 

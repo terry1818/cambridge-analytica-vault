@@ -13,23 +13,23 @@ first-documented: '~2017 (first "deepfake" Reddit posts)'
 
 **AI synthesis of video imagery** showing real (or fictional) people doing or saying things they did not actually do or say. Two primary techniques:
 
-- **Face-swap deepfakes** â€” original video with target's face mapped on
-- **Full generative deepfakes** â€” entirely AI-generated video (newer; Sora, Veo, Runway era)
+- **Face-swap deepfakes** -- original video with target's face mapped on
+- **Full generative deepfakes** -- entirely AI-generated video (newer; Sora, Veo, Runway era)
 
 ## Political weaponization timeline
 
-- 2018-2019 â€” initial proof-of-concept demonstrations
-- 2020 â€” first documented political misuse in low-stakes contexts
-- 2023 â€” Slovakia, India, Argentina election incidents
-- 2024 â€” wave of incidents across global elections (NH Biden audio is audio not video, but counts in the broader category)
-- 2026 â€” full real-time video deepfake generation widely available
+- 2018-2019 -- initial proof-of-concept demonstrations
+- 2020 -- first documented political misuse in low-stakes contexts
+- 2023 -- Slovakia, India, Argentina election incidents
+- 2024 -- wave of incidents across global elections (NH Biden audio is audio not video, but counts in the broader category)
+- 2026 -- full real-time video deepfake generation widely available
 
 ## Detection arms race
 
-- Forensic detection (frame analysis, blink patterns, GAN artifacts) â€” increasingly defeated
-- Cryptographic provenance (C2PA / Content Credentials) â€” adoption uneven
-- Platform watermarking â€” circumventable
-- Social verification (multiple independent sources confirming) â€” strongest defense
+- Forensic detection (frame analysis, blink patterns, GAN artifacts) -- increasingly defeated
+- Cryptographic provenance (C2PA / Content Credentials) -- adoption uneven
+- Platform watermarking -- circumventable
+- Social verification (multiple independent sources confirming) -- strongest defense
 
 ## Related
 

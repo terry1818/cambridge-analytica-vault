@@ -19,26 +19,26 @@ Israeli private intelligence company founded in 2014 by [[Joel Zamel]]. Speciali
 
 ## CA relationship
 
-- **Signed a Memorandum of Understanding with [[Cambridge Analytica]] on 2016-12-14** â€” confirmed by [[Source Tau Ballhaus 2018-05-23 WSJ Psy-Group CA]]
-- [[Alexander Nix]] referred to using "Israeli companies" for entrapment operations in the [[Channel 4 Sting 2018]] â€” WSJ confirmed this referred to Psy-Group
+- **Signed a Memorandum of Understanding with [[Cambridge Analytica]] on 2016-12-14** -- confirmed by [[Source Tau Ballhaus 2018-05-23 WSJ Psy-Group CA]]
+- [[Alexander Nix]] referred to using "Israeli companies" for entrapment operations in the [[Channel 4 Sting 2018]] -- WSJ confirmed this referred to Psy-Group
 - Multiple operational pitches to Trump-orbit figures alongside Zamels other firm [[Wikistrat]]
 
 ## 2016 Trump Tower meeting
 
-- 2016-08-03 â€” [[Joel Zamel]] (Psy-Group founder) attended [[Trump Tower August 2016 meeting]] with [[Donald Trump Jr.]], [[Erik Prince]], [[George Nader]]
+- 2016-08-03 -- [[Joel Zamel]] (Psy-Group founder) attended [[Trump Tower August 2016 meeting]] with [[Donald Trump Jr.]], [[Erik Prince]], [[George Nader]]
 - Zamel pitched the Trump campaign a multi-million-dollar social media manipulation plan
 - Pitch did not result in formal Trump campaign contract per Mueller findings
 
 ## Documented operations (per public reporting)
 
-- Project Rome (2016) â€” California ballot initiative work
+- Project Rome (2016) -- California ballot initiative work
 - Black-PR campaign for unnamed African political client
 - Multiple opposition research engagements
 - Targeting of Obama-administration officials connected to the Iran deal (alongside Black Cube)
 
 ## Dissolution
 
-- 2018 â€” wound down operations amid Mueller probe exposure
+- 2018 -- wound down operations amid Mueller probe exposure
 - Personnel reportedly dispersed to other Israeli private intel firms
 - Some reportedly continued in [[Team Jorge]] / [[Tal Hanan]] adjacent operations exposed 2023
 

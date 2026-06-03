@@ -27,7 +27,7 @@ Per HindsightFiles materials released by [[Brittany Kaiser]] in January 2020:
 
 CAs Malaysian work overlapped **temporally and operationally with the 1MDB scandal**:
 
-- **1MDB** = 1Malaysia Development Berhad â€” sovereign wealth fund established 2009 under Najib
+- **1MDB** = 1Malaysia Development Berhad -- sovereign wealth fund established 2009 under Najib
 - US DOJ investigation found ~$4.5 billion was misappropriated from 1MDB during the period CA was working for Najib
 - Funds traced to luxury real estate, art, yachts (including financing of *The Wolf of Wall Street*), gambling, political activities globally
 - Hundreds of millions traced directly to Najibs personal accounts
@@ -47,10 +47,10 @@ This open question is a **standing investigation lead** that has not received su
 
 ## 2018 election
 
-- **2018-05-09** â€” Najib lost the Malaysian general election to Mahathir Mohamad
+- **2018-05-09** -- Najib lost the Malaysian general election to Mahathir Mohamad
 - Loss occurred two weeks after CA's London insolvency
 - 1MDB prosecutions began under Mahathir government
-- 2020 â€” Najib convicted on first set of 1MDB-related charges
+- 2020 -- Najib convicted on first set of 1MDB-related charges
 
 ## Connections
 

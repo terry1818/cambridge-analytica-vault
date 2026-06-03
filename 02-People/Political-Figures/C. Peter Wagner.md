@@ -56,7 +56,7 @@ Without Wagner, NAR would not exist as a coherent movement.
 ## Key relationships
 
 - **Theological lineage:** [[R.J. Rushdoony]] (acknowledged source)
-- **Trained / commissioned:** [[Lance Wallnau]], [[ChÃ© Ahn]], Cindy Jacobs, Chuck Pierce, others
+- **Trained / commissioned:** [[Lance Wallnau]], [[Ché Ahn]], Cindy Jacobs, Chuck Pierce, others
 - **Institutional partners:** Bethel Church (Bill Johnson), IHOPKC (Mike Bickle)
 - **Trump endorsement:** late 2016
 

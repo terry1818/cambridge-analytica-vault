@@ -17,7 +17,7 @@ status: active
 
 British aristocrat; **great-nephew of Earl Louis Mountbatten** (Queen Elizabeth IIs cousin and Prince Philips uncle). Director of [[SCL Group]] during its formative defense-contracting period. Represented part of the **British aristocratic/establishment network** that gave SCL/CA its distinctive social texture alongside the Etonian operational leadership ([[Alexander Nix]] et al.) and Conservative-Party donor base ([[Vincent Tchenguiz]], [[Jonathan Marland]], [[Roger Gabb]]).
 
-Per [[Source Knight New Yorker - Life Inside SCL]] and [[Source Brown 2018-03-21 Times SCL founders]], the SCL board ties to British royalty, defense establishment (founding chairman [[Geoffrey Pattie]], former defense minister under Margaret Thatcher), and Conservative Party were a deliberate cultivation by founder [[Nigel Oakes]] â€” providing social cover and access for SCLs defense-contracting work.
+Per [[Source Knight New Yorker - Life Inside SCL]] and [[Source Brown 2018-03-21 Times SCL founders]], the SCL board ties to British royalty, defense establishment (founding chairman [[Geoffrey Pattie]], former defense minister under Margaret Thatcher), and Conservative Party were a deliberate cultivation by founder [[Nigel Oakes]] -- providing social cover and access for SCLs defense-contracting work.
 
 ## Why this matters
 

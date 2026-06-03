@@ -16,7 +16,7 @@ reliability: high
 
 ## Citation
 
-Forbidden Stories. (2023-02-15). "Story Killers" investigation series, including "Team Jorge: In the heart of a global disinformation machine." Joint reporting by Le Monde, The Guardian, Der Spiegel, Haaretz, TheMarker, Radio France, El PaÃ­s, NDR, WDR, SÃ¼ddeutsche Zeitung, et al.
+Forbidden Stories. (2023-02-15). "Story Killers" investigation series, including "Team Jorge: In the heart of a global disinformation machine." Joint reporting by Le Monde, The Guardian, Der Spiegel, Haaretz, TheMarker, Radio France, El País, NDR, WDR, Süddeutsche Zeitung, et al.
 
 ## URL
 

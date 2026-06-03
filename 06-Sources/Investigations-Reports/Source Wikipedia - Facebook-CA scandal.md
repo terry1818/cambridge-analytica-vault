@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal
 - Friends-data API exploited (Graph API v1.0); deprecated April 2014; shut April 2015
 - Davies (Guardian, 2015-12-11) first reported
 - Cadwalladr coaxed Wylie ~1 year before going on record
-- $5B FTC fine July 2019; Â£500K ICO Oct 2019; $100M SEC; $725M class action Dec 2022
+- $5B FTC fine July 2019; £500K ICO Oct 2019; $100M SEC; $725M class action Dec 2022
 - ICO found IP addresses + server linked to Russia in Kogan's GSR
 - Lukoil interested in CA targeting data (confirmed by Wylie)
 

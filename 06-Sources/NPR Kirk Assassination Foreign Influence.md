@@ -30,7 +30,7 @@ NPR reporting on foreign-influence operations targeting Kirk assassination narra
 
 ## Entities mentioned
 
-- [[Charlie Kirk]]`n- [[DoppelgÃ¢Ë†Å¡Ã‚Â§nger]]
+- [[Charlie Kirk]]`n- [[Doppelg√§nger]]
 
 ## How I'm using this
 

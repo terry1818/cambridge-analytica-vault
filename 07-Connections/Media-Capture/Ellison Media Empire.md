@@ -22,12 +22,12 @@ The **Ellison family controls one of the largest single-family ownership concent
 **The Ellison family represents the most operationally significant single tech-to-media ownership concentration in 2025-2026 US politics.** Three distinct vectors compound:
 
 ### 1. Trump-aligned media-editorial repositioning
-- David Ellison's Paramount Skydance acquired Bari Weiss / The Free Press â†’ installed her as CBS News EIC â†’ documented post-merger editorial shift at CBS News + 60 Minutes
+- David Ellison's Paramount Skydance acquired Bari Weiss / The Free Press → installed her as CBS News EIC → documented post-merger editorial shift at CBS News + 60 Minutes
 - Multiple high-profile journalist departures documented
 - 60 Minutes Trump lawsuit settlement ($16M July 2025) widely understood as FCC-approval condition
 
 ### 2. Federal-infrastructure positioning
-- Oracle hosts TikTok US data (Project Texas) â†’ critical Trump 2.0 China policy nexus
+- Oracle hosts TikTok US data (Project Texas) → critical Trump 2.0 China policy nexus
 - Oracle is primary [[Project Stargate]] tenant ($500B AI infrastructure with OpenAI + SoftBank + MGX-UAE)
 - Long-standing CIA / federal-intelligence-community relationship dating to 1977 founding contract
 

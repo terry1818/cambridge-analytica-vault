@@ -1,13 +1,13 @@
-﻿---
+---
 date: 2026-05-16
-description: Scottish businessman; principal of Constitutional Research Council (CRC); channeled Ã‚Â£435K to DUP for AggregateIQ services during Brexit referendum
+description: Scottish businessman; principal of Constitutional Research Council (CRC); channeled £435K to DUP for AggregateIQ services during Brexit referendum
 tags: [person, role/funder, topic/brexit, era/2016-2020]
 type: person
 full_name: Richard Cook
 nationality: Scottish (UK)
 roles: [Constitutional Research Council principal]
 affiliations: [Constitutional Research Council, Scottish Conservatives (historical)]
-notable_for: CRC routing Ã‚Â£435K to DUP for AIQ services during Brexit referendum
+notable_for: CRC routing £435K to DUP for AIQ services during Brexit referendum
 status: active
 ---
 
@@ -15,9 +15,9 @@ status: active
 
 ## Summary
 
-Scottish businessman + former Vice-Chairman of the Scottish Conservatives. **Principal of the [[Constitutional Research Council]] (CRC)** - the entity that **channeled Ã‚Â£435,000 to the [[DUP]] during the [[Brexit Referendum 2016]] referendum, money the DUP then paid to [[AggregateIQ]] for data services**. The CRC funding was the **single largest political donation in DUP history at the time**.
+Scottish businessman + former Vice-Chairman of the Scottish Conservatives. **Principal of the [[Constitutional Research Council]] (CRC)** - the entity that **channeled £435,000 to the [[DUP]] during the [[Brexit Referendum 2016]] referendum, money the DUP then paid to [[AggregateIQ]] for data services**. The CRC funding was the **single largest political donation in DUP history at the time**.
 
-**Origin of the Ã‚Â£435K remains unresolved.** UK Electoral Commission + Open Democracy + multiple journalists have investigated but ultimate beneficial owner of the CRC contribution was never definitively traced. **Suspected non-UK origin** but never proven (UK political-funding law prohibits non-UK donations).
+**Origin of the £435K remains unresolved.** UK Electoral Commission + Open Democracy + multiple journalists have investigated but ultimate beneficial owner of the CRC contribution was never definitively traced. **Suspected non-UK origin** but never proven (UK political-funding law prohibits non-UK donations).
 
 **Operationally important** as one of the principal unanswered questions in the Brexit-funding investigation - represents possible foreign-money laundering through a Northern Ireland party (which had less transparent donor disclosure requirements than mainland UK parties at the time).
 

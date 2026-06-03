@@ -22,11 +22,11 @@ Amer, Karim; Noujaim, Jehane (Directors). (2019). *The Great Hack*. Netflix / Th
 
 ## Featured subjects (central narrative figures)
 
-- **[[Brittany Kaiser]]** â€” central narrative figure; documents her transition from CA operator to whistleblower
-- **[[Christopher Wylie]]** â€” the other major whistleblower
-- **[[Carole Cadwalladr]]** â€” the journalist who broke the story
-- **[[David Carroll]]** â€” Parsons professor whose UK Data Protection Act case is the narrative spine
-- **[[Alexander Nix]]** â€” via Channel 4 sting footage and other archival material
+- **[[Brittany Kaiser]]** — central narrative figure; documents her transition from CA operator to whistleblower
+- **[[Christopher Wylie]]** — the other major whistleblower
+- **[[Carole Cadwalladr]]** — the journalist who broke the story
+- **[[David Carroll]]** — Parsons professor whose UK Data Protection Act case is the narrative spine
+- **[[Alexander Nix]]** — via Channel 4 sting footage and other archival material
 
 ## What it documents
 
@@ -40,7 +40,7 @@ Amer, Karim; Noujaim, Jehane (Directors). (2019). *The Great Hack*. Netflix / Th
 
 ## Reception and influence
 
-- Major impact on **public awareness** â€” brought CA into mainstream conversation outside policy/journalism circles
+- Major impact on **public awareness** — brought CA into mainstream conversation outside policy/journalism circles
 - Often cited as **catalyst for #DeleteFacebook discussions** and post-2018 data-rights advocacy
 - Nominated for Academy Award for Best Documentary Feature
 - Won International Documentary Association awards

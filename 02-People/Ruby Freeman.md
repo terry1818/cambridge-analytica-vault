@@ -11,11 +11,11 @@ aliases: ["Ruby Wandrea Freeman"]
 
 # Ruby Freeman
 
-Former Fulton County, Georgia election worker who served as a temporary employee processing absentee ballots at the State Farm Arena tabulation center in November 2020. Mother of [[Shaye Moss]] (also a Fulton County election worker). Both were falsely accused by [[Donald Trump]] and [[Rudy Giuliani]] of pulling fraudulent ballots from suitcases under a table â€” a claim repeatedly disproven by Georgia Bureau of Investigation review of the security footage. The false claims resulted in extensive harassment including death threats and home invasion attempts. Freeman and Moss filed defamation suit against Giuliani; **December 15, 2023 federal jury in DC awarded Freeman and Moss $148 million** ($75M punitive + $73M compensatory).
+Former Fulton County, Georgia election worker who served as a temporary employee processing absentee ballots at the State Farm Arena tabulation center in November 2020. Mother of [[Shaye Moss]] (also a Fulton County election worker). Both were falsely accused by [[Donald Trump]] and [[Rudy Giuliani]] of pulling fraudulent ballots from suitcases under a table -- a claim repeatedly disproven by Georgia Bureau of Investigation review of the security footage. The false claims resulted in extensive harassment including death threats and home invasion attempts. Freeman and Moss filed defamation suit against Giuliani; **December 15, 2023 federal jury in DC awarded Freeman and Moss $148 million** ($75M punitive + $73M compensatory).
 
 ## The false claims
 
-In December 2020, Giuliani â€” at a December 3, 2020 Georgia State Senate hearing and in subsequent media appearances â€” falsely claimed that security camera footage from State Farm Arena showed Freeman and Moss:
+In December 2020, Giuliani -- at a December 3, 2020 Georgia State Senate hearing and in subsequent media appearances -- falsely claimed that security camera footage from State Farm Arena showed Freeman and Moss:
 - Pulling "suitcases" of fraudulent ballots from under a table after election observers had been told to leave
 - Engaging in "drug dealer"-like passes of USB drives between mother and daughter
 
@@ -46,7 +46,7 @@ After Giuliani named her publicly:
 
 Both Freeman and Moss testified publicly at the J6 Select Committee hearing on pressure on state and local officials. Moss provided the more detailed account (she had been more involved in the operations footage); Freeman's testimony established the human cost of the false claims and the harassment.
 
-Moss's testimony quoting her grandmother â€” "Grandmother just kept saying, 'They're going to be at my door'" â€” became one of the most-cited human testimonies of the J6 Committee process.
+Moss's testimony quoting her grandmother -- "Grandmother just kept saying, 'They're going to be at my door'" -- became one of the most-cited human testimonies of the J6 Committee process.
 
 ## Freeman v Giuliani (D.D.C.)
 
@@ -67,11 +67,11 @@ Freeman is a witness in [[Georgia v Trump RICO 2023]]. The Trump-Raffensperger c
 
 ## Connections
 
-- [[Shaye Moss]] â€” daughter; co-plaintiff
-- [[Donald Trump]] â€” original defamer (specifically named her); GA co-defendant
-- [[Rudy Giuliani]] â€” primary defamer; $148M defendant
-- [[Trevian Kutti]] â€” Georgia RICO co-defendant who came to her home
-- [[Brad Raffensperger]] â€” Trump-Raffensperger call referenced her
+- [[Shaye Moss]] -- daughter; co-plaintiff
+- [[Donald Trump]] -- original defamer (specifically named her); GA co-defendant
+- [[Rudy Giuliani]] -- primary defamer; $148M defendant
+- [[Trevian Kutti]] -- Georgia RICO co-defendant who came to her home
+- [[Brad Raffensperger]] -- Trump-Raffensperger call referenced her
 - [[January 6 Select Committee 2021-2023]]
 - [[Georgia v Trump RICO 2023]]
 - [[Stop the Steal]]

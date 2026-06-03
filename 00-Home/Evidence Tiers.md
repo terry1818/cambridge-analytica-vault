@@ -1,6 +1,6 @@
 ﻿---
 date: 2026-05-17
-description: The three-tier evidence-quality framework the vault uses to grade any factual claim â€” Tier-1 primary record, Tier-2 corroborated testimony, Tier-3 reporting
+description: The three-tier evidence-quality framework the vault uses to grade any factual claim -- Tier-1 primary record, Tier-2 corroborated testimony, Tier-3 reporting
 tags: [meta, methodology, evidence-tiers]
 type: methodology
 ---
@@ -11,54 +11,54 @@ The vault rates the evidentiary weight of every factual claim on a **three-tier 
 
 The framework intentionally **prioritizes primary documents over journalism over opinion**, while acknowledging that **good journalism on contested topics is often the highest-tier source available** when primary records remain sealed, classified, or destroyed.
 
-## Tier-1 â€” Primary record
+## Tier-1 -- Primary record
 
 **Definition:** The actual document, court filing, regulatory action, statutory registry entry, leaked internal communication, or recorded primary-source statement.
 
 **Examples in this vault:**
-- [[Source Mueller Report 2019]] â€” Special Counsel's primary investigative report
-- [[Source DCMS Final Report 2019]] â€” UK Parliament committee report
-- [[Source Senate Intel Vol 5 2020]] â€” Senate Select Committee on Intelligence final volume
-- [[Source FTC Complaint Cambridge Analytica 2019]] â€” FTC administrative complaint
-- [[Source Companies House 2018-03-16 Emerdata appointments]] â€” statutory registry filing
-- [[Source UK Electoral Commission Vote Leave 2018]] â€” regulatory enforcement
-- [[Source gov.uk 2020-09-24 Nix disqualification]] â€” UK Insolvency Service action
-- [[Source HindsightFiles 2020]] â€” primary leaked internal documents (curated)
-- [[Source Channel 4 2018-03-19 Exposed]] â€” primary recorded statements (hidden camera)
-- [[Source Greenwald Intercept 2014 JTRIG]] â€” primary leaked classified documents
-- [[Source Anderson Ars 2011 HBGary]] â€” based on primary leaked communications
+- [[Source Mueller Report 2019]] -- Special Counsel's primary investigative report
+- [[Source DCMS Final Report 2019]] -- UK Parliament committee report
+- [[Source Senate Intel Vol 5 2020]] -- Senate Select Committee on Intelligence final volume
+- [[Source FTC Complaint Cambridge Analytica 2019]] -- FTC administrative complaint
+- [[Source Companies House 2018-03-16 Emerdata appointments]] -- statutory registry filing
+- [[Source UK Electoral Commission Vote Leave 2018]] -- regulatory enforcement
+- [[Source gov.uk 2020-09-24 Nix disqualification]] -- UK Insolvency Service action
+- [[Source HindsightFiles 2020]] -- primary leaked internal documents (curated)
+- [[Source Channel 4 2018-03-19 Exposed]] -- primary recorded statements (hidden camera)
+- [[Source Greenwald Intercept 2014 JTRIG]] -- primary leaked classified documents
+- [[Source Anderson Ars 2011 HBGary]] -- based on primary leaked communications
 
 **Use this tier when:** the source IS the underlying record, not commentary on it.
 
 **Tag:** `#tier/1`
 
-## Tier-2 â€” Corroborated testimony / academic analysis
+## Tier-2 -- Corroborated testimony / academic analysis
 
 **Definition:** Named-source whistleblower testimony, sworn affidavits, named-source investigative journalism with named documentary corroboration, peer-reviewed academic analysis of primary materials.
 
 **Examples in this vault:**
-- [[Source Mindfck (Wylie 2019)]] â€” whistleblower memoir based on Wylie's direct experience
-- [[Source Targeted (Kaiser 2019)]] â€” whistleblower memoir based on Kaiser's direct experience
-- [[Source Rosenberg et al 2018-03-17 NYT]] â€” investigative journalism with named-source whistleblower + viewed-the-evidence corroboration
-- [[Source Cadwalladr Graham-Harrison 2018-03-17 Guardian]] â€” companion Observer/Guardian piece
-- [[Source Forbidden Stories 2023 Team Jorge]] â€” multi-newsroom-corroborated investigation with hidden-camera primary footage
-- [[Source Briant OCCRP 2020-10-12]] â€” academic analysis from researcher with primary-document access
-- [[Source Parliament DCMS Briant essays]] â€” parliamentary-record submission with primary-source audio
-- [[Source Kosinski Stillwell Graepel 2013 PNAS]] â€” peer-reviewed academic primary research
+- [[Source Mindfck (Wylie 2019)]] -- whistleblower memoir based on Wylie's direct experience
+- [[Source Targeted (Kaiser 2019)]] -- whistleblower memoir based on Kaiser's direct experience
+- [[Source Rosenberg et al 2018-03-17 NYT]] -- investigative journalism with named-source whistleblower + viewed-the-evidence corroboration
+- [[Source Cadwalladr Graham-Harrison 2018-03-17 Guardian]] -- companion Observer/Guardian piece
+- [[Source Forbidden Stories 2023 Team Jorge]] -- multi-newsroom-corroborated investigation with hidden-camera primary footage
+- [[Source Briant OCCRP 2020-10-12]] -- academic analysis from researcher with primary-document access
+- [[Source Parliament DCMS Briant essays]] -- parliamentary-record submission with primary-source audio
+- [[Source Kosinski Stillwell Graepel 2013 PNAS]] -- peer-reviewed academic primary research
 
 **Use this tier when:** the source is one step removed from the primary record but is built on direct access to it.
 
 **Tag:** `#tier/2`
 
-## Tier-3 â€” Reporting / commentary / tertiary synthesis
+## Tier-3 -- Reporting / commentary / tertiary synthesis
 
 **Definition:** Journalism without primary-document access, opinion analysis, tertiary syntheses (encyclopedias, explainers), trade-press coverage.
 
 **Examples in this vault:**
-- [[Source Wikipedia - Cambridge Analytica]] â€” encyclopedic synthesis of primary sources
-- [[Source Wikipedia - SCL Group]] â€” same category
-- [[Source Wired UK 2018-07-13 ethical data firm]] â€” briefing piece reliant on contemporary coverage
-- [[Source Accesswire 2018-05-29 CloudCommerce launches]] â€” corporate press release (factual but PR-framed)
+- [[Source Wikipedia - Cambridge Analytica]] -- encyclopedic synthesis of primary sources
+- [[Source Wikipedia - SCL Group]] -- same category
+- [[Source Wired UK 2018-07-13 ethical data firm]] -- briefing piece reliant on contemporary coverage
+- [[Source Accesswire 2018-05-29 CloudCommerce launches]] -- corporate press release (factual but PR-framed)
 - News briefings, opinion columns, secondary blog analysis, and other commentary-layer content
 
 **Use this tier when:** the source is **synthesizing or commenting** rather than **establishing** the underlying fact.
@@ -82,7 +82,7 @@ A `#confidence/high` hypothesis should be cited from **multiple independent Tier
 
 ### When using AI-assisted writing
 
-AI synthesis is **never** a tier in itself â€” it is a writing aid. Any AI-generated claim must be **backed by the same tier discipline** as user-authored content. If a claim cannot be grounded to a Tier-1 or Tier-2 source after AI drafting, **the claim should be marked `#claim/unverified`** until a source is identified.
+AI synthesis is **never** a tier in itself -- it is a writing aid. Any AI-generated claim must be **backed by the same tier discipline** as user-authored content. If a claim cannot be grounded to a Tier-1 or Tier-2 source after AI drafting, **the claim should be marked `#claim/unverified`** until a source is identified.
 
 ## Common errors to avoid
 
@@ -92,10 +92,10 @@ AI synthesis is **never** a tier in itself â€” it is a writing aid. Any AI-
 
 ## Related
 
-- [[Categorization Architecture]] â€” how to route claims into the right node once you've tiered them
-- [[Methodology - Verifying a CA claim]] â€” the verification workflow
-- [[Source Bibliography MOC]] â€” the catalogue of all source notes by category
-- [[Open Questions]] â€” research backlog for claims that need source-tiering work
+- [[Categorization Architecture]] -- how to route claims into the right node once you've tiered them
+- [[Methodology - Verifying a CA claim]] -- the verification workflow
+- [[Source Bibliography MOC]] -- the catalogue of all source notes by category
+- [[Open Questions]] -- research backlog for claims that need source-tiering work
 
 ## How tier classification gets applied in practice
 

@@ -21,27 +21,27 @@ first-documented: 2025-04
 
 ## Authorizing executive orders
 
-- **EO 14159** ("Protecting the American People Against Invasion") â€” Trump 2.0
-- **EO 13773** (Transnational criminal organizations) â€” originally Trump 1.0
+- **EO 14159** ("Protecting the American People Against Invasion") -- Trump 2.0
+- **EO 13773** (Transnational criminal organizations) -- originally Trump 1.0
 
 ## Data sources it pulls from
 
 - ICE / DHS internal databases (TECS, EAGLE, EARM, etc.)
 - **External federal data:** passport records, SSA files, IRS tax data
-- **Surveillance feeds:** automated license plate reader (ALPR) data â€” including [[Flock Safety]] "side door" lookups and CBP pilot data
+- **Surveillance feeds:** automated license plate reader (ALPR) data -- including [[Flock Safety]] "side door" lookups and CBP pilot data
 
 ## Related Palantir products
 
-- **ELITE** (Enhanced Leads Identification & Targeting for Enforcement) â€” companion tool that maps deportation targets, generates dossiers, scores addresses using HHS data
-- **Foundry** â€” underlying Palantir commercial platform
-- **Gotham** â€” Palantir intel/defense platform
+- **ELITE** (Enhanced Leads Identification & Targeting for Enforcement) -- companion tool that maps deportation targets, generates dossiers, scores addresses using HHS data
+- **Foundry** -- underlying Palantir commercial platform
+- **Gotham** -- Palantir intel/defense platform
 
 ## Critique / civil-liberties concerns
 
-- **Accuracy of underlying databases** â€” Palantir pulls from sources regardless of veracity; license-plate data has known false positives; HHS data can be stale
-- **Mission creep** â€” designed for criminal/gang targets, used at scale for non-criminal civil immigration cases
-- **Privacy Act violations** â€” cross-agency data sharing without notice/consent (12+ lawsuits)
-- **Targeting children** â€” via [[Flock Safety]] school-camera integration
+- **Accuracy of underlying databases** -- Palantir pulls from sources regardless of veracity; license-plate data has known false positives; HHS data can be stale
+- **Mission creep** -- designed for criminal/gang targets, used at scale for non-criminal civil immigration cases
+- **Privacy Act violations** -- cross-agency data sharing without notice/consent (12+ lawsuits)
+- **Targeting children** -- via [[Flock Safety]] school-camera integration
 
 ## Sources
 

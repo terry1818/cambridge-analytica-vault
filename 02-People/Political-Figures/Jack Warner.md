@@ -14,7 +14,7 @@ status: active
 
 ## Summary
 
-Trinidadian politician and former **FIFA Vice President** (1997-2011). Funded the [[Trinidad 2010 Do So Campaign]] â€” [[SCL Group]]'s ethnically-targeted voter-suppression operation against Afro-Trinidadian youth, in support of the [[United National Congress (UNC)]]. **Indicted by US Department of Justice in May 2015 as part of the FIFA corruption scandal**, charged with racketeering, wire fraud, money laundering, and bribery. Has fought extradition from Trinidad to the US since.
+Trinidadian politician and former **FIFA Vice President** (1997-2011). Funded the [[Trinidad 2010 Do So Campaign]] -- [[SCL Group]]'s ethnically-targeted voter-suppression operation against Afro-Trinidadian youth, in support of the [[United National Congress (UNC)]]. **Indicted by US Department of Justice in May 2015 as part of the FIFA corruption scandal**, charged with racketeering, wire fraud, money laundering, and bribery. Has fought extradition from Trinidad to the US since.
 
 ## CA-relevance
 

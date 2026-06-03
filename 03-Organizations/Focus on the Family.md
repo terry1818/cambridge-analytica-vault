@@ -40,11 +40,11 @@ Network of state-level affiliated organizations operating in 38+ states. Provide
 
 ## Connections
 
-- [[James Dobson]] â€” founder
-- [[Family Research Council]] â€” DC-policy affiliate
-- [[Council for National Policy]] â€” coordination
-- [[Tony Perkins]] Â· [[Jerry Falwell Jr]] Â· adjacent figures
-- [[Religious Right MOC]] Â· [[Christian Nationalism]]
+- [[James Dobson]] -- founder
+- [[Family Research Council]] -- DC-policy affiliate
+- [[Council for National Policy]] -- coordination
+- [[Tony Perkins]] · [[Jerry Falwell Jr]] · adjacent figures
+- [[Religious Right MOC]] · [[Christian Nationalism]]
 - [[Deep Dive - Three Wing Coalition Anatomy]]
 
 ## Sources

@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-American Republican political operative; **White House Chief of Staff in Trump 2.0 administration (January 2025 -)** â€” first woman to hold the position in US history. **Co-chair of Trump's 2024 campaign**; widely credited as the campaign's operational architect. Longtime Florida Republican operative. Daughter of NFL announcer Pat Summerall.
+American Republican political operative; **White House Chief of Staff in Trump 2.0 administration (January 2025 -)** -- first woman to hold the position in US history. **Co-chair of Trump's 2024 campaign**; widely credited as the campaign's operational architect. Longtime Florida Republican operative. Daughter of NFL announcer Pat Summerall.
 
 ## Trump 2024 campaign role
 
@@ -40,7 +40,7 @@ Wiles is the **operational discipline behind Trump 2.0 governance** in ways that
 - [[Stephen Miller]] (policy execution)
 - DOGE / Musk + successors (federal restructuring)
 
-â€” gives Trump 2.0 **structurally more capable governance** than the first term even with similar policy ambitions.
+-- gives Trump 2.0 **structurally more capable governance** than the first term even with similar policy ambitions.
 
 ## Connections
 

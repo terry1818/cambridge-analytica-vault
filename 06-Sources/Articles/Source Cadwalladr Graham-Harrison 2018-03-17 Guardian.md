@@ -31,7 +31,7 @@ The Guardian/Observer side of the **joint Saturday-evening publication** with NY
 
 ## Coordination with NYT
 
-The simultaneous publication was deliberate â€” Cadwalladr brought in NYT (and Channel 4 News) after CA legal threats against The Guardian/Observer made independent publication risky. The dual byline + dual-newsroom strategy ensured the story could not be killed by suing any single outlet.
+The simultaneous publication was deliberate — Cadwalladr brought in NYT (and Channel 4 News) after CA legal threats against The Guardian/Observer made independent publication risky. The dual byline + dual-newsroom strategy ensured the story could not be killed by suing any single outlet.
 
 ## Significance
 

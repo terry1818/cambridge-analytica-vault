@@ -21,7 +21,7 @@ Confessore, Nicholas; Hakim, Danny. (2017-03-06). "Data Firm Says 'Secret Sauce'
 
 ## What this article established
 
-Key NYT pre-scandal reporting in which **CA executives conceded the company never actually used psychographics in the Trump campaign** â€” directly contradicting CA's marketing claims. Multiple Trump campaign officials described CA's role as "modest," and confirmed that primary data sourcing was the RNC, not CA.
+Key NYT pre-scandal reporting in which **CA executives conceded the company never actually used psychographics in the Trump campaign** — directly contradicting CA's marketing claims. Multiple Trump campaign officials described CA's role as "modest," and confirmed that primary data sourcing was the RNC, not CA.
 
 This is a critical source for the **"effectiveness disputed"** framing throughout the vault:
 
@@ -32,7 +32,7 @@ This is a critical source for the **"effectiveness disputed"** framing throughou
 
 ## Significance
 
-This article is the single best counter-source to CA's effectiveness claims. The fact that CA executives conceded the truth to NYT in early 2017 â€” 12 months before the scandal broke â€” but the truth was buried in CA's continued marketing demonstrates the **gap between public-relations claims and operational reality**.
+This article is the single best counter-source to CA's effectiveness claims. The fact that CA executives conceded the truth to NYT in early 2017 — 12 months before the scandal broke — but the truth was buried in CA's continued marketing demonstrates the **gap between public-relations claims and operational reality**.
 
 ## URL
 

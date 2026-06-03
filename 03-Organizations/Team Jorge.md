@@ -13,7 +13,7 @@ aliases: ["Tal Hanan operation"]
 
 Israeli private intelligence and disinformation operation exposed by a [[Forbidden Stories]] consortium investigation published February 2023. Led by former Israeli intelligence officer **Tal Hanan** (alias "Jorge"). Reportedly intervened in **30+ elections globally** including with bots, hacking, and disinformation operations. Caught on hidden camera by undercover journalists discussing methods including a custom-built bot network called "AIMS" (Advanced Impact Media Solutions) capable of operating tens of thousands of fake social media profiles.
 
-## Forbidden Stories exposÃ© (February 2023)
+## Forbidden Stories exposé (February 2023)
 
 The Forbidden Stories consortium (including *Le Monde*, *The Guardian*, *Der Spiegel*, *Haaretz*, and others) published a coordinated investigation February 15, 2023 documenting:
 
@@ -41,20 +41,20 @@ Custom-built social media manipulation platform:
 
 Team Jorge is the most-documented case study of the Israeli intel-for-hire pattern at industrial scale. Alongside [[Black Cube]] and [[Psy-Group]], Team Jorge supports the structural argument in [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]].
 
-The exposÃ© also documented similarities with Russia's [[Internet Research Agency (IRA)]] operations â€” supporting the parallel-operations argument.
+The exposé also documented similarities with Russia's [[Internet Research Agency (IRA)]] operations -- supporting the parallel-operations argument.
 
 ## Connections
 
-- [[Tal Hanan]] â€” operator
-- [[Black Cube]] Â· [[Psy-Group]] â€” parallel Israeli intel-for-hire firms
-- [[Forbidden Stories]] Â· [[Le Monde]] Â· [[The Guardian]] Â· [[Der Spiegel]] Â· [[Haaretz]] â€” exposing consortium
+- [[Tal Hanan]] -- operator
+- [[Black Cube]] · [[Psy-Group]] -- parallel Israeli intel-for-hire firms
+- [[Forbidden Stories]] · [[Le Monde]] · [[The Guardian]] · [[Der Spiegel]] · [[Haaretz]] -- exposing consortium
 - [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]]
-- [[Internet Research Agency (IRA)]] â€” Russian counterpart per the parallel argument
-- [[AIMS]] â€” bot platform
+- [[Internet Research Agency (IRA)]] -- Russian counterpart per the parallel argument
+- [[AIMS]] -- bot platform
 - [[Lens - Israel]]
 
 ## Sources
 
-- [[Source: Forbidden Stories Team Jorge ExposÃ© February 2023]]
+- [[Source: Forbidden Stories Team Jorge Exposé February 2023]]
 - [[Source: Haaretz Team Jorge Reporting]]
 - [[Source: Guardian Team Jorge Reporting]]

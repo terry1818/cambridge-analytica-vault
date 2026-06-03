@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: 2016 UK referendum on EU membership; CA/AIQ involvement subject of ongoing dispute
 tags: [event, topic/brexit, topic/cambridge-analytica, era/2014-2016, jurisdiction/uk]
@@ -14,16 +14,16 @@ status: closed
 
 ## Summary
 
-**United Kingdom European Union membership referendum**, held 2016-06-23. Result: 51.9% Leave, 48.1% Remain. Two principal Leave campaigns: official [[Vote Leave]] and unofficial [[Leave.EU]]. Cambridge Analytica's role disputed: [[Brittany Kaiser]] said CA worked for Leave.EU; CA denied; ICO ([[Source ICO 2020-11 Cambridge Analytica investigation]]) found in November 2020 that "SCL/CA were not involved in the EU referendum campaign in the UK." Per Wylie testimony to UK Parliament, **[[AggregateIQ (AIQ)]] helped Vote Leave circumvent UK campaign finance laws** â€” funneling Â£625K via youth group [[BeLeave]] (exposed by [[Shahmir Sanni]]). ([[Source Wikipedia - Cambridge Analytica]], [[Source DCMS Final Report 2019]])
+**United Kingdom European Union membership referendum**, held 2016-06-23. Result: 51.9% Leave, 48.1% Remain. Two principal Leave campaigns: official [[Vote Leave]] and unofficial [[Leave.EU]]. Cambridge Analytica's role disputed: [[Brittany Kaiser]] said CA worked for Leave.EU; CA denied; ICO ([[Source ICO 2020-11 Cambridge Analytica investigation]]) found in November 2020 that "SCL/CA were not involved in the EU referendum campaign in the UK." Per Wylie testimony to UK Parliament, **[[AggregateIQ (AIQ)]] helped Vote Leave circumvent UK campaign finance laws** -- funneling £625K via youth group [[BeLeave]] (exposed by [[Shahmir Sanni]]). ([[Source Wikipedia - Cambridge Analytica]], [[Source DCMS Final Report 2019]])
 
 ## Key timeline
 
-- 2016-02-20 â€” Vote Leave and Leave.EU campaigns active
-- 2016-06-23 â€” Referendum
-- 2017-02 to 2018 â€” Cadwalladr's reporting on CA/AIQ/Brexit
-- 2018-03-24 â€” Sanni whistleblower disclosure on Vote Leave/BeLeave funds
-- 2019-02-18 â€” DCMS Final Report
-- 2020-11 â€” ICO closes investigation, no CA Brexit influence finding
+- 2016-02-20 -- Vote Leave and Leave.EU campaigns active
+- 2016-06-23 -- Referendum
+- 2017-02 to 2018 -- Cadwalladr's reporting on CA/AIQ/Brexit
+- 2018-03-24 -- Sanni whistleblower disclosure on Vote Leave/BeLeave funds
+- 2019-02-18 -- DCMS Final Report
+- 2020-11 -- ICO closes investigation, no CA Brexit influence finding
 
 ## Sources
 
@@ -97,7 +97,7 @@ The Leave-side data infrastructure did not appear in 2016. The build occurred th
 
 The 23 June 2016 vote produced 51.9 percent Leave (17,410,742 votes) to 48.1 percent Remain (16,141,241 votes), with turnout of 72.2 percent. The result was decisive in absolute terms (a 1.27-million-vote margin) but close in relative terms; the geographic distribution mattered (Scotland and Northern Ireland voted Remain, England and Wales voted Leave, with the most decisive Leave margins in northern English post-industrial areas and the East Midlands).
 
-The result triggered the David Cameron resignation, the Theresa May premiership, the multi-year Brexit-negotiation period, and the eventual UK exit from the EU on 31 January 2020 â€” followed by the ongoing economic, political, and constitutional aftermath that continues to shape UK politics in 2026.
+The result triggered the David Cameron resignation, the Theresa May premiership, the multi-year Brexit-negotiation period, and the eventual UK exit from the EU on 31 January 2020 -- followed by the ongoing economic, political, and constitutional aftermath that continues to shape UK politics in 2026.
 
 ## The DCMS inquiry, the ICO investigation, and the Electoral Commission action
 

@@ -36,19 +36,19 @@ British investigative journalist for [[The Guardian]] / [[The Observer]] whose m
 
 ## Notable articles (selected)
 
-- 2017-02-26 â€” [[Source Cadwalladr 2017-02-26 Observer Robert Mercer]]
-- 2017-05-07 â€” [[Source Cadwalladr 2017-05 Guardian Great British Brexit Robbery]]
-- 2017-03-04 â€” [[Source Doward Cadwalladr Gibbs 2017-03-04 Guardian ICO]]
-- 2018-03-17 â€” [[Source Cadwalladr Graham-Harrison 2018-03-17 Guardian]] (with Wylie disclosures)
-- 2018-03-18 â€” [[Source Cadwalladr 2018-03-18 Guardian Wylie portrait]] ("I made Steve Bannon's psychological warfare tool")
+- 2017-02-26 -- [[Source Cadwalladr 2017-02-26 Observer Robert Mercer]]
+- 2017-05-07 -- [[Source Cadwalladr 2017-05 Guardian Great British Brexit Robbery]]
+- 2017-03-04 -- [[Source Doward Cadwalladr Gibbs 2017-03-04 Guardian ICO]]
+- 2018-03-17 -- [[Source Cadwalladr Graham-Harrison 2018-03-17 Guardian]] (with Wylie disclosures)
+- 2018-03-18 -- [[Source Cadwalladr 2018-03-18 Guardian Wylie portrait]] ("I made Steve Bannon's psychological warfare tool")
 
 ## Timeline
 
-- `2016` â€” Begins CA / Brexit reporting
-- `2017-02-26` â€” Major Mercer profile published
-- `2017-05` â€” "Great British Brexit Robbery"
-- `2018-03-17` â€” Joint disclosure with NYT; Wylie goes on record
-- `2018+` â€” Ongoing legal defense vs Banks/CA
+- `2016` -- Begins CA / Brexit reporting
+- `2017-02-26` -- Major Mercer profile published
+- `2017-05` -- "Great British Brexit Robbery"
+- `2018-03-17` -- Joint disclosure with NYT; Wylie goes on record
+- `2018+` -- Ongoing legal defense vs Banks/CA
 
 ## Sources
 
@@ -102,15 +102,15 @@ The publication produced immediate cascading consequences: Nix was suspended wit
 
 ## The Banks v Cadwalladr litigation
 
-Her 2019 TED talk ("Facebook's role in Brexit â€” and the threat to democracy") made specific factual claims about [[Arron Banks]]'s relationship with Russian state actors. Banks sued her for defamation in the UK. The [[Cadwalladr v Banks 2022]] case was litigated through the High Court (initial 2022 ruling in Cadwalladr's favour on the public-interest defence at trial), the Court of Appeal (2023, partially overturning), and subsequent appeals. The legal outcome (cleared on substance, at enormous personal cost) is itself documented in the vault as evidence of the chilling effect on UK investigative journalism.
+Her 2019 TED talk ("Facebook's role in Brexit -- and the threat to democracy") made specific factual claims about [[Arron Banks]]'s relationship with Russian state actors. Banks sued her for defamation in the UK. The [[Cadwalladr v Banks 2022]] case was litigated through the High Court (initial 2022 ruling in Cadwalladr's favour on the public-interest defence at trial), the Court of Appeal (2023, partially overturning), and subsequent appeals. The legal outcome (cleared on substance, at enormous personal cost) is itself documented in the vault as evidence of the chilling effect on UK investigative journalism.
 
-The Banks litigation is operationally significant for the vault because it tested whether the public-interest defence in the UK libel regime could withstand a well-funded SLAPP-style claim. The eventual outcome â€” substantial legal costs to Cadwalladr (covered partly by crowdfunded legal-defence fundraising) and a years-long emotional and financial burden â€” is part of the evidence weight when the vault considers why CA-era investigative journalism has not been replicated at the same scale for subsequent influence-operations events.
+The Banks litigation is operationally significant for the vault because it tested whether the public-interest defence in the UK libel regime could withstand a well-funded SLAPP-style claim. The eventual outcome -- substantial legal costs to Cadwalladr (covered partly by crowdfunded legal-defence fundraising) and a years-long emotional and financial burden -- is part of the evidence weight when the vault considers why CA-era investigative journalism has not been replicated at the same scale for subsequent influence-operations events.
 
 ## Cadwalladr's analytical and methodological framework
 
 Cadwalladr's distinctive analytical contribution was the network framing. Where most contemporaneous reporting treated the CA story as a discrete data-protection-and-electoral-finance scandal, Cadwalladr treated it as a documented case of a coordinated influence network linking Mercer money, Bannon strategy, CA technical infrastructure, AIQ Canadian operational arm, Vote Leave and Trump campaign deployment, and Russian-state adjacency (the part most contested in subsequent regulatory findings).
 
-The network framing was substantially vindicated by the regulatory record (ICO findings on data-protection violations and the Vote Leave / BeLeave coordination; FTC findings on Facebook's role; congressional intelligence findings on the broader Russian interference picture). The Russian-state-CA-coordination claim â€” the part Banks sued over â€” is the part where the regulatory record landed in a less aggressive place than the strongest journalistic framings, while still documenting substantial wrongdoing.
+The network framing was substantially vindicated by the regulatory record (ICO findings on data-protection violations and the Vote Leave / BeLeave coordination; FTC findings on Facebook's role; congressional intelligence findings on the broader Russian interference picture). The Russian-state-CA-coordination claim -- the part Banks sued over -- is the part where the regulatory record landed in a less aggressive place than the strongest journalistic framings, while still documenting substantial wrongdoing.
 
 ## Post-Observer continuing work
 

@@ -6,7 +6,7 @@ type: thread
 status: active
 ---
 
-# Defensive Playbook Ã¢â‚¬â€ Ohio
+# Defensive Playbook — Ohio
 
 **Priority: CRITICAL.** Ohio has multiple active COS resolutions filed in 2025 (HJR 2, SJR 2, SB 112) and Ohio is on COSA's 2026 priority target list. **GOP trifecta = no veto backstop.**
 
@@ -19,38 +19,38 @@ status: active
 | SB 112 | Senate | Reynolds, Lang (primary sponsors) | Hearings held | |
 | HB 67 | House | McClain, Willis | "Faithful Delegates" bill | Pro-COS framing |
 
-**All four have had hearings but no votes** Ã¢â‚¬â€ partly because the legislature prioritized the state operating budget through June 2025.
+**All four have had hearings but no votes** — partly because the legislature prioritized the state operating budget through June 2025.
 
 ## Co-sponsors of HJR 2 (block these)
 
-Adam Holmes, Darrell Kick, Scott Lipps, Dick Stein, Gayle Manning, Derek Merrin, Bill Seitz (term-limited 2026), Tom Patton, Tim Ginter, Adam Bird, Tom Young, Jean Schmidt, Thomas Hall Ã¢â‚¬â€ plus others.
+Adam Holmes, Darrell Kick, Scott Lipps, Dick Stein, Gayle Manning, Derek Merrin, Bill Seitz (term-limited 2026), Tom Patton, Tim Ginter, Adam Bird, Tom Young, Jean Schmidt, Thomas Hall — plus others.
 
 ## Opposition leaders (support these)
 
-- **Allison Russo** (D-7) Ã¢â‚¬â€ House Minority Leader; Columbus suburbs
-- **Nickie Antonio** (D-23) Ã¢â‚¬â€ Senate Minority Leader; Cleveland
+- **Allison Russo** (D-7) — House Minority Leader; Columbus suburbs
+- **Nickie Antonio** (D-23) — Senate Minority Leader; Cleveland
 - Ohio ACLU
 - Common Cause Ohio
 - Ohio Capital Journal (sympathetic press)
 
 ## Three-track strategy
 
-### Track 1 Ã¢â‚¬â€ Block HJR 2 / SJR 2 in committee
+### Track 1 — Block HJR 2 / SJR 2 in committee
 - Coordinate with Russo + Antonio on procedural objections
 - Mobilize Ohio Capital Journal + Cleveland Plain Dealer coverage
 - Deploy Counter-Narrative app outputs targeted to rural-conservative voters (anti-runaway frame) in McClain's and Willis's districts
 - Run paid Facebook + Instagram ads in Upper Sandusky (McClain) and Springfield (Willis) markets
 
-### Track 2 Ã¢â‚¬â€ Apply pressure on co-sponsors
+### Track 2 — Apply pressure on co-sponsors
 Priority targets (most flippable / vulnerable):
-- **Bill Seitz** (R-30, Cincinnati suburbs) Ã¢â‚¬â€ term-limited 2026; nothing to lose; talk to him about legacy
-- **Jean Schmidt** (R-62, Cincinnati) Ã¢â‚¬â€ independent voters in district; suburban-suburban-women campaign
-- **Derek Merrin** (R-42, Toledo suburbs) Ã¢â‚¬â€ failed 2024 congressional run; image-conscious about future moves
+- **Bill Seitz** (R-30, Cincinnati suburbs) — term-limited 2026; nothing to lose; talk to him about legacy
+- **Jean Schmidt** (R-62, Cincinnati) — independent voters in district; suburban-suburban-women campaign
+- **Derek Merrin** (R-42, Toledo suburbs) — failed 2024 congressional run; image-conscious about future moves
 - Aim for 3-5 co-sponsors to publicly withdraw support
 
-### Track 3 Ã¢â‚¬â€ Litigation pre-stage
+### Track 3 — Litigation pre-stage
 - File-ready: ACLU + Brennan Center brief for the "approach-34" scenario (use Litigation Packet builder in app)
-- Coordinate with state-court litigation around HB 67's "Faithful Delegates" framing Ã¢â‚¬â€ argue it's actually pro-convention rather than protective
+- Coordinate with state-court litigation around HB 67's "Faithful Delegates" framing — argue it's actually pro-convention rather than protective
 - Begin discovery on COSA Ohio operations: who funded the lobbying, what staff are on the ground
 
 ## Counter-narrative content for Ohio

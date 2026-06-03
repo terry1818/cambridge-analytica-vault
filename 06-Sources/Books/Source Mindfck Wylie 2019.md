@@ -21,9 +21,9 @@ Wylie, Christopher. (2019). *Mindf*ck: Cambridge Analytica and the Plot to Break
 
 ## Structure
 
-Part I â€” *The Underwater Light* â€” Wylie's biography, early political work, joining SCL
-Part II â€” *Cambridge Analytica* â€” Building the firm, Bannon, Mercer dynamics, the psychographic methodology
-Part III â€” *Whistleblower* â€” Departure, Cadwalladr handler relationship, going public
+Part I — *The Underwater Light* — Wylie's biography, early political work, joining SCL
+Part II — *Cambridge Analytica* — Building the firm, Bannon, Mercer dynamics, the psychographic methodology
+Part III — *Whistleblower* — Departure, Cadwalladr handler relationship, going public
 
 ## Key disclosures (cited in this vault)
 

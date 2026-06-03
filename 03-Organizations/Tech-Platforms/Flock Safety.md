@@ -29,13 +29,13 @@ Atlanta-based surveillance company founded 2017, providing **automated license-p
 
 ## Leadership
 
-- Garrett Langley Ã¢â‚¬â€ Co-founder, CEO
-- Matt Feury Ã¢â‚¬â€ Co-founder
-- Paige Todd Ã¢â‚¬â€ Co-founder
+- Garrett Langley -- Co-founder, CEO
+- Matt Feury -- Co-founder
+- Paige Todd -- Co-founder
 
 ## Capital structure / investors
 
-- **Andreessen Horowitz (a16z)** Ã¢â‚¬â€ Series D lead ($150M) and Series E lead ($275M)
+- **Andreessen Horowitz (a16z)** -- Series D lead ($150M) and Series E lead ($275M)
 - **Founders Fund** ([[Peter Thiel]] VC firm)
 - **Bedrock Capital** (Geoff Lewis; Thiel-adjacent)
 - **Greenoaks Capital**
@@ -56,7 +56,7 @@ Atlanta-based surveillance company founded 2017, providing **automated license-p
 
 ## Federal access incidents 2025
 
-- **May 2025:** 404 Media revealed local police were performing Flock searches "on behalf of ICE" Ã¢â‚¬â€ discovered because users typed "ICE" or "illegal immigration" in the search-reason field
+- **May 2025:** 404 Media revealed local police were performing Flock searches "on behalf of ICE" -- discovered because users typed "ICE" or "illegal immigration" in the search-reason field
 - **August 2025:** Colorado local news discovered **CBP accessing Flock data via undisclosed "pilot program"**; Flock acknowledged
 - **Virginia:** ~3,000 immigration-related searches over 12 months on the state network
 - **At least 8 Washington state agencies** enabled 1:1 direct sharing with US Border Patrol
@@ -66,23 +66,23 @@ Atlanta-based surveillance company founded 2017, providing **automated license-p
 
 ## How it fits the architecture
 
-Flock is the **distributed physical-sensor mesh** complement to [[Palantir Technologies]]'s data-integration layer. Where Palantir consolidates the records the federal government already holds, Flock provides **real-time location data on every car on the road** Ã¢â‚¬â€ and pipes it into federal investigations via local-police intermediation ("side door"). Combined with **school-camera coverage**, the system reaches minors and non-driving residents through their proximity to vehicles.
+Flock is the **distributed physical-sensor mesh** complement to [[Palantir Technologies]]'s data-integration layer. Where Palantir consolidates the records the federal government already holds, Flock provides **real-time location data on every car on the road** -- and pipes it into federal investigations via local-police intermediation ("side door"). Combined with **school-camera coverage**, the system reaches minors and non-driving residents through their proximity to vehicles.
 
 ## Timeline
 
-- `2017` Ã¢â‚¬â€ founded by Langley, Feury, Todd
-- `2022` Ã¢â‚¬â€ Series D $150M led by a16z; targets reducing crime in America by 25% in 3 years
-- `2025-03` Ã¢â‚¬â€ Series E $275M, $7.5B valuation
-- `2025-05` Ã¢â‚¬â€ 404 Media exposes ICE "side door" via local police
-- `2025-08` Ã¢â‚¬â€ CBP pilot program revealed; Flock pledges no more federal pilots
-- `2025-10` Ã¢â‚¬â€ VPM / UW Center for Human Rights reporting on Virginia + Washington networks
-- `2026-01` Ã¢â‚¬â€ Flock launches federal-sharing toggle
+- `2017` -- founded by Langley, Feury, Todd
+- `2022` -- Series D $150M led by a16z; targets reducing crime in America by 25% in 3 years
+- `2025-03` -- Series E $275M, $7.5B valuation
+- `2025-05` -- 404 Media exposes ICE "side door" via local police
+- `2025-08` -- CBP pilot program revealed; Flock pledges no more federal pilots
+- `2025-10` -- VPM / UW Center for Human Rights reporting on Virginia + Washington networks
+- `2026-01` -- Flock launches federal-sharing toggle
 
 ## Related entities
 
-- [[Palantir Technologies]] Ã¢â‚¬â€ data-integration layer; complementary surveillance partner
-- [[Peter Thiel]] Ã¢â‚¬â€ Founders Fund investor; shared funder pattern
-- [[Trump EO Eliminating Information Silos 2025-03-20]] Ã¢â‚¬â€ broader legal pretext for federal access
+- [[Palantir Technologies]] -- data-integration layer; complementary surveillance partner
+- [[Peter Thiel]] -- Founders Fund investor; shared funder pattern
+- [[Trump EO Eliminating Information Silos 2025-03-20]] -- broader legal pretext for federal access
 
 ## Open questions
 

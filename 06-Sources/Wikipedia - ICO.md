@@ -26,7 +26,7 @@ Wikipedia overview of UK ICO
 
 ## Key claims / findings
 
-- Founded 1984 (renamed ICO 2001)`n- HQ Wilmslow`n- Elizabeth Denham led CA investigation 2016-2021`n- John Edwards current commissioner since 2022`n- Ã‚Â£500K Facebook fine 2018
+- Founded 1984 (renamed ICO 2001)`n- HQ Wilmslow`n- Elizabeth Denham led CA investigation 2016-2021`n- John Edwards current commissioner since 2022`n- £500K Facebook fine 2018
 
 ## Entities mentioned
 

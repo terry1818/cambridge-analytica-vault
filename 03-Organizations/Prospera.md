@@ -3,10 +3,10 @@ title: Prospera
 type: organization
 date: 2026-05-29
 tags: [organization, charter-city, libertarian, honduras, techright]
-aliases: ['Prospera','PrÃ³spera','Prospera ZEDE']
+aliases: ['Prospera','Próspera','Prospera ZEDE']
 ---
 
-# PrÃ³spera (ZEDE Honduras)
+# Próspera (ZEDE Honduras)
 
 Libertarian charter city on the island of Roatan, Honduras. Operating since 2017 under the ZEDE (Zone for Employment and Economic Development) legal framework that grants substantial regulatory autonomy.
 
@@ -20,12 +20,12 @@ Libertarian charter city on the island of Roatan, Honduras. Operating since 2017
 ## Political status
 
 - Honduran government (Xiomara Castro administration) moved to revoke the ZEDE framework 2022
-- PrÃ³spera has filed an ICSID arbitration claim against Honduras for billions
+- Próspera has filed an ICSID arbitration claim against Honduras for billions
 - The case is the highest-profile test of investor-state dispute settlement against a charter-city revocation
 
 ## Significance for vault
 
-PrÃ³spera is the most-developed real-world prototype of the [[Tech right]] "exit" strategy theorized by [[Balaji Srinivasan]]'s [[The Network State]] framework. Rather than capture the existing state, build a parallel jurisdiction that supersedes it.
+Próspera is the most-developed real-world prototype of the [[Tech right]] "exit" strategy theorized by [[Balaji Srinivasan]]'s [[The Network State]] framework. Rather than capture the existing state, build a parallel jurisdiction that supersedes it.
 
 It connects directly to the [[Tech right]] / [[Curtis Yarvin]] / neoreactionary intellectual current.
 

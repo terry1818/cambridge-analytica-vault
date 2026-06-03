@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-American environmental activist who **founded [[TheocracyWatch]] in 2000** after recognizing during the 2000 election that "few people understood that the religious right had taken working control of the Republican Party." Based at Cornell University's **Center for Religion, Ethics and Social Policy (CRESP)**. Pioneered the methodology of **using congressional voting patterns to gauge dominionist influence over time** Ã¢â‚¬" producing one of the first systematic citizen-research bodies on the religious right's GOP-takeover.
+American environmental activist who **founded [[TheocracyWatch]] in 2000** after recognizing during the 2000 election that "few people understood that the religious right had taken working control of the Republican Party." Based at Cornell University's **Center for Religion, Ethics and Social Policy (CRESP)**. Pioneered the methodology of **using congressional voting patterns to gauge dominionist influence over time** -" producing one of the first systematic citizen-research bodies on the religious right's GOP-takeover.
 
 ## Key facts
 
@@ -35,9 +35,9 @@ Bokaer was **doing the work this vault now does, 25 years earlier.** Her Theocra
 
 ## Related entities
 
-- [[TheocracyWatch]] Ã¢â‚¬" her project
-- [[Dominionism]] Ã¢â‚¬" her primary research focus
-- [[Council for National Policy]] Ã¢â‚¬" documented in her work
+- [[TheocracyWatch]] -" her project
+- [[Dominionism]] -" her primary research focus
+- [[Council for National Policy]] -" documented in her work
 
 ## Sources
 

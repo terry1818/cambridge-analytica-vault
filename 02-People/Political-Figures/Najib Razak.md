@@ -15,7 +15,7 @@ status: imprisoned
 
 ## Summary
 
-6th Prime Minister of Malaysia (2009-2018). Leader of the [[Barisan Nasional]] coalition that had governed Malaysia continuously since independence in 1957 until his **historic May 2018 election defeat** by Mahathir Mohamad â€” coincidentally just two weeks after CAs London insolvency.
+6th Prime Minister of Malaysia (2009-2018). Leader of the [[Barisan Nasional]] coalition that had governed Malaysia continuously since independence in 1957 until his **historic May 2018 election defeat** by Mahathir Mohamad -- coincidentally just two weeks after CAs London insolvency.
 
 ## CA-relevance
 
@@ -29,7 +29,7 @@ status: imprisoned
 
 ## 1MDB scandal
 
-- 1MDB = **1Malaysia Development Berhad** â€” sovereign wealth fund established 2009 under Najib
+- 1MDB = **1Malaysia Development Berhad** -- sovereign wealth fund established 2009 under Najib
 - US Department of Justice investigation found that ~$4.5 billion was misappropriated from 1MDB
 - Funds traced to luxury real estate, art, yachts (including financing of Hollywood film *The Wolf of Wall Street*), gambling, and political activities globally
 - Hundreds of millions traced directly to Najibs personal accounts
@@ -38,9 +38,9 @@ status: imprisoned
 
 ## Convictions
 
-- **2020-07** â€” convicted on 7 counts related to SRC International (1MDB subsidiary)
+- **2020-07** -- convicted on 7 counts related to SRC International (1MDB subsidiary)
 - Sentenced to **12 years imprisonment + RM 210 million ($46M USD) fine**
-- 2022 â€” sentence reduced on appeal to 6 years and RM 50 million fine
+- 2022 -- sentence reduced on appeal to 6 years and RM 50 million fine
 - Currently serving sentence
 - Multiple additional 1MDB cases ongoing
 

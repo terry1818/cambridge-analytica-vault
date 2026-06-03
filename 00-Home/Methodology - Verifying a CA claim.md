@@ -6,9 +6,9 @@ tags: [meta, guide, methodology]
 
 # Methodology: Verifying a CA-Related Claim
 
-When evaluating any claim about Cambridge Analytica, SCL Group, their personnel, or successor operations â€” apply this verification hierarchy.
+When evaluating any claim about Cambridge Analytica, SCL Group, their personnel, or successor operations -- apply this verification hierarchy.
 
-## Step 1 â€” Identify the claim type
+## Step 1 -- Identify the claim type
 
 - **Factual existence claim** ("CA worked for X")
 - **Quantitative claim** ("CA had 5,000 data points on 230M Americans")
@@ -16,7 +16,7 @@ When evaluating any claim about Cambridge Analytica, SCL Group, their personnel,
 - **Attribution claim** ("Russia/Israel/state X was behind this")
 - **Methodological claim** ("CA's psychographics work / don't work")
 
-## Step 2 â€” Find at least one primary source
+## Step 2 -- Find at least one primary source
 
 Best to worst:
 1. **Court filing / official government document** (FTC complaint, DCMS report, Senate Intel Vol 5)
@@ -28,7 +28,7 @@ Best to worst:
 7. **Secondary analysis citing primary sources** (Wikipedia, retrospectives)
 8. **CA's own marketing claims** (treat as inherently self-serving)
 
-## Step 3 â€” Check for contradictory sources
+## Step 3 -- Check for contradictory sources
 
 For any factual claim, search for explicit contradiction:
 - Did CA itself deny or contradict the claim?
@@ -36,19 +36,19 @@ For any factual claim, search for explicit contradiction:
 - Do other whistleblowers say differently?
 - Does academic research contradict the claim?
 
-## Step 4 â€” Apply confidence label
+## Step 4 -- Apply confidence label
 
-- `#confidence/high` â€” multiple independent primary sources confirm
-- `#confidence/medium` â€” one strong primary source, or several secondary, with no significant contradiction
-- `#confidence/low` â€” circumstantial, single secondary source, or some contradiction
-- `#confidence/speculative` â€” pattern recognition, no direct evidence
+- `#confidence/high` -- multiple independent primary sources confirm
+- `#confidence/medium` -- one strong primary source, or several secondary, with no significant contradiction
+- `#confidence/low` -- circumstantial, single secondary source, or some contradiction
+- `#confidence/speculative` -- pattern recognition, no direct evidence
 
-## Step 5 â€” Apply claim-status label
+## Step 5 -- Apply claim-status label
 
-- `#claim/verified` â€” fact well-established
-- `#claim/disputed` â€” sources actively disagree
-- `#claim/unverified` â€” pending verification
-- `#claim/debunked` â€” disproven
+- `#claim/verified` -- fact well-established
+- `#claim/disputed` -- sources actively disagree
+- `#claim/unverified` -- pending verification
+- `#claim/debunked` -- disproven
 
 ## Common pitfalls
 

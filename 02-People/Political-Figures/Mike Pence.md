@@ -15,14 +15,14 @@ Born June 7, 1959, Columbus, IN. US Representative for Indiana 2001-2013. Govern
 
 ## January 6 conduct (Tier 1)
 
-In the weeks leading up to January 6, Trump and his legal team â€” particularly [[John Eastman]] and [[Kenneth Chesebro]] â€” pressured Pence to:
+In the weeks leading up to January 6, Trump and his legal team -- particularly [[John Eastman]] and [[Kenneth Chesebro]] -- pressured Pence to:
 - Reject electoral certifications from contested states
 - Delay certification to allow state legislatures to "reconsider"
 - Send certifications back to states
 
-Pence's chief of staff [[Marc Short]], counsel [[Greg Jacob]], and outside counsel J. Michael Luttig all advised Pence that his role under the Twelfth Amendment and Electoral Count Act was ministerial â€” he had no authority to refuse or delay certification.
+Pence's chief of staff [[Marc Short]], counsel [[Greg Jacob]], and outside counsel J. Michael Luttig all advised Pence that his role under the Twelfth Amendment and Electoral Count Act was ministerial -- he had no authority to refuse or delay certification.
 
-**January 5, 2021 â€” final meeting**: Trump and Eastman met with Pence in the Oval Office. Pence refused to commit to rejecting electors. Trump publicly stated Pence "had the absolute right" to reject electors (false legal claim).
+**January 5, 2021 -- final meeting**: Trump and Eastman met with Pence in the Oval Office. Pence refused to commit to rejecting electors. Trump publicly stated Pence "had the absolute right" to reject electors (false legal claim).
 
 **January 6, 2021**:
 - 1:00 PM: Pence presided over the joint session of Congress
@@ -43,10 +43,10 @@ Pence's chief of staff [[Marc Short]], counsel [[Greg Jacob]], and outside couns
 
 ## Connections
 
-- [[Donald Trump]] â€” boss; pressure source
-- [[John Eastman]] Â· [[Kenneth Chesebro]] â€” Trump attorneys who pressed legal theory
-- [[Marc Short]] Â· [[Greg Jacob]] â€” staff who held the line
-- [[Trump Second Impeachment 2021]] â€” based on Pence-targeting conduct
+- [[Donald Trump]] -- boss; pressure source
+- [[John Eastman]] · [[Kenneth Chesebro]] -- Trump attorneys who pressed legal theory
+- [[Marc Short]] · [[Greg Jacob]] -- staff who held the line
+- [[Trump Second Impeachment 2021]] -- based on Pence-targeting conduct
 - [[January 6 Select Committee 2021-2023]]
 - [[US v Trump DC Federal Election Interference Case]]
 - [[Stop the Steal]]

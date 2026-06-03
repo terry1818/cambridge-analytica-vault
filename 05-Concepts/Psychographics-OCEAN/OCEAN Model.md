@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Big Five personality model (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism) that CA built psychographic targeting on
 tags: [concept, topic/psychographics, era/pre-2014, era/2014-2016]
@@ -16,14 +16,14 @@ Psychological model defining five broad dimensions of human personality: **Openn
 ## How CA used it
 
 1. Recruited ~200,000 US participants via Qualtrics ($4 to complete personality questionnaire + share Facebook profile)
-2. Trained a model linking Facebook Likes/behavior â†’ Big Five scores
+2. Trained a model linking Facebook Likes/behavior → Big Five scores
 3. Applied model to millions of profiles harvested via [[Aleksandr Kogan]] / [[GSR]] from [[Facebook Graph API v1.0]]
-4. Used inferred personality profiles to target political messaging â€” tone tailored to predicted personality
+4. Used inferred personality profiles to target political messaging -- tone tailored to predicted personality
 
-## Effectiveness â€” disputed
+## Effectiveness -- disputed
 
 - [[Source Kosinski Stillwell Graepel 2013 PNAS]] showed personality predictable from Facebook Likes with measurable accuracy
-- [[Source Matz Kosinski Nave Stillwell 2017 PNAS]] â€” personality-tailored ads boosted sales ~50%
+- [[Source Matz Kosinski Nave Stillwell 2017 PNAS]] -- personality-tailored ads boosted sales ~50%
 - [[Eitan Hersh]] (Tufts): "Every claim about psychographics etc made by or about [CA] is BS"
 - NYT March 2017: CA executives conceded company never actually used psychographics in Trump campaign
 

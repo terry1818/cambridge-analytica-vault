@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Top-level Map of Content - every domain MOC, lens, comparative-analysis, reading list, and major entity
 tags: [moc, index]
@@ -11,16 +11,16 @@ Top-level index. Every domain MOC, lens, comparative-analysis note, reading list
 
 ## START HERE
 
-- [[How to Use the Vault]] â€” operating manual
-- [[Tag Taxonomy]] â€” 11-axis tag schema
-- [[Open Questions]] â€” research backlog
+- [[How to Use the Vault]] -- operating manual
+- [[Tag Taxonomy]] -- 11-axis tag schema
+- [[Open Questions]] -- research backlog
 - [[Reading List - 30 Minutes]]
 - [[Reading List - Weekend]]
 - [[Reading List - Researcher]]
 
 ## Domain MOCs
 
-- [[CA Core MOC]] â€” Cambridge Analytica, SCL Group
+- [[CA Core MOC]] -- Cambridge Analytica, SCL Group
 - [[Whistleblowers MOC]]
 - [[Successor Orgs MOC]]
 - [[AI Influence Ops MOC]]
@@ -29,20 +29,20 @@ Top-level index. Every domain MOC, lens, comparative-analysis note, reading list
 - [[Platforms MOC]]
 - [[Investigations MOC]]
 - [[Regulatory Response MOC]]
-- [[Tech Right MOC]] â€” contemporary Silicon Valley conservative consolidation
-- [[Trump 2.0 Cabinet MOC]] â€” administration personnel
+- [[Tech Right MOC]] -- contemporary Silicon Valley conservative consolidation
+- [[Trump 2.0 Cabinet MOC]] -- administration personnel
 
 ## Lenses (cross-cutting analytical views)
 
 - [[Lenses MOC]]
-- [[Lens - Operators]] Â· [[Lens - Funders]] Â· [[Lens - Money Flows]] Â· [[Lens - Data Flows]]
+- [[Lens - Operators]] · [[Lens - Funders]] · [[Lens - Money Flows]] · [[Lens - Data Flows]]
 - [[Lens - Developing World Test Bed]]
 - [[Lens - Privatized Intelligence]]
 - [[Lens - Disputed Claims]]
 - [[Lens - Active Successor Operations]]
-- [[Lens - Gulf Capital Thread]] â€” Saudi/UAE thread
-- [[Lens - Russian Capital Thread]] â€” Russian state/oligarch thread
-- [[Lens - 2024-2026 Power Map]] â€” current state of operations
+- [[Lens - Gulf Capital Thread]] -- Saudi/UAE thread
+- [[Lens - Russian Capital Thread]] -- Russian state/oligarch thread
+- [[Lens - 2024-2026 Power Map]] -- current state of operations
 
 ## Comparative Analysis
 
@@ -55,8 +55,8 @@ Top-level index. Every domain MOC, lens, comparative-analysis note, reading list
 - [[Compare - Psychographic 2014 vs Embedding-based 2024]]
 - [[Compare - Persona networks 2010 to 2026]]
 - [[Compare - CA era influence ops vs Tech Right government convergence]]
-- [[Compare - Major right-wing donor networks]] â€” Mercer/Thiel/Koch/DeVos/Leo
-- [[Compare - Religious Right vs Tech Right]] â€” coalition analysis
+- [[Compare - Major right-wing donor networks]] -- Mercer/Thiel/Koch/DeVos/Leo
+- [[Compare - Religious Right vs Tech Right]] -- coalition analysis
 
 ## Per-entity timelines
 
@@ -72,7 +72,7 @@ Top-level index. Every domain MOC, lens, comparative-analysis note, reading list
 
 ## Database views
 
-- [[People.base]] Â· [[Organizations.base]] Â· [[Events.base]] Â· [[Sources.base]]
+- [[People.base]] · [[Organizations.base]] · [[Events.base]] · [[Sources.base]]
 
 ## Working hypotheses
 
@@ -89,52 +89,52 @@ Top-level index. Every domain MOC, lens, comparative-analysis note, reading list
 ## Tech Right cluster (the most contemporary)
 
 ### Central figures
-- [[Peter Thiel]] Â· [[Elon Musk]] Â· [[JD Vance]] Â· [[David Sacks]] Â· [[Marc Andreessen]] Â· [[Curtis Yarvin]] Â· [[Palmer Luckey]] Â· [[Sam Altman]]
+- [[Peter Thiel]] · [[Elon Musk]] · [[JD Vance]] · [[David Sacks]] · [[Marc Andreessen]] · [[Curtis Yarvin]] · [[Palmer Luckey]] · [[Sam Altman]]
 
 ### Trump 2.0 administration figures
-- [[JD Vance]] (VP) Â· [[Susie Wiles]] Â· [[Stephen Miller]] Â· [[Russell Vought]] Â· [[Howard Lutnick]] Â· [[Scott Bessent]] Â· [[Kristi Noem]] Â· [[Vivek Ramaswamy]]
+- [[JD Vance]] (VP) · [[Susie Wiles]] · [[Stephen Miller]] · [[Russell Vought]] · [[Howard Lutnick]] · [[Scott Bessent]] · [[Kristi Noem]] · [[Vivek Ramaswamy]]
 
 ### Investment vehicles
-- [[Founders Fund]] Â· [[a16z (Andreessen Horowitz)]] Â· [[Mithril Capital]] Â· [[Narya Capital]]
+- [[Founders Fund]] · [[a16z (Andreessen Horowitz)]] · [[Mithril Capital]] · [[Narya Capital]]
 
 ### Operational entities
-- [[Anduril]] Â· [[Palantir Technologies]] Â· [[OpenAI]] Â· [[Anthropic]] Â· [[Coinbase]] Â· [[Fairshake PAC]] Â· [[DOGE]]
+- [[Anduril]] · [[Palantir Technologies]] · [[OpenAI]] · [[Anthropic]] · [[Coinbase]] · [[Fairshake PAC]] · [[DOGE]]
 
 ### Right-wing media
-- [[Tucker Carlson]] Â· [[Tucker Carlson Network]] Â· [[Daily Wire]] Â· [[Joe Rogan]] Â· [[Bari Weiss]] Â· [[The Free Press]] Â· [[All-In Podcast]] Â· [[Breitbart News]]
+- [[Tucker Carlson]] · [[Tucker Carlson Network]] · [[Daily Wire]] · [[Joe Rogan]] · [[Bari Weiss]] · [[The Free Press]] · [[All-In Podcast]] · [[Breitbart News]]
 
 ### Religious Right / intellectual architecture
-- [[Patrick Deneen]] Â· [[Adrian Vermeule]] Â· [[Catholic Integralism]] Â· [[Balaji Srinivasan]] Â· [[Patri Friedman]] Â· [[Network States]] Â· [[Seasteading]] Â· [[Effective Accelerationism]] Â· [[TESCREAL]] Â· [[Effective Altruism]]
+- [[Patrick Deneen]] · [[Adrian Vermeule]] · [[Catholic Integralism]] · [[Balaji Srinivasan]] · [[Patri Friedman]] · [[Network States]] · [[Seasteading]] · [[Effective Accelerationism]] · [[TESCREAL]] · [[Effective Altruism]]
 
 ### Legal architecture
-- [[Leonard Leo]] Â· [[Federalist Society]] Â· [[Claremont Institute]] Â· [[John Eastman]] Â· [[Council for National Policy]]
+- [[Leonard Leo]] · [[Federalist Society]] · [[Claremont Institute]] · [[John Eastman]] · [[Council for National Policy]]
 
 ### Trump 2.0 readiness infrastructure
-- [[Heritage Foundation]] Â· [[Project 2025]] Â· [[Heritage Action]] Â· [[America First Policy Institute]] Â· [[America First Legal]] Â· [[Turning Point USA]]
+- [[Heritage Foundation]] · [[Project 2025]] · [[Heritage Action]] · [[America First Policy Institute]] · [[America First Legal]] · [[Turning Point USA]]
 
 ### Mercer ecosystem (CA-era foundation)
-- [[Robert Mercer]] Â· [[Rebekah Mercer]] Â· [[Mercer Family Foundation]] Â· [[Steve Bannon]] Â· [[Breitbart News]] Â· [[Government Accountability Institute]] Â· [[Glittering Steel]] Â· [[Reclaim New York]] Â· [[Heritage Foundation]] Â· [[Parler]]
+- [[Robert Mercer]] · [[Rebekah Mercer]] · [[Mercer Family Foundation]] · [[Steve Bannon]] · [[Breitbart News]] · [[Government Accountability Institute]] · [[Glittering Steel]] · [[Reclaim New York]] · [[Heritage Foundation]] · [[Parler]]
 
 ### DeVos network
-- [[DeVos Family Network]] Â· [[Erik Prince]] Â· [[Frontier Services Group]] Â· [[Johnson Chun Shun Ko]]
+- [[DeVos Family Network]] · [[Erik Prince]] · [[Frontier Services Group]] · [[Johnson Chun Shun Ko]]
 
 ### Crypto industry
-- [[Coinbase]] Â· [[Fairshake PAC]] Â· [[Sam Bankman-Fried]] (collapsed)
+- [[Coinbase]] · [[Fairshake PAC]] · [[Sam Bankman-Fried]] (collapsed)
 
 ### Sam Bankman-Fried / AI safety
-- [[Sam Bankman-Fried]] Â· [[Effective Altruism]] Â· [[Anthropic]] Â· [[TESCREAL]]
+- [[Sam Bankman-Fried]] · [[Effective Altruism]] · [[Anthropic]] · [[TESCREAL]]
 
 ### Older right-wing infrastructure
-- [[Koch Network]] Â· [[Council for National Policy]]
+- [[Koch Network]] · [[Council for National Policy]]
 
 ### Russia and transnational right
-- [[Konstantin Malofeev]] Â· [[Internet Research Agency]] Â· [[Doppelganger]] Â· [[Yevgeny Prigozhin]] (deceased)
+- [[Konstantin Malofeev]] · [[Internet Research Agency]] · [[Doppelganger]] · [[Yevgeny Prigozhin]] (deceased)
 
 ### Saudi/UAE / Gulf capital
-- [[George Nader]] Â· [[Stargate Project 2025]] Â· [[Lens - Gulf Capital Thread]]
+- [[George Nader]] · [[Stargate Project 2025]] · [[Lens - Gulf Capital Thread]]
 
 ### Key 2020-2026 events
-- [[Twitter Files Release 2022-2023]] Â· [[Stargate Project 2025]] Â· [[Big Tech Trump 2.0 Alignment 2024-2025]] Â· [[TikTok Divestment Saga 2020-2026]]
+- [[Twitter Files Release 2022-2023]] · [[Stargate Project 2025]] · [[Big Tech Trump 2.0 Alignment 2024-2025]] · [[TikTok Divestment Saga 2020-2026]]
 
 ## Navigation depth and reading paths
 

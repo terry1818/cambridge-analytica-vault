@@ -15,22 +15,22 @@ US Department of Justice Special Counsel [[Jack Smith]] prosecution of [[Donald 
 
 ## Charges
 
-**Indictment** (June 2023) â€” 37 felony counts initially against Trump:
-- 31 counts of willful retention of national defense information (Espionage Act, 18 USC Â§ 793(e))
-- 1 count of conspiracy to obstruct justice (Â§ 1512(k))
-- 1 count of withholding a document or record (Â§ 1512(b)(2)(A))
-- 1 count of corruptly concealing a document or record (Â§ 1512(c)(1))
-- 1 count of concealing a document in a federal investigation (Â§ 1519)
-- 1 count of scheme to conceal (Â§ 1001(a)(1))
-- 1 count of false statements and representations (Â§ 1001(a)(2))
+**Indictment** (June 2023) -- 37 felony counts initially against Trump:
+- 31 counts of willful retention of national defense information (Espionage Act, 18 USC § 793(e))
+- 1 count of conspiracy to obstruct justice (§ 1512(k))
+- 1 count of withholding a document or record (§ 1512(b)(2)(A))
+- 1 count of corruptly concealing a document or record (§ 1512(c)(1))
+- 1 count of concealing a document in a federal investigation (§ 1519)
+- 1 count of scheme to conceal (§ 1001(a)(1))
+- 1 count of false statements and representations (§ 1001(a)(2))
 
-**Superseding indictment** (July 2023) â€” added counts against co-defendant Carlos De Oliveira and additional Â§ 1512 obstruction charges related to deletion of Mar-a-Lago security camera footage.
+**Superseding indictment** (July 2023) -- added counts against co-defendant Carlos De Oliveira and additional § 1512 obstruction charges related to deletion of Mar-a-Lago security camera footage.
 
 Co-defendant [[Walt Nauta]] (Trump's personal aide) also charged with obstruction counts.
 
 ## Documents at issue (Tier 1)
 
-The retained documents included materials marked at the highest classification levels â€” TOP SECRET / Sensitive Compartmented Information (TS/SCI), including Special Access Program (SAP) materials. Per the indictment, the documents covered subjects including:
+The retained documents included materials marked at the highest classification levels -- TOP SECRET / Sensitive Compartmented Information (TS/SCI), including Special Access Program (SAP) materials. Per the indictment, the documents covered subjects including:
 - US military capabilities and weaknesses
 - US nuclear programs
 - Potential foreign attack vulnerabilities of the US
@@ -41,7 +41,7 @@ Documents recovered:
 - May-June 2022 grand jury subpoena and Trump attorney Evan Corcoran's search: limited additional documents produced
 - **August 8, 2022 FBI search of Mar-a-Lago**: recovered 102 additional classified documents that had not been turned over despite subpoena and certification of full production
 
-## Key evidence (Tier 1 â€” included in indictment)
+## Key evidence (Tier 1 -- included in indictment)
 
 ### Documentary
 - Photographs of classified-marked documents stored in cardboard boxes in Mar-a-Lago storage room, bathroom, and ballroom
@@ -57,7 +57,7 @@ Documents recovered:
 - Walt Nauta moved boxes of classified documents within Mar-a-Lago after subpoena
 - Carlos De Oliveira (Mar-a-Lago property manager) discussed deletion of security camera footage with the head of Mar-a-Lago IT
 
-## Cannon dismissal â€” July 15, 2024 (Tier 1)
+## Cannon dismissal -- July 15, 2024 (Tier 1)
 
 Judge [[Aileen Cannon]] granted Trump's motion to dismiss on the ground that Special Counsel Jack Smith's appointment by Attorney General Garland was unconstitutional under the Appointments Clause. Specifically:
 
@@ -65,7 +65,7 @@ Judge [[Aileen Cannon]] granted Trump's motion to dismiss on the ground that Spe
 - Therefore the appointment of a Special Counsel by the AG without Senate confirmation is unconstitutional
 - Cannon's ruling departed from decades of prior court rulings upholding Special Counsel appointments (notably in *In re Sealed Case* (DC Cir. 2019) and others)
 
-The ruling was widely viewed in legal commentary as a stretch â€” Justice Clarence Thomas had floated a similar argument in a concurrence in *Trump v United States* (the immunity case) in July 2024, but no other federal court had endorsed it.
+The ruling was widely viewed in legal commentary as a stretch -- Justice Clarence Thomas had floated a similar argument in a concurrence in *Trump v United States* (the immunity case) in July 2024, but no other federal court had endorsed it.
 
 ## Appeal and post-election disposition (Tier 1)
 
@@ -90,13 +90,13 @@ The ruling was widely viewed in legal commentary as a stretch â€” Justice C
 
 ## Connections
 
-- [[Donald Trump]] â€” defendant; case dismissed
-- [[Walt Nauta]] Â· [[Carlos De Oliveira]] â€” co-defendants
-- [[Jack Smith]] â€” Special Counsel
-- [[Aileen Cannon]] â€” trial judge; granted dismissal
-- [[Merrick Garland]] â€” AG who appointed Smith
-- [[Mar-a-Lago]] â€” location of retention and FBI search
-- [[NARA]] â€” initial retrieval party
+- [[Donald Trump]] -- defendant; case dismissed
+- [[Walt Nauta]] · [[Carlos De Oliveira]] -- co-defendants
+- [[Jack Smith]] -- Special Counsel
+- [[Aileen Cannon]] -- trial judge; granted dismissal
+- [[Merrick Garland]] -- AG who appointed Smith
+- [[Mar-a-Lago]] -- location of retention and FBI search
+- [[NARA]] -- initial retrieval party
 
 ## Sources
 

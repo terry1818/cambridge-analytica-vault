@@ -30,13 +30,13 @@ Mainstream historians and most national-security reporters treat the hypothesis 
 
 ### The Acosta statement (tier 2; contested)
 
-According to a Daily Beast report (2019), [[Alex Acosta]] told the Trump presidential transition team during 2017 vetting that he had been told Epstein "belonged to intelligence" and to leave him alone. Acosta has denied making this statement. Reporters Vicky Ward and others have corroborated similar accounts from other sources. The statement remains Tier 2 â€” sourced reporting against direct denial.
+According to a Daily Beast report (2019), [[Alex Acosta]] told the Trump presidential transition team during 2017 vetting that he had been told Epstein "belonged to intelligence" and to leave him alone. Acosta has denied making this statement. Reporters Vicky Ward and others have corroborated similar accounts from other sources. The statement remains Tier 2 — sourced reporting against direct denial.
 
 ### The Robert Maxwell connection (tier 2)
 
 [[Robert Maxwell]] is alleged by named former Mossad case officer Ari Ben-Menashe and other named-source allegations to have been a Mossad asset. Robert Maxwell's burial on the Mt. of Olives in Jerusalem attended by then-PM Yitzhak Shamir and reportedly multiple Israeli intelligence chiefs is Tier 1; the interpretation as confirmation of an intelligence connection is Tier 2.
 
-[[Ghislaine Maxwell]]'s relocation to NYC and immediate partnership with Epstein in ~1991-1992 â€” directly following her father's death and the family's financial collapse â€” is the temporal hinge point. The hypothesis: Ghislaine inherited Robert's operational network and brought it into the Epstein operation.
+[[Ghislaine Maxwell]]'s relocation to NYC and immediate partnership with Epstein in ~1991-1992 — directly following her father's death and the family's financial collapse — is the temporal hinge point. The hypothesis: Ghislaine inherited Robert's operational network and brought it into the Epstein operation.
 
 ### The 2008 NPA protection profile (tier 1 + tier 3 interpretation)
 
@@ -44,7 +44,7 @@ The 2008 NPA's co-conspirator immunity clause and the level of protection it rep
 
 ### The Southern Trust "DNA database" claim (tier 2)
 
-[[Southern Trust Company]]'s purported "DNA database" business â€” for which no public-facing product exists â€” is consistent with a hypothesis that the entity was a cover for collection/storage of sensitive biological/genetic material. This is Tier 3 inference.
+[[Southern Trust Company]]'s purported "DNA database" business — for which no public-facing product exists — is consistent with a hypothesis that the entity was a cover for collection/storage of sensitive biological/genetic material. This is Tier 3 inference.
 
 ### The Mega Group / Israeli philanthropic-network overlap (tier 2)
 
@@ -52,7 +52,7 @@ The [[Mega Group]] overlap with major US-Israel philanthropic networks and the d
 
 ### The operational tradecraft (tier 2)
 
-The operation's tradecraft â€” multiple properties in multiple jurisdictions, photographic/video documentation, victim recruiting pipeline, encrypted records, security protocol â€” is consistent with state-actor backed operations. Independent private operations sometimes match this profile, so this is Tier 2 supporting evidence at most.
+The operation's tradecraft — multiple properties in multiple jurisdictions, photographic/video documentation, victim recruiting pipeline, encrypted records, security protocol — is consistent with state-actor backed operations. Independent private operations sometimes match this profile, so this is Tier 2 supporting evidence at most.
 
 ## Evidence against / complications
 
@@ -76,13 +76,13 @@ The operation's tradecraft â€” multiple properties in multiple jurisdiction
 
 ## Connections
 
-- [[Robert Maxwell]] â€” alleged Mossad asset; Ghislaine's father
-- [[Ghislaine Maxwell]] â€” inheritor of father's network
-- [[Alex Acosta]] â€” alleged maker of "belonged to intelligence" statement
-- [[Mossad]] Â· [[CIA]] â€” named services in the hypothesis space
-- [[Mega Group]] â€” philanthropic/operational overlap node
-- [[Southern Trust Company]] â€” alleged data-collection cover
-- [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]] â€” closely related, structurally compatible hypothesis
+- [[Robert Maxwell]] — alleged Mossad asset; Ghislaine's father
+- [[Ghislaine Maxwell]] — inheritor of father's network
+- [[Alex Acosta]] — alleged maker of "belonged to intelligence" statement
+- [[Mossad]] · [[CIA]] — named services in the hypothesis space
+- [[Mega Group]] — philanthropic/operational overlap node
+- [[Southern Trust Company]] — alleged data-collection cover
+- [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]] — closely related, structurally compatible hypothesis
 - [[Source: Ben-Menashe - Profits of War]]
 - [[Source: Thomas and Dillon - Israel's Superspy]]
 - [[Source: Webb - One Nation Under Blackmail Vol 2]]

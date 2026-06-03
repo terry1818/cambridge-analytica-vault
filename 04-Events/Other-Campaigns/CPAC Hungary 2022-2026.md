@@ -40,13 +40,13 @@ CPAC Hungary represents the operational institutionalisation of US-European righ
 
 ## Year-by-year operational programming detail
 
-**CPAC Hungary 2022** â€” inaugural event. Orban keynote. US speaker delegation included [[Tucker Carlson]] (recorded video address), Mike Pence-adjacent figures, and various American Conservative Union leadership.
+**CPAC Hungary 2022** -- inaugural event. Orban keynote. US speaker delegation included [[Tucker Carlson]] (recorded video address), Mike Pence-adjacent figures, and various American Conservative Union leadership.
 
-**CPAC Hungary 2023** â€” substantial growth. Orban keynote. US speaker delegation included [[Steve Bannon]] (in-person), [[Kari Lake]], and substantial Project 2025-affiliated figures.
+**CPAC Hungary 2023** -- substantial growth. Orban keynote. US speaker delegation included [[Steve Bannon]] (in-person), [[Kari Lake]], and substantial Project 2025-affiliated figures.
 
-**CPAC Hungary 2024** â€” Trump pre-recorded address (he did not attend in person). Orban keynote. Substantial European right-wing party representation including [[AfD]], [[Brothers of Italy]], VOX (Spain), Reform UK, and broader European populist-right leadership.
+**CPAC Hungary 2024** -- Trump pre-recorded address (he did not attend in person). Orban keynote. Substantial European right-wing party representation including [[AfD]], [[Brothers of Italy]], VOX (Spain), Reform UK, and broader European populist-right leadership.
 
-**CPAC Hungary 2025** â€” post-Trump-victory event. Substantial Trump-administration-adjacent figure participation. The event's operational positioning as Trump-administration-aligned coordination venue substantially expanded.
+**CPAC Hungary 2025** -- post-Trump-victory event. Substantial Trump-administration-adjacent figure participation. The event's operational positioning as Trump-administration-aligned coordination venue substantially expanded.
 
 ## Why this is significant beyond a typical conference
 

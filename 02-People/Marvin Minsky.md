@@ -15,13 +15,13 @@ Born August 9, 1927, New York, NY. Died January 24, 2016, Boston, MA, age 88. Co
 
 ## Documented connections to the Epstein operation
 
-### Tier 1 â€” documented
+### Tier 1 -- documented
 
 - **MIT funding from Epstein**: Epstein contributed substantially to MIT and to specific MIT programs including the Media Lab. MIT's internal investigation (Goodwin Procter report, January 2020) documented the Epstein donations and MIT's handling of them, leading to the resignation of [[Joi Ito]] (then Media Lab Director).
 - **Documented attendance at Epstein events**: Minsky attended Epstein-organized scientific gatherings.
 - **Documented visits to Epstein properties** including Little St James.
 
-### Tier 1 â€” sworn allegations (existence of allegation)
+### Tier 1 -- sworn allegations (existence of allegation)
 
 [[Virginia Giuffre]] testified under oath in the Giuffre v. Maxwell deposition record that Epstein and Maxwell directed her to engage sexually with Minsky during a visit to [[Little St James]] when she was approximately 17-18 (circa 2001).
 
@@ -35,11 +35,11 @@ Minsky was unable to respond to the allegations, having died January 24, 2016, b
 
 ## Connections
 
-- [[Jeffrey Epstein]] â€” funder; documented associate
-- [[Virginia Giuffre]] â€” accuser
-- [[Little St James]] â€” site of alleged encounter
-- [[MIT]] â€” Minsky's primary institutional affiliation; recipient of Epstein donations
-- [[Joi Ito]] â€” MIT Media Lab director who resigned over Epstein funding
+- [[Jeffrey Epstein]] -- funder; documented associate
+- [[Virginia Giuffre]] -- accuser
+- [[Little St James]] -- site of alleged encounter
+- [[MIT]] -- Minsky's primary institutional affiliation; recipient of Epstein donations
+- [[Joi Ito]] -- MIT Media Lab director who resigned over Epstein funding
 
 ## Sources
 

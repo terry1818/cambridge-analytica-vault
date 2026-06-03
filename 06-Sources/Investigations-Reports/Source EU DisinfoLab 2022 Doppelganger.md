@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: EU DisinfoLab + Qurium's foundational 2022 attribution of the Doppelganger Russian operation cloning Western mainstream-media outlets â€” the canonical primary reference for the network
+description: EU DisinfoLab + Qurium's foundational 2022 attribution of the Doppelganger Russian operation cloning Western mainstream-media outlets — the canonical primary reference for the network
 aliases: ["Source: Source EU DisinfoLab 2022 Doppelganger"]
 tags: [source, evidence/investigation-report, topic/info-warfare, topic/disinformation, era/2020-2024, jurisdiction/eu, jurisdiction/russia]
 type: source
@@ -21,7 +21,7 @@ EU DisinfoLab; Qurium. (2022-09-27). *Doppelganger: Media clones serving Russian
 
 ## What it is
 
-The **foundational public attribution and technical characterization** of the [[Doppelganger]] Russian state-linked influence operation. Jointly authored by **EU DisinfoLab** (a Brussels-based NGO researching foreign information manipulation in the EU) and **Qurium** (a digital-forensics organization providing infrastructure analysis). The report identified an organized network of **cloned news-website domains** impersonating major Western media outlets to push Russian state narratives â€” particularly around the Russian invasion of Ukraine â€” and named the operational signature, infrastructure, and likely sponsor.
+The **foundational public attribution and technical characterization** of the [[Doppelganger]] Russian state-linked influence operation. Jointly authored by **EU DisinfoLab** (a Brussels-based NGO researching foreign information manipulation in the EU) and **Qurium** (a digital-forensics organization providing infrastructure analysis). The report identified an organized network of **cloned news-website domains** impersonating major Western media outlets to push Russian state narratives — particularly around the Russian invasion of Ukraine — and named the operational signature, infrastructure, and likely sponsor.
 
 ## Key claims / findings
 
@@ -32,13 +32,13 @@ The **foundational public attribution and technical characterization** of the [[
   - **Washington Post, Fox News** (US)
   - Additional regional outlets across the EU
 - **Mechanism:** Spoof domains use **typo-squatting** (e.g., `bild.work` instead of `bild.de`) and visual cloning to imitate the targeted outlet; articles push pro-Russian framing on Ukraine, NATO, and Western governments
-- **Amplification:** Cloned articles are then **boosted via inauthentic social accounts** across Facebook, X/Twitter, and emerging platforms â€” making the originating Doppelganger domains appear in legitimate-looking link shares
+- **Amplification:** Cloned articles are then **boosted via inauthentic social accounts** across Facebook, X/Twitter, and emerging platforms — making the originating Doppelganger domains appear in legitimate-looking link shares
 - **Attribution:** Operation **attributed to Russian state-linked operators** based on infrastructure, content alignment, and post-attribution sanctions reporting; subsequent EU sanctions in 2023-2024 named specific Russian entities as operators
 - **Scale evolution:** Initial ~60 domains has expanded to **hundreds of spoofed domains across multiple languages** by 2024 per follow-on reporting and [[Source Meta Threat Reports 2022-2024]] quarterly disclosures
 
 ## Significance for the vault
 
-- **State-actor parallel to CA's commercial model:** Doppelganger illustrates that **state-attributed operations now operate at scale comparable to private-vendor models** like CA's â€” supports the broader [[State Actors MOC]] thesis
+- **State-actor parallel to CA's commercial model:** Doppelganger illustrates that **state-attributed operations now operate at scale comparable to private-vendor models** like CA's — supports the broader [[State Actors MOC]] thesis
 - **Comparative baseline:** sits alongside [[Spamouflage Dragonbridge]] (China, [[Source Graphika 2019 Spamouflage Dragon]]) and [[Team Jorge]] ([[Source Forbidden Stories 2023 Team Jorge]]) in the [[Compare - State vs Private vs Commercial influence ops]] analysis
 - **Methodology innovation:** the report's combination of **technical infrastructure analysis** (Qurium) and **content / narrative analysis** (DisinfoLab) is a model adopted by subsequent influence-operations research
 
@@ -46,7 +46,7 @@ The **foundational public attribution and technical characterization** of the [[
 
 - **Type:** investigation-report from established NGO researchers
 - **Independent corroboration:**
-  - **Meta** (subsequent threat reports) confirmed and extended the network mapping â€” see [[Source Meta Threat Reports 2022-2024]]
+  - **Meta** (subsequent threat reports) confirmed and extended the network mapping — see [[Source Meta Threat Reports 2022-2024]]
   - **EU institutions** acted on the attribution with sanctions in 2023-2024
   - **Academic researchers** at Stanford Internet Observatory and others have produced complementary analyses
 - **Strengths:** technical methodology fully disclosed; reproducible domain-discovery approach; cross-language scope
@@ -64,13 +64,13 @@ The **foundational public attribution and technical characterization** of the [[
 
 ## How I'm using this
 
-- [[Doppelganger]] (entity hub) â€” foundational attribution source
+- [[Doppelganger]] (entity hub) — foundational attribution source
 - [[Coordinated Inauthentic Behavior]] (concept node)
-- [[Compare - State vs Private vs Commercial influence ops]] â€” state-actor anchor
+- [[Compare - State vs Private vs Commercial influence ops]] — state-actor anchor
 - [[AI Influence Ops MOC]]
 - [[State Actors MOC]]
 - [[Lens - 2024-2026 Power Map]]
-- [[Generative Propaganda]] (concept node) â€” Doppelganger has integrated AI-generated content per follow-on reporting
+- [[Generative Propaganda]] (concept node) — Doppelganger has integrated AI-generated content per follow-on reporting
 
 ## Open questions
 

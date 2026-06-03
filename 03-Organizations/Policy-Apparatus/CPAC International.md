@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: ACU's international CPAC franchise network; CPAC Hungary 5 editions; Brazil Mexico Australia Israel Japan Korea franchises; documented Hungarian taxpayer funding
 tags: [org, org/coordination, org/international, era/2017-2026, jurisdiction/global]
@@ -33,7 +33,7 @@ The **international franchise network** of the **Conservative Political Action C
 
 - 5 editions to date (2022-2026)
 - Hosted by Viktor Orban's Fidesz party
-- **2026 disclosure: Hungarian taxpayer money funded CPAC operations** per Hungary's post-OrbÃƒÂ¡n PM revelation (per New Republic reporting)
+- **2026 disclosure: Hungarian taxpayer money funded CPAC operations** per Hungary's post-Orbán PM revelation (per New Republic reporting)
 - 2026 edition: 667 foreign guests, 51 countries
 - **Javier Milei (Argentina) surprise star guest 2026**, longer slot than any other
 - Other 2026 speakers: Geert Wilders (Netherlands), Herbert Kickl (Austria), Alice Weidel (Germany), Georgian PM Irakli Kobakhidze

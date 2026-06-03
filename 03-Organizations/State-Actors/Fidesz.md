@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Viktor Orban's Hungarian party; founded 1988; constitutional capture template for Project 2025; lost 2024 election to TISZA but remains powerful
 tags: [org, org/political-party, org/illiberal-democracy, era/1988-2026, jurisdiction/hungary]
@@ -18,7 +18,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Fidesz
 
 ## Summary
 
-[[Viktor Orban]]'s Hungarian political party. Founded **March 30, 1988** as anti-Communist student movement (Alliance of Young Democrats / Fiatal Demokratak Szovetsege). Initially **liberal-democratic**; pivoted to **national-conservative + illiberal-democratic** under Orban's leadership ~1993+. **Governed Hungary 1998-2002 + 2010-2024** with two-thirds supermajority in parliament 2010-2022 (enabling constitutional rewriting). **Lost 2024 election to PÃƒÂ©ter Magyar's TISZA Party** coalition + center-right opposition; remains powerful opposition.
+[[Viktor Orban]]'s Hungarian political party. Founded **March 30, 1988** as anti-Communist student movement (Alliance of Young Democrats / Fiatal Demokratak Szovetsege). Initially **liberal-democratic**; pivoted to **national-conservative + illiberal-democratic** under Orban's leadership ~1993+. **Governed Hungary 1998-2002 + 2010-2024** with two-thirds supermajority in parliament 2010-2022 (enabling constitutional rewriting). **Lost 2024 election to Péter Magyar's TISZA Party** coalition + center-right opposition; remains powerful opposition.
 
 **The institutional-capture model that [[Project 2025]] + [[Convention of States Action]] substantially mirror** - including:
 - 2011 new constitution rewritten by Fidesz

@@ -43,7 +43,7 @@ Noem's DHS role is the **direct operational implementation** of the Trump 2.0 ma
 - Palantir (targeting infrastructure)
 - ICE / CBP (operational execution)
 
-â€” gives Trump 2.0 the operational architecture for unprecedented immigration enforcement scale.
+-- gives Trump 2.0 the operational architecture for unprecedented immigration enforcement scale.
 
 ## Connections
 

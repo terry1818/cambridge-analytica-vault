@@ -10,11 +10,11 @@ outcome: ICO seized CA London office servers; multi-year investigation followed
 status: closed
 ---
 
-# ICO Warrant â€” March 2018
+# ICO Warrant -- March 2018
 
 ## Summary
 
-On **March 23, 2018** â€” six days after the Wylie disclosures broke â€” the **UK High Court granted the [[Information Commissioner's Office (ICO)]] a warrant** to search [[Cambridge Analytica]]'s London offices. The warrant followed Information Commissioner [[Elizabeth Denham]]'s public request and was preceded by extensive media reporting. Same day, Facebook banned CA from advertising on its platform. The warrant execution at CA's London office was televised and became a defining visual of the scandal. Initiated multi-year ICO investigation; closed in November 2020 with finding that SCL/CA were "not involved" in the EU referendum campaign â€” a conclusion disputed by Wylie, Kaiser, Cadwalladr, and Briant.
+On **March 23, 2018** -- six days after the Wylie disclosures broke -- the **UK High Court granted the [[Information Commissioner's Office (ICO)]] a warrant** to search [[Cambridge Analytica]]'s London offices. The warrant followed Information Commissioner [[Elizabeth Denham]]'s public request and was preceded by extensive media reporting. Same day, Facebook banned CA from advertising on its platform. The warrant execution at CA's London office was televised and became a defining visual of the scandal. Initiated multi-year ICO investigation; closed in November 2020 with finding that SCL/CA were "not involved" in the EU referendum campaign -- a conclusion disputed by Wylie, Kaiser, Cadwalladr, and Briant.
 
 ## Sources
 

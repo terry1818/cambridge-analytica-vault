@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Comparative analysis of the major US right-wing donor networks - Mercer, Thiel, Koch, DeVos, Leo
 tags: [moc, lens, topic/cambridge-analytica, topic/tech-right]
@@ -23,8 +23,8 @@ The contemporary US right-wing political infrastructure is sustained by **multip
 - **Wealth source:** PayPal/Palantir/Founders Fund/Mithril
 - **Ideology:** NRx-adjacent; libertarian-evolved-to-authoritarian; anti-democratic
 - **Operational targets:** Palantir, Anduril, Mithril/Narya/JD Vance, Curtis Yarvin, PayPal Mafia mobilization
-- **Key figures:** [[Peter Thiel]], [[Elon Musk]] (adjacent), [[JD Vance]] (protÃ©gÃ©)
-- **Trump 2024-2026 relationship:** Operationally central; VP Vance is Thiel's protÃ©gÃ©
+- **Key figures:** [[Peter Thiel]], [[Elon Musk]] (adjacent), [[JD Vance]] (protégé)
+- **Trump 2024-2026 relationship:** Operationally central; VP Vance is Thiel's protégé
 - **Documented spending scale:** $15M+ to Vance Senate; multi-billion via Palantir and Founders Fund portfolio
 
 ### 3. DeVos Network
@@ -48,7 +48,7 @@ The contemporary US right-wing political infrastructure is sustained by **multip
 - **Ideology:** Libertarian (anti-tariff, pro-immigration historically)
 - **Operational targets:** Americans for Prosperity, Cato, Mercatus, state-level political infrastructure
 - **Key figures:** Charles Koch, David Koch (deceased)
-- **Trump relationship:** **Strained** â€” refused to back Trump 2016; backed Haley 2024; cooled to forced alignment
+- **Trump relationship:** **Strained** -- refused to back Trump 2016; backed Haley 2024; cooled to forced alignment
 - **Documented spending scale:** Hundreds of millions across multi-decade infrastructure
 
 ## Convergence and divergence in Trump 2.0
@@ -71,7 +71,7 @@ The networks have **converged** on supporting Trump 2.0 (even Koch reluctantly) 
 The **biggest single shift in US right-wing donor politics** in the 2016-2026 decade has been the **rise of the Thiel network to operational dominance** at the expense of the older Koch network. Specifically:
 
 - 2016: Koch network refused Trump; Mercer + Thiel backed him
-- 2020-2024: Tech Right consolidation; Thiel network protÃ©gÃ©s (Vance) gained political position
+- 2020-2024: Tech Right consolidation; Thiel network protégés (Vance) gained political position
 - 2024-2026: Trump 2.0 administration is **operationally dominated by Mercer-Thiel-DeVos alignment** with Koch in reduced supporting role
 - Leo network operates **across all populist factions** via judicial pipeline regardless of ideological tensions
 

@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Informal network of early PayPal employees who became influential Silicon Valley figures - Thiel Musk Sacks Hoffman Levchin
 tags: [org, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -41,9 +41,9 @@ The PayPal Mafia has split politically:
 But the **operational coordination among Thiel, Sacks, Musk during the 2024 cycle** represents the most significant Mafia political activation:
 
 - All three major Trump donors
-- Sacks â†’ Trump cabinet position
-- Musk â†’ DOGE leadership
-- Thiel â†’ JD Vance VP patronage
+- Sacks → Trump cabinet position
+- Musk → DOGE leadership
+- Thiel → JD Vance VP patronage
 
 ## Why the PayPal Mafia matters for this vault
 
@@ -51,10 +51,10 @@ The PayPal Mafia is the **single most consequential personnel network in contemp
 
 1. **CA-era:** Thiel on Facebook board during CA harvest; Palantir/CA personnel link (Chmieliauskas)
 2. **2024 Trump alignment:** Thiel + Sacks + Musk coordinated activity
-3. **Trump 2.0 governance:** Sacks (AI/Crypto Czar), Vance (Thiel protÃ©gÃ© as VP), Musk (DOGE)
+3. **Trump 2.0 governance:** Sacks (AI/Crypto Czar), Vance (Thiel protégé as VP), Musk (DOGE)
 4. **Defense / surveillance state:** Thiel's Palantir + Anduril (Founders Fund-funded)
 
-The Mafia represents the **closest American analog to the Mercer family network** â€” a small group with extraordinary aligned political and operational reach.
+The Mafia represents the **closest American analog to the Mercer family network** -- a small group with extraordinary aligned political and operational reach.
 
 ## Connections
 

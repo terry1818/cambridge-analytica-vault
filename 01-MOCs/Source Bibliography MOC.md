@@ -1,6 +1,6 @@
 ﻿---
 date: 2026-05-17
-description: Index of every source note in the vault, organized by source type and topic â€” the single navigation surface for the vault's bibliography
+description: Index of every source note in the vault, organized by source type and topic -- the single navigation surface for the vault's bibliography
 tags: [moc, sources, bibliography]
 type: moc
 ---
@@ -15,17 +15,17 @@ For evidence-tier grading of each source, see [[Evidence Tiers]]. For how source
 
 ### Academic papers (`06-Sources/Academic-Papers/`)
 
-- [[Source Kosinski Stillwell Graepel 2013 PNAS]] â€” foundational psychographic-prediction paper
-- [[Source Matz Kosinski Nave Stillwell 2017 PNAS]] â€” empirical demonstration of personality-tailored ad effects
-- [[Source Matz Appel Kosinski 2020 Current Opinion Psychology]] â€” follow-on review
+- [[Source Kosinski Stillwell Graepel 2013 PNAS]] -- foundational psychographic-prediction paper
+- [[Source Matz Kosinski Nave Stillwell 2017 PNAS]] -- empirical demonstration of personality-tailored ad effects
+- [[Source Matz Appel Kosinski 2020 Current Opinion Psychology]] -- follow-on review
 
 ### Books (`06-Sources/Books/`)
 
-- [[Source Mindfck (Wylie 2019)]] â€” Wylie whistleblower memoir
-- [[Source Targeted (Kaiser 2019)]] â€” Kaiser whistleblower memoir
-- [[Source Hersh Hacking the Electorate 2015]] â€” Hersh empirical baseline on US campaigns
-- [[Source Briant 2015 Propaganda and Counter-Terrorism]] â€” Briant academic monograph
-- [[Source Levy 2020 Facebook Inside Story]] â€” Levy Facebook history
+- [[Source Mindfck (Wylie 2019)]] -- Wylie whistleblower memoir
+- [[Source Targeted (Kaiser 2019)]] -- Kaiser whistleblower memoir
+- [[Source Hersh Hacking the Electorate 2015]] -- Hersh empirical baseline on US campaigns
+- [[Source Briant 2015 Propaganda and Counter-Terrorism]] -- Briant academic monograph
+- [[Source Levy 2020 Facebook Inside Story]] -- Levy Facebook history
 
 ### Court filings (`06-Sources/Court-Filings/`)
 
@@ -35,23 +35,23 @@ For evidence-tier grading of each source, see [[Evidence Tiers]]. For how source
 
 ### Investigation / regulatory reports (`06-Sources/Investigations-Reports/`)
 
-- [[Source DCMS Final Report 2019]] â€” UK Parliament
-- [[Source ICO 2020-11 Cambridge Analytica investigation]] â€” UK ICO closure
-- [[Source ICO 2020-07-20 Leave.EU Eldon fine]] â€” UK ICO enforcement
-- [[Source gov.uk 2020-09-24 Nix disqualification]] â€” UK Insolvency Service
-- [[Source UK Electoral Commission Vote Leave 2018]] â€” UK Electoral Commission
-- [[Source Wikipedia - Cambridge Analytica]] â€” tertiary anchor
-- [[Source Wikipedia - SCL Group]] â€” tertiary anchor
-- [[Source Wikipedia - Facebook-CA scandal]] â€” tertiary anchor
-- [[Source Meta Threat Reports 2022-2024]] â€” Meta CIB disclosures
-- [[Source Graphika 2019 Spamouflage Dragon]] â€” Graphika attribution
-- [[Source EU DisinfoLab 2022 Doppelganger]] â€” DisinfoLab attribution
-- [[Source FCC 2024-05 Kramer fine]] â€” FCC AI-robocall enforcement
+- [[Source DCMS Final Report 2019]] -- UK Parliament
+- [[Source ICO 2020-11 Cambridge Analytica investigation]] -- UK ICO closure
+- [[Source ICO 2020-07-20 Leave.EU Eldon fine]] -- UK ICO enforcement
+- [[Source gov.uk 2020-09-24 Nix disqualification]] -- UK Insolvency Service
+- [[Source UK Electoral Commission Vote Leave 2018]] -- UK Electoral Commission
+- [[Source Wikipedia - Cambridge Analytica]] -- tertiary anchor
+- [[Source Wikipedia - SCL Group]] -- tertiary anchor
+- [[Source Wikipedia - Facebook-CA scandal]] -- tertiary anchor
+- [[Source Meta Threat Reports 2022-2024]] -- Meta CIB disclosures
+- [[Source Graphika 2019 Spamouflage Dragon]] -- Graphika attribution
+- [[Source EU DisinfoLab 2022 Doppelganger]] -- DisinfoLab attribution
+- [[Source FCC 2024-05 Kramer fine]] -- FCC AI-robocall enforcement
 
 ### Leaked materials (`06-Sources/Leaked-Materials/`)
 
-- [[Source HindsightFiles 2020]] â€” Kaiser document archive
-- [[HindsightFiles Analytical Index]] â€” vault's analytical decomposition
+- [[Source HindsightFiles 2020]] -- Kaiser document archive
+- [[HindsightFiles Analytical Index]] -- vault's analytical decomposition
 
 ### Primary documents (`06-Sources/Primary-Documents/`)
 
@@ -59,7 +59,7 @@ For evidence-tier grading of each source, see [[Evidence Tiers]]. For how source
 - [[Source Companies House CA Records]]
 - [[Source FEC CA Records]]
 - [[Source UK Electoral Commission Vote Leave 2018]]
-- [[Source An Update on Our Plans to Restrict Data Access 2018-04]] â€” Facebook policy doc
+- [[Source An Update on Our Plans to Restrict Data Access 2018-04]] -- Facebook policy doc
 - [[Source Parliament DCMS Briant essays]]
 
 ### Articles (`06-Sources/Articles/`)
@@ -94,11 +94,11 @@ For evidence-tier grading of each source, see [[Evidence Tiers]]. For how source
 - [[Source Bloomberg 2017 Trump Data Gurus]]
 - [[Source Tau Ballhaus 2018-05-23 WSJ Psy-Group CA]]
 - [[Source NewsGuard 2024 AI election report]]
-- (Many additional Cadwalladr, Briant, Forbidden Stories, and AP articles â€” see `06-Sources/Articles/` for the complete folder listing)
+- (Many additional Cadwalladr, Briant, Forbidden Stories, and AP articles -- see `06-Sources/Articles/` for the complete folder listing)
 
 ### Videos / documentaries (`06-Sources/Videos-Documentaries/`)
 
-- [[Source The Great Hack 2019]] / [[Source The Great Hack (2019)]] â€” Netflix documentary
+- [[Source The Great Hack 2019]] / [[Source The Great Hack (2019)]] -- Netflix documentary
 - [[Source OpenAI threat reports 2024]]
 - [[Source Stanford Internet Observatory reports]]
 
@@ -126,7 +126,7 @@ For evidence-tier grading of each source, see [[Evidence Tiers]]. For how source
 
 ### 2024-2026 federal-database architecture
 
-(In active build-out â€” see [[Lens - 2024-2026 Power Map]] and [[Hypothesis - Federal database supersedes CA model]] for currently-cited sources)
+(In active build-out -- see [[Lens - 2024-2026 Power Map]] and [[Hypothesis - Federal database supersedes CA model]] for currently-cited sources)
 
 ### State / non-state contemporary influence operations
 
@@ -134,7 +134,7 @@ For evidence-tier grading of each source, see [[Evidence Tiers]]. For how source
 
 ### Christian-right / Project 2025 / COS
 
-(In active build-out â€” see [[Hypothesis - COS is the permanent capture arm of Project 2025]] for currently-cited sources)
+(In active build-out -- see [[Hypothesis - COS is the permanent capture arm of Project 2025]] for currently-cited sources)
 
 ## Coverage gaps
 
@@ -142,11 +142,11 @@ Use [[Open Questions]] to surface specific source gaps. As source notes get fill
 
 ## Related
 
-- [[Evidence Tiers]] â€” how sources are graded
-- [[Categorization Architecture]] â€” how source claims flow to entity / event / hypothesis nodes
-- [[Methodology - Verifying a CA claim]] â€” verification workflow
-- [[Methodology MOC]] â€” methodology documentation index
-- [[Conventions]] â€” source-note naming rules
+- [[Evidence Tiers]] -- how sources are graded
+- [[Categorization Architecture]] -- how source claims flow to entity / event / hypothesis nodes
+- [[Methodology - Verifying a CA claim]] -- verification workflow
+- [[Methodology MOC]] -- methodology documentation index
+- [[Conventions]] -- source-note naming rules
 
 ## Source tier definitions and how the vault grades evidence
 
@@ -164,7 +164,7 @@ The Source Bibliography uses the [[Evidence Tiers]] framework to grade source we
 
 The vault uses several distinct citation patterns:
 
-**Wikilink citation:** [[Source Cadwalladr 2017-02-26 Observer Robert Mercer]] â€” used in the body of entity, event, hypothesis, and connection notes to reference a specific source-tier note that contains the source's bibliographic details and the vault's annotation of the source.
+**Wikilink citation:** [[Source Cadwalladr 2017-02-26 Observer Robert Mercer]] -- used in the body of entity, event, hypothesis, and connection notes to reference a specific source-tier note that contains the source's bibliographic details and the vault's annotation of the source.
 
 **Paragraph-level citation:** for analytical claims that depend on a specific passage, the citation includes a paragraph-or-page-level reference (e.g., [[Source Mueller Report 2019]] Vol I p. 4-5) so a reader can locate the supporting passage.
 

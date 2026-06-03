@@ -11,7 +11,7 @@ first-documented: ~2022 (post-ChatGPT mainstreaming)
 
 ## Definition
 
-Use of large language models and generative AI to **produce political/influence content at scale and tailored to specific audiences** â€” the AI-era successor to CA-style psychographic microtargeting. Combines:
+Use of large language models and generative AI to **produce political/influence content at scale and tailored to specific audiences** -- the AI-era successor to CA-style psychographic microtargeting. Combines:
 - LLM-generated text (articles, posts, comments)
 - Diffusion-generated imagery (memes, photo-realistic fakes)
 - Voice cloning (audio robocalls)
@@ -19,14 +19,14 @@ Use of large language models and generative AI to **produce political/influence 
 
 ## Documented cases
 
-- **2023 Slovakia election** â€” fake audio of candidate Michal Å imeÄka allegedly discussing vote-rigging
-- **2024 NH primary** â€” Joe Biden AI-cloned robocall telling voters to skip primary
-- **2024 multiple global elections** â€” AI imagery, audio deepfakes documented across Argentina, Indonesia, India, EU
+- **2023 Slovakia election** -- fake audio of candidate Michal Å imeÄka allegedly discussing vote-rigging
+- **2024 NH primary** -- Joe Biden AI-cloned robocall telling voters to skip primary
+- **2024 multiple global elections** -- AI imagery, audio deepfakes documented across Argentina, Indonesia, India, EU
 
 ## Production infrastructure (per platform threat reports)
 
-- [[OpenAI]] threat reports (2024-2026) â€” documented use of GPT for influence ops
-- [[Meta]] adversarial threat reports â€” Doppelganger, Spamouflage
+- [[OpenAI]] threat reports (2024-2026) -- documented use of GPT for influence ops
+- [[Meta]] adversarial threat reports -- Doppelganger, Spamouflage
 - [[Graphika]], [[Stanford Internet Observatory]] research
 
 ## Related

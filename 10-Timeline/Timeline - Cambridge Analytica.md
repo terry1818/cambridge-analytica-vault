@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Micro-timeline of Cambridge Analytica - founding to collapse to successor operations
 tags: [timeline, topic/cambridge-analytica]
@@ -6,34 +6,34 @@ tags: [timeline, topic/cambridge-analytica]
 
 # Micro-Timeline: [[Cambridge Analytica]]
 
-- `2013-01` â€” CA (SCL USA) incorporated, London
-- `2013-2014` â€” Initial operations; [[Christopher Wylie]] joins as Director of Research
-- `2014` â€” Buys [[GSR]] dataset from Kogan; 44 US races
-- `2015-01` â€” CA UK Ltd incorporated
-- `2015-07` â€” Cruz partnership public
-- `2015-12-11` â€” Davies Guardian first exposÃ©
-- `2016-02` â€” Cruz drops CA after South Carolina
-- `2016` â€” Trump campaign engagement; Leave.EU work disputed
-- `2016-12-14` â€” MOU with [[Psy-Group]]
-- `2017-02-26` â€” Cadwalladr Observer Mercer profile
-- `2017-05` â€” Cadwalladr Brexit Robbery
-- `2017-08-11` â€” [[Emerdata Limited]] incorporated (successor planning begins)
-- `2017-12-14` â€” Mueller requests CA emails
-- `2018-03-17` â€” Wylie disclosures; joint Guardian/NYT publication
-- `2018-03-19` â€” Channel 4 sting broadcasts
-- `2018-03-23` â€” Facebook bans CA; UK High Court grants ICO warrant
-- `2018-03-28` â€” [[Alexander Tayler]] appointed Emerdata director (pre-insolvency)
-- `2018-05-01` â€” CA + SCL file for insolvency
-- `2018-05-29` â€” CloudCommerce launches [[Data Propria]] with ex-CA staff
-- `2018-07-11` â€” [[Auspex International]] launched (Turnbull et al.)
-- `2019-02-18` â€” DCMS Final Report
-- `2019-07-23` â€” FTC complaint vs CA; Nix and Kogan accept 20-yr restrictions
-- `2019-07-26` â€” Fast Company "strange afterlife" reporting â€” Emerdata acquired SCL/CA
-- `2019-10-08` â€” Wylie's Mindfck book
-- `2020-01-04` â€” HindsightFiles release begins
-- `2020-11` â€” ICO closes Brexit investigation
-- `2022-12-23` â€” Meta $725M class settlement
-- `2023+` â€” Successor operations continue
+- `2013-01` — CA (SCL USA) incorporated, London
+- `2013-2014` — Initial operations; [[Christopher Wylie]] joins as Director of Research
+- `2014` — Buys [[GSR]] dataset from Kogan; 44 US races
+- `2015-01` — CA UK Ltd incorporated
+- `2015-07` — Cruz partnership public
+- `2015-12-11` — Davies Guardian first exposé
+- `2016-02` — Cruz drops CA after South Carolina
+- `2016` — Trump campaign engagement; Leave.EU work disputed
+- `2016-12-14` — MOU with [[Psy-Group]]
+- `2017-02-26` — Cadwalladr Observer Mercer profile
+- `2017-05` — Cadwalladr Brexit Robbery
+- `2017-08-11` — [[Emerdata Limited]] incorporated (successor planning begins)
+- `2017-12-14` — Mueller requests CA emails
+- `2018-03-17` — Wylie disclosures; joint Guardian/NYT publication
+- `2018-03-19` — Channel 4 sting broadcasts
+- `2018-03-23` — Facebook bans CA; UK High Court grants ICO warrant
+- `2018-03-28` — [[Alexander Tayler]] appointed Emerdata director (pre-insolvency)
+- `2018-05-01` — CA + SCL file for insolvency
+- `2018-05-29` — CloudCommerce launches [[Data Propria]] with ex-CA staff
+- `2018-07-11` — [[Auspex International]] launched (Turnbull et al.)
+- `2019-02-18` — DCMS Final Report
+- `2019-07-23` — FTC complaint vs CA; Nix and Kogan accept 20-yr restrictions
+- `2019-07-26` — Fast Company "strange afterlife" reporting — Emerdata acquired SCL/CA
+- `2019-10-08` — Wylie's Mindfck book
+- `2020-01-04` — HindsightFiles release begins
+- `2020-11` — ICO closes Brexit investigation
+- `2022-12-23` — Meta $725M class settlement
+- `2023+` — Successor operations continue
 
 ## Vault context and open research threads
 

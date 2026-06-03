@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: The institutional integration between Heritage Foundation operations and Project 2025 that makes Project 2025 a continuing organisational mode rather than a discrete project.
 tags:
@@ -48,12 +48,12 @@ The Heritage-Project 2025 integration also intersects with the [[Council for Nat
 
 ## Evidence sources
 
-- [[Source National Review 2025-12 Heritage Implodes]] â€” internal-controversy documentation
-- [[Source DeSmog 2025-06-02 70 Percent Cabinet]] â€” appointee-overlap analysis
-- [[Source ProPublica Heritage Nonprofit]] â€” Heritage 990 filings
+- [[Source National Review 2025-12 Heritage Implodes]] — internal-controversy documentation
+- [[Source DeSmog 2025-06-02 70 Percent Cabinet]] — appointee-overlap analysis
+- [[Source ProPublica Heritage Nonprofit]] — Heritage 990 filings
 - Project 2025 partner-organisation roster (publicly available)
 - "Mandate for Leadership: The Conservative Promise" (2023, Tier-1 primary document)
-- "Dawn's Early Light" (Kevin Roberts, 2024) â€” companion intellectual articulation
+- "Dawn's Early Light" (Kevin Roberts, 2024) — companion intellectual articulation
 
 ## See also
 

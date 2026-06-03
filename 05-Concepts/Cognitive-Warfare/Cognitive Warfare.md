@@ -12,21 +12,21 @@ first-documented: ~2020 (NATO concept paper)
 ## Definition
 
 Military doctrine treating the **human mind itself as the strategic terrain of conflict**, beyond traditional physical and information warfare. Concept paper formally developed by **NATO Allied Command Transformation (ACT)** in 2020-2021. Adjacent to but distinct from:
-- **Information warfare** â€” manipulating information environment
-- **Psychological operations (PSYOPS)** â€” targeted psychological influence
-- **Behavioral conflict** ([[SCL Group]] / CA framing) â€” population-scale behavior modification
+- **Information warfare** -- manipulating information environment
+- **Psychological operations (PSYOPS)** -- targeted psychological influence
+- **Behavioral conflict** ([[SCL Group]] / CA framing) -- population-scale behavior modification
 
 ## Key actors / doctrine documents
 
 - **NATO ACT Cognitive Warfare Concept** (2020-2021)
-- **PLA "Three Warfares" doctrine** â€” public opinion, psychological, legal warfare
-- **Russian Reflexive Control** â€” Soviet-origin theory of inducing adversary decisions
-- **Russian "Gerasimov Doctrine"** â€” hybrid/non-linear warfare
+- **PLA "Three Warfares" doctrine** -- public opinion, psychological, legal warfare
+- **Russian Reflexive Control** -- Soviet-origin theory of inducing adversary decisions
+- **Russian "Gerasimov Doctrine"** -- hybrid/non-linear warfare
 - **US Joint Concept for Operating in the Information Environment (JCOIE)**
 
 ## How CA fits
 
-CA was the **civilian-political subsidiary** of [[SCL Group]] â€” a defense contractor that developed [[Behavioral Conflict]] doctrine for UK MoD and US DoD. The CA scandal is best understood as exposing the porous boundary between **state cognitive warfare doctrine** and **commercial election services**.
+CA was the **civilian-political subsidiary** of [[SCL Group]] -- a defense contractor that developed [[Behavioral Conflict]] doctrine for UK MoD and US DoD. The CA scandal is best understood as exposing the porous boundary between **state cognitive warfare doctrine** and **commercial election services**.
 
 ## Related
 

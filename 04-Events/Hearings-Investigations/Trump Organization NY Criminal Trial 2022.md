@@ -16,9 +16,9 @@ Manhattan District Attorney's Office criminal prosecution of two Trump Organizat
 ## Charges
 
 - 17 felony counts against Trump Corporation and Trump Payroll Corp jointly:
-  - 9 counts grand larceny (NY Penal Law Â§ 155)
-  - 5 counts scheme to defraud (Â§ 190.65)
-  - 1 count falsifying business records (Â§ 175.10)
+  - 9 counts grand larceny (NY Penal Law § 155)
+  - 5 counts scheme to defraud (§ 190.65)
+  - 1 count falsifying business records (§ 175.10)
   - 2 counts criminal tax fraud (NY Tax Law)
   - 1 conspiracy
 
@@ -64,14 +64,14 @@ Weisselberg subsequently testified at the Trump Organization trial as a prosecut
 
 - Trial: October 24 - December 6, 2022
 - 13 days of testimony
-- Weisselberg testified as the prosecution's main witness â€” including testimony that Trump personally knew about and approved the practice
+- Weisselberg testified as the prosecution's main witness -- including testimony that Trump personally knew about and approved the practice
 - Defense argument: Weisselberg acted for personal benefit, not corporate benefit; corporate entities not vicariously liable
 
 ## Verdict (December 6, 2022)
 
 - Trump Corporation: guilty on 8 of 9 counts charged
 - Trump Payroll Corp: guilty on 8 of 9 counts charged
-- Sentence (January 13, 2023): $1.61M fine â€” the maximum allowed under NY criminal law (which was substantially less than the disgorgement available in the parallel civil fraud action)
+- Sentence (January 13, 2023): $1.61M fine -- the maximum allowed under NY criminal law (which was substantially less than the disgorgement available in the parallel civil fraud action)
 
 ## What the verdict established (Tier 1)
 
@@ -86,14 +86,14 @@ Weisselberg subsequently testified at the Trump Organization trial as a prosecut
 
 ## Connections
 
-- [[Donald Trump]] â€” owner of convicted entities; not personally charged
-- [[Trump Organization]] â€” convicted
-- [[Allen Weisselberg]] â€” pled guilty; key witness
-- [[Cyrus Vance Jr]] â€” DA who indicted
-- [[Alvin Bragg]] â€” DA at trial
-- [[Juan Merchan]] â€” trial judge
-- [[NY AG v Trump Organization Civil Fraud 2024]] â€” parallel civil action
-- [[People v Trump NY Hush Money 2024]] â€” Bragg's later prosecution
+- [[Donald Trump]] -- owner of convicted entities; not personally charged
+- [[Trump Organization]] -- convicted
+- [[Allen Weisselberg]] -- pled guilty; key witness
+- [[Cyrus Vance Jr]] -- DA who indicted
+- [[Alvin Bragg]] -- DA at trial
+- [[Juan Merchan]] -- trial judge
+- [[NY AG v Trump Organization Civil Fraud 2024]] -- parallel civil action
+- [[People v Trump NY Hush Money 2024]] -- Bragg's later prosecution
 
 ## Sources
 

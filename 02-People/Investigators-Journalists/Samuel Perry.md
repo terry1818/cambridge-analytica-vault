@@ -35,7 +35,7 @@ Perry provides **the empirical academic ground** for vault claims about Christia
 
 [[Samuel Perry]] is the University of Oklahoma sociologist who, with Andrew Whitehead, co-authored "Taking America Back for God: Christian Nationalism in the United States" (Oxford University Press 2020) and (with Philip Gorski) "The Flag and the Cross: White Christian Nationalism and the Threat to American Democracy" (Oxford 2022). His work is the principal academic-tier source the vault uses for empirically grounded analysis of Christian Nationalism as a politically distinct identity within the broader US religious landscape.
 
-Perry's distinctive methodological contribution is the Christian Nationalism Scale (CNS) â€” a survey instrument that quantifies belief in the desirability of an explicitly Christian American national identity â€” and the subsequent empirical work showing how CNS scores predict positions on race, immigration, gender, and political authority better than denominational identity alone.
+Perry's distinctive methodological contribution is the Christian Nationalism Scale (CNS) -- a survey instrument that quantifies belief in the desirability of an explicitly Christian American national identity -- and the subsequent empirical work showing how CNS scores predict positions on race, immigration, gender, and political authority better than denominational identity alone.
 
 The vault treats Perry's work as Tier-1 academic source material for the [[New Apostolic Reformation]] / [[Christian Nationalism]] / [[Dominion Theology]] cluster. His framing distinguishes between traditional evangelical Protestantism and Christian Nationalism as a politically distinct identity in a way that earlier sociology of religion had not done cleanly.
 

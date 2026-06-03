@@ -14,7 +14,7 @@ status: active
 
 ## Summary
 
-US libertarian/right-wing think tank founded 1984. Best known internationally for **climate change skepticism / denial** â€” Heartland has been one of the most aggressive institutional promoters of climate-science skepticism for decades. Earlier funded by tobacco industry (against tobacco regulation); later by fossil-fuel interests and the [[Mercer Family Foundation]].
+US libertarian/right-wing think tank founded 1984. Best known internationally for **climate change skepticism / denial** -- Heartland has been one of the most aggressive institutional promoters of climate-science skepticism for decades. Earlier funded by tobacco industry (against tobacco regulation); later by fossil-fuel interests and the [[Mercer Family Foundation]].
 
 ## CA-relevance
 
@@ -37,7 +37,7 @@ In 2012, Heartland ran a billboard comparing climate scientists to Unabomber Ted
 
 ## Continuing operations
 
-- 2024+ â€” continues to operate as institutional climate-skeptic voice
+- 2024+ -- continues to operate as institutional climate-skeptic voice
 - Maintains "International Conference on Climate Change" annual event
 - Frequent appearances by Heartland staff in Fox News and right-wing media
 

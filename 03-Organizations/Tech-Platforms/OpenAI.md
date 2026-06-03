@@ -16,18 +16,18 @@ wikipedia_url: https://en.wikipedia.org/wiki/OpenAI
 
 ## Summary
 
-US artificial intelligence research organization founded in **December 2015** as a nonprofit. Founding contributors included [[Sam Altman]], [[Elon Musk]], Greg Brockman, Ilya Sutskever, Wojciech Zaremba, John Schulman, and Andrej Karpathy with $1B in initial funding commitments. Created **ChatGPT (November 30, 2022)** â€” the launch that mainstreamed generative AI globally. Restructured into a **nonprofit + for-profit hybrid in 2019** to enable massive capital raises while preserving stated mission of "beneficial AGI."
+US artificial intelligence research organization founded in **December 2015** as a nonprofit. Founding contributors included [[Sam Altman]], [[Elon Musk]], Greg Brockman, Ilya Sutskever, Wojciech Zaremba, John Schulman, and Andrej Karpathy with $1B in initial funding commitments. Created **ChatGPT (November 30, 2022)** -- the launch that mainstreamed generative AI globally. Restructured into a **nonprofit + for-profit hybrid in 2019** to enable massive capital raises while preserving stated mission of "beneficial AGI."
 
 ## Key products
 
-- **GPT-3** (2020) â€” large language model demonstrating emergent capabilities
-- **DALL-E** (2021) â€” text-to-image generation
-- **ChatGPT** (2022-11-30) â€” conversational AI interface â€” the launch that mainstreamed generative AI
-- **GPT-4** (2023-03-14) â€” multimodal large language model
-- **DALL-E 3** (2023) â€” improved image generation
-- **GPT-4o** (2024) â€” multimodal flagship
-- **o1 / o3** (2024-2025) â€” reasoning models
-- **GPT-5** (2025) â€” flagship
+- **GPT-3** (2020) -- large language model demonstrating emergent capabilities
+- **DALL-E** (2021) -- text-to-image generation
+- **ChatGPT** (2022-11-30) -- conversational AI interface -- the launch that mainstreamed generative AI
+- **GPT-4** (2023-03-14) -- multimodal large language model
+- **DALL-E 3** (2023) -- improved image generation
+- **GPT-4o** (2024) -- multimodal flagship
+- **o1 / o3** (2024-2025) -- reasoning models
+- **GPT-5** (2025) -- flagship
 
 ## CA-relevance / influence-operations relevance
 
@@ -43,13 +43,13 @@ OpenAI is **central to the AI-era continuation** of the CA story:
 
 OpenAI's governance has been turbulent:
 
-- **2015-2018** â€” nonprofit; Musk on board until 2018 departure
-- **2019** â€” created for-profit subsidiary
-- **2020** â€” Microsoft $1B investment with exclusive cloud-compute relationship
-- **2023-11** â€” Altman fired by board November 17; reinstated November 22 after employee revolt and Microsoft pressure
-- **2024** â€” multiple senior safety researchers departed (Jan Leike, Ilya Sutskever, Mira Murati, others)
-- **2025** â€” restructuring to remove nonprofit governance constraints
-- **2025+** â€” increasingly Trump 2.0-aligned positioning
+- **2015-2018** -- nonprofit; Musk on board until 2018 departure
+- **2019** -- created for-profit subsidiary
+- **2020** -- Microsoft $1B investment with exclusive cloud-compute relationship
+- **2023-11** -- Altman fired by board November 17; reinstated November 22 after employee revolt and Microsoft pressure
+- **2024** -- multiple senior safety researchers departed (Jan Leike, Ilya Sutskever, Mira Murati, others)
+- **2025** -- restructuring to remove nonprofit governance constraints
+- **2025+** -- increasingly Trump 2.0-aligned positioning
 
 ## Microsoft partnership
 

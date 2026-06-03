@@ -11,32 +11,32 @@ Index of operational techniques used by [[Cambridge Analytica]], its predecessor
 
 ## Audience modeling
 
-- [[OCEAN Model]] â€” Big Five personality framework (CA-era foundation)
-- [[Psychographic Targeting]] â€” CA-era methodology
-- [[Embedding-based Audience Modeling]] â€” AI-era successor (modern)
+- [[OCEAN Model]] -- Big Five personality framework (CA-era foundation)
+- [[Psychographic Targeting]] -- CA-era methodology
+- [[Embedding-based Audience Modeling]] -- AI-era successor (modern)
 - Lookalike audiences (platform-side modeling)
 - Behavioral clustering
 
 ## Targeting & delivery
 
-- [[Microtargeting]] â€” distinct messages to narrow segments
-- [[Dark Ads]] â€” content invisible to non-targeted users
+- [[Microtargeting]] -- distinct messages to narrow segments
+- [[Dark Ads]] -- content invisible to non-targeted users
 - A/B testing at scale
 - Cross-platform identity resolution
 
 ## Content production
 
-- [[Generative Propaganda]] â€” AI-generated content (LLMs, image synthesis)
-- [[Voice Cloning]] â€” AI voice synthesis (NH Biden robocall, Slovakia 2023)
-- [[Deepfake Production]] â€” AI video synthesis
-- [[Persona Management]] â€” running large numbers of fake online identities
-- [[Astroturfing]] â€” disguising paid content as grassroots
-- [[Astroturf at Scale]] â€” AI-era version
+- [[Generative Propaganda]] -- AI-generated content (LLMs, image synthesis)
+- [[Voice Cloning]] -- AI voice synthesis (NH Biden robocall, Slovakia 2023)
+- [[Deepfake Production]] -- AI video synthesis
+- [[Persona Management]] -- running large numbers of fake online identities
+- [[Astroturfing]] -- disguising paid content as grassroots
+- [[Astroturf at Scale]] -- AI-era version
 - Sock puppet networks
 
 ## Data sourcing
 
-- [[Facebook Graph API v1.0]] â€” exploited 2010-2015
+- [[Facebook Graph API v1.0]] -- exploited 2010-2015
 - Data brokers
 - Voter files (RNC, state parties, Catalist for Dems)
 - Loyalty / consumer data
@@ -45,7 +45,7 @@ Index of operational techniques used by [[Cambridge Analytica]], its predecessor
 
 ## Coordination
 
-- [[Coordinated Inauthentic Behavior]] â€” platform-policy term
+- [[Coordinated Inauthentic Behavior]] -- platform-policy term
 - Cross-platform campaign synchronization
 - Network bots and amplification
 
@@ -58,17 +58,17 @@ Index of operational techniques used by [[Cambridge Analytica]], its predecessor
 
 ## Tradecraft (from defense lineage)
 
-- [[Behavioral Conflict]] â€” SCL doctrine
-- [[Cognitive Warfare]] â€” NATO ACT 2020-2021 framework
-- [[Reflexive Control]] â€” Soviet/Russian doctrine
+- [[Behavioral Conflict]] -- SCL doctrine
+- [[Cognitive Warfare]] -- NATO ACT 2020-2021 framework
+- [[Reflexive Control]] -- Soviet/Russian doctrine
 - Honey traps (Channel 4 sting exposed CA pitching)
 - Compromat (kompromat) operations
 
 ## Effectiveness research
 
-- [[Source Kosinski Stillwell Graepel 2013 PNAS]] â€” foundational psychographic-prediction paper
-- [[Source Matz Kosinski Nave Stillwell 2017 PNAS]] â€” effectiveness study (50% sales boost)
-- [[Eitan Hersh]] (Tufts) skeptical research â€” [[Source Hersh Hacking the Electorate 2015]]
+- [[Source Kosinski Stillwell Graepel 2013 PNAS]] -- foundational psychographic-prediction paper
+- [[Source Matz Kosinski Nave Stillwell 2017 PNAS]] -- effectiveness study (50% sales boost)
+- [[Eitan Hersh]] (Tufts) skeptical research -- [[Source Hersh Hacking the Electorate 2015]]
 - [[Brendan Nyhan]] (Dartmouth) skeptical research
 
 ## Comparative analysis

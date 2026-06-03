@@ -25,7 +25,7 @@ US Special Counsel investigation led by former FBI Director **Robert Mueller** i
 
 ## Limitations
 
-Mueller's report explicitly stated it could not exonerate the President of obstruction. The investigation was narrowly scoped to "links and/or coordination" â€” broader influence-network analysis was left to [[Source Senate Intel Vol 5 2020]].
+Mueller's report explicitly stated it could not exonerate the President of obstruction. The investigation was narrowly scoped to "links and/or coordination" -- broader influence-network analysis was left to [[Source Senate Intel Vol 5 2020]].
 
 ## Sources
 

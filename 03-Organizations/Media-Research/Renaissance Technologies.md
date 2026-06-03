@@ -19,7 +19,7 @@ US quantitative hedge fund founded by mathematician **Jim Simons** in 1982. One 
 
 ## CA-relevance
 
-Renaissance Technologies itself had no direct role in CA. But the firm is the **wealth-generation engine** that enabled the entire Mercer-funded political infrastructure. The 2017 pressure on Mercer to step down from Renaissance demonstrated that **Renaissance's institutional standing was incompatible with continued public political activism** â€” establishing a kind of corporate-governance limit on the Mercer political project.
+Renaissance Technologies itself had no direct role in CA. But the firm is the **wealth-generation engine** that enabled the entire Mercer-funded political infrastructure. The 2017 pressure on Mercer to step down from Renaissance demonstrated that **Renaissance's institutional standing was incompatible with continued public political activism** -- establishing a kind of corporate-governance limit on the Mercer political project.
 
 ## Sources
 

@@ -30,7 +30,7 @@ Sky News pre-election (October 2016) report from inside CAs London "digital war 
 
 ## Significance
 
-This is **pre-scandal CA on tape and on the record** â€” the firm proudly showcasing what would, 18 months later, become evidence in regulatory investigations. The fact that CA was openly publicizing its Trump-campaign work in October 2016 demonstrates the **lack of institutional response** to documented concerns at the time.
+This is **pre-scandal CA on tape and on the record** — the firm proudly showcasing what would, 18 months later, become evidence in regulatory investigations. The fact that CA was openly publicizing its Trump-campaign work in October 2016 demonstrates the **lack of institutional response** to documented concerns at the time.
 
 ## URL
 

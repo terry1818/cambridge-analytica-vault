@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Conservative legal society founded 1982; personnel pipeline behind all three Trump-era SCOTUS appointments; ~70,000 members; Leonard Leo's primary institutional vehicle
 tags: [org, org/legal, org/policy-apparatus, org/judicial-capture, era/1982-2026, jurisdiction/us]
@@ -84,7 +84,7 @@ Conservative legal society founded **1982** at Yale, Harvard, and University of 
 
 ## Open questions
 
-- [ ] Specific Marble Freedom Trust Ã¢â€ â€™ FedSoc grant flow
+- [ ] Specific Marble Freedom Trust -- FedSoc grant flow
 - [ ] Current Trump 2.0 judicial-nominee pipeline status
 - [ ] Internal post-Dobbs strategy documentation
 

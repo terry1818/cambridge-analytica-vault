@@ -21,7 +21,7 @@ American journalist based in UK. **Specialist advisor to the UK House of Commons
 
 - **Role:** Journalist; documentary co-director; DCMS Select Committee advisor
 - **Documentary:** People You May Know (2020), co-directed with Katharina Gellein Viken
-- **Notable for:** Tracing the CA-method Ã¢â€ â€™ Koch-funded Ã¢â€ â€™ church-targeting infrastructure
+- **Notable for:** Tracing the CA-method -- Koch-funded -- church-targeting infrastructure
 
 ## Why his work matters
 
@@ -29,12 +29,12 @@ Kriel's investigation **established the documented operational fusion of the tec
 
 ## Related entities
 
-- [[United in Purpose]] Ã¢â‚¬" investigation target
-- [[Gloo]] Ã¢â‚¬" investigation target
-- [[COFI]] Ã¢â‚¬" investigation target
-- [[Cambridge Analytica]] Ã¢â‚¬" methodology source
-- [[Koch network]] Ã¢â‚¬" reported funder
-- [[Hypothesis - Three-wing coalition]] Ã¢â‚¬" his work directly supports the fusion-point evidence
+- [[United in Purpose]] -" investigation target
+- [[Gloo]] -" investigation target
+- [[COFI]] -" investigation target
+- [[Cambridge Analytica]] -" methodology source
+- [[Koch network]] -" reported funder
+- [[Hypothesis - Three-wing coalition]] -" his work directly supports the fusion-point evidence
 
 ## Sources
 

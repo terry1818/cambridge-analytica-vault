@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: CA worked with PRI in Mexico up to at least January 2018 per Channel 4 News
 tags: [event, topic/cambridge-analytica, topic/election-interference, era/2016-2018, jurisdiction/other]
@@ -8,11 +8,11 @@ actors: [Cambridge Analytica, Institutional Revolutionary Party (PRI)]
 status: closed
 ---
 
-# Mexico â€” CA Ã— PRI 2017â€“2018
+# Mexico -- CA × PRI 2017-2018
 
 ## Summary
 
-After the [[Facebook-CA Data Scandal]] broke, **Forbes** reported that British news program [[Channel 4 News]] revealed proof of ties between Mexico's **[[Institutional Revolutionary Party (PRI)]]** and [[Cambridge Analytica]] â€” suggesting modus operandi similar to that used in the United States. Per Channel 4's **Guillermo Galdos**, CA worked for the PRI **at least until January 2018**. In 2017 CA reached out to the PRI to bolster the party's presidential campaign during Mexico's 2018 general election. The party decided it was sufficiently equipped to operate alone but **still paid Cambridge Analytica to prevent it from working with rival parties** â€” an extraordinary defensive use of the firm. Investigation was requested but outcomes unclear. ([[Source Wikipedia - Cambridge Analytica]])
+After the [[Facebook-CA Data Scandal]] broke, **Forbes** reported that British news program [[Channel 4 News]] revealed proof of ties between Mexico's **[[Institutional Revolutionary Party (PRI)]]** and [[Cambridge Analytica]] -- suggesting modus operandi similar to that used in the United States. Per Channel 4's **Guillermo Galdos**, CA worked for the PRI **at least until January 2018**. In 2017 CA reached out to the PRI to bolster the party's presidential campaign during Mexico's 2018 general election. The party decided it was sufficiently equipped to operate alone but **still paid Cambridge Analytica to prevent it from working with rival parties** -- an extraordinary defensive use of the firm. Investigation was requested but outcomes unclear. ([[Source Wikipedia - Cambridge Analytica]])
 
 ## Sources
 

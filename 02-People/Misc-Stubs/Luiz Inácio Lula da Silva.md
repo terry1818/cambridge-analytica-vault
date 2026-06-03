@@ -3,10 +3,10 @@ title: Luiz Inacio Lula da Silva
 type: person
 date: 2026-05-29
 tags: [person, brazil, president, lula, pt]
-aliases: ['Luiz InÃ¡cio Lula da Silva','Lula','Luiz Inacio Lula da Silva']
+aliases: ['Luiz Inácio Lula da Silva','Lula','Luiz Inacio Lula da Silva']
 ---
 
-# Luiz InÃ¡cio Lula da Silva
+# Luiz Inácio Lula da Silva
 
 President of Brazil (2003-2010, 2023-). Leader of Workers' Party (PT). Defeated [[Jair Bolsonaro]] in October 2022 second-round runoff.
 

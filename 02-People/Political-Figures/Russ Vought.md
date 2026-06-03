@@ -28,21 +28,21 @@ status: active
 
 ## Timeline
 
-- `2002-2018` â€” Heritage Foundation policy roles
-- `2018-2020` â€” Deputy Director, OMB
-- `2020-01` â€” Director, OMB (Trump 1.0)
-- `2021` â€” Founds Center for Renewing America
-- `2022-2024` â€” Chief architect of Project 2025
-- `2024-11` â€” Trump nominates him to return as OMB Director
-- `2025-02` â€” Senate confirms
-- `2025-10` â€” Government shutdown begins; Vought uses it to gut federal agencies (per ProPublica)
+- `2002-2018` -- Heritage Foundation policy roles
+- `2018-2020` -- Deputy Director, OMB
+- `2020-01` -- Director, OMB (Trump 1.0)
+- `2021` -- Founds Center for Renewing America
+- `2022-2024` -- Chief architect of Project 2025
+- `2024-11` -- Trump nominates him to return as OMB Director
+- `2025-02` -- Senate confirms
+- `2025-10` -- Government shutdown begins; Vought uses it to gut federal agencies (per ProPublica)
 
 ## Key policy positions
 
-- **Schedule F** â€” reclassify ~50K federal civil servants as political appointees subject to firing
-- **Impoundment** â€” argues Executive can refuse to spend congressionally-appropriated funds
-- **Christian nationalism** â€” explicit framing of federal policy through Christian theological lens
-- **Centralized executive control** â€” end "independent" regulatory agencies
+- **Schedule F** -- reclassify ~50K federal civil servants as political appointees subject to firing
+- **Impoundment** -- argues Executive can refuse to spend congressionally-appropriated funds
+- **Christian nationalism** -- explicit framing of federal policy through Christian theological lens
+- **Centralized executive control** -- end "independent" regulatory agencies
 
 ## Relationships
 

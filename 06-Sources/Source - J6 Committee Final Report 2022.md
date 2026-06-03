@@ -27,7 +27,7 @@ aliases: ["J6 Committee Final Report 2022", "Source: J6 Committee Final Report 2
 
 ## Structure
 
-**Executive Summary** (52 pages) â€” high-level findings
+**Executive Summary** (52 pages) -- high-level findings
 
 **Eight chapters**:
 1. The Big Lie (Trump knew claims were false)
@@ -39,7 +39,7 @@ aliases: ["J6 Committee Final Report 2022", "Source: J6 Committee Final Report 2
 7. 187 Minutes of Dereliction (Trump's inaction during attack)
 8. Analysis of the Attack
 
-**Appendix** â€” methodology, recommendations, witness transcripts
+**Appendix** -- methodology, recommendations, witness transcripts
 
 ## Key findings (eight central conclusions per Executive Summary)
 
@@ -57,10 +57,10 @@ aliases: ["J6 Committee Final Report 2022", "Source: J6 Committee Final Report 2
 The Committee made formal criminal referrals against:
 
 **[[Donald Trump]]**:
-1. Obstruction of an Official Proceeding (18 USC Â§ 1512(c))
-2. Conspiracy to Defraud the United States (18 USC Â§ 371)
-3. Conspiracy to Make a False Statement (18 USC Â§Â§ 371, 1001)
-4. **Incitement, Assistance, or Aid and Comfort of an Insurrection (18 USC Â§ 2383)** â€” the historic insurrection-statute referral
+1. Obstruction of an Official Proceeding (18 USC § 1512(c))
+2. Conspiracy to Defraud the United States (18 USC § 371)
+3. Conspiracy to Make a False Statement (18 USC §§ 371, 1001)
+4. **Incitement, Assistance, or Aid and Comfort of an Insurrection (18 USC § 2383)** -- the historic insurrection-statute referral
 
 **[[John Eastman]]**:
 - Obstruction of an Official Proceeding
@@ -90,7 +90,7 @@ Throughout the Committee's public hearings and the final report, Vice Chair [[Li
 
 ## Subsequent legislative outcome
 
-- **Electoral Count Reform Act of 2022** â€” passed in December 2022 omnibus appropriations bill
+- **Electoral Count Reform Act of 2022** -- passed in December 2022 omnibus appropriations bill
 - Clarified Vice President's role as ministerial
 - Raised threshold for objections to electoral votes (from one Member each chamber to 1/5 of each chamber)
 
@@ -108,11 +108,11 @@ Throughout the Committee's public hearings and the final report, Vice Chair [[Li
 
 ## Connections in this vault
 
-- [[January 6 Select Committee 2021-2023]] â€” investigation event note
-- [[January 6 Capitol Attack]] â€” the underlying event
-- [[Donald Trump]] Â· [[John Eastman]] Â· [[Mark Meadows]] Â· [[Rudy Giuliani]] Â· [[Sidney Powell]] Â· [[Kenneth Chesebro]] Â· [[Jeffrey Clark]] Â· [[Jeffrey Rosen]] Â· [[Richard Donoghue]] Â· [[Pat Cipollone]] â€” figures investigated
-- [[Cassidy Hutchinson]] Â· [[Bill Stepien]] Â· [[Bill Barr]] Â· multiple â€” key witnesses
-- [[Bennie Thompson]] Â· [[Liz Cheney]] Â· [[Adam Kinzinger]] â€” Committee members
-- [[US v Trump DC Federal Election Interference Case]] â€” built on this record
-- [[Trump Second Impeachment 2021]] â€” precedent inquiry
+- [[January 6 Select Committee 2021-2023]] -- investigation event note
+- [[January 6 Capitol Attack]] -- the underlying event
+- [[Donald Trump]] · [[John Eastman]] · [[Mark Meadows]] · [[Rudy Giuliani]] · [[Sidney Powell]] · [[Kenneth Chesebro]] · [[Jeffrey Clark]] · [[Jeffrey Rosen]] · [[Richard Donoghue]] · [[Pat Cipollone]] -- figures investigated
+- [[Cassidy Hutchinson]] · [[Bill Stepien]] · [[Bill Barr]] · multiple -- key witnesses
+- [[Bennie Thompson]] · [[Liz Cheney]] · [[Adam Kinzinger]] -- Committee members
+- [[US v Trump DC Federal Election Interference Case]] -- built on this record
+- [[Trump Second Impeachment 2021]] -- precedent inquiry
 - [[Trump Investigations MOC]]

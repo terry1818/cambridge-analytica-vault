@@ -13,7 +13,7 @@ status: active
 
 ## Summary
 
-**Chinese state-linked persistent influence operation** active since at least **2017**, first identified by Graphika and Stanford Internet Observatory in 2019. Operates **thousands of inauthentic accounts** across Twitter/X, YouTube, Facebook, Instagram, TikTok, and emerging platforms. Network produces content in **multiple languages** (English, Mandarin, French, Russian, Spanish, German) aligned with Chinese state interests â€” pro-CCP messaging on Hong Kong, Xinjiang, Taiwan; anti-US messaging on COVID, elections, foreign policy. Operation has expanded significantly with AI-generated content from 2023 onward. Believed to be operated by Chinese Ministry of Public Security and/or affiliated PR contractors.
+**Chinese state-linked persistent influence operation** active since at least **2017**, first identified by Graphika and Stanford Internet Observatory in 2019. Operates **thousands of inauthentic accounts** across Twitter/X, YouTube, Facebook, Instagram, TikTok, and emerging platforms. Network produces content in **multiple languages** (English, Mandarin, French, Russian, Spanish, German) aligned with Chinese state interests -- pro-CCP messaging on Hong Kong, Xinjiang, Taiwan; anti-US messaging on COVID, elections, foreign policy. Operation has expanded significantly with AI-generated content from 2023 onward. Believed to be operated by Chinese Ministry of Public Security and/or affiliated PR contractors.
 
 ## Methods
 

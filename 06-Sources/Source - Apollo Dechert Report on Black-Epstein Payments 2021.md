@@ -36,7 +36,7 @@ Per the report's documentation:
 - Black paid Epstein approximately **$158 million** between 2012 and 2017
 - Plus $10 million loan from Black to Epstein
 - Combined transactions exceeded $170M
-- Payments were personal â€” from Black to Epstein â€” not from Apollo corporate
+- Payments were personal -- from Black to Epstein -- not from Apollo corporate
 
 ### Stated purpose of payments
 
@@ -86,7 +86,7 @@ Following the report's release:
 
 > "The Committee was not asked to and did not investigate any allegation that Mr. Epstein engaged in any criminal activity in connection with Mr. Black."
 
-The careful framing of the Dechert findings â€” particularly the explicit limitation of scope â€” is notable. The report establishes that Apollo (the corporate entity) was not exposed; it does NOT extensively probe Black's personal knowledge or motives.
+The careful framing of the Dechert findings -- particularly the explicit limitation of scope -- is notable. The report establishes that Apollo (the corporate entity) was not exposed; it does NOT extensively probe Black's personal knowledge or motives.
 
 ## Tier framework for this source
 
@@ -97,9 +97,9 @@ The careful framing of the Dechert findings â€” particularly the explicit l
 
 ## Connections in this vault
 
-- [[Apollo Global Management]] â€” organization
-- [[Leon Black]] â€” payor
-- [[Jeffrey Epstein]] â€” payee
-- [[Virginia Giuffre]] â€” later civil plaintiff against Black
-- [[Dechert LLP]] â€” investigating firm
+- [[Apollo Global Management]] -- organization
+- [[Leon Black]] -- payor
+- [[Jeffrey Epstein]] -- payee
+- [[Virginia Giuffre]] -- later civil plaintiff against Black
+- [[Dechert LLP]] -- investigating firm
 - [[Epstein Network MOC]]

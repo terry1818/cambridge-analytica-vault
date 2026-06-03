@@ -41,11 +41,11 @@ Levys book includes substantial coverage of the Cambridge Analytica scandal from
 
 ## Significance
 
-Levy is **the leading journalistic historian of Silicon Valley** â€” author of earlier definitive books on Google, Apple, Iverson. His access to Facebook leadership makes this the **most authoritative inside-Facebook account** of the CA scandal era. Essential for understanding Facebooks own perspective on what happened.
+Levy is **the leading journalistic historian of Silicon Valley** — author of earlier definitive books on Google, Apple, Iverson. His access to Facebook leadership makes this the **most authoritative inside-Facebook account** of the CA scandal era. Essential for understanding Facebooks own perspective on what happened.
 
 ## Note on access vs critical distance
 
-Levys access depended on Facebooks cooperation â€” a tension that affects all such books. The volume documents Facebooks internal debates with notable detail but is less critical than independent reporting like Cadwalladrs.
+Levys access depended on Facebooks cooperation — a tension that affects all such books. The volume documents Facebooks internal debates with notable detail but is less critical than independent reporting like Cadwalladrs.
 
 ## Cross-references within the vault
 

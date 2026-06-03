@@ -15,20 +15,20 @@ New York Attorney General [[Letitia James]] civil action against [[Donald Trump]
 
 ## Charges / claims
 
-Filed under NY Executive Law Â§ 63(12), which gives the AG civil authority to obtain injunctions and disgorgement for "repeated fraudulent or illegal acts" or "persistent fraud or illegality" in the conduct of business in New York. Seven causes of action:
+Filed under NY Executive Law § 63(12), which gives the AG civil authority to obtain injunctions and disgorgement for "repeated fraudulent or illegal acts" or "persistent fraud or illegality" in the conduct of business in New York. Seven causes of action:
 
-1. Persistent and repeated fraud in violation of NY Exec. Law Â§ 63(12)
-2. Falsifying business records (Penal Law Â§ 175.05)
-3. Conspiracy to falsify business records (Â§ 105.05)
-4. Issuing false financial statements (Â§ 175.45)
-5. Conspiracy to issue false financial statements (Â§ 105.05)
-6. Insurance fraud (Â§ 176.05)
-7. Conspiracy to commit insurance fraud (Â§ 105.05)
+1. Persistent and repeated fraud in violation of NY Exec. Law § 63(12)
+2. Falsifying business records (Penal Law § 175.05)
+3. Conspiracy to falsify business records (§ 105.05)
+4. Issuing false financial statements (§ 175.45)
+5. Conspiracy to issue false financial statements (§ 105.05)
+6. Insurance fraud (§ 176.05)
+7. Conspiracy to commit insurance fraud (§ 105.05)
 
 ## Court and parties
 
 - **Court**: New York Supreme Court, New York County
-- **Judge**: [[Arthur Engoron]] (bench trial; no jury â€” equity action)
+- **Judge**: [[Arthur Engoron]] (bench trial; no jury -- equity action)
 - **Plaintiff**: NY State (Letitia James, AG)
 - **Defendants**: Donald Trump; Donald Trump Jr; Eric Trump; Trump Organization; Allen Weisselberg; Jeffrey McConney; various Trump entities
 
@@ -106,14 +106,14 @@ Engoron's 92-page decision found:
 
 ## Connections
 
-- [[Donald Trump]] â€” defendant; found civilly liable; $354M
-- [[Letitia James]] â€” NY AG
-- [[Arthur Engoron]] â€” trial judge
-- [[Donald Trump Jr]] Â· [[Eric Trump]] Â· [[Allen Weisselberg]] â€” co-defendants
+- [[Donald Trump]] -- defendant; found civilly liable; $354M
+- [[Letitia James]] -- NY AG
+- [[Arthur Engoron]] -- trial judge
+- [[Donald Trump Jr]] · [[Eric Trump]] · [[Allen Weisselberg]] -- co-defendants
 - [[Trump Organization]]
-- [[Michael Cohen]] â€” key witness
-- [[Trump Organization NY Criminal Trial 2022]] â€” parallel criminal prosecution
-- [[Trump Foundation NY AG Settlement 2019]] â€” earlier NY AG action
+- [[Michael Cohen]] -- key witness
+- [[Trump Organization NY Criminal Trial 2022]] -- parallel criminal prosecution
+- [[Trump Foundation NY AG Settlement 2019]] -- earlier NY AG action
 
 ## Sources
 

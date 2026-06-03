@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-17
 description: The post-2020 Leonard Leo donor-coordination architecture connecting the Barre Seid Marble Freedom Trust transaction to downstream conservative-legal infrastructure beneficiaries.
 tags:
@@ -22,9 +22,9 @@ The (c)(4) classification is operationally important: (c)(3) charitable vehicles
 
 The principal downstream beneficiaries of Marble Freedom Trust funding:
 
-- **[[Concord Fund]]** (formerly Judicial Crisis Network) â€” the principal judicial-nomination-advocacy vehicle. Concord Fund engages in confirmation-fight advocacy, judicial-related media buys, and the broader judicial-nomination political-pressure operation.
-- **[[The 85 Fund]]** (formerly Judicial Education Project) â€” focused on broader legal-education and judicial-related programming. The (c)(3) parallel to the (c)(4) Concord Fund.
-- **[[CRC Advisors]]** â€” the public-affairs and political-strategy firm Leo chairs; functions as the operational umbrella coordinating disbursement decisions and the broader strategic direction.
+- **[[Concord Fund]]** (formerly Judicial Crisis Network) — the principal judicial-nomination-advocacy vehicle. Concord Fund engages in confirmation-fight advocacy, judicial-related media buys, and the broader judicial-nomination political-pressure operation.
+- **[[The 85 Fund]]** (formerly Judicial Education Project) — focused on broader legal-education and judicial-related programming. The (c)(3) parallel to the (c)(4) Concord Fund.
+- **[[CRC Advisors]]** — the public-affairs and political-strategy firm Leo chairs; functions as the operational umbrella coordinating disbursement decisions and the broader strategic direction.
 - Various smaller (c)(4) and (c)(3) vehicles that have proliferated under the Marble Freedom Trust funding capacity, including issue-specific advocacy organisations, legal-research operations, and state-level political-spending vehicles.
 
 ## Coordination with the broader conservative-legal infrastructure
@@ -47,11 +47,11 @@ The structure also illustrates the operational power of (c)(4) recipient structu
 
 ## Evidence sources
 
-- [[Source Hill Barre Seid 1.6B]] â€” initial 2022 disclosure of the transaction
-- [[Source CNN Marble Freedom 1.6B]] â€” subsequent CNN reporting
-- [[Source ProPublica Barre Seid Marble Freedom]] â€” investigative reconstruction
-- [[Source TPM Barre Seid Court Architect]] â€” Talking Points Memo analysis
-- [[Source Influence Watch Marble Freedom Trust]] â€” aggregator-source coverage
+- [[Source Hill Barre Seid 1.6B]] — initial 2022 disclosure of the transaction
+- [[Source CNN Marble Freedom 1.6B]] — subsequent CNN reporting
+- [[Source ProPublica Barre Seid Marble Freedom]] — investigative reconstruction
+- [[Source TPM Barre Seid Court Architect]] — Talking Points Memo analysis
+- [[Source Influence Watch Marble Freedom Trust]] — aggregator-source coverage
 - IRS filings for Marble Freedom Trust, Concord Fund, and The 85 Fund (Tier-1)
 - FEC disclosure of independent expenditure committee receipts (Tier-1)
 

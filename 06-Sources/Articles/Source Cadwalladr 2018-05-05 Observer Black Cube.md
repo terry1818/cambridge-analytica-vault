@@ -29,9 +29,9 @@ Cadwalladr investigation of **[[Black Cube]]**s targeting of former Obama admini
 
 ## Significance
 
-Important context for understanding the **broader Israeli private-intelligence-for-hire ecosystem** of which Black Cube is part â€” alongside [[Psy-Group]], [[Wikistrat]], and [[Team Jorge]]. Cadwalladrs continued reporting in this area connects her CA-scandal work directly to the modern Tier-2 (private intel) influence-operations ecosystem.
+Important context for understanding the **broader Israeli private-intelligence-for-hire ecosystem** of which Black Cube is part — alongside [[Psy-Group]], [[Wikistrat]], and [[Team Jorge]]. Cadwalladrs continued reporting in this area connects her CA-scandal work directly to the modern Tier-2 (private intel) influence-operations ecosystem.
 
-The Black Cube reporting also illustrates that **Cadwalladrs investigative focus extended beyond CA** to the broader ecosystem â€” making her one of the most consistent journalists on the privatized-intelligence beat.
+The Black Cube reporting also illustrates that **Cadwalladrs investigative focus extended beyond CA** to the broader ecosystem — making her one of the most consistent journalists on the privatized-intelligence beat.
 
 ## Why this source matters in the vault
 

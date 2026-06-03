@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-Founder and head of **[[United in Purpose]]**. **Convicted of embezzlement and money laundering** in California in the 1990s Ã¢â‚¬â€ served 2.5 years of a 5-year sentence at **San Quentin** for embezzlement; separately fined **$772,000 for a money-laundering scheme** described as "the largest campaign money-laundering scheme in the history of the state of California" at the time. Claims religious conversion in prison. Post-release, built UIP as a **Christian-right data-and-voter-mobilization organization**. **Organized the closed-door June 2016 evangelical-leader conclave at a Times Square hotel** where evangelical leaders publicly aligned behind Donald Trump Ã¢â‚¬â€ the turning-point event in the Trump-evangelical alliance. With **[[George Barna]]** (evangelical pollster), built UIP's church-data collection apparatus. Operationally integrated UIP with **[[Gloo]]** and **[[COFI]]** to apply **[[Cambridge Analytica]]-style psychographic targeting** to congregants and seekers, deliberately targeting vulnerable populations (mental illness, grief, addiction).
+Founder and head of **[[United in Purpose]]**. **Convicted of embezzlement and money laundering** in California in the 1990s -- served 2.5 years of a 5-year sentence at **San Quentin** for embezzlement; separately fined **$772,000 for a money-laundering scheme** described as "the largest campaign money-laundering scheme in the history of the state of California" at the time. Claims religious conversion in prison. Post-release, built UIP as a **Christian-right data-and-voter-mobilization organization**. **Organized the closed-door June 2016 evangelical-leader conclave at a Times Square hotel** where evangelical leaders publicly aligned behind Donald Trump -- the turning-point event in the Trump-evangelical alliance. With **[[George Barna]]** (evangelical pollster), built UIP's church-data collection apparatus. Operationally integrated UIP with **[[Gloo]]** and **[[COFI]]** to apply **[[Cambridge Analytica]]-style psychographic targeting** to congregants and seekers, deliberately targeting vulnerable populations (mental illness, grief, addiction).
 
 ## Key facts
 
@@ -35,11 +35,11 @@ Founder and head of **[[United in Purpose]]**. **Convicted of embezzlement and m
 
 ## Connection to the broader architecture
 
-- [[United in Purpose]] Ã¢â‚¬" his org; fusion point of theocratic + tech wings
-- [[Steve Bannon]] Ã¢â‚¬" present at 2016 evangelical conclave
-- [[Cambridge Analytica]] Ã¢â‚¬" methodology source
-- [[Koch network]] Ã¢â‚¬" reported funder
-- [[Hypothesis - Three-wing coalition]] Ã¢â‚¬" Dallas operates the theocratic-tech fusion
+- [[United in Purpose]] -" his org; fusion point of theocratic + tech wings
+- [[Steve Bannon]] -" present at 2016 evangelical conclave
+- [[Cambridge Analytica]] -" methodology source
+- [[Koch network]] -" reported funder
+- [[Hypothesis - Three-wing coalition]] -" Dallas operates the theocratic-tech fusion
 
 ## Open questions
 

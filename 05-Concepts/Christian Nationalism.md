@@ -30,12 +30,12 @@ The scale identifies an "Ambassadors" category (highest commitment) constituting
 
 ### Institutional vehicles
 
-- [[Family Research Council]] Â· [[Focus on the Family]] Â· [[American Family Association]] â€” Religious Right institutional core
-- [[Council for National Policy]] â€” coordination layer
-- [[New Apostolic Reformation]] â€” charismatic / Pentecostal branch
-- [[Patrick Henry College]] Â· [[Hillsdale College]] Â· classical Christian schooling â€” education infrastructure
-- [[ADF]] (Alliance Defending Freedom) â€” legal infrastructure
-- [[Project 2025]] â€” policy infrastructure (substantial Christian-nationalist content)
+- [[Family Research Council]] · [[Focus on the Family]] · [[American Family Association]] -- Religious Right institutional core
+- [[Council for National Policy]] -- coordination layer
+- [[New Apostolic Reformation]] -- charismatic / Pentecostal branch
+- [[Patrick Henry College]] · [[Hillsdale College]] · classical Christian schooling -- education infrastructure
+- [[ADF]] (Alliance Defending Freedom) -- legal infrastructure
+- [[Project 2025]] -- policy infrastructure (substantial Christian-nationalist content)
 
 ### Political mobilization
 
@@ -45,11 +45,11 @@ The scale identifies an "Ambassadors" category (highest commitment) constituting
 
 ### Scholar / journalist coverage
 
-- [[Andrew Whitehead]] Â· [[Samuel Perry]] â€” sociological measurement
-- [[Katherine Stewart]] â€” investigative journalism
-- [[Matthew Taylor]] â€” NAR / political mobilization
-- [[Anne Nelson]] â€” Council for National Policy mapping
-- [[Jeff Sharlet]] â€” The Family / C Street network
+- [[Andrew Whitehead]] · [[Samuel Perry]] -- sociological measurement
+- [[Katherine Stewart]] -- investigative journalism
+- [[Matthew Taylor]] -- NAR / political mobilization
+- [[Anne Nelson]] -- Council for National Policy mapping
+- [[Jeff Sharlet]] -- The Family / C Street network
 
 ## Relation to vault thesis
 

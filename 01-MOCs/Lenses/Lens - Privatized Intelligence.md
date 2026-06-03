@@ -25,11 +25,11 @@ CA was not unique. It was one node in a global private-intelligence-for-hire eco
 - [[Wikistrat]] (2010-present)
 - [[Black Cube]] (2010-present)
 - [[Team Jorge]] / [[Tal Hanan]] (exposed 2023)
-- [[Walter Soriano]] â€” UK-based Israeli private intel
+- [[Walter Soriano]] -- UK-based Israeli private intel
 
 ### American private-military / intelligence
 - [[Frontier Services Group]] (Erik Prince, China-linked)
-- Blackwater â†’ Academi â†’ Constellis (Erik Prince lineage)
+- Blackwater → Academi → Constellis (Erik Prince lineage)
 - [[HBGary Federal]] (2010-2012)
 - Reflex Responses (Erik Prince UAE work)
 - Palantir Technologies (state contractor with CA-adjacent personnel)
@@ -41,14 +41,14 @@ CA was not unique. It was one node in a global private-intelligence-for-hire eco
 
 ## Patterns
 
-1. **Personnel rotation** â€” ex-military intelligence officers cycle between state contracts, corporate work, and political work
-2. **Shared methodology** â€” persona management, behavioral profiling, audience segmentation are common across firms
-3. **Cross-border operations** â€” Israeli firms work UAE/US/UK clients; British firms work US/Asian/African campaigns; American firms work Gulf/Asian clients
-4. **Plausible deniability through structure** â€” multiple shell companies, holding companies, subsidiaries
+1. **Personnel rotation** -- ex-military intelligence officers cycle between state contracts, corporate work, and political work
+2. **Shared methodology** -- persona management, behavioral profiling, audience segmentation are common across firms
+3. **Cross-border operations** -- Israeli firms work UAE/US/UK clients; British firms work US/Asian/African campaigns; American firms work Gulf/Asian clients
+4. **Plausible deniability through structure** -- multiple shell companies, holding companies, subsidiaries
 
 ## How CA fits
 
-CA is the **most public example** of this ecosystem â€” exposed primarily because it touched the US 2016 election and Brexit. Most firms in this space continue to operate below journalistic radar.
+CA is the **most public example** of this ecosystem -- exposed primarily because it touched the US 2016 election and Brexit. Most firms in this space continue to operate below journalistic radar.
 
 ## Sources
 

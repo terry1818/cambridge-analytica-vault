@@ -15,13 +15,13 @@ first-documented: 1975 (Bill Bright + Loren Cunningham)
 
 ## The Seven Mountains
 
-1. **Government** Ã¢â‚¬" elected office, judiciary, civil service
-2. **Education** Ã¢â‚¬" schools, universities, curriculum
-3. **Media** Ã¢â‚¬" news, journalism, publishing
-4. **Arts and Entertainment** Ã¢â‚¬" film, music, theater
-5. **Religion** Ã¢â‚¬" churches, denominations
-6. **Family** Ã¢â‚¬" marriage, parenting, gender roles
-7. **Business** Ã¢â‚¬" commerce, finance, industry
+1. **Government** -" elected office, judiciary, civil service
+2. **Education** -" schools, universities, curriculum
+3. **Media** -" news, journalism, publishing
+4. **Arts and Entertainment** -" film, music, theater
+5. **Religion** -" churches, denominations
+6. **Family** -" marriage, parenting, gender roles
+7. **Business** -" commerce, finance, industry
 
 ## How it differs from Rushdoony's Reconstructionism
 
@@ -49,15 +49,15 @@ The 7M movement explicitly **rejected Rushdoony's slow timeline** in favor of im
 
 ## Related concepts
 
-- [[Dominionism]] Ã¢â‚¬" broader framework
-- [[Christian Reconstructionism]] Ã¢â‚¬" Rushdoony tradition
-- New Apostolic Reformation (NAR) Ã¢â‚¬" institutional vehicle
+- [[Dominionism]] -" broader framework
+- [[Christian Reconstructionism]] -" Rushdoony tradition
+- New Apostolic Reformation (NAR) -" institutional vehicle
 
 ## Related entities
 
-- [[Russ Vought]] Ã¢â‚¬" current Christian-nationalist OMB Director
-- [[Project 2025]] Ã¢â‚¬" structurally 7M-aligned implementation
-- [[Capitol Ministries]] Ã¢â‚¬" theological frame compatible
+- [[Russ Vought]] -" current Christian-nationalist OMB Director
+- [[Project 2025]] -" structurally 7M-aligned implementation
+- [[Capitol Ministries]] -" theological frame compatible
 
 ## Sources
 

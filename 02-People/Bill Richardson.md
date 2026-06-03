@@ -15,16 +15,16 @@ Born November 15, 1947, Pasadena, CA. Died September 1, 2023, Chatham, MA, age 7
 
 ## Documented connections to the Epstein operation
 
-### Tier 1 â€” documented
+### Tier 1 -- documented
 
 - **Geographic adjacency to Zorro Ranch**: Epstein's Zorro Ranch is in New Mexico. Richardson was Governor of New Mexico 2003-2011 during the period of active Epstein operations there.
 - **Documented social associations** with Epstein during the 2003-2011 period.
 
-### Tier 1 â€” sworn allegations (existence of allegation)
+### Tier 1 -- sworn allegations (existence of allegation)
 
 In a January 2015 deposition in Giuffre v. Maxwell, [[Virginia Giuffre]] named Richardson among individuals she was directed to by Epstein and Maxwell. The specific 2015 testimony is in the unsealed Giuffre v. Maxwell record. See [[Source: Giuffre v Maxwell 2024 Unsealing]].
 
-### Tier 2 â€” partial subsequent clarification
+### Tier 2 -- partial subsequent clarification
 
 In later proceedings and statements, Giuffre clarified that she had not had personal sexual encounters with all named individuals; some were people she had been told would be there but she had not necessarily met or had encounters with. The specific application of this clarification to Richardson is contested in different accounts.
 
@@ -39,8 +39,8 @@ Richardson, alive at the time of the 2024 unsealing, denied the allegations thro
 ## Connections
 
 - [[Jeffrey Epstein]]
-- [[Virginia Giuffre]] â€” accuser
-- [[Zorro Ranch]] â€” geographic adjacency relevant to alleged activity
+- [[Virginia Giuffre]] -- accuser
+- [[Zorro Ranch]] -- geographic adjacency relevant to alleged activity
 
 ## Sources
 

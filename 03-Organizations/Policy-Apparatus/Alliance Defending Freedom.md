@@ -38,12 +38,12 @@ ADF is the **Christian-nationalist legal counterpart** to the [[Article V Conven
 
 ## Leadership
 
-- **[[Michael Farris]]** Ã¢â‚¬â€ CEO and General Counsel 2017-2022
-- Kristen Waggoner Ã¢â‚¬â€ CEO 2022-present; argued Masterpiece Cakeshop
+- **[[Michael Farris]]** -- CEO and General Counsel 2017-2022
+- Kristen Waggoner -- CEO 2022-present; argued Masterpiece Cakeshop
 
 ## Notable cases (selection)
 
-- **Dobbs v. Jackson Women's Health Organization** (2022) Ã¢â‚¬â€ overturned Roe v Wade
+- **Dobbs v. Jackson Women's Health Organization** (2022) -- overturned Roe v Wade
 - **Masterpiece Cakeshop v. Colorado Civil Rights Commission** (2018)
 - **303 Creative v. Elenis** (2023)
 - **NIFLA v. Becerra** (2018)
@@ -56,10 +56,10 @@ ADF is the **Christian-nationalist legal counterpart** to the [[Article V Conven
 
 ## Related entities
 
-- [[Michael Farris]] Ã¢â‚¬â€ former CEO
-- [[Convention of States Action]] Ã¢â‚¬â€ Farris connection
-- [[The Heritage Foundation]] Ã¢â‚¬â€ ideological alignment
-- [[Project 2025]] Ã¢â‚¬â€ aligned (multiple ADF alumni in Trump 2.0)
+- [[Michael Farris]] -- former CEO
+- [[Convention of States Action]] -- Farris connection
+- [[The Heritage Foundation]] -- ideological alignment
+- [[Project 2025]] -- aligned (multiple ADF alumni in Trump 2.0)
 
 ## Sources
 

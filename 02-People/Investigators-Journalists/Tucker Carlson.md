@@ -14,7 +14,7 @@ US conservative media host. Former [[Fox News]] primetime anchor (2016-2023). No
 
 Carlson has been the most-watched cable news host of the 2016-2023 period. His departure from Fox News (April 2023) coincided with the [[Dominion v Fox News]] settlement timing. Subsequently moved to X / direct distribution.
 
-His political positioning shifted from establishment-conservative (early 2000s) to nativist-populist (Fox 2016+) to overtly OrbÃ¡n-admiring / Russia-tolerant (2021+). The 2022 Hungary broadcasts marked the explicit alignment with the contemporary international right.
+His political positioning shifted from establishment-conservative (early 2000s) to nativist-populist (Fox 2016+) to overtly Orbán-admiring / Russia-tolerant (2021+). The 2022 Hungary broadcasts marked the explicit alignment with the contemporary international right.
 
 ## See also
 

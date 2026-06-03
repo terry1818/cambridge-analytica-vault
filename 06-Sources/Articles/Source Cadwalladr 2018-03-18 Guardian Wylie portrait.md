@@ -23,17 +23,17 @@ Cadwalladr, Carole. (2018-03-18). "'I made Steve Bannon's psychological warfare 
 
 Long-form profile of [[Christopher Wylie]] published one day after the joint break. Contains:
 
-- Wylie's biographical arc â€” from Liberal Party of Canada to SCL Defence to CA
+- Wylie's biographical arc — from Liberal Party of Canada to SCL Defence to CA
 - The famous "I made Steve Bannon's psychological warfare mindfuck tool" framing
 - Wylie's specific role as Director of Research at CA
 - The decision to come forward after ~1 year of anonymous source work
 - Details of the Mercer-Bannon strategic vision Wylie saw inside CA
 
-The pink-hair imagery and Wylie's articulation of CA as a "psychological warfare" project made him the **public face** of the scandal â€” a role that previously had no single named whistleblower.
+The pink-hair imagery and Wylie's articulation of CA as a "psychological warfare" project made him the **public face** of the scandal — a role that previously had no single named whistleblower.
 
 ## Significance
 
-This profile transformed the scandal narrative from "company that harvested data" into "person who built the tool and regretted it" â€” a more emotionally resonant frame that drove sustained public attention.
+This profile transformed the scandal narrative from "company that harvested data" into "person who built the tool and regretted it" — a more emotionally resonant frame that drove sustained public attention.
 
 ## URL
 

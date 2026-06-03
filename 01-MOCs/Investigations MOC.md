@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Index of formal investigations into Cambridge Analytica and related operations
 tags: [moc, topic/cambridge-analytica]
@@ -11,29 +11,29 @@ Formal government, regulatory, parliamentary, and journalistic investigations in
 
 ## US federal investigations
 
-- [[Mueller Investigation]] â€” Special Counsel 2017-2019; Russia interference + obstruction
+- [[Mueller Investigation]] -- Special Counsel 2017-2019; Russia interference + obstruction
   - Resulted in [[Source Mueller Report 2019]]
   - [[Paul Manafort]] convicted; [[Sam Patten]] pleaded guilty; [[Michael Flynn]] pleaded guilty (later dismissed); [[Roger Stone]] convicted (commuted/pardoned); [[George Papadopoulos]] convicted (pardoned)
 - **US Senate Select Committee on Intelligence Russia investigation** (2017-2020)
-  - Resulted in [[Source Senate Intel Vol 5 2020]] â€” 947-page Vol 5 on counterintelligence threats
+  - Resulted in [[Source Senate Intel Vol 5 2020]] -- 947-page Vol 5 on counterintelligence threats
   - Bipartisan; Republican-led
 - **US House Intelligence Russia investigation** (2017-2018)
-- [[Source FTC Complaint Cambridge Analytica 2019]] â€” administrative complaint against CA, Nix, Kogan
-- [[FTC v Facebook 2019]] â€” $5B fine
-- **US SEC investigation** â€” $100M Facebook settlement July 2019
-- **US Senate Judiciary Committee hearings** (April-May 2018) â€” Zuckerberg, Wylie, Hersh, Jamison testified
+- [[Source FTC Complaint Cambridge Analytica 2019]] -- administrative complaint against CA, Nix, Kogan
+- [[FTC v Facebook 2019]] -- $5B fine
+- **US SEC investigation** -- $100M Facebook settlement July 2019
+- **US Senate Judiciary Committee hearings** (April-May 2018) -- Zuckerberg, Wylie, Hersh, Jamison testified
 
 ## UK investigations
 
-- **[[Source DCMS Final Report 2019]]** â€” UK Parliament DCMS Committee Disinformation and Fake News Inquiry â€” 110+ pages
-- **[[ICO Investigation]]** â€” Information Commissioners Office 3-year investigation
+- **[[Source DCMS Final Report 2019]]** -- UK Parliament DCMS Committee Disinformation and Fake News Inquiry -- 110+ pages
+- **[[ICO Investigation]]** -- Information Commissioners Office 3-year investigation
   - [[ICO Warrant March 2018]]
-  - [[Source ICO 2020-11 Cambridge Analytica investigation]] â€” closure letter
+  - [[Source ICO 2020-11 Cambridge Analytica investigation]] -- closure letter
   - [[Source ICO 2020-07-20 Leave.EU Eldon fine]]
-  - Â£500K Facebook fine October 2019
-- **UK Electoral Commission** â€” [[Source UK Electoral Commission Vote Leave 2018]]
-- **UK National Crime Agency** â€” investigated [[Arron Banks]] and [[Andrew Wigmore]] (closed 2019, no offenses)
-- **UK Insolvency Service** â€” 7-year director ban on [[Alexander Nix]] ([[Source gov.uk 2020-09-24 Nix disqualification]])
+  - £500K Facebook fine October 2019
+- **UK Electoral Commission** -- [[Source UK Electoral Commission Vote Leave 2018]]
+- **UK National Crime Agency** -- investigated [[Arron Banks]] and [[Andrew Wigmore]] (closed 2019, no offenses)
+- **UK Insolvency Service** -- 7-year director ban on [[Alexander Nix]] ([[Source gov.uk 2020-09-24 Nix disqualification]])
 
 ## EU investigations
 
@@ -49,17 +49,17 @@ Formal government, regulatory, parliamentary, and journalistic investigations in
 
 ## Journalistic investigations
 
-- [[Carole Cadwalladr]] (The Observer / The Guardian) â€” multi-year series
-- [[Source Channel 4 2018-03-19 Exposed]] â€” 4-month undercover investigation
+- [[Carole Cadwalladr]] (The Observer / The Guardian) -- multi-year series
+- [[Source Channel 4 2018-03-19 Exposed]] -- 4-month undercover investigation
 - The New York Times investigation team ([[Source Rosenberg et al 2018-03-17 NYT]])
-- [[Source Pasternack Witt Fast Company 2019-07-26]] â€” afterlife reporting
-- [[Source Forbidden Stories 2023 Team Jorge]] â€” multi-newsroom consortium
+- [[Source Pasternack Witt Fast Company 2019-07-26]] -- afterlife reporting
+- [[Source Forbidden Stories 2023 Team Jorge]] -- multi-newsroom consortium
 
 ## Civil litigation
 
-- [[Carroll v Cambridge Analytica]] â€” UK Data Protection Act case
-- [[Source Meta Settlement 2022 Reuters]] â€” $725M US class action
-- [[Cadwalladr v Banks 2022]] â€” Banks libel suit against Cadwalladr (Cadwalladr largely won on public-interest defense)
+- [[Carroll v Cambridge Analytica]] -- UK Data Protection Act case
+- [[Source Meta Settlement 2022 Reuters]] -- $725M US class action
+- [[Cadwalladr v Banks 2022]] -- Banks libel suit against Cadwalladr (Cadwalladr largely won on public-interest defense)
 
 ## Open / ongoing
 

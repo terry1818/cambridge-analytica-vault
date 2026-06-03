@@ -42,12 +42,12 @@ status: active (greatly diminished from peak)
 
 ## Connection to vault entities
 
-- [[Pat Robertson]] Ã¢â‚¬" founder
-- [[Ralph Reed]] Ã¢â‚¬" longtime ED; now Faith and Freedom Coalition
-- [[Moral Majority]] Ã¢â‚¬" predecessor
-- [[Council for National Policy]] Ã¢â‚¬" coordinating institution Robertson + Reed both members
-- [[Faith and Freedom Coalition]] Ã¢â‚¬" Reed's current vehicle; modern successor
-- [[Theocratic Wing Infrastructure 1935-2026]] Ã¢â‚¬" historical layer
+- [[Pat Robertson]] -" founder
+- [[Ralph Reed]] -" longtime ED; now Faith and Freedom Coalition
+- [[Moral Majority]] -" predecessor
+- [[Council for National Policy]] -" coordinating institution Robertson + Reed both members
+- [[Faith and Freedom Coalition]] -" Reed's current vehicle; modern successor
+- [[Theocratic Wing Infrastructure 1935-2026]] -" historical layer
 
 ## Sources
 

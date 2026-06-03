@@ -25,27 +25,27 @@ In December 2023, US District Judge Loretta Preska ordered the unsealing of rema
 
 Critically important for evidence-tier discipline: appearance in the documents does NOT itself constitute an accusation of trafficking. People are named for many different reasons:
 
-- **Sworn-testimony accused** â€” named under oath as participants in sexual contact with the witness (e.g., Prince Andrew in Giuffre testimony, Alan Dershowitz in Giuffre testimony)
-- **Flight log presence** â€” named as passengers on the Epstein plane (e.g., Bill Clinton appears in logs; Donald Trump appears in logs)
-- **Social associates** â€” named as people who attended events or were socially connected (many)
-- **Tangentially mentioned** â€” named in exhibits without any direct allegation against them
-- **Stephen Hawking** â€” named in a Maxwell email speculating about an orgy on Little St. James; the email itself shows no evidence the orgy occurred or that Hawking was involved in anything inappropriate
+- **Sworn-testimony accused** -- named under oath as participants in sexual contact with the witness (e.g., Prince Andrew in Giuffre testimony, Alan Dershowitz in Giuffre testimony)
+- **Flight log presence** -- named as passengers on the Epstein plane (e.g., Bill Clinton appears in logs; Donald Trump appears in logs)
+- **Social associates** -- named as people who attended events or were socially connected (many)
+- **Tangentially mentioned** -- named in exhibits without any direct allegation against them
+- **Stephen Hawking** -- named in a Maxwell email speculating about an orgy on Little St. James; the email itself shows no evidence the orgy occurred or that Hawking was involved in anything inappropriate
 
 The 2024 social-media discourse around the unsealing systematically conflated these distinct categories of mention. Each name requires its own per-allegation tier analysis.
 
 ## Headline names in the unsealed materials
 
-(All with their own dedicated entity notes in 02-People/ â€” see those notes for specific allegation status):
+(All with their own dedicated entity notes in 02-People/ -- see those notes for specific allegation status):
 
-- [[Prince Andrew]] â€” Giuffre sworn testimony names him as participant in three sexual encounters; civil-settled with Giuffre 2022
-- [[Alan Dershowitz]] â€” Giuffre named him; he denied; defamation cross-suits settled 2022 with both sides issuing statements
-- [[Bill Clinton]] â€” flight log passenger; named in some depositions as social associate; no allegation of misconduct against him in the documents
-- [[Donald Trump]] â€” flight log passenger; named in Sjoberg deposition as a social acquaintance Epstein took her to meet; no allegation of misconduct
-- [[Bill Richardson]] â€” Giuffre named in earlier deposition as someone she was directed to; later partially retracted/clarified
-- [[George Mitchell]] â€” Giuffre named; he denied
-- [[Marvin Minsky]] â€” named; deceased before public reporting
-- [[Stephen Hawking]] â€” named only in the Maxwell speculation email; no allegation against him
-- [[Glenn Dubin]] Â· [[Tom Pritzker]] Â· others â€” named in various capacities
+- [[Prince Andrew]] -- Giuffre sworn testimony names him as participant in three sexual encounters; civil-settled with Giuffre 2022
+- [[Alan Dershowitz]] -- Giuffre named him; he denied; defamation cross-suits settled 2022 with both sides issuing statements
+- [[Bill Clinton]] -- flight log passenger; named in some depositions as social associate; no allegation of misconduct against him in the documents
+- [[Donald Trump]] -- flight log passenger; named in Sjoberg deposition as a social acquaintance Epstein took her to meet; no allegation of misconduct
+- [[Bill Richardson]] -- Giuffre named in earlier deposition as someone she was directed to; later partially retracted/clarified
+- [[George Mitchell]] -- Giuffre named; he denied
+- [[Marvin Minsky]] -- named; deceased before public reporting
+- [[Stephen Hawking]] -- named only in the Maxwell speculation email; no allegation against him
+- [[Glenn Dubin]] · [[Tom Pritzker]] · others -- named in various capacities
 
 ## What the documents did NOT establish
 
@@ -62,9 +62,9 @@ The 2024 social-media discourse around the unsealing systematically conflated th
 
 ## Connections
 
-- [[Loretta Preska]] â€” federal judge who ordered unsealing
-- [[Virginia Giuffre]] â€” original plaintiff in the underlying defamation case
-- [[Ghislaine Maxwell]] â€” original defendant
+- [[Loretta Preska]] -- federal judge who ordered unsealing
+- [[Virginia Giuffre]] -- original plaintiff in the underlying defamation case
+- [[Ghislaine Maxwell]] -- original defendant
 
 ## Open questions
 

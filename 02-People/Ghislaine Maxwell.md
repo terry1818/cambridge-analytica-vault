@@ -33,19 +33,19 @@ Born Maisons-Laffitte, France, December 25, 1961. Youngest daughter of media bar
 ## Key facts
 
 - **Convicted on five counts** ([[Maxwell 2021 SDNY Trial]]): sex trafficking of a minor; transporting a minor for criminal sexual activity; conspiracy to entice minors to travel for criminal sex acts; conspiracy to transport minors with intent to engage in criminal sexual activity; conspiracy to commit sex trafficking of a minor. Tier 1.
-- **Operational role per trial evidence** â€” recruiting victims, normalizing the abuse environment, scheduling abuse appointments, participating in some assaults per Carolyn and "Kate" testimony. Tier 1 (sworn trial testimony).
-- **Only four victims testified at trial** â€” "Jane," "Kate," Carolyn, and Annie Farmer. Many other accusers were excluded from the prosecution scope. Tier 1.
+- **Operational role per trial evidence** -- recruiting victims, normalizing the abuse environment, scheduling abuse appointments, participating in some assaults per Carolyn and "Kate" testimony. Tier 1 (sworn trial testimony).
+- **Only four victims testified at trial** -- "Jane," "Kate," Carolyn, and Annie Farmer. Many other accusers were excluded from the prosecution scope. Tier 1.
 - **No co-conspirators charged** in the SDNY case despite the 2007 NPA naming several. Tier 1 (observable from case docket).
 - **Father's death and financial collapse** (1991) preceded her move to NYC and partnership with Epstein. Tier 1 timing; tier 3 on operational implications (see [[Hypothesis - Epstein had intelligence-service connections]]).
 
 ## Connections
 
-- [[Jeffrey Epstein]] â€” partner, principal
-- [[Robert Maxwell]] â€” father; alleged intelligence connections
-- [[Virginia Giuffre]] â€” most public-facing accuser; sued Maxwell for defamation 2015
-- [[Jean-Luc Brunel]] â€” fashion-industry recruiter ally
-- [[Sarah Kellen]] â€” co-conspirator named in 2007 NPA; testified at Maxwell trial under immunity
-- [[Mossad]] â€” see [[Hypothesis - Epstein had intelligence-service connections]] (tier 3)
+- [[Jeffrey Epstein]] -- partner, principal
+- [[Robert Maxwell]] -- father; alleged intelligence connections
+- [[Virginia Giuffre]] -- most public-facing accuser; sued Maxwell for defamation 2015
+- [[Jean-Luc Brunel]] -- fashion-industry recruiter ally
+- [[Sarah Kellen]] -- co-conspirator named in 2007 NPA; testified at Maxwell trial under immunity
+- [[Mossad]] -- see [[Hypothesis - Epstein had intelligence-service connections]] (tier 3)
 
 ## Open questions
 

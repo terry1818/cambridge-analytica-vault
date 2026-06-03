@@ -28,7 +28,7 @@ Reporting that [[Steve Bannon]] had divested his **$1-5 million stake in Cambrid
 
 ## Significance
 
-Published ~four weeks before the global scandal broke. Established **specific financial documentation of Bannons CA role** â€” important for tracking the Mercer-Bannon-CA money flow ([[Connection Mercer to CA money flow]]).
+Published ~four weeks before the global scandal broke. Established **specific financial documentation of Bannons CA role** — important for tracking the Mercer-Bannon-CA money flow ([[Connection Mercer to CA money flow]]).
 
 ## Why this source matters in the vault
 

@@ -11,7 +11,7 @@ aliases: ["The Wexner Foundation"]
 
 # Wexner Foundation
 
-Private philanthropic foundation established 1983 by [[Leslie Wexner]] and Abigail Wexner. Major funder of **Jewish-American leadership development** including the Wexner Israel Fellowship at Harvard Kennedy School (founded 1989) and the Wexner Heritage Program. Operates across substantial Jewish-American and US-Israel philanthropic infrastructure. **Documented to have employed [[Jeffrey Epstein]] in advisory capacity** â€” the foundation was one of the entities through which Epstein's relationship with Wexner operated.
+Private philanthropic foundation established 1983 by [[Leslie Wexner]] and Abigail Wexner. Major funder of **Jewish-American leadership development** including the Wexner Israel Fellowship at Harvard Kennedy School (founded 1989) and the Wexner Heritage Program. Operates across substantial Jewish-American and US-Israel philanthropic infrastructure. **Documented to have employed [[Jeffrey Epstein]] in advisory capacity** -- the foundation was one of the entities through which Epstein's relationship with Wexner operated.
 
 ## Programs (Tier 1)
 
@@ -41,14 +41,14 @@ Per [[Connection - Wexner to Mega Group to Israeli philanthropy]], the Wexner Fo
 
 ## Connections
 
-- [[Leslie Wexner]] â€” founder
-- [[Abigail Wexner]] â€” co-founder
-- [[Jeffrey Epstein]] â€” former advisor; institutional access node
-- [[Mega Group]] â€” Wexner founding membership
-- [[Israeli-American Council]] â€” overlapping Wexner funding
-- [[L Brands]] â€” Wexner corporate vehicle
+- [[Leslie Wexner]] -- founder
+- [[Abigail Wexner]] -- co-founder
+- [[Jeffrey Epstein]] -- former advisor; institutional access node
+- [[Mega Group]] -- Wexner founding membership
+- [[Israeli-American Council]] -- overlapping Wexner funding
+- [[L Brands]] -- Wexner corporate vehicle
 - [[Connection - Wexner to Mega Group to Israeli philanthropy]]
-- [[Harvard Kennedy School]] â€” Wexner Israel Fellowship host institution
+- [[Harvard Kennedy School]] -- Wexner Israel Fellowship host institution
 
 ## Sources
 

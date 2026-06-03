@@ -20,7 +20,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Moms_for_Liberty
 
 Far-right "parental rights" 501(c)(4) founded **January 2021** by three Florida women: **Tiffany Justice** (Indian River County school board), **Tina Descovich** (Brevard County school board), and **Bridget Ziegler** (Sarasota County school board; resigned from M4L amid 2023 scandal). **~115,000 members across ~330 chapters in 48 states** by 2024. **The most operationally consequential school-board-takeover organization in US history.** Targets school-board races, book bans (against LGBTQ+ and Black-history books), CRT restrictions, and curriculum control.
 
-**Heritage Foundation funded**; **Trump 2.0 institutional access** (Tiffany Justice appointed to federal commissions; Trump addressed M4L 2024 + 2025 events). **Bridget Ziegler** is wife of former Florida GOP chair Christian Ziegler (resigned amid 2023 sexual-assault investigation that involved Ziegler family mÃƒÂ©nage-ÃƒÂ -trois revelations - ongoing internal scandal).
+**Heritage Foundation funded**; **Trump 2.0 institutional access** (Tiffany Justice appointed to federal commissions; Trump addressed M4L 2024 + 2025 events). **Bridget Ziegler** is wife of former Florida GOP chair Christian Ziegler (resigned amid 2023 sexual-assault investigation that involved Ziegler family ménage-à-trois revelations - ongoing internal scandal).
 
 ## Identity
 

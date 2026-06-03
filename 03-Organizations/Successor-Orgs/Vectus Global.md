@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Erik Prince's new (March 2025) private security firm; 10-yr Haiti deal; Ecuador alliance; DRC expansion; Constellis-adjacent
 tags: [org, org/private-military, org/erik-prince, era/2025-2026, jurisdiction/international]
@@ -22,7 +22,7 @@ The **operational reconstruction of Prince's mercenary empire** post-Frontier Se
 
 1. Demonstrates Prince's continued global mercenary deployment despite 2023 US Treasury sanctions over China military pilot training
 2. Operates **outside US jurisdictional reach** (Haiti, Ecuador, DRC contracts)
-3. Provides **operational continuity** to the Prince private-military lineage (Blackwater Ã¢â€ â€™ Academi Ã¢â€ â€™ Constellis Ã¢â€ â€™ FSG Ã¢â€ â€™ Vectus)
+3. Provides **operational continuity** to the Prince private-military lineage (Blackwater -- Academi -- Constellis -- FSG -- Vectus)
 4. May provide **foreign deployment capacity for Trump-administration-aligned overseas action** outside formal DoD channels
 
 ## Identity

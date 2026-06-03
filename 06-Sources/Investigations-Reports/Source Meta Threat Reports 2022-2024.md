@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Meta's quarterly Adversarial Threat Reports â€” the primary public-facing index of state-linked influence operations on Meta platforms; campaign-by-campaign takedown disclosures from 2022 onward
+description: Meta's quarterly Adversarial Threat Reports — the primary public-facing index of state-linked influence operations on Meta platforms; campaign-by-campaign takedown disclosures from 2022 onward
 aliases: ["Source: Source Meta Threat Reports 2022-2024"]
 tags: [source, evidence/investigation-report, evidence/corporate-disclosure, topic/info-warfare, topic/disinformation, era/2020-2024, era/2024-present]
 type: source
@@ -25,8 +25,8 @@ A **quarterly disclosure series** from [[Meta]] (Facebook / Instagram parent) re
 
 ## Key claims / findings (recurring report topics)
 
-- **[[Doppelganger]] (Russia):** repeated quarter-on-quarter takedowns documenting the Russian network that clones Western mainstream-media outlets (BBC, Le Monde, Bild, Washington Post, Fox News, etc.) â€” see [[Source EU DisinfoLab 2022 Doppelganger]]
-- **[[Spamouflage Dragonbridge]] (China):** consistent takedown reporting on the China-linked persistent network â€” see [[Source Graphika 2019 Spamouflage Dragon]]
+- **[[Doppelganger]] (Russia):** repeated quarter-on-quarter takedowns documenting the Russian network that clones Western mainstream-media outlets (BBC, Le Monde, Bild, Washington Post, Fox News, etc.) — see [[Source EU DisinfoLab 2022 Doppelganger]]
+- **[[Spamouflage Dragonbridge]] (China):** consistent takedown reporting on the China-linked persistent network — see [[Source Graphika 2019 Spamouflage Dragon]]
 - **Iran-linked operations:** multiple campaigns disclosed across 2022-2024
 - **Cuba, Mexico, Venezuela, Iran, Israel:** smaller but recurring CIB clusters
 - **Generative AI in influence operations:** late-2023 onward reports explicitly track AI-generated text, images, and video in CIB campaigns
@@ -46,7 +46,7 @@ A **quarterly disclosure series** from [[Meta]] (Facebook / Instagram parent) re
 - **Caveats / biases:**
   - **Selection effect:** Meta reports what it removed; campaigns that escaped detection or were tolerated for policy reasons are not in the dataset
   - **Self-interest:** Meta has commercial reasons to demonstrate adversarial takedown competence; some critics argue under-reporting in politically sensitive contexts
-  - **Attribution conservatism:** Meta tends toward "linked to" language rather than "operated by" â€” defensible for legal exposure reasons but limits analytical certainty
+  - **Attribution conservatism:** Meta tends toward "linked to" language rather than "operated by" — defensible for legal exposure reasons but limits analytical certainty
 - **Disputed by:** academic researchers (Briant, Stanford Internet Observatory) have at points argued specific takedowns under-disclosed scale or actor identity
 
 ## Entities mentioned (across the series)
@@ -78,7 +78,7 @@ The **primary public-disclosure anchor** for state-linked influence operations o
 
 - Live URL: <https://about.fb.com/news/tag/coordinated-inauthentic-behavior/>
 - Individual reports also archived at the Meta Newsroom; PDFs typically available
-- For longitudinal analysis, scrape each quarter's report by date â€” Meta hasn't published a consolidated machine-readable index
+- For longitudinal analysis, scrape each quarter's report by date — Meta hasn't published a consolidated machine-readable index
 
 ## Cross-cluster operational position
 

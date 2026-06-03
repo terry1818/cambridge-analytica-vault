@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Micro-timeline of Aleksandr Kogan from Cambridge psychology to GSR data harvest to post-FTC
 tags: [timeline, topic/facebook-data]
@@ -6,22 +6,22 @@ tags: [timeline, topic/facebook-data]
 
 # Micro-Timeline: [[Aleksandr Kogan]]
 
-- `~1985` â€” Born (Moldova)
-- `~2000s` â€” Emigrates to US; later UK academic career
-- `2012-2018` â€” Lecturer at University of Cambridge Department of Psychology
-- `~2013` â€” Visits Saint Petersburg State University
-- `2013` â€” Founds [[Global Science Research (GSR)]]
-- `2013` â€” Launches "This Is Your Digital Life" app
-- `2014` â€” Sells dataset to [[Cambridge Analytica]] / SCL Group
-- `2014-04` â€” Facebook deprecates friends-data API
-- `2015-04` â€” Facebook shuts API entirely
-- `2016-01` â€” Signs Facebook certification that data deleted (later proven false)
-- `2016-2018` â€” Continues at Cambridge; renames himself "Aleksandr Spectre"
-- `2018-03` â€” Exposed in Wylie disclosures
-- `2018-04` â€” Testifies before UK Parliament
-- `2018-06` â€” Departs University of Cambridge
-- `2019-07-24` â€” Accepts FTC consent order: 20-year restrictions on business practices, required deletion of all collected data and derived models
-- `2020-2026` â€” Largely out of public eye; sporadic academic appearances under different framing
+- `~1985` — Born (Moldova)
+- `~2000s` — Emigrates to US; later UK academic career
+- `2012-2018` — Lecturer at University of Cambridge Department of Psychology
+- `~2013` — Visits Saint Petersburg State University
+- `2013` — Founds [[Global Science Research (GSR)]]
+- `2013` — Launches "This Is Your Digital Life" app
+- `2014` — Sells dataset to [[Cambridge Analytica]] / SCL Group
+- `2014-04` — Facebook deprecates friends-data API
+- `2015-04` — Facebook shuts API entirely
+- `2016-01` — Signs Facebook certification that data deleted (later proven false)
+- `2016-2018` — Continues at Cambridge; renames himself "Aleksandr Spectre"
+- `2018-03` — Exposed in Wylie disclosures
+- `2018-04` — Testifies before UK Parliament
+- `2018-06` — Departs University of Cambridge
+- `2019-07-24` — Accepts FTC consent order: 20-year restrictions on business practices, required deletion of all collected data and derived models
+- `2020-2026` — Largely out of public eye; sporadic academic appearances under different framing
 
 ## Vault context and open research threads
 

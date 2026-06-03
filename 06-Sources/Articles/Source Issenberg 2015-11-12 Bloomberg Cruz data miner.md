@@ -20,7 +20,7 @@ Issenberg, Sasha. (2015-11-12). "Cruz-Connected Data Miner Aims to Get Inside U.
 
 ## What this article established
 
-Detailed profile of CAs methodology by **Sasha Issenberg** â€” the leading US journalist on data-driven campaigning (author of *The Victory Lab*). Issenberg documented:
+Detailed profile of CAs methodology by **Sasha Issenberg** — the leading US journalist on data-driven campaigning (author of *The Victory Lab*). Issenberg documented:
 
 - CAs psychographic targeting approach in detail
 - The "5,000 data points on every adult" marketing claim

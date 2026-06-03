@@ -20,7 +20,7 @@ Briant, Emma L. (2015). *Propaganda and Counter-Terrorism: Strategies for Global
 
 ## What it covers
 
-Pre-CA-scandal academic study of UK/US counter-terrorism propaganda integrating interview research with [[SCL Group]] employees. Briant had **direct access to SCL personnel** as part of her academic work â€” making her one of the **earliest academic experts on SCL** before the firm became famous.
+Pre-CA-scandal academic study of UK/US counter-terrorism propaganda integrating interview research with [[SCL Group]] employees. Briant had **direct access to SCL personnel** as part of her academic work — making her one of the **earliest academic experts on SCL** before the firm became famous.
 
 ## Significance
 

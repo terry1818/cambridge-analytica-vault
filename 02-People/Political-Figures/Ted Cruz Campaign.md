@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: 2016 Cruz presidential campaign; first major US presidential CA client; paid CA 5.8M total
 tags: [org, org/campaign, topic/cambridge-analytica, topic/2016-us-election, era/2014-2016, era/2016-2018, jurisdiction/us]
@@ -22,7 +22,7 @@ The 2016 presidential campaign of US Senator [[Ted Cruz]] (R-TX). Operationally 
 - **2015-07:** Cruz partnership with CA publicly disclosed ([[Source Vogel 2015-07-07 Politico Cruz psychographic]])
 - **2015-10:** Washington Post reports $750K already paid to CA ([[Source Sellers 2015-10-19 WaPo Cruz $750K]])
 - **2015-11:** Bloomberg profile of CA's Cruz work ([[Source Issenberg 2015-11-12 Bloomberg Cruz data miner]])
-- **2015-12-11:** [[Source Davies 2015-12-11 Guardian]] â€” first major exposÃ© on Cruz/CA Facebook data use
+- **2015-12-11:** [[Source Davies 2015-12-11 Guardian]] -- first major exposé on Cruz/CA Facebook data use
 - **2016-02-20:** Cruz finishes 3rd in South Carolina primary; campaign drops CA shortly after, reportedly concluding psychographic models had failed to identify likely Cruz supporters
 - **2016-05-03:** Cruz suspends campaign after losing Indiana primary to Trump
 
@@ -38,10 +38,10 @@ After Cruz dropped out (May 2016), Mercers transferred CA support to Trump campa
 
 ## Senior figures
 
-- **Ted Cruz** â€” candidate
-- **Jeff Roe** â€” campaign manager
-- **Jason Miller** â€” communications director
-- **Chad Sweet** â€” campaign chairman
+- **Ted Cruz** -- candidate
+- **Jeff Roe** -- campaign manager
+- **Jason Miller** -- communications director
+- **Chad Sweet** -- campaign chairman
 
 ## Connections
 

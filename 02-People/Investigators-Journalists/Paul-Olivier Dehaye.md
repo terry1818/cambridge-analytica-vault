@@ -27,16 +27,16 @@ Swiss-based mathematician (born Belgium). **Identified Cambridge Analytica's vio
 ## Methodology
 
 - Used EU GDPR data-subject rights as forensic tools
-- Mathematical analysis of CA's response to data requests Ã¢â‚¬" identified non-compliance patterns
+- Mathematical analysis of CA's response to data requests -" identified non-compliance patterns
 - Strategic litigation guidance to Carroll and other claimants
 - Public-interest digital-rights infrastructure development
 
 ## Related entities
 
-- [[David Carroll]] Ã¢â‚¬" key collaboration
-- [[Cambridge Analytica]] Ã¢â‚¬" investigation target
-- [[Information Commissioner's Office]] Ã¢â‚¬" enforcement counterpart
-- [[Source The Great Hack Netflix 2019]] Ã¢â‚¬" featured
+- [[David Carroll]] -" key collaboration
+- [[Cambridge Analytica]] -" investigation target
+- [[Information Commissioner's Office]] -" enforcement counterpart
+- [[Source The Great Hack Netflix 2019]] -" featured
 
 ## Sources
 

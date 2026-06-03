@@ -29,9 +29,9 @@ American entrepreneur and political figure. Founder of **Roivant Sciences** (pha
 
 ## DOGE co-leader
 
-- **2024-11** â€” Trump announced Ramaswamy + Musk would co-lead DOGE
-- **2025-01** â€” DOGE formally established via executive order
-- **2025-01** â€” Ramaswamy departed DOGE within days of inauguration to focus on Ohio Governor run
+- **2024-11** -- Trump announced Ramaswamy + Musk would co-lead DOGE
+- **2025-01** -- DOGE formally established via executive order
+- **2025-01** -- Ramaswamy departed DOGE within days of inauguration to focus on Ohio Governor run
 - Tension between Ramaswamy and Musk reportedly contributed to departure
 - Specific reasons for early departure include controversy over H-1B visa comments
 

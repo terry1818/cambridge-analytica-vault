@@ -18,7 +18,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/America_First_Legal
 
 ## Summary
 
-Conservative legal advocacy 501(c)(3) founded **April 2021 by [[Stephen Miller]]** during the Biden interregnum. **Branded as "the conservative ACLU"** - operating as multi-state litigation engine pushing right-wing legal priorities outside government. **[[Project 2025]] advisory board member** (later scrubbed from public website after Trump campaign distancing). **Operationally bridge between Trump 1.0 personnel + Trump 2.0 personnel** Ã¢â‚¬â€ staffed by ex-Trump-1.0 officials.
+Conservative legal advocacy 501(c)(3) founded **April 2021 by [[Stephen Miller]]** during the Biden interregnum. **Branded as "the conservative ACLU"** - operating as multi-state litigation engine pushing right-wing legal priorities outside government. **[[Project 2025]] advisory board member** (later scrubbed from public website after Trump campaign distancing). **Operationally bridge between Trump 1.0 personnel + Trump 2.0 personnel** -- staffed by ex-Trump-1.0 officials.
 
 **Key litigation areas:**
 - Anti-DEI lawsuits (corporate diversity programs)
@@ -50,17 +50,17 @@ Conservative legal advocacy 501(c)(3) founded **April 2021 by [[Stephen Miller]]
 
 ## Documented litigation impact
 
-- **Anti-DEI corporate lawsuits** Ã¢â‚¬â€ pushed major US corporations to scale back DEI programs
-- **Multi-state voter-roll lawsuits** Ã¢â‚¬â€ pre-staged for Trump 2.0 DOJ to pursue
-- **Anti-Biden-admin lawsuits** Ã¢â‚¬â€ kept Trump-aligned legal apparatus operational
-- **EEOC complaints campaign** Ã¢â‚¬â€ flooded EEOC with anti-DEI complaints
+- **Anti-DEI corporate lawsuits** -- pushed major US corporations to scale back DEI programs
+- **Multi-state voter-roll lawsuits** -- pre-staged for Trump 2.0 DOJ to pursue
+- **Anti-Biden-admin lawsuits** -- kept Trump-aligned legal apparatus operational
+- **EEOC complaints campaign** -- flooded EEOC with anti-DEI complaints
 
 ## How AFL fits the architecture
 
 - **Legal/litigation arm** parallel to [[Alliance Defending Freedom]] (Christian-Right legal) + [[Federalist Society]] (judicial-pipeline)
-- **Trump-personnel-specific** Ã¢â‚¬â€ AFL is more directly tied to Trump 1.0/2.0 alumni than ADF or FedSoc
-- **Project 2025 alignment** Ã¢â‚¬â€ both AFL and P2025 share personnel + priorities
-- **DOJ-equivalent capacity** during Biden interregnum Ã¢â‚¬â€ kept Trump legal apparatus warm
+- **Trump-personnel-specific** -- AFL is more directly tied to Trump 1.0/2.0 alumni than ADF or FedSoc
+- **Project 2025 alignment** -- both AFL and P2025 share personnel + priorities
+- **DOJ-equivalent capacity** during Biden interregnum -- kept Trump legal apparatus warm
 
 ## Connection to vault entities
 

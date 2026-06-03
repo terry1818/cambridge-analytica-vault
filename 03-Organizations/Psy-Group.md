@@ -34,12 +34,12 @@ Psy-Group exemplifies the "Israeli private intelligence firm performing election
 
 ## Connections
 
-- [[Joel Zamel]] â€” founder
-- [[George Nader]] â€” UAE-connected operative; Trump campaign contact
-- [[Erik Prince]] â€” adjacent figure
-- [[Donald Trump]] Â· [[Trump 2016 Campaign]] â€” target client
-- [[Mueller Investigation]] â€” investigator
-- [[Black Cube]] Â· [[Team Jorge]] â€” parallel Israeli intel-for-hire firms
+- [[Joel Zamel]] -- founder
+- [[George Nader]] -- UAE-connected operative; Trump campaign contact
+- [[Erik Prince]] -- adjacent figure
+- [[Donald Trump]] · [[Trump 2016 Campaign]] -- target client
+- [[Mueller Investigation]] -- investigator
+- [[Black Cube]] · [[Team Jorge]] -- parallel Israeli intel-for-hire firms
 - [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]]
 - [[Seychelles January 2017 meeting]]
 

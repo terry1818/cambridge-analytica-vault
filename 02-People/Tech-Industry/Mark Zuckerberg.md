@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Facebook/Meta CEO; April 2018 Congress testimony; central figure in scandal response
 tags: [person, role/executive, topic/facebook-data, topic/cambridge-analytica, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -20,42 +20,42 @@ CEO and co-founder of [[Facebook]] / [[Meta]] (renamed Meta Platforms 2021). Co-
 
 ## CA scandal response (2018)
 
-- **March 21, 2018** â€” first public statement on CA scandal (after several days of silence), apologizing on CNN
-- **March 25, 2018** â€” published personal apology letter in newspapers including NYT, WaPo, Sunday Times
-- **April 10-11, 2018** â€” testified before **US Senate Commerce and Judiciary Committees** (combined hearing) and then **US House Energy and Commerce Committee** â€” total ~10 hours of testimony across two days
-- **May 22, 2018** â€” testified before European Parliament
+- **March 21, 2018** -- first public statement on CA scandal (after several days of silence), apologizing on CNN
+- **March 25, 2018** -- published personal apology letter in newspapers including NYT, WaPo, Sunday Times
+- **April 10-11, 2018** -- testified before **US Senate Commerce and Judiciary Committees** (combined hearing) and then **US House Energy and Commerce Committee** -- total ~10 hours of testimony across two days
+- **May 22, 2018** -- testified before European Parliament
 - Apologized: "It was my mistake, and Im sorry. I started Facebook, I run it, and Im responsible for what happens here."
 - Said Facebook first learned of Kogan-CA data sharing in 2015
 - Failed to acknowledge fully that Facebook had taken no enforcement action when it learned in 2015 and that data had not actually been deleted despite certifications
 
 ## FTC enforcement
 
-- 2019-07 â€” FTC voted 3-2 to approve **$5B fine on Facebook** â€” largest US privacy fine in history
+- 2019-07 -- FTC voted 3-2 to approve **$5B fine on Facebook** -- largest US privacy fine in history
 - FTC settlement included new 20-year consent decree
 - Created independent Privacy Committee on Facebooks board
 - Required affirmative consent for facial recognition
-- **Dissenting Commissioner Rebecca Slaughter argued the FTC should have sued Zuckerberg personally** â€” a position that became a recurring policy criticism
+- **Dissenting Commissioner Rebecca Slaughter argued the FTC should have sued Zuckerberg personally** -- a position that became a recurring policy criticism
 
 ## Continuing scandals
 
-- 2020-2021 â€” Frances Haugen disclosures (internal documents on Instagrams effects on teenage girls, etc.)
-- 2021-10 â€” rebranded Facebook â†’ Meta Platforms; pivoted to metaverse
-- 2022-2023 â€” major layoffs; Reality Labs (metaverse) losses
-- 2024-2025 â€” pivoted to AI; major investment in Llama models
+- 2020-2021 -- Frances Haugen disclosures (internal documents on Instagrams effects on teenage girls, etc.)
+- 2021-10 -- rebranded Facebook → Meta Platforms; pivoted to metaverse
+- 2022-2023 -- major layoffs; Reality Labs (metaverse) losses
+- 2024-2025 -- pivoted to AI; major investment in Llama models
 - Continued political/regulatory pressure across multiple jurisdictions
 
 ## Political evolution
 
 - Initially low-profile politically
-- 2016-2020 â€” bipartisan donor; opposed Trump immigration restrictions
-- 2022-2024 â€” shifted toward less political engagement
-- 2024-2025 â€” accommodation with Trump second term; appointed Dana White and Tom Brady to Meta board (Trump-aligned figures); ended some content moderation programs
+- 2016-2020 -- bipartisan donor; opposed Trump immigration restrictions
+- 2022-2024 -- shifted toward less political engagement
+- 2024-2025 -- accommodation with Trump second term; appointed Dana White and Tom Brady to Meta board (Trump-aligned figures); ended some content moderation programs
 
 ## Connections
 
 - **Co-founders:** Eduardo Saverin, Dustin Moskovitz, Chris Hughes
 - **COO until 2022:** Sheryl Sandberg
-- **Companies:** Facebook â†’ Meta
+- **Companies:** Facebook → Meta
 - **Charitable:** Chan Zuckerberg Initiative (with wife Priscilla Chan)
 
 ## Sources

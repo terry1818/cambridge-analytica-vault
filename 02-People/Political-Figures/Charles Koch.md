@@ -19,7 +19,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Charles_Koch
 
 Chairman of [[Koch Industries]]; ~$60B+ net worth. Co-architect (with late brother David Koch, d. 2019) of **the most consequential 50-year conservative infrastructure investment program in US history**. Funded the creation or substantial growth of: [[Americans for Prosperity]], Cato Institute, Mercatus Center, [[State Policy Network]], [[ALEC]], [[Heritage Foundation]] (substantial donor), [[DonorsTrust]] / [[Donors Capital Fund]] DAFs, and ~360 university programs at ~300 institutions. **More structurally consequential than any single member of the [[Council for National Policy]]** because Koch network operates the infrastructure that CNP coordinates.
 
-**Post-2016 nuance:** Charles Koch publicly distanced from Trump 2016 (refused to endorse). Re-engaged 2024 via [[Americans for Prosperity Action]] PAC endorsing Nikki Haley (lost primary; Koch then largely sat out 2024 general election). **Koch network NOT identical to MAGA coalition** Ã¢â‚¬â€ significant tension over immigration restriction, tariffs, foreign policy. **But Koch infrastructure remains structurally essential to overall coalition.**
+**Post-2016 nuance:** Charles Koch publicly distanced from Trump 2016 (refused to endorse). Re-engaged 2024 via [[Americans for Prosperity Action]] PAC endorsing Nikki Haley (lost primary; Koch then largely sat out 2024 general election). **Koch network NOT identical to MAGA coalition** -- significant tension over immigration restriction, tariffs, foreign policy. **But Koch infrastructure remains structurally essential to overall coalition.**
 
 ## Key facts
 
@@ -46,10 +46,10 @@ Charles Koch rebranded the Koch network as **Stand Together** in 2019. Operating
 
 Documented Charles Koch / Koch-network disagreement with Trump 2.0 priorities:
 
-- **Immigration restriction** Ã¢â‚¬â€ Koch favors more legal immigration; opposes mass deportation
-- **Tariffs** Ã¢â‚¬â€ Koch opposes Trump tariff regime
-- **Foreign policy** Ã¢â‚¬â€ Koch network more interventionist than Trump-MAGA isolationism
-- **Industrial policy** Ã¢â‚¬â€ Koch opposes Trump-era subsidies
+- **Immigration restriction** -- Koch favors more legal immigration; opposes mass deportation
+- **Tariffs** -- Koch opposes Trump tariff regime
+- **Foreign policy** -- Koch network more interventionist than Trump-MAGA isolationism
+- **Industrial policy** -- Koch opposes Trump-era subsidies
 
 **But Koch infrastructure (ALEC, SPN, AFP, Heritage funding) remains operationally essential to coalition.**
 

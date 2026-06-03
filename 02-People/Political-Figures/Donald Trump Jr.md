@@ -18,7 +18,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Donald_Trump_Jr.
 
 Eldest son of [[Donald Trump]]; executive vice president of the **Trump Organization**; major surrogate and operative across Trump 2016, 2020, and 2024 campaigns. Subject of significant scrutiny in [[Mueller Investigation]] and [[Source Senate Intel Vol 5 2020]] over his role in two documented June and August 2016 Trump Tower meetings with foreign-adjacent actors.
 
-## June 9, 2016 â€” Trump Tower / Veselnitskaya meeting
+## June 9, 2016 -- Trump Tower / Veselnitskaya meeting
 
 - Email exchange beforehand explicitly framed by promoter Rob Goldstone as offering "**information that would incriminate Hillary**" as "**part of Russia and its government's support for Mr Trump**"
 - Trump Jr. replied "If it's what you say I love it especially later in the summer"
@@ -26,7 +26,7 @@ Eldest son of [[Donald Trump]]; executive vice president of the **Trump Organiza
 - Subject of extensive Mueller investigation
 - No criminal charges filed; Mueller documented but did not prosecute
 
-## August 3, 2016 â€” Trump Tower / Zamel meeting
+## August 3, 2016 -- Trump Tower / Zamel meeting
 
 - Documented in [[Source Mueller Report 2019]] and [[Trump Tower August 2016 meeting]]
 - Attendees: Trump Jr., [[Joel Zamel]] ([[Psy-Group]] / [[Wikistrat]] founder), [[Erik Prince]], [[George Nader]] (UAE backchannel)

@@ -16,7 +16,7 @@ Donors Trust (and its affiliated Donors Capital Fund) is a Virginia-based donor-
 
 A donor contributes to a DAF (Donors Trust) and receives an immediate charitable tax deduction. The donor then "advises" Donors Trust on which 501(c)(3) charities should receive distributions from the contributed funds. The recipient charity sees the grant as coming from Donors Trust rather than from the original donor. The result: the original donor's identity is operationally invisible in the recipient's IRS 990 filings, in publicly-available foundation-grant databases, and in journalistic reconstruction of conservative-movement funding flows.
 
-The mechanism is not specific to conservative giving â€” DAFs are used across the political spectrum. The operational distinction of Donors Trust is its near-exclusive focus on conservative-movement recipients, making it the principal infrastructure for conservative-movement dark-money flows.
+The mechanism is not specific to conservative giving -- DAFs are used across the political spectrum. The operational distinction of Donors Trust is its near-exclusive focus on conservative-movement recipients, making it the principal infrastructure for conservative-movement dark-money flows.
 
 ## Documented funding flows
 

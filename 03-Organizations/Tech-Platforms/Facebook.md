@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Meta Platforms - social network whose Graph API v1 enabled CA harvest; $5B FTC fine; $725M class settlement
 tags: [org, org/tech-platform, topic/facebook-data, topic/cambridge-analytica, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -25,8 +25,8 @@ Facebooks **[[Facebook Graph API v1.0]] friends-data permission** (2010-2015) wa
 - **Patented similar personality-prediction technology in 2012** (US Patent 8,825,764)
 - **Knew of CAs "improper data-gathering practices" before December 2015** per March 2019 court filing by US AG for DC
 - Received signed certifications in January 2016 from Nix and Kogan that data was deleted (later proven false)
-- Deprecated friends-data API in April 2014; shut it down April 2015 â€” but data already harvested remained in developers hands
-- Hired Joseph Chancellor (GSR co-founder) as quantitative researcher in 2015 â€” kept him through 2018 scandal
+- Deprecated friends-data API in April 2014; shut it down April 2015 -- but data already harvested remained in developers hands
+- Hired Joseph Chancellor (GSR co-founder) as quantitative researcher in 2015 -- kept him through 2018 scandal
 
 ## Financial consequences
 
@@ -35,23 +35,23 @@ Facebooks **[[Facebook Graph API v1.0]] friends-data permission** (2010-2015) wa
 | 2018 | Market cap drop in week after scandal | ~$134 billion |
 | 2019-07 | FTC fine | **$5 billion** (largest US privacy fine) |
 | 2019-07 | SEC settlement (misleading investors) | $100 million |
-| 2019-10 | UK ICO fine | Â£500,000 |
+| 2019-10 | UK ICO fine | £500,000 |
 | 2022-12 | Meta class action settlement (US) | **$725 million** |
-| 2023+ | Multiple EU fines (Irish DPC) | â‚¬1.2B and continuing |
+| 2023+ | Multiple EU fines (Irish DPC) | €1.2B and continuing |
 
 **Total CA-related liabilities: ~$6.35 billion across jurisdictions and forums.**
 
 ## Other major consequences
 
-- 2018-04 â€” Applied EU GDPR provisions globally (not just EU)
-- 2018-04 â€” Established Social Science One research consortium
-- 2018-04 â€” Mark Zuckerberg testifies before US Congress
-- 2018-05 â€” Testifies before European Parliament
-- 2019 â€” FTC 20-year consent decree
-- 2019 â€” Independent Privacy Committee created on Facebooks board
-- 2020-2021 â€” Frances Haugen disclosures
-- 2021-10 â€” Rebranded as Meta
-- 2024+ â€” AI pivot; major Llama model investments
+- 2018-04 -- Applied EU GDPR provisions globally (not just EU)
+- 2018-04 -- Established Social Science One research consortium
+- 2018-04 -- Mark Zuckerberg testifies before US Congress
+- 2018-05 -- Testifies before European Parliament
+- 2019 -- FTC 20-year consent decree
+- 2019 -- Independent Privacy Committee created on Facebooks board
+- 2020-2021 -- Frances Haugen disclosures
+- 2021-10 -- Rebranded as Meta
+- 2024+ -- AI pivot; major Llama model investments
 
 ## Adversarial Threat Reports
 
@@ -64,7 +64,7 @@ Since 2022, Meta publishes quarterly Adversarial Threat Reports documenting coor
 ## Connections
 
 - **CEO:** [[Mark Zuckerberg]]
-- **CA scandal mechanism:** [[Facebook Graph API v1.0]] â†’ [[Global Science Research (GSR)]] â†’ [[Cambridge Analytica]]
+- **CA scandal mechanism:** [[Facebook Graph API v1.0]] → [[Global Science Research (GSR)]] → [[Cambridge Analytica]]
 - **Board (CA era):** [[Peter Thiel]] (2005-2022)
 - **Major regulator:** US FTC, Irish DPC, UK ICO
 

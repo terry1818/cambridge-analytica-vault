@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: 2019 FTC administrative complaint against Cambridge Analytica - 20-year restrictions on Nix and Kogan
 tags: [event, topic/cambridge-analytica, era/2018-2020, jurisdiction/us]
@@ -45,7 +45,7 @@ Per [[Source FTC Complaint Cambridge Analytica 2019]]:
 
 ## Significance
 
-The FTC consent orders are the **primary US enforcement actions against the individuals**. The 20-year scope is unusually long. The required deletion of "work product" (derived models, not just raw data) was a **novel approach to data-rights enforcement** â€” recognizing that even if raw data is deleted, models trained on that data preserve its predictive value.
+The FTC consent orders are the **primary US enforcement actions against the individuals**. The 20-year scope is unusually long. The required deletion of "work product" (derived models, not just raw data) was a **novel approach to data-rights enforcement** -- recognizing that even if raw data is deleted, models trained on that data preserve its predictive value.
 
 Whether the deletion was actually carried out is not publicly verifiable. The FTC has not, as of 2026, published any audit confirming destruction.
 
@@ -56,7 +56,7 @@ Whether the deletion was actually carried out is not publicly verifiable. The FT
 | FTC Facebook fine | 2019-07-23 | $5 billion |
 | **FTC vs CA + Nix + Kogan** | **2019-07-24** | 20-year restrictions |
 | SEC Facebook settlement | 2019-07-24 | $100 million |
-| UK ICO Facebook fine | 2019-10 | Â£500,000 |
+| UK ICO Facebook fine | 2019-10 | £500,000 |
 | Meta class action | 2022-12 | $725 million |
 
 ## Connections

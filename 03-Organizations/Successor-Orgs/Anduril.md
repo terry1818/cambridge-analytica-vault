@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Defense AI startup founded by Palmer Luckey; Thiel-backed via Founders Fund; central to Trump 2.0 defense procurement
 tags: [org, org/military-contractor, topic/tech-right, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
@@ -16,24 +16,24 @@ wikipedia_url: https://en.wikipedia.org/wiki/Anduril_Industries
 
 ## Summary
 
-US defense technology company founded in **2017** by **[[Palmer Luckey]]** (creator of Oculus VR; sold to Facebook 2014; fired by Facebook 2017 after controversies including Trump support). Named after the sword "AndÃºril" from *The Lord of the Rings*. Major investors include [[Founders Fund]] / [[Peter Thiel]]; co-founders include **Trae Stephens** (Founders Fund partner). Specializes in **autonomous weapons systems, AI-driven surveillance, and defense software**.
+US defense technology company founded in **2017** by **[[Palmer Luckey]]** (creator of Oculus VR; sold to Facebook 2014; fired by Facebook 2017 after controversies including Trump support). Named after the sword "Andúril" from *The Lord of the Rings*. Major investors include [[Founders Fund]] / [[Peter Thiel]]; co-founders include **Trae Stephens** (Founders Fund partner). Specializes in **autonomous weapons systems, AI-driven surveillance, and defense software**.
 
 ## Product portfolio
 
-- **Lattice** â€” AI-driven defense command/control software platform
-- **Anvil** â€” counter-drone system
-- **Ghost** â€” small autonomous helicopter
-- **Roadrunner** â€” autonomous interceptor
-- **Pulsar** â€” electronic warfare platform
-- **Sentry Tower** â€” autonomous border surveillance
+- **Lattice** -- AI-driven defense command/control software platform
+- **Anvil** -- counter-drone system
+- **Ghost** -- small autonomous helicopter
+- **Roadrunner** -- autonomous interceptor
+- **Pulsar** -- electronic warfare platform
+- **Sentry Tower** -- autonomous border surveillance
 - **Maritime autonomous systems**
 
 ## Government contracts
 
 Anduril has rapidly become **one of the most successful defense-startup contractors** of the post-2017 era:
 
-- **US Customs and Border Protection** â€” border surveillance towers
-- **US Department of Defense** â€” multiple major contracts
+- **US Customs and Border Protection** -- border surveillance towers
+- **US Department of Defense** -- multiple major contracts
 - **US Air Force Collaborative Combat Aircraft** program
 - **UK Ministry of Defence**
 - **Australian, Ukrainian** government contracts

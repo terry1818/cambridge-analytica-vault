@@ -17,7 +17,7 @@ A connection note documenting the [[Conservative Political Action Conference]] (
 
 **[[CPAC Hungary]] (since 2022):** The first European CPAC, launched 2022 with substantial [[Viktor Orban]] / Fidesz coordination. The annual Budapest event has substantially integrated Hungarian-government leadership with US conservative-movement leadership including [[Steve Bannon]], [[Tucker Carlson]] (multiple visits), [[Kari Lake]], Project 2025-affiliated figures, and broader European populist-right leadership.
 
-**CPAC Brazil (since 2019):** Launched in SÃ£o Paulo with substantial [[Jair Bolsonaro]] / [[Eduardo Bolsonaro]] coordination. The Brazilian CPAC has substantially shaped Brazilian right-wing coordination across the 2019-2022 Bolsonaro administration and the post-2022 continuing operational period.
+**CPAC Brazil (since 2019):** Launched in São Paulo with substantial [[Jair Bolsonaro]] / [[Eduardo Bolsonaro]] coordination. The Brazilian CPAC has substantially shaped Brazilian right-wing coordination across the 2019-2022 Bolsonaro administration and the post-2022 continuing operational period.
 
 **CPAC Australia (since 2019):** Sydney-based; substantial coordination with Australian Liberal Party right wing and adjacent infrastructure.
 

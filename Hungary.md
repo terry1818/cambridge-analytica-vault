@@ -11,27 +11,27 @@ References to "Hungary" in this vault point to multiple specific entities:
 
 ## Political party
 
-- **[[Fidesz]]** Ã¢â‚¬â€ Viktor OrbÃƒÂ¡n's party; governed Hungary 2010-2024
+- **[[Fidesz]]** -- Viktor Orbán's party; governed Hungary 2010-2024
 
 ## Person
 
-- **[[Viktor Orban]]** Ã¢â‚¬â€ Hungarian PM 1998-2002 + 2010-2024; institutional-capture template architect
+- **[[Viktor Orban]]** -- Hungarian PM 1998-2002 + 2010-2024; institutional-capture template architect
 
 ## Coordination infrastructure
 
-- **[[CPAC International]]** Ã¢â‚¬â€ CPAC Hungary franchise (5 editions 2022-2026); documented Hungarian-taxpayer-funded operations
-- **[[National Conservatism]]** Ã¢â‚¬â€ Hazony-organized international circuit with strong Hungary integration
+- **[[CPAC International]]** -- CPAC Hungary franchise (5 editions 2022-2026); documented Hungarian-taxpayer-funded operations
+- **[[National Conservatism]]** -- Hazony-organized international circuit with strong Hungary integration
 
 ## Concept references
 
-- [[International Parallel Networks]] Ã¢â‚¬â€ Hungary as international right-wing alliance node
-- [[Lens - 2024-2026 Power Map]] Ã¢â‚¬â€ Hungary as institutional-capture template for US Project 2025 + COS
+- [[International Parallel Networks]] -- Hungary as international right-wing alliance node
+- [[Lens - 2024-2026 Power Map]] -- Hungary as institutional-capture template for US Project 2025 + COS
 
 ## Other Hungary-related references in vault
 
-- [[Tucker Carlson]] Ã¢â‚¬â€ Hungary residency stints; OrbÃƒÂ¡n amplification
-- [[J.D. Vance]] Ã¢â‚¬â€ Hungary-favorable framing
-- [[Source Balkan Insight CPAC Hungary 2026]] + others Ã¢â‚¬â€ source material
+- [[Tucker Carlson]] -- Hungary residency stints; Orbán amplification
+- [[J.D. Vance]] -- Hungary-favorable framing
+- [[Source Balkan Insight CPAC Hungary 2026]] + others -- source material
 
 
 ## Vault context

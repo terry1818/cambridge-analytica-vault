@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: FTX founder; convicted of fraud 2023; was largest Effective Altruism donor; major Anthropic early investor
 tags: [person, role/executive, role/donor-funder, topic/tech-right, era/2018-2020, era/2020-2024, jurisdiction/us]
@@ -37,7 +37,7 @@ SBF was the **largest single donor to the Effective Altruism movement** during 2
 - After FTX collapse, the Anthropic stake became a **bankruptcy estate asset**
 - 2024: Anthropic stake was sold by the FTX bankruptcy estate for substantially higher than original investment, recovering significant value for FTX creditors
 
-This means Anthropic â€” positioned as the "AI safety alternative" to OpenAI â€” was **substantially funded by what turned out to be misappropriated FTX customer funds**.
+This means Anthropic -- positioned as the "AI safety alternative" to OpenAI -- was **substantially funded by what turned out to be misappropriated FTX customer funds**.
 
 ## Political donations
 
@@ -52,7 +52,7 @@ After collapse, most of these donations were returned or clawed back via bankrup
 
 ## Connection to broader vault story
 
-SBF's story illustrates the **EA â†’ Tech ecosystem â†’ AI lab funding pipeline**:
+SBF's story illustrates the **EA → Tech ecosystem → AI lab funding pipeline**:
 
 1. EA movement provided ideological framework for "longtermism" / AI safety
 2. EA-aligned wealthy donors (including SBF) funded AI safety research

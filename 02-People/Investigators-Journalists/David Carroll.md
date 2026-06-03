@@ -30,12 +30,12 @@ Carroll's case **established the legal viability of using EU/UK GDPR-era data-ri
 
 ## Related entities
 
-- [[Cambridge Analytica]] Ã¢â‚¬" defendant
-- [[Paul-Olivier Dehaye]] Ã¢â‚¬" data-rights collaborator
-- [[Brittany Kaiser]] Ã¢â‚¬" Great Hack co-protagonist
-- [[Christopher Wylie]] Ã¢â‚¬" parallel whistleblower
-- [[Information Commissioner's Office]] (UK ICO) Ã¢â‚¬" enforcement counterpart
-- [[Source The Great Hack Netflix 2019]] Ã¢â‚¬" featured
+- [[Cambridge Analytica]] -" defendant
+- [[Paul-Olivier Dehaye]] -" data-rights collaborator
+- [[Brittany Kaiser]] -" Great Hack co-protagonist
+- [[Christopher Wylie]] -" parallel whistleblower
+- [[Information Commissioner's Office]] (UK ICO) -" enforcement counterpart
+- [[Source The Great Hack Netflix 2019]] -" featured
 
 ## Sources
 

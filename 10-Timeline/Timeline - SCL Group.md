@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Micro-timeline of SCL Group - 1990 to present including Emic continuity
 tags: [timeline, topic/scl-group]
@@ -6,25 +6,25 @@ tags: [timeline, topic/scl-group]
 
 # Micro-Timeline: [[SCL Group]]
 
-- `1990` â€” [[Nigel Oakes]] founds Behavioural Dynamics Institute (BDI)
-- `1993` â€” Strategic Communication Laboratories established
-- `1994` â€” First political/electoral campaigns claimed
-- `1990s-2000s` â€” Defense contracting work for US DoD, UK MoD
-- `2005-07-20` â€” SCL Ltd incorporated at Companies House
-- `2005-09-19` â€” [[Source Weinberger 2005 Slate]] first major exposÃ©
-- `2005` â€” DSEI demo of mass-deception capability
-- `2009-2012` â€” SCL India engagements (6 state elections claimed)
-- `2010` â€” Trinidad "Do So!" campaign
-- `2013-01` â€” Subsidiary [[Cambridge Analytica]] formed
-- `2013-2017` â€” SCL Defence parallel work
-- `2017-08-11` â€” [[Emerdata Limited]] formed as parent acquisition vehicle
-- `2018-05-01` â€” SCL Group + CA file for insolvency
-- `2018-07` â€” Auspex launched
-- `2019-07` â€” Emerdata "fully acquired" SCL/CA assets
-- `2020-09-14` â€” Nix UK director disqualification
-- `2020+` â€” **Emic** (ex-SCL Defence staff) continues government work (per Briant OCCRP 2020-10-12)
-- `2020+` â€” Crow Trading Ltd Bahrain (Egyptian behavioral psychology)
-- `2020+` â€” Cairo office post-COVID
+- `1990` — [[Nigel Oakes]] founds Behavioural Dynamics Institute (BDI)
+- `1993` — Strategic Communication Laboratories established
+- `1994` — First political/electoral campaigns claimed
+- `1990s-2000s` — Defense contracting work for US DoD, UK MoD
+- `2005-07-20` — SCL Ltd incorporated at Companies House
+- `2005-09-19` — [[Source Weinberger 2005 Slate]] first major exposé
+- `2005` — DSEI demo of mass-deception capability
+- `2009-2012` — SCL India engagements (6 state elections claimed)
+- `2010` — Trinidad "Do So!" campaign
+- `2013-01` — Subsidiary [[Cambridge Analytica]] formed
+- `2013-2017` — SCL Defence parallel work
+- `2017-08-11` — [[Emerdata Limited]] formed as parent acquisition vehicle
+- `2018-05-01` — SCL Group + CA file for insolvency
+- `2018-07` — Auspex launched
+- `2019-07` — Emerdata "fully acquired" SCL/CA assets
+- `2020-09-14` — Nix UK director disqualification
+- `2020+` — **Emic** (ex-SCL Defence staff) continues government work (per Briant OCCRP 2020-10-12)
+- `2020+` — Crow Trading Ltd Bahrain (Egyptian behavioral psychology)
+- `2020+` — Cairo office post-COVID
 
 ## Vault context and open research threads
 

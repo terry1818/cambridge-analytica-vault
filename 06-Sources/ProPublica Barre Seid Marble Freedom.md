@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: ProPublica foundational exposÃƒÂ© of the Barre Seid 1.6B donation to Marble Freedom Trust
+description: ProPublica foundational exposé of the Barre Seid 1.6B donation to Marble Freedom Trust
 aliases: ["Source: ProPublica Barre Seid Marble Freedom", "Source ProPublica Barre Seid Marble Freedom"]
 tags: [source, evidence/marble-freedom, evidence/seid, evidence/leonard-leo, era/2022]
 type: source
@@ -22,7 +22,7 @@ Andy Kroll + Andrea Bernstein + Ilya Marritz. (2022-08-22). *Barre Seid Donated 
 
 ## What it is
 
-ProPublica foundational exposÃƒÂ© of the Barre Seid 1.6B donation to Marble Freedom Trust
+ProPublica foundational exposé of the Barre Seid 1.6B donation to Marble Freedom Trust
 
 ## Key claims / findings
 

@@ -24,18 +24,18 @@ South African-born American billionaire; **wealthiest person in the world** as o
 - Co-founded OpenAI in 2015 (departed board 2018 amid disputes)
 - Operated in the broader Silicon Valley ecosystem but was not initially politically aligned
 
-## October 2022 â€” Twitter / X acquisition
+## October 2022 -- Twitter / X acquisition
 
 The acquisition that fundamentally reshaped the social-media information environment:
 
-- **2022-04** â€” agreed to acquire Twitter for $44 billion
-- **2022-10-27** â€” acquisition completed
+- **2022-04** -- agreed to acquire Twitter for $44 billion
+- **2022-10-27** -- acquisition completed
 - **Days after closing:** mass layoffs (~50% of workforce immediately, rising to ~80%+ over following months)
 - **Trust & Safety team:** ~40% cut immediately; most senior leadership departed
 - **Content moderation policy:** rolled back; restoration of previously-banned accounts (including state-actor-linked accounts)
 - **Renamed Twitter to X** (July 2023)
 
-## X under Musk â€” the platform-level consequence
+## X under Musk -- the platform-level consequence
 
 Per multiple research organizations (Stanford Internet Observatory, EU DisinfoLab, NewsGuard):
 
@@ -57,33 +57,33 @@ Per multiple research organizations (Stanford Internet Observatory, EU DisinfoLa
 
 ## DOGE (Department of Government Efficiency)
 
-- **2024-11** â€” Trump announced Musk + Vivek Ramaswamy would co-lead a "Department of Government Efficiency" (initially advisory, not a formal cabinet department)
-- **2025-01-20** â€” Trump 2.0 inauguration; Musk visible at events
-- **2025-01** â€” Trump executive order created DOGE with broad access to federal agencies
+- **2024-11** -- Trump announced Musk + Vivek Ramaswamy would co-lead a "Department of Government Efficiency" (initially advisory, not a formal cabinet department)
+- **2025-01-20** -- Trump 2.0 inauguration; Musk visible at events
+- **2025-01** -- Trump executive order created DOGE with broad access to federal agencies
 - Mass firings of federal employees across agencies
 - Access to multiple agency databases (Treasury, OPM, HHS, others) raised significant privacy/data-protection concerns
-- **2025-05/06** â€” public falling-out with Trump over Big Beautiful Bill, Epstein file references, and other disputes
+- **2025-05/06** -- public falling-out with Trump over Big Beautiful Bill, Epstein file references, and other disputes
 - Musk departed DOGE; DOGE continued under other leadership
 
 ## Musk's connection to the broader vault story
 
 Musks 2022-2025 trajectory connects directly to multiple vault threads:
 
-1. **Platform-level enablement of influence operations** â€” X under Musk has been a more permissive environment for [[Doppelganger]], [[Spamouflage Dragonbridge]], and commercial influence operations than pre-2022 Twitter
-2. **Big Tech â†” Government convergence** â€” DOGEs access to federal data is the operational realization of the CA-era data-targeting model at federal-government scale
-3. **Tech Right political consolidation** â€” Musk + [[Peter Thiel]] + [[David Sacks]] + [[Marc Andreessen]] + others coordinated 2024 political activity to unprecedented effect
-4. **PayPal Mafia network activation** â€” the [[PayPal Mafia]] (formed in early 2000s) operationally aligned for 2024 political project
+1. **Platform-level enablement of influence operations** -- X under Musk has been a more permissive environment for [[Doppelganger]], [[Spamouflage Dragonbridge]], and commercial influence operations than pre-2022 Twitter
+2. **Big Tech ↔ Government convergence** -- DOGEs access to federal data is the operational realization of the CA-era data-targeting model at federal-government scale
+3. **Tech Right political consolidation** -- Musk + [[Peter Thiel]] + [[David Sacks]] + [[Marc Andreessen]] + others coordinated 2024 political activity to unprecedented effect
+4. **PayPal Mafia network activation** -- the [[PayPal Mafia]] (formed in early 2000s) operationally aligned for 2024 political project
 
 ## Companies
 
-- **Tesla** (~2004-) â€” joined as chairman, became CEO 2008; revolutionized EV industry
-- **SpaceX** (2002-) â€” founded; dominant commercial space company
-- **X (Twitter)** (2022-) â€” acquired; CEO
-- **xAI** (2023-) â€” founded; AI lab competing with OpenAI; merged with X in 2025
+- **Tesla** (~2004-) -- joined as chairman, became CEO 2008; revolutionized EV industry
+- **SpaceX** (2002-) -- founded; dominant commercial space company
+- **X (Twitter)** (2022-) -- acquired; CEO
+- **xAI** (2023-) -- founded; AI lab competing with OpenAI; merged with X in 2025
 - **The Boring Company** (2016-)
 - **Neuralink** (2016-)
-- **OpenAI** (2015-2018) â€” co-founder; departed in disputes with Sam Altman
-- **PayPal** (2000-2002) â€” via X.com merger
+- **OpenAI** (2015-2018) -- co-founder; departed in disputes with Sam Altman
+- **PayPal** (2000-2002) -- via X.com merger
 
 ## Connections
 

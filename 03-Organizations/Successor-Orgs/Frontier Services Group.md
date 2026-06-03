@@ -17,7 +17,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Frontier_Services_Group
 
 ## Summary
 
-Hong Kong-listed (HKEX: 0500) **private security and logistics firm** founded in 2014. **Chaired by [[Erik Prince]]** (Blackwater founder). Major shareholder is **CITIC Group** â€” a **Chinese state-owned investment company** â€” making FSG functionally a **China-state-adjacent private military entity** headed by an American who was previously a major US defense contractor. Operates in Africa, Iraq, and South China Sea. **Reported to have built a training center in Xinjiang, China.**
+Hong Kong-listed (HKEX: 0500) **private security and logistics firm** founded in 2014. **Chaired by [[Erik Prince]]** (Blackwater founder). Major shareholder is **CITIC Group** -- a **Chinese state-owned investment company** -- making FSG functionally a **China-state-adjacent private military entity** headed by an American who was previously a major US defense contractor. Operates in Africa, Iraq, and South China Sea. **Reported to have built a training center in Xinjiang, China.**
 
 ## Operations
 
@@ -27,13 +27,13 @@ Hong Kong-listed (HKEX: 0500) **private security and logistics firm** founded in
 - **Training operations** including reported Xinjiang facility
 - **Aviation services** including aircraft leasing
 
-## CA-relevance â€” the under-examined connection
+## CA-relevance -- the under-examined connection
 
 The single most under-reported post-CA continuity thread runs through FSG:
 
-- **[[Johnson Chun Shun Ko]]** â€” FSG officer
+- **[[Johnson Chun Shun Ko]]** -- FSG officer
 - **Ko appointed director of [[Emerdata Limited]]** in March 2018 (the CA successor entity)
-- This means FSG (Erik Prince / China-state-linked) has a documented institutional connection to **Emerdata** â€” the CA-successor company that absorbed CA/SCL assets
+- This means FSG (Erik Prince / China-state-linked) has a documented institutional connection to **Emerdata** -- the CA-successor company that absorbed CA/SCL assets
 - The implications for Chinese state access to CA-derived data and methodology have not been publicly investigated
 
 ## Why this matters

@@ -8,7 +8,7 @@ aliases: ['Bill Taylor','William B Taylor Jr','William Taylor']
 
 # Bill Taylor
 
-Career US diplomat. Acting US ChargÃ© d'Affaires to Ukraine (June-December 2019). Key witness in the [[First Impeachment of Donald Trump]] inquiry.
+Career US diplomat. Acting US Chargé d'Affaires to Ukraine (June-December 2019). Key witness in the [[First Impeachment of Donald Trump]] inquiry.
 
 ## First impeachment role
 

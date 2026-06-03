@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-Long-running evangelical pollster and Christian-right strategist. Founded the **Barna Research Group** (now Barna Group) in 1984. Author of dozens of books on evangelical demographics and "worldview." Currently directs the **Cultural Research Center at Arizona Christian University**. **Collaborator with [[Bill Dallas]] on [[United in Purpose]]** data collection from conservative churches Ã¢â‚¬â€ provided the polling/research expertise that UIP used to build its targeting database. **Polling methodology informed the UIP-Gloo-COFI-CA data integration** described in [[Source People You May Know 2020]].
+Long-running evangelical pollster and Christian-right strategist. Founded the **Barna Research Group** (now Barna Group) in 1984. Author of dozens of books on evangelical demographics and "worldview." Currently directs the **Cultural Research Center at Arizona Christian University**. **Collaborator with [[Bill Dallas]] on [[United in Purpose]]** data collection from conservative churches -- provided the polling/research expertise that UIP used to build its targeting database. **Polling methodology informed the UIP-Gloo-COFI-CA data integration** described in [[Source People You May Know 2020]].
 
 ## Key facts
 
@@ -32,10 +32,10 @@ Long-running evangelical pollster and Christian-right strategist. Founded the **
 
 ## Related entities
 
-- [[United in Purpose]] Ã¢â‚¬" key collaboration
-- [[Bill Dallas]] Ã¢â‚¬" UIP partner
-- Arizona Christian University Ã¢â‚¬" institutional affiliation
-- [[Hypothesis - Three-wing coalition]] Ã¢â‚¬" theocratic-wing research infrastructure
+- [[United in Purpose]] -" key collaboration
+- [[Bill Dallas]] -" UIP partner
+- Arizona Christian University -" institutional affiliation
+- [[Hypothesis - Three-wing coalition]] -" theocratic-wing research infrastructure
 
 ## Sources
 

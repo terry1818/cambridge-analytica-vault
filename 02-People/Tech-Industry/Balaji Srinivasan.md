@@ -16,7 +16,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Balaji_Srinivasan
 
 ## Summary
 
-American technology entrepreneur, investor, and intellectual. Former CTO of **Coinbase** (2018-2019). Former General Partner at **[[a16z (Andreessen Horowitz)]]**. Author of **"The Network State: How to Start a New Country"** (2022) â€” an influential book in Tech Right intellectual circles advocating for the creation of new political entities through online communities that ultimately gain physical territory and recognition.
+American technology entrepreneur, investor, and intellectual. Former CTO of **Coinbase** (2018-2019). Former General Partner at **[[a16z (Andreessen Horowitz)]]**. Author of **"The Network State: How to Start a New Country"** (2022) -- an influential book in Tech Right intellectual circles advocating for the creation of new political entities through online communities that ultimately gain physical territory and recognition.
 
 ## The Network State thesis
 
@@ -39,7 +39,7 @@ This thesis provides **intellectual framework for crypto-state convergence** and
 ## Predictions and politics
 
 Srinivasan is known for **bold political-economic predictions** including:
-- Early COVID warnings (March 2020) â€” widely credited as prescient
+- Early COVID warnings (March 2020) -- widely credited as prescient
 - Inflation predictions (mixed accuracy)
 - "Gray Tribe" framing of Tech Right political identity
 - US decline / collapse narratives
@@ -47,11 +47,11 @@ Srinivasan is known for **bold political-economic predictions** including:
 ## Why he matters for this vault
 
 Srinivasan provides **intellectual framework** for:
-1. **Crypto-state convergence** â€” connecting crypto industry political activity to broader Tech Right project
-2. **Exit-over-voice politics** â€” the option of building new institutions vs. reforming existing ones
+1. **Crypto-state convergence** -- connecting crypto industry political activity to broader Tech Right project
+2. **Exit-over-voice politics** -- the option of building new institutions vs. reforming existing ones
 3. **Anti-nation-state framing** that converges with Yarvin's anti-democratic position from a different intellectual angle
 
-Together with Yarvin (neoreaction), Andreessen (techno-optimism), Deneen (post-liberalism), Vermeule (integralism), Srinivasan (network states) â€” the contemporary Tech Right has **multiple intellectual frameworks** providing convergent anti-establishment positions.
+Together with Yarvin (neoreaction), Andreessen (techno-optimism), Deneen (post-liberalism), Vermeule (integralism), Srinivasan (network states) -- the contemporary Tech Right has **multiple intellectual frameworks** providing convergent anti-establishment positions.
 
 ## Connections
 

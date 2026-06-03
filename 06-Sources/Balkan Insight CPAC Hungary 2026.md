@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: Balkan Insight reporting on CPAC Hungary 2026 + Hungarian-taxpayer-funded operations + OrbÃƒÂ¡n government CPAC ties
+description: Balkan Insight reporting on CPAC Hungary 2026 + Hungarian-taxpayer-funded operations + Orbán government CPAC ties
 aliases: ["Source: Balkan Insight CPAC Hungary 2026", "Source Balkan Insight CPAC Hungary 2026"]
 tags: [source, evidence/cpac-international, evidence/hungary, era/2022-2026]
 type: source
@@ -22,11 +22,11 @@ Balkan Insight Staff. (2026). *Balkan Insight CPAC Hungary 2026*. Balkan Insight
 
 ## What it is
 
-Balkan Insight reporting on CPAC Hungary 2026 + Hungarian-taxpayer-funded operations + OrbÃƒÂ¡n government CPAC ties
+Balkan Insight reporting on CPAC Hungary 2026 + Hungarian-taxpayer-funded operations + Orbán government CPAC ties
 
 ## Key claims / findings
 
-- 5 editions of CPAC Hungary 2022-2026`n- Hungarian-taxpayer-funded operations documented`n- OrbÃƒÂ¡n + Fidesz central involvement`n- International right-wing alliance coordination
+- 5 editions of CPAC Hungary 2022-2026`n- Hungarian-taxpayer-funded operations documented`n- Orbán + Fidesz central involvement`n- International right-wing alliance coordination
 
 ## Entities mentioned
 

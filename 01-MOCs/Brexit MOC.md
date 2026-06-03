@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Map of Content - Brexit-related vault entries
 tags: [moc, topic/brexit]
@@ -23,7 +23,7 @@ type: moc
 - [[Cambridge Analytica]] - disputed direct involvement
 - [[SCL Group]] - CA parent
 - [[ICO]] - lead UK regulator
-- [[DUP]] - Ã‚Â£435K via Constitutional Research Council for AIQ
+- [[DUP]] - £435K via Constitutional Research Council for AIQ
 - [[Constitutional Research Council]] / [[Richard Cook]] - donation intermediary
 - [[Arron Banks]] - Leave.EU principal
 

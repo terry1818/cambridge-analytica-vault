@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Micro-timeline of Rebekah Mercer political infrastructure activity
 tags: [timeline, topic/cambridge-analytica]
@@ -6,21 +6,21 @@ tags: [timeline, topic/cambridge-analytica]
 
 # Micro-Timeline: [[Rebekah Mercer]]
 
-- `1973` â€” Born (New York)
-- `1990s-2000s` â€” Computer science; Stanford undergraduate
-- `~2010s` â€” Becomes increasingly active in conservative political donor circles
-- `~2012` â€” Begins operating Mercer Family Foundation (with father Robert)
-- `2013-2018` â€” Strategic investor in Cambridge Analytica; board direction
-- `2016-08` â€” Cited by Wolff and others as having pushed Bannon into Trump campaign CEO role
-- `2016-2017` â€” Trump transition team member
-- `2017-08` â€” Cited as central to Bannon-Trump post-WH realignment
-- `2018-03` â€” Becomes director of [[Emerdata Limited]] alongside sister Jennifer, Nix, Johnson Chun Shun Ko
-- `2018+` â€” Public face of Mercer family political activity (Robert recedes)
-- `2018-2019` â€” Investments in Parler (publicly disclosed November 2020)
-- `2020-11` â€” Discloses major Parler ownership stake post-2020 election
-- `2021-01` â€” Parler de-platformed after Jan 6
-- `2023+` â€” Parler shuttered then revived in different form
-- `2024+` â€” Continues major Republican donor activity; Mercer Family Foundation continues funding conservative think tanks
+- `1973` — Born (New York)
+- `1990s-2000s` — Computer science; Stanford undergraduate
+- `~2010s` — Becomes increasingly active in conservative political donor circles
+- `~2012` — Begins operating Mercer Family Foundation (with father Robert)
+- `2013-2018` — Strategic investor in Cambridge Analytica; board direction
+- `2016-08` — Cited by Wolff and others as having pushed Bannon into Trump campaign CEO role
+- `2016-2017` — Trump transition team member
+- `2017-08` — Cited as central to Bannon-Trump post-WH realignment
+- `2018-03` — Becomes director of [[Emerdata Limited]] alongside sister Jennifer, Nix, Johnson Chun Shun Ko
+- `2018+` — Public face of Mercer family political activity (Robert recedes)
+- `2018-2019` — Investments in Parler (publicly disclosed November 2020)
+- `2020-11` — Discloses major Parler ownership stake post-2020 election
+- `2021-01` — Parler de-platformed after Jan 6
+- `2023+` — Parler shuttered then revived in different form
+- `2024+` — Continues major Republican donor activity; Mercer Family Foundation continues funding conservative think tanks
 
 ## Vault context and open research threads
 

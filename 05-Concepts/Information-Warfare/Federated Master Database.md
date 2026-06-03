@@ -11,7 +11,7 @@ first-documented: 2025-03-20
 
 ## Definition
 
-A **federated master database** is a unified, queryable layer across previously-siloed federal agency databases â€” built without consolidating data into a single physical store, but achieving equivalent query power. In the US 2025 context, it refers specifically to the [[Palantir Technologies]]-built integration layer authorized by [[Trump EO Eliminating Information Silos 2025-03-20]], spanning IRS + SSA + DHS + HHS + DOE + VA + license-plate-reader feeds.
+A **federated master database** is a unified, queryable layer across previously-siloed federal agency databases -- built without consolidating data into a single physical store, but achieving equivalent query power. In the US 2025 context, it refers specifically to the [[Palantir Technologies]]-built integration layer authorized by [[Trump EO Eliminating Information Silos 2025-03-20]], spanning IRS + SSA + DHS + HHS + DOE + VA + license-plate-reader feeds.
 
 ## Why "federated"
 
@@ -39,10 +39,10 @@ The technical fig leaf: data technically remains in each agency's possession. Bu
 
 ## Application in this domain
 
-- **ICE [[ImmigrationOS]]** â€” first publicly-named product of the federated layer
-- **ELITE** â€” second known product; deportation target generation
-- **IRS mega-API** â€” third known product; tax + financial integration
-- **DOJ voter roll lawsuits** â€” likely downstream use case (24 states sued for voter data access)
+- **ICE [[ImmigrationOS]]** -- first publicly-named product of the federated layer
+- **ELITE** -- second known product; deportation target generation
+- **IRS mega-API** -- third known product; tax + financial integration
+- **DOJ voter roll lawsuits** -- likely downstream use case (24 states sued for voter data access)
 
 ## Effectiveness / critique
 
@@ -52,9 +52,9 @@ The technical fig leaf: data technically remains in each agency's possession. Bu
 
 ## Related concepts
 
-- [[ImmigrationOS]] â€” ICE-specific product on top
-- [[Microtargeting]] â€” older concept; federated master database supersedes
-- [[Psychographic Targeting]] â€” older concept; less relevant in new architecture
+- [[ImmigrationOS]] -- ICE-specific product on top
+- [[Microtargeting]] -- older concept; federated master database supersedes
+- [[Psychographic Targeting]] -- older concept; less relevant in new architecture
 
 ## Sources
 

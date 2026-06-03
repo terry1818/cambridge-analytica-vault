@@ -1,6 +1,6 @@
 ---
 date: 2026-05-16
-description: PNAS 2013 paper demonstrating that personality and other traits can be predicted from Facebook Likes â€” the academic foundation that enabled CA's psychographic-targeting commercial proposition
+description: PNAS 2013 paper demonstrating that personality and other traits can be predicted from Facebook Likes -- the academic foundation that enabled CA's psychographic-targeting commercial proposition
 aliases: ["Source: Source Kosinski Stillwell Graepel 2013 PNAS"]
 tags: [source, evidence/academic, topic/psychographics, topic/cambridge-analytica, era/pre-2014]
 type: source
@@ -22,7 +22,7 @@ Kosinski, M.; Stillwell, D.; Graepel, T. (2013-04-09). "Private traits and attri
 
 ## What it is
 
-The **founding academic paper** of the field of large-scale digital-trace personality prediction. [[Michal Kosinski]] and [[David Stillwell]] at the **[[Cambridge Psychometrics Centre]]**, with Thore Graepel at Microsoft Research, demonstrated that easily-accessible Facebook Like data could predict a striking range of sensitive personal attributes with high accuracy â€” including sexual orientation, ethnicity, religious and political views, personality traits ([[OCEAN Model|Big Five]]), intelligence, substance use, and parental separation. The paper is the **single most-cited academic source for the proposition that "Facebook data can predict deeply personal attributes,"** which became the theoretical underpinning of CA's commercial psychographic-targeting proposition. CA later approached the Psychometrics Centre directly for access to its myPersonality dataset; when refused, [[Aleksandr Kogan]] / [[Global Science Research (GSR)|GSR]] cloned the methodology via the "thisisyourdigitallife" app.
+The **founding academic paper** of the field of large-scale digital-trace personality prediction. [[Michal Kosinski]] and [[David Stillwell]] at the **[[Cambridge Psychometrics Centre]]**, with Thore Graepel at Microsoft Research, demonstrated that easily-accessible Facebook Like data could predict a striking range of sensitive personal attributes with high accuracy -- including sexual orientation, ethnicity, religious and political views, personality traits ([[OCEAN Model|Big Five]]), intelligence, substance use, and parental separation. The paper is the **single most-cited academic source for the proposition that "Facebook data can predict deeply personal attributes,"** which became the theoretical underpinning of CA's commercial psychographic-targeting proposition. CA later approached the Psychometrics Centre directly for access to its myPersonality dataset; when refused, [[Aleksandr Kogan]] / [[Global Science Research (GSR)|GSR]] cloned the methodology via the "thisisyourdigitallife" app.
 
 ## Key claims / findings
 
@@ -36,7 +36,7 @@ The **founding academic paper** of the field of large-scale digital-trace person
   - **Intelligence:** correlation 0.39 with measured IQ
   - **Drug use, alcohol, smoking, parental separation:** all predicted at meaningfully better-than-chance levels
 - **Authors' explicit warning:** the paper explicitly warned that the methods "could prove dangerous for individuals" and called for transparency and user control over what services do with the data
-- **Sample population:** the **myPersonality dataset** built by [[David Stillwell]] at Cambridge â€” opt-in volunteer Facebook users; this is what CA later tried to access directly and was refused, leading to Kogan's parallel TIYDL approach via [[Global Science Research (GSR)]]
+- **Sample population:** the **myPersonality dataset** built by [[David Stillwell]] at Cambridge -- opt-in volunteer Facebook users; this is what CA later tried to access directly and was refused, leading to Kogan's parallel TIYDL approach via [[Global Science Research (GSR)]]
 
 ## Notable quotes
 
@@ -49,14 +49,14 @@ The **founding academic paper** of the field of large-scale digital-trace person
 - **Type:** peer-reviewed academic primary source
 - **Independent corroboration:** widely replicated and extended; follow-up work by Kosinski, Stillwell, and others continued through 2017-2024 (see [[Source Matz Kosinski Nave Stillwell 2017 PNAS]])
 - **Methodological strengths:** large N; pre-registered hypotheses; standard statistical methods
-- **Methodological caveats:** **opt-in sample** (myPersonality volunteers may differ from general population); accuracy figures depend on baseline rates and threshold choices; predictive accuracy at the population level does NOT entail per-individual targeting accuracy in field deployment â€” a critical distinction emphasized by [[Eitan Hersh]] and [[Brendan Nyhan]]
+- **Methodological caveats:** **opt-in sample** (myPersonality volunteers may differ from general population); accuracy figures depend on baseline rates and threshold choices; predictive accuracy at the population level does NOT entail per-individual targeting accuracy in field deployment -- a critical distinction emphasized by [[Eitan Hersh]] and [[Brendan Nyhan]]
 
 ## Entities mentioned
 
 - [[Michal Kosinski]], [[David Stillwell]], Thore Graepel
 - [[Cambridge Psychometrics Centre]] (institutional host of the myPersonality dataset)
 - [[Facebook]] (data substrate)
-- (the paper itself does not mention CA â€” CA used the *methodology* derived from this and adjacent work)
+- (the paper itself does not mention CA -- CA used the *methodology* derived from this and adjacent work)
 
 ## How I'm using this
 

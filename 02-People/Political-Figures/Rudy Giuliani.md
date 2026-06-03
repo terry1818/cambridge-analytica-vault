@@ -77,14 +77,14 @@ December 21, 2023: filed Chapter 11. Case subsequently dismissed July 12, 2024 b
 
 ## Connections
 
-- [[Donald Trump]] â€” client; co-conspirator
-- [[Lev Parnas]] Â· [[Igor Fruman]] â€” Ukraine track associates (separately convicted)
-- [[Ruby Freeman]] Â· [[Shaye Moss]] â€” defamation plaintiffs ($148M verdict)
-- [[Dominion Voting Systems]] Â· [[Smartmatic]] â€” defamation plaintiffs
-- [[Georgia v Trump RICO 2023]] â€” co-defendant
-- [[US v Trump DC Federal Election Interference Case]] â€” Unindicted Co-Conspirator 1
-- [[Trump First Impeachment 2019-2020]] â€” central operative
-- [[John Eastman]] Â· [[Sidney Powell]] Â· [[Kenneth Chesebro]] â€” co-conspirators
+- [[Donald Trump]] -- client; co-conspirator
+- [[Lev Parnas]] · [[Igor Fruman]] -- Ukraine track associates (separately convicted)
+- [[Ruby Freeman]] · [[Shaye Moss]] -- defamation plaintiffs ($148M verdict)
+- [[Dominion Voting Systems]] · [[Smartmatic]] -- defamation plaintiffs
+- [[Georgia v Trump RICO 2023]] -- co-defendant
+- [[US v Trump DC Federal Election Interference Case]] -- Unindicted Co-Conspirator 1
+- [[Trump First Impeachment 2019-2020]] -- central operative
+- [[John Eastman]] · [[Sidney Powell]] · [[Kenneth Chesebro]] -- co-conspirators
 - [[Stop the Steal]]
 
 ## Sources

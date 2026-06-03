@@ -22,7 +22,7 @@ status: active
 Per [[Source Wikipedia - Cambridge Analytica]] and [[Source Daily Nation 2018-03-20 Kenya]]:
 
 - Both Kenyattas **2013 and 2017** presidential campaigns were supported by [[Cambridge Analytica]] / [[SCL Group]]
-- A CA staffer reportedly **died in a Kenyan hotel during the 2013 campaign work** â€” circumstances never publicly clarified
+- A CA staffer reportedly **died in a Kenyan hotel during the 2013 campaign work** -- circumstances never publicly clarified
 - CA claimed on its website to have surveyed 47,000 Kenyans during the 2013 elections
 - In 2017, CA worked with local Kenyan firm **[[360 Media]]** (founded by Simon Gicharu of Mount Kenya University and Tom Mshindi, Editor-in-Chief of Nation Media Group)
 - 360 Media developed online campaigns portraying opposition leader [[Raila Odinga]] as "a blood-thirsty individual who is also sympathetic to Al-Shabaab and having no development agenda"
@@ -32,8 +32,8 @@ The 2017 election was **annulled by the Kenyan Supreme Court** in September 2017
 
 ## ICC history
 
-- 2011 â€” indicted by ICC for crimes against humanity over post-2007-election ethnic violence
-- 2014 â€” ICC charges dropped due to witness intimidation and lack of cooperation from Kenyan government
+- 2011 -- indicted by ICC for crimes against humanity over post-2007-election ethnic violence
+- 2014 -- ICC charges dropped due to witness intimidation and lack of cooperation from Kenyan government
 - Case became precedent in ongoing African Union criticism of ICC
 
 ## Post-presidency

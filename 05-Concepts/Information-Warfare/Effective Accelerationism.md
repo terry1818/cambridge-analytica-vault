@@ -15,9 +15,9 @@ Tech Right intellectual movement that emerged in late 2022 / early 2023 on Twitt
 
 ## Key figures
 
-- **Beff Jezos** (Twitter pseudonym; later revealed as **Guillaume Verdon**, former Google quantum computing researcher) â€” primary e/acc evangelist
-- **Bayeslord** (Twitter pseudonym) â€” co-architect
-- **[[Marc Andreessen]]** â€” formal endorsement via Techno-Optimist Manifesto (October 2023)
+- **Beff Jezos** (Twitter pseudonym; later revealed as **Guillaume Verdon**, former Google quantum computing researcher) -- primary e/acc evangelist
+- **Bayeslord** (Twitter pseudonym) -- co-architect
+- **[[Marc Andreessen]]** -- formal endorsement via Techno-Optimist Manifesto (October 2023)
 - **Various Tech Right adjacent figures**
 
 ## Core arguments
@@ -47,7 +47,7 @@ In policy terms, e/acc-aligned positions support:
 
 ## Why this matters for this vault
 
-e/acc represents the **Tech Right's intellectual framework for opposing AI safety / AI regulation** â€” a position that has become operationally consequential in Trump 2.0 administration AI policy. The movement provides:
+e/acc represents the **Tech Right's intellectual framework for opposing AI safety / AI regulation** -- a position that has become operationally consequential in Trump 2.0 administration AI policy. The movement provides:
 
 1. **Cultural permission structure** for opposing AI safety research
 2. **Intellectual justification** for Tech Right anti-regulation politics

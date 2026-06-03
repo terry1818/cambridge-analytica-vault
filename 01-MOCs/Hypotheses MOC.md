@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Map of Content - hypotheses in this vault, organized by confidence + topic
 tags: [moc, topic/hypotheses]
@@ -11,7 +11,7 @@ type: moc
 
 - [[Hypothesis - CA data survives]] - GSR + January 2016 deletion certs proven false; data exists in successor architectures
 - [[Hypothesis - Federal database supersedes CA model]] - Palantir + EOs + ImmigrationOS demonstrate operational federal-database successor to CA-era methodology
-- [[Hypothesis - Defense-to-elections pipeline]] - SCL Defence Ã¢â€ â€™ SCL Elections Ã¢â€ â€™ CA Ã¢â€ â€™ AIQ Ã¢â€ â€™ Brexit + Trump 2016
+- [[Hypothesis - Defense-to-elections pipeline]] - SCL Defence -- SCL Elections -- CA -- AIQ -- Brexit + Trump 2016
 - [[Hypothesis - Three-wing coalition]] - patron-class + theocratic + tech-surveillance wings each follow distinct logics
 
 ## Medium confidence (substantial evidence)

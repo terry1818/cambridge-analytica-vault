@@ -15,7 +15,7 @@ status: active
 
 ## Summary
 
-Longtime **Koch-network political operative** and dark-money infrastructure organizer. **Director of [[Wisconsin Club for Growth]]** Ã¢â‚¬â€ the dark-money 501(c)(4) that spent ~$1M+ in television ads supporting Scott Walker's 2010 and 2012 campaigns and recall defense. **Founding board member of [[Citizens for Self-Governance]]** (the COS parent). **Founding board member of Institute for Free Speech**. Acts as the **dark-money operations spine** of the COS architecture Ã¢â‚¬â€ brings Koch-network DAF expertise (DonorsTrust, Donors Capital Fund) to CSG.
+Longtime **Koch-network political operative** and dark-money infrastructure organizer. **Director of [[Wisconsin Club for Growth]]** -- the dark-money 501(c)(4) that spent ~$1M+ in television ads supporting Scott Walker's 2010 and 2012 campaigns and recall defense. **Founding board member of [[Citizens for Self-Governance]]** (the COS parent). **Founding board member of Institute for Free Speech**. Acts as the **dark-money operations spine** of the COS architecture -- brings Koch-network DAF expertise (DonorsTrust, Donors Capital Fund) to CSG.
 
 ## Key facts
 

@@ -43,15 +43,15 @@ Outstanding questions for future expansion of this node include the primary-docu
 
 The Epstein operation, shipped in vault Phase 1 (see [[Epstein Network MOC]]), is a Tier 2 candidate node within the Israel-cluster framing established in this Lens. The connective evidence:
 
-- [[Robert Maxwell]] â€” alleged Mossad asset; father of Ghislaine Maxwell; died 1991
-- [[Ghislaine Maxwell]] â€” inherited father's network; partnered with Epstein within months of his death
-- [[Leslie Wexner]] â€” Epstein's primary funder; founding [[Mega Group]] member; substantial Israeli philanthropic infrastructure funder via [[Wexner Foundation]]
-- [[Alex Acosta]] â€” alleged maker of "Epstein belonged to intelligence" statement to 2017 Trump transition team
+- [[Robert Maxwell]] -- alleged Mossad asset; father of Ghislaine Maxwell; died 1991
+- [[Ghislaine Maxwell]] -- inherited father's network; partnered with Epstein within months of his death
+- [[Leslie Wexner]] -- Epstein's primary funder; founding [[Mega Group]] member; substantial Israeli philanthropic infrastructure funder via [[Wexner Foundation]]
+- [[Alex Acosta]] -- alleged maker of "Epstein belonged to intelligence" statement to 2017 Trump transition team
 
 The full structural argument is laid out in [[Deep Dive - Israel-Epstein Architecture Bridge]] and the supporting [[Hypothesis - Epstein had intelligence-service connections]] (tier 3 - contested) and [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]] (tier 2 - high confidence).
 
 **Relation to existing Israel-cluster hypotheses in this vault:**
-- [[Hypothesis - Israel is the only six-cluster foreign-state node]] â€” Epstein arguably adds a seventh cluster (US-domestic elite-blackmail coordination), OR re-frames existing clusters with the Epstein operation as the kompromat-leverage layer
-- [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]] â€” Epstein is the most-documented public-record example of long-running US-domestic kompromat operation with structural Israeli-network ties
+- [[Hypothesis - Israel is the only six-cluster foreign-state node]] -- Epstein arguably adds a seventh cluster (US-domestic elite-blackmail coordination), OR re-frames existing clusters with the Epstein operation as the kompromat-leverage layer
+- [[Hypothesis - Israeli intel-for-hire is parallel to Russian state operations]] -- Epstein is the most-documented public-record example of long-running US-domestic kompromat operation with structural Israeli-network ties
 
 See [[Deep Dive - Israel-Epstein Architecture Bridge]] for the integration.

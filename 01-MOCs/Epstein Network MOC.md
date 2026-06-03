@@ -11,49 +11,49 @@ aliases: ["Epstein MOC", "Epstein Network", "Epstein Architecture",'Epstein netw
 
 # Epstein Network MOC
 
-The Jeffrey Epstein operation is treated in this vault as the modern capstone of the post-WWII blackmail-and-intelligence architecture mapped elsewhere (see [[Hoover Blue Room Allegation]], [[Lewis Rosenstiel]], [[Meyer Lansky]], [[Robert Maxwell]]). The operational pattern â€” using sexual access to minors as kompromat on high-status men, with intelligence-grade tradecraft and protection from prosecution â€” is not novel. Its scale, longevity, and the extent of state-level protection it received are what make Epstein a uniquely useful entry point into the broader system.
+The Jeffrey Epstein operation is treated in this vault as the modern capstone of the post-WWII blackmail-and-intelligence architecture mapped elsewhere (see [[Hoover Blue Room Allegation]], [[Lewis Rosenstiel]], [[Meyer Lansky]], [[Robert Maxwell]]). The operational pattern -- using sexual access to minors as kompromat on high-status men, with intelligence-grade tradecraft and protection from prosecution -- is not novel. Its scale, longevity, and the extent of state-level protection it received are what make Epstein a uniquely useful entry point into the broader system.
 
-This MOC indexes everything in the vault relating to Epstein. Names listed below as "associates" are NOT synonymous with "clients" or "accused." Each downstream note specifies which tier of evidence applies â€” sworn-testimony naming, civil-suit allegation, flight-log presence, social association, or unsubstantiated claim.
+This MOC indexes everything in the vault relating to Epstein. Names listed below as "associates" are NOT synonymous with "clients" or "accused." Each downstream note specifies which tier of evidence applies -- sworn-testimony naming, civil-suit allegation, flight-log presence, social association, or unsubstantiated claim.
 
 ## Core principals
 
-- [[Jeffrey Epstein]] â€” the principal
-- [[Ghislaine Maxwell]] â€” partner, recruiter, convicted co-conspirator
-- [[Robert Maxwell]] â€” Ghislaine's father, alleged Mossad asset, financier
-- [[Leslie Wexner]] â€” primary documented source of Epstein's working capital
-- [[Virginia Giuffre]] â€” primary public-facing accuser whose litigation drove most public-record evidence
+- [[Jeffrey Epstein]] -- the principal
+- [[Ghislaine Maxwell]] -- partner, recruiter, convicted co-conspirator
+- [[Robert Maxwell]] -- Ghislaine's father, alleged Mossad asset, financier
+- [[Leslie Wexner]] -- primary documented source of Epstein's working capital
+- [[Virginia Giuffre]] -- primary public-facing accuser whose litigation drove most public-record evidence
 
 ## Operational infrastructure
 
-- [[L Brands]] â€” Wexner's company; the financial pipeline by which Epstein obtained the NYC mansion and millions in transferred assets
-- [[Southern Trust Company]] â€” Epstein's USVI-based "DNA database" entity; granted tax incentives; under USVI estate lawsuit
-- [[Apollo Global Management]] â€” vehicle through which [[Leon Black]] paid Epstein $158M for "tax/estate advice"
-- [[Epstein Properties]] â€” the four primary properties (NYC 71st St, Palm Beach, Zorro Ranch NM, Little St James + Great St James USVI)
+- [[L Brands]] -- Wexner's company; the financial pipeline by which Epstein obtained the NYC mansion and millions in transferred assets
+- [[Southern Trust Company]] -- Epstein's USVI-based "DNA database" entity; granted tax incentives; under USVI estate lawsuit
+- [[Apollo Global Management]] -- vehicle through which [[Leon Black]] paid Epstein $158M for "tax/estate advice"
+- [[Epstein Properties]] -- the four primary properties (NYC 71st St, Palm Beach, Zorro Ranch NM, Little St James + Great St James USVI)
 
 ## Prosecutions and core events
 
-- [[Epstein 2005-2008 Florida Case]] â€” Palm Beach PD â†’ FBI â†’ Acosta NPA
-- [[Epstein 2019 SDNY Case and Death]] â€” arrest, indictment, MCC death August 10 2019
-- [[Maxwell 2021 SDNY Trial]] â€” convicted on 5/6 counts of sex trafficking
-- [[Epstein Documents 2024 Unsealing]] â€” Judge Preska's release of Giuffre v. Maxwell exhibits
+- [[Epstein 2005-2008 Florida Case]] -- Palm Beach PD → FBI → Acosta NPA
+- [[Epstein 2019 SDNY Case and Death]] -- arrest, indictment, MCC death August 10 2019
+- [[Maxwell 2021 SDNY Trial]] -- convicted on 5/6 counts of sex trafficking
+- [[Epstein Documents 2024 Unsealing]] -- Judge Preska's release of Giuffre v. Maxwell exhibits
 
 ## Hypotheses (this vault)
 
-- [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]] â€” confidence: high (structural pattern documented); tier 2 (inferential synthesis)
-- [[Hypothesis - Epstein had intelligence-service connections]] â€” confidence: medium (multiple independent indicators); tier 3 (no direct documentary proof in public record)
+- [[Hypothesis - Epstein operation continues post-WWII blackmail architecture]] -- confidence: high (structural pattern documented); tier 2 (inferential synthesis)
+- [[Hypothesis - Epstein had intelligence-service connections]] -- confidence: medium (multiple independent indicators); tier 3 (no direct documentary proof in public record)
 
 ## Capstone synthesis
 
-- [[Deep Dive - Epstein as Capstone of the Blackmail Architecture]] â€” long-form thread tying the Epstein operation to the [[Deep Dive - Three Wing Coalition Anatomy]] and the broader [[One Nation Under Blackmail]] thesis
+- [[Deep Dive - Epstein as Capstone of the Blackmail Architecture]] -- long-form thread tying the Epstein operation to the [[Deep Dive - Three Wing Coalition Anatomy]] and the broader [[One Nation Under Blackmail]] thesis
 
 ## Named-associate notes (Phase 2)
 
 Each named individual gets a dedicated entity note with explicit per-claim sourcing. Categories used:
 
-- **Sworn-testimony accused** â€” named under oath by Giuffre or other witnesses as participants in trafficking or sexual contact with minors (e.g., Prince Andrew, Alan Dershowitz)
-- **Documented financial / business relationship** â€” paid Epstein money or received money from Epstein (e.g., Leon Black, Wexner)
-- **Documented social association** â€” appeared on properties, in flight logs, or in social settings (e.g., Bill Clinton, Donald Trump, Bill Gates, Stephen Hawking)
-- **Mentioned in unsealed documents** â€” referenced in the 2024 docs without an underlying allegation against them
+- **Sworn-testimony accused** -- named under oath by Giuffre or other witnesses as participants in trafficking or sexual contact with minors (e.g., Prince Andrew, Alan Dershowitz)
+- **Documented financial / business relationship** -- paid Epstein money or received money from Epstein (e.g., Leon Black, Wexner)
+- **Documented social association** -- appeared on properties, in flight logs, or in social settings (e.g., Bill Clinton, Donald Trump, Bill Gates, Stephen Hawking)
+- **Mentioned in unsealed documents** -- referenced in the 2024 docs without an underlying allegation against them
 
 These notes are deliberately *not* aggregated into a single "client list," because no such list exists in public record. The 2024 unsealing released exhibits, not a client roster.
 
@@ -62,7 +62,7 @@ These notes are deliberately *not* aggregated into a single "client list," becau
 - What was the actual source of Epstein's post-2008 wealth, given the NPA effectively ended his Wall Street advisory business?
 - Did the 2008 NPA's co-conspirator immunity clause have a quid-pro-quo origin?
 - What was the operational role of [[Jean-Luc Brunel]] (MC2 modeling agency) in the recruiting pipeline?
-- What happened to the photographic and video archive reportedly maintained at the properties? FBI seized material in 2019 â€” disposition unclear.
+- What happened to the photographic and video archive reportedly maintained at the properties? FBI seized material in 2019 -- disposition unclear.
 - How does Epstein relate operationally to [[Mega Group]], [[Adnan Khashoggi]], and the broader [[Lens - Honey Traps and Compromat]]?
 
 ## Sources backbone (06-Sources/)
