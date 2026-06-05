@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2026-05-16
 description: Thiel-co-founded defense and intelligence data analytics firm; CA-adjacent via Chmieliauskas; primary DOGE contractor 2025+
 tags: [org, org/tech-platform, org/data-firm, org/military-contractor, topic/cambridge-analytica, topic/tech-right, era/pre-2014, era/2014-2016, era/2016-2018, era/2018-2020, era/2020-2024, era/2024-present, jurisdiction/us]
