@@ -1,6 +1,6 @@
 ---
 title: Cambridge Analytica Research Vault
-description: 'A public, evidence-sourced research vault tracing the people, money, and institutions that have shaped contemporary US politics. ~3,500 notes, every claim sourced, plain-English glossary for newcomers.'
+description: 'A public, evidence-sourced research vault tracing the people, money, and institutions shaping contemporary US politics. Pick a topic below to start exploring.'
 date: 2026-06-16
 tags: [home, index]
 aliases: ['Index']
@@ -8,81 +8,157 @@ aliases: ['Index']
 
 # Cambridge Analytica Research Vault
 
-## What this is, in one paragraph
+> [!info] **What this is, in one sentence:** A public research collection (~3,500 sourced notes) about how a coalition of billionaires, religious-right organizers, intelligence operators, and Silicon Valley founders has spent 40+ years building the political apparatus that put Donald Trump in power twice.
 
-A public research collection about how a small group of billionaires, religious-right organizers, intelligence operators, and Silicon Valley founders has spent 40+ years building the political apparatus that put Donald Trump in power twice. It started as an investigation of Cambridge Analytica -- the firm that profiled 87 million Facebook users for the 2016 election -- and grew because the people behind it turned out to be connected to nearly everything else.
+## I have N minutes
 
-> [!info] **You do not need to read all of it.** The reading lists below tell you exactly where to start.
+| Time | Start here |
+|---|---|
+| **2 min** | [[Start Here]] |
+| **5 min** | [[Master Theses MOC]] -- the synthesis layer |
+| **30 min** | [[Reading List - 30 Minutes]] |
+| **2 hr** | [[Reading List - 2 Hour Deep Dive]] |
+| **Weekend** | [[Reading List - Weekend]] |
 
-## Pick your time budget
+Lost? [[Plain English Glossary]] decodes the jargon. [[Frequently Asked Questions]] answers the most common reactions.
 
-| Time | Start here | What you get |
-|---|---|---|
-| **2 minutes** | [[Start Here]] | The whole project in one page |
-| **5 minutes** | [[Master Theses MOC]] | The three big claims this vault makes |
-| **30 minutes** | [[Reading List - 30 Minutes]] | Core thesis plus strongest evidence |
-| **2 hours** | [[Reading List - 2 Hour Deep Dive]] | Supporting structure plus case studies |
-| **A weekend** | [[Reading List - Weekend]] | The full arc |
+---
 
-> [!tip] If you only read one thing, read [[Master Theses MOC]] -- it is the synthesis layer that ties the whole vault together.
+## Or pick a topic
 
-## Lost? Confused by jargon?
+### Trump and the courts
 
-- [[Plain English Glossary]] -- decoded versions of the 50 most-used specialist terms
-- [[Frequently Asked Questions]] -- the most common "wait, what?" reactions and honest answers
-- [[Evidence Tiers]] -- how to know what to trust and what to question
+> Every Trump criminal case, all the witnesses, all the verdicts -- with evidence tier labels.
 
-## The three master theses (in one sentence each)
+- [[Trump Investigations MOC]] -- master index of all 8 indictments
+- [[People v Trump 2024]] -- the only one to reach a jury verdict (34 felony convictions)
+- [[Trump v United States]] -- the immunity ruling that ended the federal cases
+- [[January 6 Capitol Attack]] -- the documented events and prosecutions
+- [[Mueller Report]] -- the 2017-2019 Russia investigation
 
-1. **Structural Capture** -- the *what*. A coordinated project is capturing the US state via judicial appointments, administrative restructuring (Project 2025 / Schedule F), and constitutional amendment (Convention of States).
-2. **Demographic Defensiveness** -- the *why*. The coalition behind it is a shrinking demographic majority organizing structurally because it cannot win consistent electoral majorities.
-3. **Post-Liberal Constitutional Replacement** -- the *to what end*. The intellectual core has explicitly abandoned the post-WWII liberal-constitutional consensus and is building toward replacing it.
+### Project 2025 and Schedule F
 
-Full statement, evidence, and falsification tests: [[Master Theses MOC]].
+> The 922-page playbook for restructuring the federal government, and the operational mechanism for firing the civil service.
 
-## How to navigate this site
+- [[Project 2025]] -- what it actually is
+- [[Schedule F]] -- the firing mechanism
+- [[Schedule F implementation 2025]] -- what's happened in the second term so far
+- [[DOGE]] -- the Musk/Ramaswamy demolition unit
+- [[Russ Vought]] -- the architect
 
-- **Graph view** (sidebar) -- visual map of how all 3,000+ notes connect
-- **Full-text search** (toolbar) -- instant search across the entire vault
-- **Explorer** (sidebar) -- folder tree
-- **Backlinks** (sidebar, per note) -- what links to the current page
+### Convention of States
 
-## Top-level folders
+> A 19-state movement to call a constitutional convention. Why it matters and how close it is.
 
-`
-00-Home/           Onboarding -- start here
-01-MOCs/           Maps of Content (topic indexes)
-02-People/         Individuals
-03-Organizations/  Companies, agencies, foundations, networks
-04-Events/         Campaigns, hearings, indictments, scandals
-05-Concepts/       Doctrines, laws, methods, technologies
-06-Sources/        Primary evidence
-07-Connections/    Money flows, personnel pipelines
-08-Hypotheses/     Working theories with confidence labels
-09-Threads/        Long-form syntheses
-10-Timeline/       Timelines
-`
+- [[Convention of States Action]] -- the operational organization
+- [[Article V Convention]] -- the constitutional mechanism
+- [[19 state applications]] -- where things stand right now
+- [[Runaway convention]] -- the legal concern across left and right
+- [[Mark Meckler]] -- the public face
 
-## Evidence tiers -- read before quoting
+### Cambridge Analytica & data targeting
+
+> The original investigation that started this whole vault.
+
+- [[Cambridge Analytica]] -- the firm
+- [[SCL Group]] -- the parent company
+- [[Mercer Family Foundation]] -- who funded it
+- [[Psychographics]] -- the methodology
+- [[Microtargeting]] -- the broader practice
+
+### Russian interference 2016
+
+> What's documented, what's contested, what's been settled in court.
+
+- [[Russian interference 2016]] -- the overview
+- [[Internet Research Agency (IRA)]] -- the troll farm
+- [[GRU Unit 26165]] and [[GRU Unit 74455]] -- the hackers
+- [[Mueller Report]] -- the special counsel findings
+- [[Senate Intelligence Committee 2016 Russia Report]] -- the bipartisan congressional version
+
+### Religious right and Christian Nationalism
+
+> The 40+ year movement from Moral Majority to the contemporary theocratic wing.
+
+- [[Religious right]] -- the historical arc
+- [[Christian Nationalism]] -- the explicit modern version
+- [[Council for National Policy]] -- the coordinating forum since 1981
+- [[Heritage Foundation]] -- the policy-shop spine
+- [[Seven Mountain Mandate]] -- the theological framework
+
+### Tech right and Silicon Valley
+
+> How PayPal Mafia + Thiel + Musk + Andreessen shifted the Valley rightward 2020-2024.
+
+- [[Tech right]] -- the overview
+- [[PayPal Mafia]] -- the founding cohort
+- [[Peter Thiel]] -- the central node
+- [[Curtis Yarvin]] -- the intellectual framework
+- [[J.D. Vance]] -- the political vehicle
+
+### Epstein network
+
+> The financier, the network, the documented financial and elite connections.
+
+- [[Epstein Network MOC]] -- master index
+- [[Jeffrey Epstein]] -- the central figure
+- [[Ghislaine Maxwell]] -- the operational partner
+- [[2007 Non-Prosecution Agreement]] -- the federal deal that protected him
+- [[Mega Group]] -- the philanthropic network
+
+### Dark money and donor networks
+
+> Who pays for all of this, and how the money flows.
+
+- [[Marble Freedom Trust]] -- the largest single dark-money donation on record (`.6B`)
+- [[Leonard Leo]] -- the Federalist Society / dark-money architect
+- [[Koch network]] -- the legacy libertarian-donor infrastructure
+- [[Mercer Family Foundation]] -- CA + Breitbart funding spine
+- [[DeVos network]] -- Amway / school-choice / Erik Prince
+
+---
+
+## The three master theses (the synthesis)
+
+The vault argues all the topics above are facets of one coordinated project:
+
+1. **[[Structural Capture Thesis]]** -- the *what*. Coordinated project to capture the US state via courts + executive + constitution.
+2. **[[Demographic Defensiveness Thesis]]** -- the *why*. The coalition is a shrinking demographic majority pursuing non-electoral mechanisms.
+3. **[[Post-Liberal Constitutional Replacement Thesis]]** -- the *to what end*. The intellectual core has rejected the post-WWII liberal-constitutional order.
+
+Full synthesis with evidence and falsification tests: [[Master Theses MOC]].
+
+---
+
+## How to evaluate any claim you find here
 
 Every claim is labeled by evidence strength.
 
-- **Tier 1** -- Documented. Court filings, FBI files, FEC records, leaked corporate documents, sworn testimony with corroboration, peer-reviewed research. Citable directly.
-- **Tier 2** -- Inferred from solid evidence. Reasonable inferences from Tier-1 facts, mainstream investigative journalism with named sources, multiple independent reportings. Cite with attribution.
-- **Tier 3** -- Contested or single-source. Single-witness claims, allegations without corroboration. Cite as allegation, not fact.
+- **Tier 1** -- Documented. Court filings, FBI files, sworn testimony. Citable directly.
+- **Tier 2** -- Inferred. Strong inference from Tier-1 facts, mainstream investigative journalism. Cite with attribution.
+- **Tier 3** -- Contested. Single-witness claims, allegations without corroboration. **Cite as allegation, not fact.**
 
 Full framework: [[Evidence Tiers]].
 
+---
+
+## Navigate this site
+
+- **Graph view** (sidebar) -- visual map of how all 3,000+ notes connect
+- **Search** (toolbar) -- full-text search across the entire vault
+- **Explorer** (sidebar) -- folder tree
+- **Backlinks** (sidebar, per note) -- what links to the current page
+
 ## Source code, contributing, license
 
-- Vault source: [github.com/terry1818/cambridge-analytica-vault](https://github.com/terry1818/cambridge-analytica-vault)
-- Site source: [github.com/terry1818/cambridge-analytica-vault-site](https://github.com/terry1818/cambridge-analytica-vault-site)
-- PRs welcome -- sourced additions only
+- Vault: [github.com/terry1818/cambridge-analytica-vault](https://github.com/terry1818/cambridge-analytica-vault)
+- Site source (Quartz): [github.com/terry1818/cambridge-analytica-vault-site](https://github.com/terry1818/cambridge-analytica-vault-site)
+- Contributions welcome -- sourced additions only
 - Content: CC BY-SA 4.0
 
 ---
 
-*This vault is research, not journalism, not legal accusation, and not a substitute for primary-source verification. Many notes describe public figures and contested events. The evidence tier is the calibration. Quote responsibly.*
+*This vault is research, not journalism, not legal accusation, and not a substitute for primary-source verification. The evidence tier is the calibration. Quote responsibly.*
 
 ---
 
