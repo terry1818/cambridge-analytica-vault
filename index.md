@@ -24,6 +24,12 @@ Lost? [[Plain English Glossary]] decodes the jargon. [[Frequently Asked Question
 
 ---
 
+
+
+## Or try the Interactive Explorer
+
+> [!tip] **[Open the Interactive Explorer](_explorer/index.html)** -- topic cards, drag-through timeline, power-map visualization, all in one page. Visual entry point for anyone who prefers not to read.
+
 ## Or pick a topic
 
 ### Trump and the courts

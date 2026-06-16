@@ -1,0 +1,284 @@
+[
+    {
+        "date":  "1981-01-01",
+        "title":  "Council for National Policy founded",
+        "note":  "Council for National Policy",
+        "group":  "religious"
+    },
+    {
+        "date":  "1981-01-01",
+        "title":  "First Mandate for Leadership (Heritage)",
+        "note":  "Mandate for Leadership",
+        "group":  "religious"
+    },
+    {
+        "date":  "1982-01-01",
+        "title":  "Federalist Society founded",
+        "note":  "Federalist Society",
+        "group":  "judicial"
+    },
+    {
+        "date":  "1996-01-01",
+        "title":  "Wexner deeds Manhattan townhouse to Epstein",
+        "note":  "Jeffrey Epstein",
+        "group":  "epstein"
+    },
+    {
+        "date":  "2007-09-24",
+        "title":  "Epstein 2007 Non-Prosecution Agreement",
+        "note":  "2007 Non-Prosecution Agreement",
+        "group":  "epstein"
+    },
+    {
+        "date":  "2010-01-21",
+        "title":  "Citizens United v. FEC ruling",
+        "note":  "Citizens United v. FEC",
+        "group":  "judicial"
+    },
+    {
+        "date":  "2014-05-01",
+        "title":  "Cambridge Analytica begins Facebook data harvest",
+        "note":  "Cambridge Analytica",
+        "group":  "ca"
+    },
+    {
+        "date":  "2016-07-22",
+        "title":  "WikiLeaks publishes DNC emails (GRU-hacked)",
+        "note":  "WikiLeaks",
+        "group":  "russia"
+    },
+    {
+        "date":  "2016-10-07",
+        "title":  "Access Hollywood tape released",
+        "note":  "Access Hollywood tape",
+        "group":  "trump"
+    },
+    {
+        "date":  "2016-10-27",
+        "title":  "Cohen pays Stormy Daniels",
+        "note":  "Stormy Daniels hush payment",
+        "group":  "trump"
+    },
+    {
+        "date":  "2016-11-08",
+        "title":  "Trump elected President",
+        "note":  "Donald Trump",
+        "group":  "trump"
+    },
+    {
+        "date":  "2017-01-06",
+        "title":  "Intelligence Community Assessment on Russian interference",
+        "note":  "Russian interference 2016",
+        "group":  "russia"
+    },
+    {
+        "date":  "2017-05-17",
+        "title":  "Mueller appointed Special Counsel",
+        "note":  "Robert Mueller",
+        "group":  "russia"
+    },
+    {
+        "date":  "2018-02-16",
+        "title":  "Mueller indicts IRA + 13 Russians",
+        "note":  "Internet Research Agency (IRA)",
+        "group":  "russia"
+    },
+    {
+        "date":  "2018-03-17",
+        "title":  "Cambridge Analytica scandal breaks (NYT/Observer)",
+        "note":  "Cambridge Analytica",
+        "group":  "ca"
+    },
+    {
+        "date":  "2018-04-01",
+        "title":  "Trump zero-tolerance family separation policy",
+        "note":  "Family separation policy",
+        "group":  "trump"
+    },
+    {
+        "date":  "2019-03-22",
+        "title":  "Mueller Report delivered",
+        "note":  "Mueller Report",
+        "group":  "russia"
+    },
+    {
+        "date":  "2019-07-25",
+        "title":  "Trump-Zelensky call (Ukraine pressure)",
+        "note":  "Trump-Ukraine Whistleblower Complaint",
+        "group":  "trump"
+    },
+    {
+        "date":  "2019-08-10",
+        "title":  "Epstein dies in federal custody",
+        "note":  "Jeffrey Epstein",
+        "group":  "epstein"
+    },
+    {
+        "date":  "2019-12-18",
+        "title":  "Trump impeached (1st - Ukraine)",
+        "note":  "First Impeachment of Donald Trump",
+        "group":  "trump"
+    },
+    {
+        "date":  "2020-07-13",
+        "title":  "Mueller indicts 12 GRU officers",
+        "note":  "GRU Unit 26165",
+        "group":  "russia"
+    },
+    {
+        "date":  "2020-09-29",
+        "title":  "Trump debate: Proud Boys stand back and stand by",
+        "note":  "Stand back and stand by",
+        "group":  "trump"
+    },
+    {
+        "date":  "2020-10-21",
+        "title":  "Trump signs first Schedule F EO",
+        "note":  "Schedule F",
+        "group":  "project2025"
+    },
+    {
+        "date":  "2020-12-14",
+        "title":  "Fake electors meet in 7 state capitols",
+        "note":  "Fake electors scheme",
+        "group":  "trump"
+    },
+    {
+        "date":  "2021-01-02",
+        "title":  "Trump-Raffensperger call",
+        "note":  "Trump-Raffensperger call",
+        "group":  "trump"
+    },
+    {
+        "date":  "2021-01-06",
+        "title":  "January 6 Capitol Attack",
+        "note":  "January 6 Capitol Attack",
+        "group":  "trump"
+    },
+    {
+        "date":  "2021-02-13",
+        "title":  "Trump acquitted (2nd impeachment)",
+        "note":  "Donald Trump",
+        "group":  "trump"
+    },
+    {
+        "date":  "2021-08-01",
+        "title":  "Barre Seid donates $1.6B to Marble Freedom Trust (Leo)",
+        "note":  "Marble Freedom Trust",
+        "group":  "darkmoney"
+    },
+    {
+        "date":  "2022-06-24",
+        "title":  "Dobbs v. Jackson decided (Roe overturned)",
+        "note":  "Dobbs v. Jackson",
+        "group":  "judicial"
+    },
+    {
+        "date":  "2022-11-18",
+        "title":  "Jack Smith appointed Special Counsel",
+        "note":  "Jack Smith",
+        "group":  "trump"
+    },
+    {
+        "date":  "2022-11-29",
+        "title":  "Oath Keepers seditious conspiracy convictions",
+        "note":  "Stewart Rhodes",
+        "group":  "trump"
+    },
+    {
+        "date":  "2022-12-22",
+        "title":  "J6 Committee Final Report released",
+        "note":  "J6 Committee Final Report",
+        "group":  "trump"
+    },
+    {
+        "date":  "2023-04-18",
+        "title":  "Dominion v Fox News $787.5M settlement",
+        "note":  "Dominion v Fox News",
+        "group":  "trump"
+    },
+    {
+        "date":  "2023-05-04",
+        "title":  "Proud Boys seditious conspiracy convictions (Tarrio)",
+        "note":  "Enrique Tarrio",
+        "group":  "trump"
+    },
+    {
+        "date":  "2023-08-01",
+        "title":  "Trump indicted in DC (J6 federal case)",
+        "note":  "Trump January 6 Federal Case",
+        "group":  "trump"
+    },
+    {
+        "date":  "2023-08-14",
+        "title":  "Trump indicted in Georgia (RICO case)",
+        "note":  "Georgia RICO Case",
+        "group":  "trump"
+    },
+    {
+        "date":  "2024-02-16",
+        "title":  "Engoron verdict ($354M NY civil fraud)",
+        "note":  "Arthur Engoron",
+        "group":  "trump"
+    },
+    {
+        "date":  "2024-05-30",
+        "title":  "People v Trump 2024 - guilty on 34 felony counts",
+        "note":  "People v Trump 2024",
+        "group":  "trump"
+    },
+    {
+        "date":  "2024-07-01",
+        "title":  "Trump v United States ruling (presidential immunity)",
+        "note":  "Trump v United States",
+        "group":  "judicial"
+    },
+    {
+        "date":  "2024-07-15",
+        "title":  "Aileen Cannon dismisses Mar-a-Lago case",
+        "note":  "Aileen Cannon",
+        "group":  "trump"
+    },
+    {
+        "date":  "2024-11-05",
+        "title":  "2024 US presidential election - Trump wins",
+        "note":  "2024 United States presidential election",
+        "group":  "trump"
+    },
+    {
+        "date":  "2025-01-20",
+        "title":  "Trump 2nd inauguration; J6 mass pardons; Schedule F revived",
+        "note":  "Schedule F implementation 2025",
+        "group":  "project2025"
+    },
+    {
+        "date":  "2025-01-24",
+        "title":  "USAID effectively shut down",
+        "note":  "USAID",
+        "group":  "project2025"
+    },
+    {
+        "date":  "2025-01-28",
+        "title":  "Fork in the Road deferred resignation offer",
+        "note":  "Fork in the Road",
+        "group":  "project2025"
+    },
+    {
+        "date":  "2025-02-13",
+        "title":  "RFK Jr confirmed as HHS Secretary",
+        "note":  "Robert F Kennedy Jr",
+        "group":  "project2025"
+    },
+    {
+        "date":  "2025-03-01",
+        "title":  "Alien Enemies Act invocation (CECOT deportations)",
+        "note":  "Mass deportation operation 2025",
+        "group":  "project2025"
+    },
+    {
+        "date":  "2025-09-10",
+        "title":  "Charlie Kirk killed at Utah Valley University",
+        "note":  "Charlie Kirk",
+        "group":  "religious"
+    }
+]

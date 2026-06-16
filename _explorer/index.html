@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Cambridge Analytica Vault Explorer</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://unpkg.com/vis-timeline@7.7.3/styles/vis-timeline-graph2d.min.css" rel="stylesheet" />
+<script src="https://unpkg.com/vis-timeline@7.7.3/standalone/umd/vis-timeline-graph2d.min.js"></script>
+<script src="https://unpkg.com/cytoscape@3.28.1/dist/cytoscape.min.js"></script>
+<script src="https://unpkg.com/cytoscape-cose-bilkent@4.1.0/cytoscape-cose-bilkent.js"></script>
+<style>
+  body { background:#0f172a; color:#e2e8f0; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+  .vis-timeline { border:none; background:#1e293b; color:#e2e8f0; font-size:12px; }
+  .vis-item { background:#475569; border-color:#64748b; color:#fff; }
+  .vis-item.vis-selected { background:#facc15; color:#0f172a; border-color:#facc15; }
+  .vis-time-axis .vis-text { color:#94a3b8; }
+  .vis-time-axis .vis-grid { border-color:#334155; }
+  .vis-panel.vis-center, .vis-panel.vis-left, .vis-panel.vis-right { border-color:#334155; }
+  .vis-current-time { background:#facc15; }
+  #graph { width:100%; height:600px; background:#1e293b; border-radius:0.5rem; }
+  .chat-bubble { position:fixed; bottom:20px; right:20px; width:360px; max-height:500px; display:flex; flex-direction:column; background:#1e293b; border:1px solid #334155; border-radius:0.75rem; box-shadow:0 25px 50px -12px rgba(0,0,0,0.5); z-index:50; }
+  .chat-bubble.hidden { display:none; }
+  .chat-fab { position:fixed; bottom:20px; right:20px; width:64px; height:64px; border-radius:50%; background:linear-gradient(135deg,#f97316,#ef4444); color:#fff; font-size:28px; display:flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 25px 50px -12px rgba(0,0,0,0.5); z-index:40; border:none; }
+  .chat-fab:hover { transform:scale(1.05); }
+  .topic-card { transition: transform 0.15s ease, box-shadow 0.15s ease; }
+  .topic-card:hover { transform: translateY(-4px); box-shadow: 0 25px 50px -12px rgba(0,0,0,0.4); }
+  .tab-btn { padding:0.75rem 1.5rem; border-radius:0.5rem; font-weight:600; cursor:pointer; transition: background 0.15s; }
+  .tab-btn.active { background:#f97316; color:#0f172a; }
+  .tab-btn:not(.active) { background:#334155; color:#e2e8f0; }
+  .tab-btn:not(.active):hover { background:#475569; }
+  .note-link { color:#fcd34d; text-decoration:underline; cursor:pointer; }
+  .legend-dot { width:12px; height:12px; border-radius:50%; display:inline-block; margin-right:0.5rem; vertical-align:middle; }
+</style>
+</head>
+<body>
+
+<header class="bg-slate-900 border-b border-slate-700">
+  <div class="max-w-7xl mx-auto px-6 py-8">
+    <h1 class="text-4xl font-bold text-white mb-2">Cambridge Analytica Vault Explorer</h1>
+    <p class="text-slate-300 text-lg max-w-3xl">A visual entry point to ~3,500 sourced notes tracing how billionaires, religious-right organizers, intelligence operators, and Silicon Valley founders built the apparatus that put Donald Trump in power twice.</p>
+    <div class="mt-4 flex gap-2 flex-wrap">
+      <a href="https://terry1818.github.io/cambridge-analytica-vault-site" class="px-4 py-2 bg-slate-700 text-white rounded hover:bg-slate-600">Full vault &rarr;</a>
+      <a href="https://terry1818.github.io/cambridge-analytica-vault-site/01-MOCs/Master-Theses-MOC" class="px-4 py-2 bg-orange-600 text-white rounded hover:bg-orange-500">Master Theses &rarr;</a>
+      <a href="https://terry1818.github.io/cambridge-analytica-vault-site/00-Home/Start-Here" class="px-4 py-2 bg-slate-700 text-white rounded hover:bg-slate-600">Start Here (2 min) &rarr;</a>
+    </div>
+  </div>
+</header>
+
+<nav class="bg-slate-800 border-b border-slate-700 sticky top-0 z-30">
+  <div class="max-w-7xl mx-auto px-6 py-3 flex gap-2 overflow-x-auto">
+    <button class="tab-btn active" data-tab="topics">Topics</button>
+    <button class="tab-btn" data-tab="timeline">Timeline</button>
+    <button class="tab-btn" data-tab="graph">Power Map</button>
+    <button class="tab-btn" data-tab="about">About</button>
+  </div>
+</nav>
+
+<main class="max-w-7xl mx-auto px-6 py-8">
+
+  <section id="topics-tab" class="tab-content">
+    <h2 class="text-2xl font-bold text-white mb-4">Pick a topic to explore</h2>
+    <p class="text-slate-400 mb-6">Each card opens a curated list of vault notes on that topic. Every claim in the vault is sourced and evidence-tier-labeled.</p>
+    <div id="topics-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+  </section>
+
+  <section id="timeline-tab" class="tab-content hidden">
+    <h2 class="text-2xl font-bold text-white mb-4">Drag-through timeline (1981 - 2026)</h2>
+    <p class="text-slate-400 mb-4">Click and drag to pan. Scroll to zoom. Click an event to open the linked vault note.</p>
+    <div id="timeline-legend" class="mb-4 flex gap-4 flex-wrap text-xs"></div>
+    <div id="timeline" class="rounded-lg overflow-hidden"></div>
+    <div id="timeline-detail" class="mt-4 p-4 bg-slate-800 rounded-lg text-slate-300 hidden">
+      <div class="font-bold text-white text-lg" id="td-title"></div>
+      <div class="text-sm text-slate-400" id="td-date"></div>
+      <a id="td-link" target="_blank" class="text-yellow-300 underline mt-2 inline-block">Open vault note &rarr;</a>
+    </div>
+  </section>
+
+  <section id="graph-tab" class="tab-content hidden">
+    <h2 class="text-2xl font-bold text-white mb-4">Power Map</h2>
+    <p class="text-slate-400 mb-4">Visual graph of the major figures and organizations. Color = cluster. Size = connectivity. Click a node to see info and open the vault note.</p>
+    <div id="graph-legend" class="mb-4 flex gap-4 flex-wrap text-xs"></div>
+    <div id="graph"></div>
+    <div id="graph-detail" class="mt-4 p-4 bg-slate-800 rounded-lg text-slate-300 hidden">
+      <div class="font-bold text-white text-lg" id="gd-title"></div>
+      <div class="text-sm text-slate-400" id="gd-cluster"></div>
+      <a id="gd-link" target="_blank" class="text-yellow-300 underline mt-2 inline-block">Open vault note &rarr;</a>
+    </div>
+  </section>
+
+  <section id="about-tab" class="tab-content hidden">
+    <h2 class="text-2xl font-bold text-white mb-4">About this Explorer</h2>
+    <div class="prose prose-invert max-w-3xl space-y-4 text-slate-300">
+      <p>This Explorer is a visual companion to the <a href="https://terry1818.github.io/cambridge-analytica-vault-site" class="text-yellow-300 underline">Cambridge Analytica Research Vault</a> -- a public research collection of ~3,500 sourced notes about the political infrastructure shaping contemporary US politics.</p>
+      <h3 class="text-xl font-bold text-white">What you can do here</h3>
+      <ul class="list-disc list-inside space-y-2">
+        <li><strong>Topics</strong> - 9 curated entry-point cards covering the major analytic clusters.</li>
+        <li><strong>Timeline</strong> - 47 documented events from 1981 to 2026, color-coded by cluster.</li>
+        <li><strong>Power Map</strong> - 81 entities + 97 documented connections visualized as a force-directed graph.</li>
+        <li><strong>Ask the Vault</strong> (chat button, bottom right) - coming soon. Architecture sketch in the vault under <code>00-Home/Future Builds</code>.</li>
+      </ul>
+      <h3 class="text-xl font-bold text-white">Every claim is evidence-tier-labeled</h3>
+      <ul class="list-disc list-inside space-y-2">
+        <li><strong>Tier 1</strong> -- Court filings, sworn testimony, official records. Citable directly.</li>
+        <li><strong>Tier 2</strong> -- Strong inference from Tier-1 facts. Cite with attribution.</li>
+        <li><strong>Tier 3</strong> -- Contested or single-sourced. Cite as allegation, not fact.</li>
+      </ul>
+      <p>Source code on <a href="https://github.com/terry1818/cambridge-analytica-vault" class="text-yellow-300 underline">GitHub</a>. PRs welcome with sourced additions.</p>
+    </div>
+  </section>
+
+</main>
+
+<button class="chat-fab" id="chat-fab" title="Ask the Vault">?</button>
+<div class="chat-bubble hidden" id="chat-bubble">
+  <div class="px-4 py-3 border-b border-slate-700 flex justify-between items-center">
+    <div class="font-bold text-white">Ask the Vault</div>
+    <button id="chat-close" class="text-slate-400 hover:text-white text-xl leading-none">&times;</button>
+  </div>
+  <div class="flex-1 overflow-y-auto p-4 space-y-3 text-sm" id="chat-log">
+    <div class="bg-slate-700 rounded-lg p-3 text-slate-200">
+      Hi! I am the <strong>Ask the Vault</strong> chatbot interface. The Q&amp;A engine is not yet connected.<br><br>
+      Once the embedding + LLM backend ships (architecture sketch in <code>00-Home/Future Builds</code>), I will be able to:
+      <ul class="list-disc list-inside mt-2 space-y-1">
+        <li>Answer plain-English questions about anything in the vault</li>
+        <li>Cite specific notes with their evidence tier</li>
+        <li>Refuse to invent claims that are not sourced</li>
+      </ul>
+      <br>
+      Until then: try the Topics, Timeline, or Power Map tabs above.
+    </div>
+  </div>
+  <div class="px-4 py-3 border-t border-slate-700">
+    <input type="text" placeholder="(coming soon)" disabled class="w-full px-3 py-2 bg-slate-900 border border-slate-700 rounded text-slate-400 cursor-not-allowed" />
+  </div>
+</div>
+
+<script>
+const SITE_BASE = 'https://terry1818.github.io/cambridge-analytica-vault-site';
+function noteUrl(rel) {
+  if (!rel) return SITE_BASE;
+  const filename = rel.split('/').pop();
+  return SITE_BASE + '/' + filename.replace(/\s+/g, '-');
+}
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden'));
+    document.getElementById(btn.dataset.tab + '-tab').classList.remove('hidden');
+  });
+});
+document.getElementById('chat-fab').addEventListener('click', () => document.getElementById('chat-bubble').classList.toggle('hidden'));
+document.getElementById('chat-close').addEventListener('click', () => document.getElementById('chat-bubble').classList.add('hidden'));
+
+fetch('topics.json').then(r => r.json()).then(topics => {
+  const grid = document.getElementById('topics-grid');
+  topics.forEach(t => {
+    const card = document.createElement('div');
+    card.className = 'topic-card bg-slate-800 rounded-lg p-5 border-l-4 hover:bg-slate-700';
+    card.style.borderLeftColor = t.color;
+    let notesHtml = t.notes.map(n => '<li><a href="' + noteUrl(n.link) + '" target="_blank" class="text-yellow-300 hover:text-yellow-200">' + n.title + '</a></li>').join('');
+    card.innerHTML = '<div class="font-bold text-white text-lg mb-2">' + t.title + '</div><div class="text-slate-400 text-sm mb-3">' + t.tagline + '</div><ul class="space-y-1 text-sm">' + notesHtml + '</ul>';
+    grid.appendChild(card);
+  });
+});
+
+fetch('timeline.json').then(r => r.json()).then(events => {
+  fetch('graph.json').then(r => r.json()).then(graphData => {
+    const groups = graphData.groups;
+    const legend = document.getElementById('timeline-legend');
+    Object.entries(groups).forEach(([key, g]) => {
+      const el = document.createElement('div');
+      el.className = 'text-slate-300';
+      el.innerHTML = '<span class="legend-dot" style="background:' + g.color + '"></span>' + g.label;
+      legend.appendChild(el);
+    });
+    const items = events.map((e, i) => ({
+      id: i,
+      content: e.title,
+      start: e.date,
+      style: 'background:' + groups[e.group].color + ';border-color:' + groups[e.group].color + ';color:#0f172a;',
+      noteLink: e.note,
+      noteDate: e.date
+    }));
+    const container = document.getElementById('timeline');
+    const options = {
+      stack: true,
+      orientation: 'top',
+      zoomMin: 1000 * 60 * 60 * 24 * 30,
+      zoomMax: 1000 * 60 * 60 * 24 * 365 * 50,
+      height: 500
+    };
+    const timeline = new vis.Timeline(container, items, options);
+    timeline.on('select', props => {
+      if (props.items.length === 0) return;
+      const item = items[props.items[0]];
+      document.getElementById('td-title').textContent = item.content;
+      document.getElementById('td-date').textContent = item.noteDate;
+      document.getElementById('td-link').href = noteUrl(item.noteLink);
+      document.getElementById('timeline-detail').classList.remove('hidden');
+    });
+  });
+});
+
+fetch('graph.json').then(r => r.json()).then(g => {
+  const groups = g.groups;
+  const legend = document.getElementById('graph-legend');
+  Object.entries(groups).forEach(([key, gr]) => {
+    const el = document.createElement('div');
+    el.className = 'text-slate-300';
+    el.innerHTML = '<span class="legend-dot" style="background:' + gr.color + '"></span>' + gr.label;
+    legend.appendChild(el);
+  });
+  const elements = [];
+  g.nodes.forEach(n => {
+    elements.push({ data: { id: n.id, label: n.id, color: groups[n.group].color, size: n.size, group: n.group, clusterLabel: groups[n.group].label } });
+  });
+  g.edges.forEach(e => {
+    elements.push({ data: { id: e.source + '_' + e.target, source: e.source, target: e.target } });
+  });
+  const cy = cytoscape({
+    container: document.getElementById('graph'),
+    elements: elements,
+    style: [
+      { selector: 'node', style: {
+        'background-color': 'data(color)',
+        'label': 'data(label)',
+        'color': '#fff',
+        'text-outline-width': 2,
+        'text-outline-color': '#1e293b',
+        'font-size': '10px',
+        'width': 'data(size)',
+        'height': 'data(size)',
+        'text-valign': 'bottom',
+        'text-margin-y': 4
+      }},
+      { selector: 'edge', style: {
+        'width': 1,
+        'line-color': '#475569',
+        'curve-style': 'bezier',
+        'opacity': 0.5
+      }},
+      { selector: 'node:selected', style: { 'border-width': 3, 'border-color': '#facc15' }}
+    ],
+    layout: { name: 'cose-bilkent', animate: true, nodeRepulsion: 8000, idealEdgeLength: 100 }
+  });
+  cy.on('tap', 'node', evt => {
+    const n = evt.target;
+    document.getElementById('gd-title').textContent = n.data('label');
+    document.getElementById('gd-cluster').textContent = 'Cluster: ' + n.data('clusterLabel');
+    document.getElementById('gd-link').href = noteUrl(n.data('label'));
+    document.getElementById('graph-detail').classList.remove('hidden');
+  });
+});
+</script>
+
+</body>
+</html>

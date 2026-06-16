@@ -1,0 +1,845 @@
+{
+    "groups":  {
+                   "religious":  {
+                                     "color":  "#3b82f6",
+                                     "label":  "Religious right"
+                                 },
+                   "cos":  {
+                               "color":  "#eab308",
+                               "label":  "Convention of States"
+                           },
+                   "project2025":  {
+                                       "color":  "#f97316",
+                                       "label":  "Project 2025 / Schedule F"
+                                   },
+                   "ca":  {
+                              "color":  "#22c55e",
+                              "label":  "Cambridge Analytica"
+                          },
+                   "judicial":  {
+                                    "color":  "#0ea5e9",
+                                    "label":  "Judicial / SCOTUS"
+                                },
+                   "russia":  {
+                                  "color":  "#14b8a6",
+                                  "label":  "Russia interference"
+                              },
+                   "epstein":  {
+                                   "color":  "#ec4899",
+                                   "label":  "Epstein network"
+                               },
+                   "darkmoney":  {
+                                     "color":  "#64748b",
+                                     "label":  "Dark money"
+                                 },
+                   "trump":  {
+                                 "color":  "#ef4444",
+                                 "label":  "Trump orbit"
+                             },
+                   "foreign":  {
+                                   "color":  "#a855f7",
+                                   "label":  "Foreign autocrat money"
+                               },
+                   "techright":  {
+                                     "color":  "#8b5cf6",
+                                     "label":  "Tech right"
+                                 }
+               },
+    "edges":  [
+                  {
+                      "target":  "Jared Kushner",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "J.D. Vance",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Mike Pence",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Steve Bannon",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Stephen Miller",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Tom Homan",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Russ Vought",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Pete Hegseth",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Robert F Kennedy Jr",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Schedule F",
+                      "source":  "Project 2025"
+                  },
+                  {
+                      "target":  "Heritage Foundation",
+                      "source":  "Project 2025"
+                  },
+                  {
+                      "target":  "Kevin Roberts",
+                      "source":  "Project 2025"
+                  },
+                  {
+                      "target":  "Russ Vought",
+                      "source":  "Project 2025"
+                  },
+                  {
+                      "target":  "Paul Dans",
+                      "source":  "Project 2025"
+                  },
+                  {
+                      "target":  "DOGE",
+                      "source":  "Project 2025"
+                  },
+                  {
+                      "target":  "Elon Musk",
+                      "source":  "DOGE"
+                  },
+                  {
+                      "target":  "Vivek Ramaswamy",
+                      "source":  "DOGE"
+                  },
+                  {
+                      "target":  "Russ Vought",
+                      "source":  "Schedule F"
+                  },
+                  {
+                      "target":  "Mark Meckler",
+                      "source":  "Convention of States Action"
+                  },
+                  {
+                      "target":  "Article V Convention",
+                      "source":  "Convention of States Action"
+                  },
+                  {
+                      "target":  "Convention of States Action",
+                      "source":  "Council for National Policy"
+                  },
+                  {
+                      "target":  "Religious right",
+                      "source":  "Council for National Policy"
+                  },
+                  {
+                      "target":  "Heritage Foundation",
+                      "source":  "Council for National Policy"
+                  },
+                  {
+                      "target":  "Christian Nationalism",
+                      "source":  "Religious right"
+                  },
+                  {
+                      "target":  "Family Research Council",
+                      "source":  "Religious right"
+                  },
+                  {
+                      "target":  "Tony Perkins",
+                      "source":  "Family Research Council"
+                  },
+                  {
+                      "target":  "Jerry Falwell",
+                      "source":  "Religious right"
+                  },
+                  {
+                      "target":  "New Apostolic Reformation",
+                      "source":  "Christian Nationalism"
+                  },
+                  {
+                      "target":  "Lance Wallnau",
+                      "source":  "New Apostolic Reformation"
+                  },
+                  {
+                      "target":  "The Family",
+                      "source":  "Religious right"
+                  },
+                  {
+                      "target":  "Peter Thiel",
+                      "source":  "Tech right"
+                  },
+                  {
+                      "target":  "Marc Andreessen",
+                      "source":  "Tech right"
+                  },
+                  {
+                      "target":  "David Sacks",
+                      "source":  "Tech right"
+                  },
+                  {
+                      "target":  "Curtis Yarvin",
+                      "source":  "Tech right"
+                  },
+                  {
+                      "target":  "PayPal Mafia",
+                      "source":  "Tech right"
+                  },
+                  {
+                      "target":  "Elon Musk",
+                      "source":  "Tech right"
+                  },
+                  {
+                      "target":  "Peter Thiel",
+                      "source":  "PayPal Mafia"
+                  },
+                  {
+                      "target":  "Elon Musk",
+                      "source":  "PayPal Mafia"
+                  },
+                  {
+                      "target":  "David Sacks",
+                      "source":  "PayPal Mafia"
+                  },
+                  {
+                      "target":  "J.D. Vance",
+                      "source":  "Peter Thiel"
+                  },
+                  {
+                      "target":  "Curtis Yarvin",
+                      "source":  "Peter Thiel"
+                  },
+                  {
+                      "target":  "Palantir",
+                      "source":  "Peter Thiel"
+                  },
+                  {
+                      "target":  "Andreessen Horowitz",
+                      "source":  "Marc Andreessen"
+                  },
+                  {
+                      "target":  "Founders Fund",
+                      "source":  "Peter Thiel"
+                  },
+                  {
+                      "target":  "Leonard Leo",
+                      "source":  "Marble Freedom Trust"
+                  },
+                  {
+                      "target":  "Barre Seid",
+                      "source":  "Marble Freedom Trust"
+                  },
+                  {
+                      "target":  "Federalist Society",
+                      "source":  "Leonard Leo"
+                  },
+                  {
+                      "target":  "Supreme Court",
+                      "source":  "Federalist Society"
+                  },
+                  {
+                      "target":  "Heritage Foundation",
+                      "source":  "Bradley Foundation"
+                  },
+                  {
+                      "target":  "Federalist Society",
+                      "source":  "Bradley Foundation"
+                  },
+                  {
+                      "target":  "Cambridge Analytica",
+                      "source":  "Mercer Family Foundation"
+                  },
+                  {
+                      "target":  "Robert Mercer",
+                      "source":  "Mercer Family Foundation"
+                  },
+                  {
+                      "target":  "Rebekah Mercer",
+                      "source":  "Mercer Family Foundation"
+                  },
+                  {
+                      "target":  "Steve Bannon",
+                      "source":  "Mercer Family Foundation"
+                  },
+                  {
+                      "target":  "SCL Group",
+                      "source":  "Cambridge Analytica"
+                  },
+                  {
+                      "target":  "Aleksandr Kogan",
+                      "source":  "Cambridge Analytica"
+                  },
+                  {
+                      "target":  "Christopher Wylie",
+                      "source":  "Cambridge Analytica"
+                  },
+                  {
+                      "target":  "Steve Bannon",
+                      "source":  "Cambridge Analytica"
+                  },
+                  {
+                      "target":  "Donald Trump",
+                      "source":  "Cambridge Analytica"
+                  },
+                  {
+                      "target":  "Vladimir Putin",
+                      "source":  "Russian interference 2016"
+                  },
+                  {
+                      "target":  "Internet Research Agency (IRA)",
+                      "source":  "Russian interference 2016"
+                  },
+                  {
+                      "target":  "Yevgeny Prigozhin",
+                      "source":  "Internet Research Agency (IRA)"
+                  },
+                  {
+                      "target":  "Wagner Group",
+                      "source":  "Yevgeny Prigozhin"
+                  },
+                  {
+                      "target":  "Robert Mueller",
+                      "source":  "Russian interference 2016"
+                  },
+                  {
+                      "target":  "Donald Trump",
+                      "source":  "Robert Mueller"
+                  },
+                  {
+                      "target":  "Ghislaine Maxwell",
+                      "source":  "Jeffrey Epstein"
+                  },
+                  {
+                      "target":  "Les Wexner",
+                      "source":  "Jeffrey Epstein"
+                  },
+                  {
+                      "target":  "Mega Group",
+                      "source":  "Les Wexner"
+                  },
+                  {
+                      "target":  "Alexander Acosta",
+                      "source":  "Jeffrey Epstein"
+                  },
+                  {
+                      "target":  "Saudi Public Investment Fund",
+                      "source":  "Mohammed bin Salman"
+                  },
+                  {
+                      "target":  "Affinity Partners",
+                      "source":  "Saudi Public Investment Fund"
+                  },
+                  {
+                      "target":  "Jared Kushner",
+                      "source":  "Affinity Partners"
+                  },
+                  {
+                      "target":  "Donald Trump",
+                      "source":  "Sheldon Adelson"
+                  },
+                  {
+                      "target":  "Donald Trump",
+                      "source":  "Miriam Adelson"
+                  },
+                  {
+                      "target":  "Donald Trump",
+                      "source":  "Federalist Society"
+                  },
+                  {
+                      "target":  "Citizens United v. FEC",
+                      "source":  "Supreme Court"
+                  },
+                  {
+                      "target":  "Dobbs v. Jackson",
+                      "source":  "Supreme Court"
+                  },
+                  {
+                      "target":  "Trump v United States",
+                      "source":  "Supreme Court"
+                  },
+                  {
+                      "target":  "Donald Trump",
+                      "source":  "Trump v United States"
+                  },
+                  {
+                      "target":  "Oath Keepers",
+                      "source":  "January 6 Capitol Attack"
+                  },
+                  {
+                      "target":  "Proud Boys",
+                      "source":  "January 6 Capitol Attack"
+                  },
+                  {
+                      "target":  "Stewart Rhodes",
+                      "source":  "Oath Keepers"
+                  },
+                  {
+                      "target":  "Enrique Tarrio",
+                      "source":  "Proud Boys"
+                  },
+                  {
+                      "target":  "Donald Trump",
+                      "source":  "January 6 Capitol Attack"
+                  },
+                  {
+                      "target":  "John Eastman",
+                      "source":  "January 6 Capitol Attack"
+                  },
+                  {
+                      "target":  "Rudy Giuliani",
+                      "source":  "January 6 Capitol Attack"
+                  },
+                  {
+                      "target":  "Mark Meadows",
+                      "source":  "January 6 Capitol Attack"
+                  },
+                  {
+                      "target":  "Mike Pence",
+                      "source":  "John Eastman"
+                  },
+                  {
+                      "target":  "Donald Trump",
+                      "source":  "Mark Meadows"
+                  },
+                  {
+                      "target":  "Peter Thiel",
+                      "source":  "J.D. Vance"
+                  },
+                  {
+                      "target":  "Curtis Yarvin",
+                      "source":  "J.D. Vance"
+                  },
+                  {
+                      "target":  "Mercer Family Foundation",
+                      "source":  "Steve Bannon"
+                  },
+                  {
+                      "target":  "Cambridge Analytica",
+                      "source":  "Steve Bannon"
+                  },
+                  {
+                      "target":  "Project 2025",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Heritage Foundation",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Federalist Society",
+                      "source":  "Donald Trump"
+                  },
+                  {
+                      "target":  "Council for National Policy",
+                      "source":  "Donald Trump"
+                  }
+              ],
+    "nodes":  [
+                  {
+                      "group":  "trump",
+                      "id":  "Donald Trump",
+                      "size":  40
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Jared Kushner",
+                      "size":  15
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "J.D. Vance",
+                      "size":  20
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Mike Pence",
+                      "size":  15
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Steve Bannon",
+                      "size":  20
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Stephen Miller",
+                      "size":  20
+                  },
+                  {
+                      "group":  "project2025",
+                      "id":  "Tom Homan",
+                      "size":  15
+                  },
+                  {
+                      "group":  "project2025",
+                      "id":  "Russ Vought",
+                      "size":  20
+                  },
+                  {
+                      "group":  "project2025",
+                      "id":  "Kevin Roberts",
+                      "size":  15
+                  },
+                  {
+                      "group":  "project2025",
+                      "id":  "Paul Dans",
+                      "size":  10
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Pete Hegseth",
+                      "size":  10
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Robert F Kennedy Jr",
+                      "size":  15
+                  },
+                  {
+                      "group":  "project2025",
+                      "id":  "Project 2025",
+                      "size":  30
+                  },
+                  {
+                      "group":  "project2025",
+                      "id":  "Schedule F",
+                      "size":  25
+                  },
+                  {
+                      "group":  "religious",
+                      "id":  "Heritage Foundation",
+                      "size":  25
+                  },
+                  {
+                      "group":  "project2025",
+                      "id":  "DOGE",
+                      "size":  20
+                  },
+                  {
+                      "group":  "techright",
+                      "id":  "Elon Musk",
+                      "size":  25
+                  },
+                  {
+                      "group":  "project2025",
+                      "id":  "Vivek Ramaswamy",
+                      "size":  10
+                  },
+                  {
+                      "group":  "cos",
+                      "id":  "Convention of States Action",
+                      "size":  20
+                  },
+                  {
+                      "group":  "cos",
+                      "id":  "Article V Convention",
+                      "size":  20
+                  },
+                  {
+                      "group":  "cos",
+                      "id":  "Mark Meckler",
+                      "size":  15
+                  },
+                  {
+                      "group":  "religious",
+                      "id":  "Council for National Policy",
+                      "size":  25
+                  },
+                  {
+                      "group":  "religious",
+                      "id":  "Religious right",
+                      "size":  25
+                  },
+                  {
+                      "group":  "religious",
+                      "id":  "Christian Nationalism",
+                      "size":  25
+                  },
+                  {
+                      "group":  "religious",
+                      "id":  "Family Research Council",
+                      "size":  15
+                  },
+                  {
+                      "group":  "religious",
+                      "id":  "Tony Perkins",
+                      "size":  10
+                  },
+                  {
+                      "group":  "religious",
+                      "id":  "Jerry Falwell",
+                      "size":  10
+                  },
+                  {
+                      "group":  "religious",
+                      "id":  "New Apostolic Reformation",
+                      "size":  15
+                  },
+                  {
+                      "group":  "religious",
+                      "id":  "Lance Wallnau",
+                      "size":  10
+                  },
+                  {
+                      "group":  "religious",
+                      "id":  "The Family",
+                      "size":  15
+                  },
+                  {
+                      "group":  "techright",
+                      "id":  "Peter Thiel",
+                      "size":  30
+                  },
+                  {
+                      "group":  "techright",
+                      "id":  "Marc Andreessen",
+                      "size":  20
+                  },
+                  {
+                      "group":  "techright",
+                      "id":  "David Sacks",
+                      "size":  15
+                  },
+                  {
+                      "group":  "techright",
+                      "id":  "Curtis Yarvin",
+                      "size":  20
+                  },
+                  {
+                      "group":  "techright",
+                      "id":  "PayPal Mafia",
+                      "size":  20
+                  },
+                  {
+                      "group":  "techright",
+                      "id":  "Palantir",
+                      "size":  20
+                  },
+                  {
+                      "group":  "techright",
+                      "id":  "Tech right",
+                      "size":  25
+                  },
+                  {
+                      "group":  "techright",
+                      "id":  "Andreessen Horowitz",
+                      "size":  15
+                  },
+                  {
+                      "group":  "techright",
+                      "id":  "Founders Fund",
+                      "size":  15
+                  },
+                  {
+                      "group":  "darkmoney",
+                      "id":  "Marble Freedom Trust",
+                      "size":  20
+                  },
+                  {
+                      "group":  "darkmoney",
+                      "id":  "Leonard Leo",
+                      "size":  20
+                  },
+                  {
+                      "group":  "judicial",
+                      "id":  "Federalist Society",
+                      "size":  25
+                  },
+                  {
+                      "group":  "darkmoney",
+                      "id":  "Koch network",
+                      "size":  20
+                  },
+                  {
+                      "group":  "darkmoney",
+                      "id":  "Mercer Family Foundation",
+                      "size":  20
+                  },
+                  {
+                      "group":  "darkmoney",
+                      "id":  "DeVos network",
+                      "size":  15
+                  },
+                  {
+                      "group":  "darkmoney",
+                      "id":  "Barre Seid",
+                      "size":  10
+                  },
+                  {
+                      "group":  "darkmoney",
+                      "id":  "Bradley Foundation",
+                      "size":  10
+                  },
+                  {
+                      "group":  "ca",
+                      "id":  "Cambridge Analytica",
+                      "size":  25
+                  },
+                  {
+                      "group":  "ca",
+                      "id":  "SCL Group",
+                      "size":  15
+                  },
+                  {
+                      "group":  "ca",
+                      "id":  "Robert Mercer",
+                      "size":  15
+                  },
+                  {
+                      "group":  "ca",
+                      "id":  "Rebekah Mercer",
+                      "size":  15
+                  },
+                  {
+                      "group":  "ca",
+                      "id":  "Aleksandr Kogan",
+                      "size":  10
+                  },
+                  {
+                      "group":  "ca",
+                      "id":  "Christopher Wylie",
+                      "size":  10
+                  },
+                  {
+                      "group":  "russia",
+                      "id":  "Russian interference 2016",
+                      "size":  25
+                  },
+                  {
+                      "group":  "russia",
+                      "id":  "Vladimir Putin",
+                      "size":  20
+                  },
+                  {
+                      "group":  "russia",
+                      "id":  "Internet Research Agency (IRA)",
+                      "size":  20
+                  },
+                  {
+                      "group":  "russia",
+                      "id":  "Yevgeny Prigozhin",
+                      "size":  15
+                  },
+                  {
+                      "group":  "russia",
+                      "id":  "Wagner Group",
+                      "size":  15
+                  },
+                  {
+                      "group":  "russia",
+                      "id":  "Robert Mueller",
+                      "size":  20
+                  },
+                  {
+                      "group":  "epstein",
+                      "id":  "Jeffrey Epstein",
+                      "size":  30
+                  },
+                  {
+                      "group":  "epstein",
+                      "id":  "Ghislaine Maxwell",
+                      "size":  20
+                  },
+                  {
+                      "group":  "epstein",
+                      "id":  "Les Wexner",
+                      "size":  20
+                  },
+                  {
+                      "group":  "epstein",
+                      "id":  "Mega Group",
+                      "size":  15
+                  },
+                  {
+                      "group":  "epstein",
+                      "id":  "Alexander Acosta",
+                      "size":  15
+                  },
+                  {
+                      "group":  "foreign",
+                      "id":  "Mohammed bin Salman",
+                      "size":  15
+                  },
+                  {
+                      "group":  "foreign",
+                      "id":  "Saudi Public Investment Fund",
+                      "size":  15
+                  },
+                  {
+                      "group":  "foreign",
+                      "id":  "Affinity Partners",
+                      "size":  15
+                  },
+                  {
+                      "group":  "foreign",
+                      "id":  "Sheldon Adelson",
+                      "size":  10
+                  },
+                  {
+                      "group":  "foreign",
+                      "id":  "Miriam Adelson",
+                      "size":  15
+                  },
+                  {
+                      "group":  "judicial",
+                      "id":  "Supreme Court",
+                      "size":  20
+                  },
+                  {
+                      "group":  "judicial",
+                      "id":  "Citizens United v. FEC",
+                      "size":  15
+                  },
+                  {
+                      "group":  "judicial",
+                      "id":  "Dobbs v. Jackson",
+                      "size":  20
+                  },
+                  {
+                      "group":  "judicial",
+                      "id":  "Trump v United States",
+                      "size":  20
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "January 6 Capitol Attack",
+                      "size":  25
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Oath Keepers",
+                      "size":  15
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Proud Boys",
+                      "size":  15
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Stewart Rhodes",
+                      "size":  10
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Enrique Tarrio",
+                      "size":  10
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "John Eastman",
+                      "size":  15
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Rudy Giuliani",
+                      "size":  15
+                  },
+                  {
+                      "group":  "trump",
+                      "id":  "Mark Meadows",
+                      "size":  15
+                  }
+              ]
+}

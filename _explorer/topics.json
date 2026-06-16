@@ -1,0 +1,254 @@
+[
+    {
+        "color":  "#ef4444",
+        "title":  "Trump and the courts",
+        "id":  "trump",
+        "tagline":  "Every Trump criminal case, all the witnesses, all the verdicts.",
+        "notes":  [
+                      {
+                          "link":  "01-MOCs/Trump Investigations MOC",
+                          "title":  "Trump Investigations MOC"
+                      },
+                      {
+                          "link":  "04-Events/Hearings-Investigations/People v Trump 2024",
+                          "title":  "People v Trump 2024"
+                      },
+                      {
+                          "link":  "04-Events/Hearings-Investigations/Trump v United States",
+                          "title":  "Trump v United States"
+                      },
+                      {
+                          "link":  "04-Events/January 6 Capitol Attack",
+                          "title":  "January 6 Capitol Attack"
+                      },
+                      {
+                          "link":  "02-People/Political-Figures/Robert Mueller",
+                          "title":  "Mueller Report"
+                      }
+                  ]
+    },
+    {
+        "color":  "#f97316",
+        "title":  "Project 2025 and Schedule F",
+        "id":  "project2025",
+        "tagline":  "The 922-page playbook for restructuring the federal government.",
+        "notes":  [
+                      {
+                          "link":  "05-Concepts/Project 2025",
+                          "title":  "Project 2025"
+                      },
+                      {
+                          "link":  "05-Concepts/Schedule F",
+                          "title":  "Schedule F"
+                      },
+                      {
+                          "link":  "04-Events/Hearings-Investigations/Schedule F implementation 2025",
+                          "title":  "Schedule F implementation 2025"
+                      },
+                      {
+                          "link":  "04-Events/Hearings-Investigations/DOGE",
+                          "title":  "DOGE"
+                      },
+                      {
+                          "link":  "02-People/Political-Figures/Russ Vought",
+                          "title":  "Russ Vought"
+                      }
+                  ]
+    },
+    {
+        "color":  "#eab308",
+        "title":  "Convention of States",
+        "id":  "cos",
+        "tagline":  "A 19-state movement to call a constitutional convention.",
+        "notes":  [
+                      {
+                          "link":  "03-Organizations/Convention of States Action",
+                          "title":  "Convention of States Action"
+                      },
+                      {
+                          "link":  "05-Concepts/Article V Convention",
+                          "title":  "Article V Convention"
+                      },
+                      {
+                          "link":  "05-Concepts/19 state applications",
+                          "title":  "19 state applications"
+                      },
+                      {
+                          "link":  "05-Concepts/Runaway convention",
+                          "title":  "Runaway convention"
+                      },
+                      {
+                          "link":  "02-People/Political-Figures/Mark Meckler",
+                          "title":  "Mark Meckler"
+                      }
+                  ]
+    },
+    {
+        "color":  "#22c55e",
+        "title":  "Cambridge Analytica",
+        "id":  "ca",
+        "tagline":  "The original investigation that started this whole vault.",
+        "notes":  [
+                      {
+                          "link":  "03-Organizations/CA-SCL-Group/Cambridge Analytica",
+                          "title":  "Cambridge Analytica"
+                      },
+                      {
+                          "link":  "03-Organizations/CA-SCL-Group/SCL Group",
+                          "title":  "SCL Group"
+                      },
+                      {
+                          "link":  "03-Organizations/Mercer Family Foundation",
+                          "title":  "Mercer Family Foundation"
+                      },
+                      {
+                          "link":  "05-Concepts/Psychographics",
+                          "title":  "Psychographics"
+                      },
+                      {
+                          "link":  "05-Concepts/Microtargeting",
+                          "title":  "Microtargeting"
+                      }
+                  ]
+    },
+    {
+        "color":  "#14b8a6",
+        "title":  "Russian interference 2016",
+        "id":  "russia",
+        "tagline":  "What is documented, what is contested, what is settled in court.",
+        "notes":  [
+                      {
+                          "link":  "05-Concepts/Russian interference 2016",
+                          "title":  "Russian interference 2016"
+                      },
+                      {
+                          "link":  "03-Organizations/Internet Research Agency (IRA)",
+                          "title":  "Internet Research Agency"
+                      },
+                      {
+                          "link":  "02-People/Misc-Stubs/GRU Unit 26165",
+                          "title":  "GRU Unit 26165"
+                      },
+                      {
+                          "link":  "02-People/Misc-Stubs/GRU Unit 74455",
+                          "title":  "GRU Unit 74455"
+                      },
+                      {
+                          "link":  "03-Organizations/Senate Intelligence Committee 2016 Russia Report",
+                          "title":  "Senate Intel 2016 Russia Report"
+                      }
+                  ]
+    },
+    {
+        "color":  "#3b82f6",
+        "title":  "Religious right and Christian Nationalism",
+        "id":  "religious",
+        "tagline":  "40+ years from Moral Majority to the contemporary theocratic wing.",
+        "notes":  [
+                      {
+                          "link":  "05-Concepts/Religious right",
+                          "title":  "Religious right"
+                      },
+                      {
+                          "link":  "05-Concepts/Christian Nationalism",
+                          "title":  "Christian Nationalism"
+                      },
+                      {
+                          "link":  "03-Organizations/Council for National Policy",
+                          "title":  "Council for National Policy"
+                      },
+                      {
+                          "link":  "03-Organizations/Heritage Foundation",
+                          "title":  "Heritage Foundation"
+                      },
+                      {
+                          "link":  "05-Concepts/Seven Mountain Mandate",
+                          "title":  "Seven Mountain Mandate"
+                      }
+                  ]
+    },
+    {
+        "color":  "#8b5cf6",
+        "title":  "Tech right and Silicon Valley",
+        "id":  "techright",
+        "tagline":  "How Thiel, Musk, Andreessen shifted the Valley rightward 2020-2024.",
+        "notes":  [
+                      {
+                          "link":  "05-Concepts/Tech right",
+                          "title":  "Tech right"
+                      },
+                      {
+                          "link":  "03-Organizations/PayPal Mafia",
+                          "title":  "PayPal Mafia"
+                      },
+                      {
+                          "link":  "02-People/Tech-Industry/Peter Thiel",
+                          "title":  "Peter Thiel"
+                      },
+                      {
+                          "link":  "02-People/Political-Figures/Curtis Yarvin",
+                          "title":  "Curtis Yarvin"
+                      },
+                      {
+                          "link":  "02-People/Political-Figures/J.D. Vance",
+                          "title":  "J.D. Vance"
+                      }
+                  ]
+    },
+    {
+        "color":  "#ec4899",
+        "title":  "Epstein network",
+        "id":  "epstein",
+        "tagline":  "The financier, the network, the documented elite connections.",
+        "notes":  [
+                      {
+                          "link":  "01-MOCs/Epstein Network MOC",
+                          "title":  "Epstein Network MOC"
+                      },
+                      {
+                          "link":  "02-People/Jeffrey Epstein",
+                          "title":  "Jeffrey Epstein"
+                      },
+                      {
+                          "link":  "02-People/Ghislaine Maxwell",
+                          "title":  "Ghislaine Maxwell"
+                      },
+                      {
+                          "link":  "04-Events/Hearings-Investigations/2007 Non-Prosecution Agreement",
+                          "title":  "2007 Non-Prosecution Agreement"
+                      },
+                      {
+                          "link":  "03-Organizations/Mega Group",
+                          "title":  "Mega Group"
+                      }
+                  ]
+    },
+    {
+        "color":  "#64748b",
+        "title":  "Dark money and donor networks",
+        "id":  "darkmoney",
+        "tagline":  "Who pays for all of this, and how the money flows.",
+        "notes":  [
+                      {
+                          "link":  "03-Organizations/Marble Freedom Trust",
+                          "title":  "Marble Freedom Trust ($1.6B)"
+                      },
+                      {
+                          "link":  "02-People/Political-Figures/Leonard Leo",
+                          "title":  "Leonard Leo"
+                      },
+                      {
+                          "link":  "03-Organizations/Koch network",
+                          "title":  "Koch network"
+                      },
+                      {
+                          "link":  "03-Organizations/Mercer Family Foundation",
+                          "title":  "Mercer Family Foundation"
+                      },
+                      {
+                          "link":  "03-Organizations/DeVos network",
+                          "title":  "DeVos network"
+                      }
+                  ]
+    }
+]
