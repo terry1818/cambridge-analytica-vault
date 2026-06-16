@@ -1,100 +1,88 @@
 ---
 title: Cambridge Analytica Research Vault
-description: 'Public, evidence-tiered research vault tracing the architecture linking Cambridge Analytica, post-WWII intelligence and crime, sexual blackmail networks, the modern theocratic right, the tech-surveillance state, and the Article-V state-capture vector.'
-date: 2026-05-29
+description: 'A public, evidence-sourced research vault tracing the people, money, and institutions that have shaped contemporary US politics. ~3,500 notes, every claim sourced, plain-English glossary for newcomers.'
+date: 2026-06-16
 tags: [home, index]
 aliases: ['Index']
 ---
 
 # Cambridge Analytica Research Vault
 
-> A public, evidence-tiered research vault tracing the architecture that links Cambridge Analytica, post-WWII intelligence and organized crime, sexual blackmail networks, the modern theocratic right, the tech-surveillance state, and the Article-V state-capture vector.
->
-> **2,000+ wikilinked notes. Every claim sourced. Tier 1 / Tier 2 / Tier 3 evidence labels throughout.**
+## What this is, in one paragraph
 
-## What this argues
+A public research collection about how a small group of billionaires, religious-right organizers, intelligence operators, and Silicon Valley founders has spent 40+ years building the political apparatus that put Donald Trump in power twice. It started as an investigation of Cambridge Analytica -- the firm that profiled 87 million Facebook users for the 2016 election -- and grew because the people behind it turned out to be connected to nearly everything else.
 
-Cambridge Analytica was not an anomaly. It was one visible node in a much older system: a fusion of intelligence, organized crime, blackmail networks, dark money, theocratic-right political infrastructure, and tech-surveillance capital that has been building for nearly a century. This vault traces the people, organizations, money flows, and events across that arc -- from the post-WWII Mob-FBI compromise through the Mercer/SCL/CA era, into the modern Heritage/Project 2025/Palantir/Convention-of-States power map.
+> [!info] **You do not need to read all of it.** The reading lists below tell you exactly where to start.
 
-**Three load-bearing hypotheses:**
+## Pick your time budget
 
-- [[Federal database supersedes CA model]] -- Palantir + the March 2025 Trump EO replace CA's third-party data brokerage with direct federal access
-- [[Hypothesis - COS is the permanent capture arm of Project 2025]] -- Convention of States as the constitutional vector locking in Project 2025 beyond electoral cycles
-- [[Hypothesis - Three-wing coalition]] -- patron capital + theocratic infrastructure + tech-surveillance form one operational coalition, not three separate movements
+| Time | Start here | What you get |
+|---|---|---|
+| **2 minutes** | [[Start Here]] | The whole project in one page |
+| **5 minutes** | [[Master Theses MOC]] | The three big claims this vault makes |
+| **30 minutes** | [[Reading List - 30 Minutes]] | Core thesis plus strongest evidence |
+| **2 hours** | [[Reading List - 2 Hour Deep Dive]] | Supporting structure plus case studies |
+| **A weekend** | [[Reading List - Weekend]] | The full arc |
 
-## Start here -- pick your time budget
+> [!tip] If you only read one thing, read [[Master Theses MOC]] -- it is the synthesis layer that ties the whole vault together.
 
-| Time | Path |
-|---|---|
-| **30 minutes** | [[Reading List - 30 Minutes]] |
-| **2 hours** | [[Reading List - 2 Hour Deep Dive]] |
-| **A weekend** | [[Reading List - Weekend]] |
-| **Researcher mode** | [[Reading List - Researcher]] |
+## Lost? Confused by jargon?
 
-If you only read one thing, read **[[Deep Dive - Three Wing Coalition Anatomy]]**.
+- [[Plain English Glossary]] -- decoded versions of the 50 most-used specialist terms
+- [[Frequently Asked Questions]] -- the most common "wait, what?" reactions and honest answers
+- [[Evidence Tiers]] -- how to know what to trust and what to question
 
-## Load-bearing entry points
+## The three master theses (in one sentence each)
 
-**Synthesis:**
-- [[Lens - 2024-2026 Power Map]] -- current architecture of the right at a glance
-- [[Lens - COS as Constitutional Capture Vector]] -- the Article-V mechanism explained
-- [[Deep Dive - Three Wing Coalition Anatomy]] -- master synthesis
-- [[Epstein Network MOC]] -- capstone case study tying the blackmail architecture to the present
+1. **Structural Capture** -- the *what*. A coordinated project is capturing the US state via judicial appointments, administrative restructuring (Project 2025 / Schedule F), and constitutional amendment (Convention of States).
+2. **Demographic Defensiveness** -- the *why*. The coalition behind it is a shrinking demographic majority organizing structurally because it cannot win consistent electoral majorities.
+3. **Post-Liberal Constitutional Replacement** -- the *to what end*. The intellectual core has explicitly abandoned the post-WWII liberal-constitutional consensus and is building toward replacing it.
 
-**Actionable output:**
-- [[Counter-COS Strategy for the Left]] -- what to actually do about it
-- State playbooks for OH, PA, IA, WY, VA (see `09-Threads/State-Playbooks/`)
+Full statement, evidence, and falsification tests: [[Master Theses MOC]].
 
-**Methodology:**
-- [[How to Use the Vault]]
-- [[Evidence Tiers]] -- the Tier 1 / Tier 2 / Tier 3 framework
-- [[Methodology - Verifying a CA claim]]
-- [[Conventions]] -- naming, linking, citation rules
+## How to navigate this site
 
-## Navigating this site
-
-- **Graph view** (right sidebar) -- every wikilink connection across 2,000+ notes
-- **Full-text search** (top toolbar) -- instant search
-- **Explorer** (left sidebar) -- folder tree of the whole vault
-- **Backlinks** (right sidebar, per note) -- what links into each note
-- **Dark mode + reader mode** (top toolbar)
+- **Graph view** (sidebar) -- visual map of how all 3,000+ notes connect
+- **Full-text search** (toolbar) -- instant search across the entire vault
+- **Explorer** (sidebar) -- folder tree
+- **Backlinks** (sidebar, per note) -- what links to the current page
 
 ## Top-level folders
 
-```
-01-MOCs/              Maps of Content and synthesis Lenses
-02-People/            Individuals -- operators, funders, theorists, victims
-03-Organizations/     Companies, agencies, foundations, fronts
-04-Events/            Campaigns, hearings, leaks, scandals
-05-Concepts/          Doctrines, methods, technologies
-06-Sources/           Primary evidence: filings, leaks, books, articles
-07-Connections/       Relationship notes -- money flows, personnel, data flows
-08-Hypotheses/        Working theories with explicit confidence labels
-09-Threads/           Long-form syntheses, deep dives, strategic outputs
-10-Timeline/          Master timeline + per-event timelines
-11-Canvases/          Visual relationship maps
-```
+`
+00-Home/           Onboarding -- start here
+01-MOCs/           Maps of Content (topic indexes)
+02-People/         Individuals
+03-Organizations/  Companies, agencies, foundations, networks
+04-Events/         Campaigns, hearings, indictments, scandals
+05-Concepts/       Doctrines, laws, methods, technologies
+06-Sources/        Primary evidence
+07-Connections/    Money flows, personnel pipelines
+08-Hypotheses/     Working theories with confidence labels
+09-Threads/        Long-form syntheses
+10-Timeline/       Timelines
+`
 
-## Evidence tiers -- read this before quoting anything
+## Evidence tiers -- read before quoting
 
-Every claim is labeled by evidence strength. **The tier is the disclaimer.**
+Every claim is labeled by evidence strength.
 
-- **Tier 1 -- Documented.** Court filings, FBI files, FEC records, leaked corporate documents, sworn testimony with corroboration, peer-reviewed research. Citable directly.
-- **Tier 2 -- Inferred from solid evidence.** Reasonable inferences from Tier-1 facts, mainstream investigative journalism with named sources, multiple independent reportings. Cite with attribution.
-- **Tier 3 -- Contested / single-source / under-evidenced.** Single-witness claims, allegations without corroboration, plausible patterns without smoking guns. **Cite as allegation, not fact.**
+- **Tier 1** -- Documented. Court filings, FBI files, FEC records, leaked corporate documents, sworn testimony with corroboration, peer-reviewed research. Citable directly.
+- **Tier 2** -- Inferred from solid evidence. Reasonable inferences from Tier-1 facts, mainstream investigative journalism with named sources, multiple independent reportings. Cite with attribution.
+- **Tier 3** -- Contested or single-source. Single-witness claims, allegations without corroboration. Cite as allegation, not fact.
 
-See [[Evidence Tiers]] for the full framework and [[Methodology - Verifying a CA claim]] for the verification protocol.
+Full framework: [[Evidence Tiers]].
 
 ## Source code, contributing, license
 
-- Vault source (markdown): [github.com/terry1818/cambridge-analytica-vault](https://github.com/terry1818/cambridge-analytica-vault)
-- Site source (Quartz): [github.com/terry1818/cambridge-analytica-vault-site](https://github.com/terry1818/cambridge-analytica-vault-site)
-- PRs welcome -- sourced additions only. Speculation without sources gets closed.
+- Vault source: [github.com/terry1818/cambridge-analytica-vault](https://github.com/terry1818/cambridge-analytica-vault)
+- Site source: [github.com/terry1818/cambridge-analytica-vault-site](https://github.com/terry1818/cambridge-analytica-vault-site)
+- PRs welcome -- sourced additions only
 - Content: CC BY-SA 4.0
 
 ---
 
-*This vault is research, not journalism, not legal accusation, and not a substitute for primary-source verification. Many notes describe public figures and contested events; the evidence tier is the calibration. Quote responsibly.*
+*This vault is research, not journalism, not legal accusation, and not a substitute for primary-source verification. Many notes describe public figures and contested events. The evidence tier is the calibration. Quote responsibly.*
 
 ---
 

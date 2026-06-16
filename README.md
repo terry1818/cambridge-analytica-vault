@@ -1,127 +1,95 @@
 # Cambridge Analytica Research Vault
 
-> A public, evidence-tiered research vault tracing the architecture that links Cambridge Analytica, post-WWII intelligence/organized-crime networks, sexual blackmail operations, the modern theocratic right, the tech-surveillance state, and the Article-V state-capture vector.
->
-> **2,600+ wikilinked notes. Every claim sourced. Tier 1 / Tier 2 / Tier 3 evidence labels throughout.**
->
-> Maintained by [@terry1818](https://github.com/terry1818). Public research. PRs welcome with sourced additions.
+## What this is, in plain English
 
----
+A public research collection about how a small group of billionaires, religious-right organizers, intelligence operators, and Silicon Valley founders has spent 40+ years building the political apparatus that put Donald Trump in power twice. It started as an investigation of Cambridge Analytica -- the firm that quietly profiled 87 million Facebook users for the 2016 election -- and grew because the people behind it turned out to be connected to nearly everything else.
 
-## What this argues
+## Who this is for
 
-Cambridge Analytica was not an anomaly. It was one visible node in a much older system: a fusion of intelligence, organized crime, blackmail networks, dark money, theocratic-right political infrastructure, and tech-surveillance capital that has been building for nearly a century. This vault traces the people, organizations, money flows, and events across that arc -- from the post-WWII Mob-FBI compromise through the Mercer/SCL/CA era, into the modern Heritage / Project 2025 / Palantir / Convention-of-States power map.
+- **Curious citizens** who want to understand what is actually happening in US politics
+- **Journalists and researchers** who need a sourced starting point
+- **Activists and organizers** who need to understand the structure they are up against
+- **Students** writing papers on contemporary US politics
 
-**Three load-bearing hypotheses** (each with its own note + evidence chain):
-- [Federal database supersedes the CA model](08-Hypotheses/Federal%20database%20supersedes%20CA%20model.md) -- Palantir + the March 2025 Trump EO replace CA's third-party data brokerage with direct federal access.
-- [COS is the permanent capture arm of Project 2025](08-Hypotheses/Hypothesis%20-%20COS%20is%20the%20permanent%20capture%20arm%20of%20Project%202025.md) -- the Convention of States movement is the constitutional vector for locking in Project 2025 beyond electoral cycles.
-- [The Three-Wing Coalition](08-Hypotheses/Hypothesis%20-%20Three-wing%20coalition.md) -- patron capital + theocratic infrastructure + tech-surveillance form one operational coalition, not three separate movements.
+You do NOT need to be an expert. You do NOT need to read all of it. The reading lists below tell you exactly where to start based on how much time you have.
 
----
+## Pick your time budget
 
-## Start here (pick your time budget)
-
-| Time | Path | What you'll get |
+| Time | Where to go | What you get |
 |---|---|---|
-| **30 minutes** | [Reading List - 30 Minutes](00-Home/Reading%20List%20-%2030%20Minutes.md) | Core thesis + the strongest evidence. |
-| **2 hours** | [Reading List - 2 Hour Deep Dive](00-Home/Reading%20List%20-%202%20Hour%20Deep%20Dive.md) | Thesis + supporting structure + key case studies. |
-| **A weekend** | [Reading List - Weekend](00-Home/Reading%20List%20-%20Weekend.md) | The full arc, including the historical pre-CA chapters. |
-| **Researcher mode** | [Reading List - Researcher](00-Home/Reading%20List%20-%20Researcher.md) | Sourced reading paths for deep verification work. |
+| **2 minutes** | [Start Here](00-Home/Start%20Here.md) | The whole project in one page |
+| **5 minutes** | [Master Theses MOC](01-MOCs/Master%20Theses%20MOC.md) | The three big claims and why |
+| **30 minutes** | [Reading List - 30 Minutes](00-Home/Reading%20List%20-%2030%20Minutes.md) | Core thesis plus strongest evidence |
+| **2 hours** | [Reading List - 2 Hour Deep Dive](00-Home/Reading%20List%20-%202%20Hour%20Deep%20Dive.md) | Supporting structure plus case studies |
+| **A weekend** | [Reading List - Weekend](00-Home/Reading%20List%20-%20Weekend.md) | The full arc |
 
-If you only read one thing, read **[Deep Dive - Three Wing Coalition Anatomy](09-Threads/Deep%20Dive%20-%20Three%20Wing%20Coalition%20Anatomy.md)**.
+If you do not know where to start, [Start Here](00-Home/Start%20Here.md) takes less than two minutes.
 
----
+## Wait, is this a conspiracy theory?
 
-## The load-bearing entry points
+No. But it is a fair question to ask.
 
-**Synthesis / overview:**
-- [Lens - 2024-2026 Power Map](01-MOCs/Lenses/Lens%20-%202024-2026%20Power%20Map.md) -- the current architecture of the right at a glance.
-- [Lens - COS as Constitutional Capture Vector](01-MOCs/Lenses/Lens%20-%20COS%20as%20Constitutional%20Capture%20Vector.md) -- the Article-V mechanism explained.
-- [Deep Dive - Three Wing Coalition Anatomy](09-Threads/Deep%20Dive%20-%20Three%20Wing%20Coalition%20Anatomy.md) -- the master synthesis.
+The protection against conspiracy framing is **the evidence tier system**: every claim is labeled Tier 1, 2, or 3.
 
-**Actionable output:**
-- [Counter-COS Strategy for the Left](09-Threads/Counter-COS%20Strategy%20for%20the%20Left.md) -- what to actually do about it.
-- [State Playbooks](09-Threads/State-Playbooks) -- defensive plans for OH, PA, IA, WY, VA.
+- **Tier 1** = court filings, sworn testimony, official records. Citable directly.
+- **Tier 2** = strong inference from documented facts, mainstream investigative journalism. Cite with attribution.
+- **Tier 3** = contested or single-sourced. Cite as allegation, not fact.
 
-**Methodology:**
-- [How to Use the Vault](00-Home/How%20to%20Use%20the%20Vault.md)
-- [Evidence Tiers](00-Home/Evidence%20Tiers.md) -- Tier 1 / Tier 2 / Tier 3 framework.
-- [Methodology - Verifying a CA claim](00-Home/Methodology%20-%20Verifying%20a%20CA%20claim.md)
-- [Conventions](00-Home/Conventions.md) -- naming, linking, citation rules.
+If a claim sounds dramatic and is only Tier 3, the vault tells you that explicitly. See [Frequently Asked Questions](00-Home/Frequently%20Asked%20Questions.md) and [Evidence Tiers](00-Home/Evidence%20Tiers.md) for more.
 
----
+## Don't know the jargon?
 
-## How to use this repo
+[Plain English Glossary](00-Home/Plain%20English%20Glossary.md) decodes the 50 most-used specialist terms. Open it in another tab while you read.
 
-**Easiest (no setup, browser only):**
-Click into folders above to read notes rendered on GitHub. Use GitHub's search box (top of repo) to find any person, organization, or event by keyword across all 2,600+ notes.
+## How to actually use this
 
-**Power use (full graph, wikilinks, backlinks):**
-```
-git clone https://github.com/terry1818/cambridge-analytica-vault.git
-```
-Open the cloned folder in [Obsidian](https://obsidian.md). You get the full interactive graph view, all wikilinks resolve, plus backlinks for every entity.
+**Easiest (your browser, no install):**
+- Read on GitHub by clicking folders above
+- Use the search box (top of repo) to find any name or event
 
-**Web (full graph + search, no install):**
-A static site with full graph view, search, and wikilink resolution is being built with [Quartz](https://quartz.jzhao.xyz/). URL will be linked here once live.
+**Best experience (free, 5-minute setup):**
+1. Install [Obsidian](https://obsidian.md)
+2. Clone this repo: `git clone https://github.com/terry1818/cambridge-analytica-vault.git`
+3. Open the cloned folder in Obsidian
+4. You now have the full graph view, search, backlinks, and clickable wikilinks
 
----
+**On the web (no install):**
+A static site with full graph view and search is auto-built from this repo via Quartz. URL linked here when live.
 
 ## Vault structure
 
-```
-00-Home/              Conventions, reading lists, methodology, taxonomy
-01-MOCs/              Maps of Content (topic indexes) and Lenses (synthesis views)
-02-People/            Individuals -- operators, funders, theorists, victims
-03-Organizations/     Companies, agencies, foundations, fronts
-04-Events/            Campaigns, hearings, leaks, scandals
-05-Concepts/          Doctrines, methods, technologies
-06-Sources/           Primary evidence: filings, leaks, books, articles (with [[Source: X]] aliases)
-07-Connections/       Relationship notes -- money flows, personnel overlap, data flows
-08-Hypotheses/        Working theories with explicit confidence labels
-09-Threads/           Long-form syntheses, deep dives, strategic outputs
-10-Timeline/          Master timeline + per-event timelines
-11-Canvases/          Visual relationship maps (.canvas files)
-_templates/           Note templates
-```
-
----
-
-## Evidence tiers -- read this before quoting anything
-
-Every claim is labeled by evidence strength. **The tier is the disclaimer.**
-
-- **Tier 1 -- Documented.** Court filings, FBI files, FEC records, leaked corporate documents, sworn testimony with corroboration, peer-reviewed research. Citable directly.
-- **Tier 2 -- Inferred from solid evidence.** Reasonable inferences from Tier-1 facts, mainstream investigative journalism with named sources, multiple independent reportings. Cite with attribution.
-- **Tier 3 -- Contested / single-source / under-evidenced.** Single-witness claims, allegations without corroboration, plausible patterns without smoking guns. **Cite as allegation, not fact.**
-
-If a note doesn't carry a tier, the wider claim usually inherits the tier of its weakest [[Source: ...]] citation. See [Evidence Tiers](00-Home/Evidence%20Tiers.md) for the full framework and [Methodology - Verifying a CA claim](00-Home/Methodology%20-%20Verifying%20a%20CA%20claim.md) for the verification protocol.
-
----
+`
+00-Home/           Onboarding -- start here
+01-MOCs/           Maps of Content (topic indexes)
+02-People/         Individuals -- operators, funders, theorists, witnesses
+03-Organizations/  Companies, agencies, foundations, networks
+04-Events/         Campaigns, hearings, indictments, scandals
+05-Concepts/       Doctrines, laws, methods, technologies
+06-Sources/        Primary evidence: court docs, filings, books, articles
+07-Connections/    Relationship notes: money flows, personnel pipelines
+08-Hypotheses/     Working theories with confidence labels
+09-Threads/        Long-form syntheses and strategic outputs
+10-Timeline/       Master timeline plus per-figure timelines
+`
 
 ## Contributing
 
-PRs are welcome for:
-- New sources (court documents, primary-source filings, investigative reporting)
-- Corrections (with at least one Tier-1 or Tier-2 source)
-- New entity nodes following the [Conventions](00-Home/Conventions.md) and using the templates in `_templates/`
+PRs welcome for:
+- New sources (court documents, primary records, investigative reporting)
+- Corrections, with at least one Tier-1 or Tier-2 source
+- New entity notes following [Conventions](00-Home/Conventions.md) using templates in `_templates/`
 - Cross-cutting connection notes in `07-Connections/`
 
-PRs that add speculation without sources, or that lower the evidence-tier discipline, will be closed with a note.
+PRs that add speculation without sources get closed. The evidence-tier discipline IS the credibility of the project.
 
-Open an [Issue](https://github.com/terry1818/cambridge-analytica-vault/issues) to flag a missing entity, a broken link, a disputed claim, or to suggest a new MOC / lens.
+Open an [Issue](https://github.com/terry1818/cambridge-analytica-vault/issues) for missing entities, broken links, disputed claims, or new MOC suggestions.
 
----
+## License and caveat
 
-## What's intentionally not here
-
-- The Cascade civic-tech build plan, foundation incorporation docs, grant application materials, and coalition pitch deck (`12-App-Backend/`) are kept local until launch. They are not strategic claims about the world; they are organizational plans for a separate project.
-- Local Obsidian workspace state, AI assistant caches, large binary downloads (videos, executables) are excluded -- see `.gitignore`.
-
----
-
-## License & caveat
-
-This vault is research, not journalism, not legal accusation, and not a substitute for primary-source verification. Many notes describe public figures and contested events; the evidence tier is the calibration. Quote responsibly.
+This vault is research. It is not journalism. It is not a legal accusation. It is not a substitute for primary-source verification. Many notes describe public figures and contested events. The evidence tier is the calibration. Quote responsibly.
 
 Content licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise marked.
+
+---
+
+Maintained by [@terry1818](https://github.com/terry1818). Public research. PRs welcome with sourced additions.
