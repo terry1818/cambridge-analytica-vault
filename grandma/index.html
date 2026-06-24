@@ -18,170 +18,44 @@
   }
   * { box-sizing: border-box; }
   html, body {
-    margin: 0;
-    padding: 0;
-    background: var(--bg);
-    color: var(--ink);
+    margin: 0; padding: 0;
+    background: var(--bg); color: var(--ink);
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 22px;
-    line-height: 1.7;
+    font-size: 22px; line-height: 1.7;
   }
-  .wrap {
-    max-width: 760px;
-    margin: 0 auto;
-    padding: 30px 24px 140px 24px;
-  }
-  header {
-    text-align: center;
-    border-bottom: 3px solid var(--border);
-    padding-bottom: 20px;
-    margin-bottom: 30px;
-  }
-  header h1 {
-    font-size: 36px;
-    margin: 0 0 8px 0;
-    color: var(--accent);
-    line-height: 1.2;
-  }
-  header .sub {
-    font-size: 20px;
-    color: var(--ink-soft);
-    font-style: italic;
-  }
-  .progress {
-    text-align: center;
-    font-size: 20px;
-    color: var(--ink-soft);
-    margin: 20px 0 30px 0;
-    font-weight: bold;
-  }
-  .progress-bar {
-    background: var(--border);
-    height: 14px;
-    border-radius: 7px;
-    overflow: hidden;
-    margin: 8px auto;
-    max-width: 400px;
-  }
-  .progress-fill {
-    background: var(--accent);
-    height: 100%;
-    transition: width 0.3s ease;
-  }
-  article {
-    background: var(--paper);
-    padding: 36px 40px;
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.04);
-  }
-  article h2 {
-    font-size: 32px;
-    color: var(--accent);
-    margin-top: 0;
-    margin-bottom: 24px;
-    line-height: 1.25;
-  }
-  article p {
-    margin: 0 0 22px 0;
-    font-size: 22px;
-  }
-  article ul, article ol {
-    padding-left: 28px;
-    margin: 0 0 22px 0;
-  }
-  article li {
-    margin-bottom: 14px;
-    font-size: 22px;
-  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 30px 24px 140px 24px; }
+  header { text-align: center; border-bottom: 3px solid var(--border); padding-bottom: 20px; margin-bottom: 30px; }
+  header h1 { font-size: 36px; margin: 0 0 8px 0; color: var(--accent); line-height: 1.2; }
+  header .sub { font-size: 20px; color: var(--ink-soft); font-style: italic; }
+  .progress { text-align: center; font-size: 20px; color: var(--ink-soft); margin: 20px 0 30px 0; font-weight: bold; }
+  .progress-bar { background: var(--border); height: 14px; border-radius: 7px; overflow: hidden; margin: 8px auto; max-width: 400px; }
+  .progress-fill { background: var(--accent); height: 100%; transition: width 0.3s ease; }
+  article { background: var(--paper); padding: 36px 40px; border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.04); }
+  article h2 { font-size: 32px; color: var(--accent); margin-top: 0; margin-bottom: 24px; line-height: 1.25; }
+  article p { margin: 0 0 22px 0; font-size: 22px; }
+  article ul, article ol { padding-left: 28px; margin: 0 0 22px 0; }
+  article li { margin-bottom: 14px; font-size: 22px; }
   article strong { color: var(--accent); }
-  .callout {
-    background: #fff4e6;
-    border-left: 6px solid var(--accent);
-    padding: 18px 22px;
-    margin: 24px 0;
-    border-radius: 4px;
-    font-size: 21px;
-  }
-  .lesson-list {
-    background: var(--paper);
-    padding: 30px 40px;
-    border: 1px solid var(--border);
-    border-radius: 8px;
-  }
-  .lesson-list h2 {
-    font-size: 28px;
-    color: var(--accent);
-    margin-top: 0;
-  }
-  .lesson-list ol {
-    padding-left: 32px;
-  }
-  .lesson-list li {
-    margin-bottom: 12px;
-    cursor: pointer;
-    font-size: 21px;
-  }
-  .lesson-list a {
-    color: var(--ink);
-    text-decoration: none;
-    border-bottom: 1px dotted var(--accent-soft);
-  }
-  .lesson-list a:hover {
-    color: var(--accent);
-    border-bottom: 2px solid var(--accent);
-  }
-  nav.controls {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: var(--paper);
-    border-top: 3px solid var(--border);
-    padding: 14px 12px;
-    box-shadow: 0 -4px 12px rgba(0,0,0,0.08);
-    display: flex;
-    justify-content: center;
-    gap: 12px;
-    flex-wrap: wrap;
-    z-index: 100;
-  }
-  nav.controls button {
-    background: var(--btn);
-    color: white;
-    border: none;
-    padding: 16px 22px;
-    font-size: 19px;
-    font-weight: bold;
-    border-radius: 8px;
-    cursor: pointer;
-    min-width: 140px;
-    font-family: Georgia, serif;
-    transition: background 0.15s;
-  }
-  nav.controls button:hover:not(:disabled) {
-    background: var(--btn-hover);
-  }
-  nav.controls button:disabled {
-    background: #999;
-    cursor: not-allowed;
-    opacity: 0.5;
-  }
-  nav.controls button.speaking {
-    background: var(--accent);
-  }
-  nav.controls button.home {
-    background: #555;
-  }
-  nav.controls button.home:hover {
-    background: #333;
-  }
+  .callout { background: #fff4e6; border-left: 6px solid var(--accent); padding: 18px 22px; margin: 24px 0; border-radius: 4px; font-size: 21px; }
+  .lesson-list { background: var(--paper); padding: 30px 40px; border: 1px solid var(--border); border-radius: 8px; }
+  .lesson-list h2 { font-size: 28px; color: var(--accent); margin-top: 0; }
+  .lesson-list .part { font-size: 22px; color: var(--ink-soft); font-style: italic; margin: 22px 0 8px 0; border-bottom: 1px dashed var(--border); padding-bottom: 6px; }
+  .lesson-list ol { padding-left: 32px; margin: 8px 0 18px 0; }
+  .lesson-list li { margin-bottom: 10px; cursor: pointer; font-size: 21px; }
+  .lesson-list a { color: var(--ink); text-decoration: none; border-bottom: 1px dotted var(--accent-soft); }
+  .lesson-list a:hover { color: var(--accent); border-bottom: 2px solid var(--accent); }
+  nav.controls { position: fixed; bottom: 0; left: 0; right: 0; background: var(--paper); border-top: 3px solid var(--border); padding: 14px 12px; box-shadow: 0 -4px 12px rgba(0,0,0,0.08); display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; z-index: 100; }
+  nav.controls button { background: var(--btn); color: white; border: none; padding: 16px 22px; font-size: 19px; font-weight: bold; border-radius: 8px; cursor: pointer; min-width: 140px; font-family: Georgia, serif; transition: background 0.15s; }
+  nav.controls button:hover:not(:disabled) { background: var(--btn-hover); }
+  nav.controls button:disabled { background: #999; cursor: not-allowed; opacity: 0.5; }
+  nav.controls button.speaking { background: var(--accent); }
+  nav.controls button.home { background: #555; }
+  nav.controls button.home:hover { background: #333; }
   @media print {
     body { font-size: 14pt; background: white; color: black; }
     nav.controls, .progress, header .sub { display: none !important; }
-    article { box-shadow: none; border: none; padding: 0; }
+    article { box-shadow: none; border: none; padding: 0; page-break-after: always; }
     .lesson-list { page-break-after: always; }
-    article { page-break-after: always; }
   }
   @media (max-width: 600px) {
     html, body { font-size: 19px; }
@@ -197,17 +71,14 @@
 <div class="wrap">
   <header>
     <h1>What's Going On</h1>
-    <div class="sub">A plain English guide to American politics, in ten short lessons.</div>
+    <div class="sub">A plain English guide to American politics, in twenty short lessons.</div>
   </header>
-
   <div class="progress" id="progress">
     <div id="progress-text">Welcome</div>
     <div class="progress-bar"><div class="progress-fill" id="progress-fill" style="width: 0%"></div></div>
   </div>
-
   <div id="content"></div>
 </div>
-
 <nav class="controls">
   <button id="home" class="home">All Lessons</button>
   <button id="prev">Previous</button>
@@ -216,179 +87,406 @@
 </nav>
 
 <script>
+const parts = [
+  { name: "Part 1: The Framework", from: 0, to: 2 },
+  { name: "Part 2: Who Is Behind It", from: 3, to: 6 },
+  { name: "Part 3: What They Are Doing", from: 7, to: 12 },
+  { name: "Part 4: How They Won", from: 13, to: 16 },
+  { name: "Part 5: Where We Stand", from: 17, to: 19 }
+];
+
 const lessons = [
   {
     title: "Welcome - Why You Should Care",
     body: `
       <p>Hello. This little book explains something that has been quietly happening in American politics for the last 40 years. You do not need to know anything about politics to understand it.</p>
-      <p>Ten short lessons. Each one takes about 5 minutes to read. You can tap the green "Read to me" button at the bottom and the page will read aloud to you.</p>
-      <p>You will learn:</p>
+      <p>Twenty short lessons, grouped into five parts. Each lesson takes about 5 minutes to read. You can tap the green "Read to me" button at the bottom and the page will read aloud to you.</p>
+      <p>The five parts are:</p>
       <ul>
-        <li>Who has been spending billions of dollars to change how America is governed</li>
-        <li>What they are trying to do, in plain words</li>
-        <li>Why the Supreme Court looks different than it did 20 years ago</li>
-        <li>What "Project 2025" actually is</li>
-        <li>What is documented about January 6, Russia in 2016, and Cambridge Analytica</li>
-        <li>What you, personally, can do about any of this</li>
+        <li><strong>Part 1.</strong> The framework - the three big ideas this whole book is built on, and how to tell what is true.</li>
+        <li><strong>Part 2.</strong> Who is behind it - the donors, the religious right, the tech right, and the legal network.</li>
+        <li><strong>Part 3.</strong> What they are doing - the courts, Project 2025, the civil service, the Constitution, and your state.</li>
+        <li><strong>Part 4.</strong> How they won - Cambridge Analytica, Russia, January 6, and the elite networks.</li>
+        <li><strong>Part 5.</strong> Where we stand right now and what you can do.</li>
       </ul>
       <div class="callout"><strong>One promise:</strong> Nothing in this book is made up. Every claim comes from court records, congressional reports, sworn testimony, or major newspapers. If you want the sources, the full vault at <em>terry1818.github.io/cambridge-analytica-vault</em> has them.</div>
       <p>Ready? Tap <strong>Next</strong> at the bottom of the screen.</p>
     `
   },
   {
-    title: "The Big Picture (in 3 sentences)",
+    title: "The Big Picture - The Three Big Ideas",
     body: `
-      <p>If you only remember three things from this whole book, remember these:</p>
+      <p>This whole book is built on three big ideas. If you remember nothing else, remember these three:</p>
       <div class="callout">
-        <p><strong>One.</strong> A small group of very wealthy people has spent the last 40 years quietly working to take control of America's courts, government, and Constitution.</p>
-        <p><strong>Two.</strong> They are doing this because they know they are outnumbered at the ballot box, and want to be able to win without needing the most votes.</p>
-        <p><strong>Three.</strong> Almost everything they have done is legal. That is what makes it so effective.</p>
+        <p><strong>Idea One - The What.</strong> A small group of very wealthy people has spent the last 40 years quietly building the machinery to take control of America's courts, government, and Constitution - instead of trying to win elections the normal way.</p>
       </div>
-      <p>This is not a conspiracy theory. The people involved have written books about what they want to do. They have given speeches. They have filed lawsuits. They have built training programs.</p>
-      <p>They are doing it in public. They are just doing it slowly enough, and using enough jargon, that most people do not notice.</p>
-      <p>The next eight lessons walk you through the pieces, one at a time.</p>
+      <div class="callout">
+        <p><strong>Idea Two - The Why.</strong> They are doing this because their voters are a shrinking minority of the country. They know they cannot win the popular vote consistently. So they have built ways to win without it: the Electoral College, the Senate filibuster, gerrymandering, voter ID laws, and the courts.</p>
+      </div>
+      <div class="callout">
+        <p><strong>Idea Three - Where It Leads.</strong> The thinkers and writers at the center of this movement have openly said they want to replace American constitutional democracy with something else. They have names for it: "post-liberal," "national conservatism," "the new right." They publish books about it. They give speeches about it. The current Vice President has cited their books by name.</p>
+      </div>
+      <p>That is the whole argument of this book, in three paragraphs.</p>
+      <p>The next eighteen lessons walk you through the evidence - who, how, and where. The very last group of lessons comes back to Idea Three in plain detail, because it is the strangest and hardest to believe.</p>
+      <p>This is not a conspiracy theory. The people involved have written books about what they want to do. They give speeches. They run organizations. They are doing it in public. They are just doing it slowly enough that most people do not notice.</p>
     `
   },
   {
-    title: "The People With the Money",
+    title: "How to Tell What's True",
     body: `
-      <p>You do not need to memorize all the names. Just know that the same handful of families and foundations show up over and over.</p>
-      <p><strong>Robert Mercer</strong> - A hedge fund billionaire from Long Island. Paid for Cambridge Analytica (the company that scraped Facebook data on 87 million people). Also funded Breitbart News and helped put Steve Bannon in the Trump White House.</p>
-      <p><strong>Leonard Leo</strong> - A lawyer who runs an operation called the Federalist Society. He personally picked all six conservative Supreme Court justices. In 2021 a single donor gave his network 1.6 billion dollars in one check. That is the largest political donation in American history.</p>
-      <p><strong>Peter Thiel</strong> - A Silicon Valley billionaire who co-founded PayPal. He paid for J.D. Vance's Senate campaign, which is how Vance became Vice President.</p>
-      <p><strong>The Koch family</strong> - Charles Koch (the surviving brother) runs a 50-year-old political machine. He spends hundreds of millions per election cycle, mostly on state legislatures.</p>
-      <p><strong>The DeVos family</strong> - The Amway fortune. Betsy DeVos was Trump's Education Secretary. Her brother Erik Prince founded Blackwater, the private military contractor.</p>
-      <div class="callout">These are not the only people involved. But if you see one of these names in the news, you now know what part of the picture they are in.</div>
-    `
-  },
-  {
-    title: "The Plan: Project 2025",
-    body: `
-      <p>In 2023, a think tank called the Heritage Foundation published a 922-page book called <strong>Mandate for Leadership</strong>. Most people call it "Project 2025."</p>
-      <p>It is a detailed playbook for what to do in the first 180 days of a Republican presidency. It was written by more than 350 people. Most of them worked in Trump's first administration. Many of them are now working in his second one.</p>
-      <p>The main things it proposes:</p>
+      <p>Before we go further, here is the most important rule in this whole book.</p>
+      <p>Not all claims are equally true. The research vault behind this book sorts every claim into three categories. You should do the same when reading anything political:</p>
+      <p><strong>Tier 1 - Documented.</strong> Court records, sworn testimony, congressional reports, signed government documents. You can read the actual papers yourself. Examples in this book:</p>
       <ul>
-        <li><strong>Fire up to 50,000 federal workers.</strong> Replace them with people personally loyal to the president. (This is called "Schedule F.")</li>
-        <li><strong>Eliminate the Department of Education.</strong> Move funding to private and religious schools.</li>
-        <li><strong>Cut the EPA, FDA, and IRS</strong> deeply, especially the parts that enforce rules on corporations.</li>
-        <li><strong>Use the military for domestic immigration enforcement.</strong></li>
-        <li><strong>End birthright citizenship</strong> through executive order.</li>
-        <li><strong>Ban abortion nationwide</strong> by reviving an 1873 law called the Comstock Act.</li>
+        <li>The 1,200 convictions for January 6 (federal court records).</li>
+        <li>The 5 billion dollar FTC fine against Facebook for the Cambridge Analytica breach (official FTC press release).</li>
+        <li>Mueller's indictments of 25 Russian nationals (federal indictments).</li>
       </ul>
-      <p>During the 2024 campaign, Trump publicly said he had nothing to do with Project 2025 and did not know who wrote it. About 140 of its contributors are now working in his administration.</p>
-      <div class="callout"><strong>You can read it yourself.</strong> It is free online at <em>project2025.org/playbook</em>. The full PDF is 922 pages, but the table of contents alone tells you most of what you need to know.</div>
+      <p><strong>Tier 2 - Strongly reported.</strong> Major newspapers using named sources, multiple confirmations, internal documents. Not perfect, but cross-checked. Examples:</p>
+      <ul>
+        <li>The New York Times and Guardian reporting on Cambridge Analytica.</li>
+        <li>ProPublica reporting on the 1.6 billion dollar Leonard Leo donation.</li>
+        <li>Washington Post reporting on Project 2025 contributors.</li>
+      </ul>
+      <p><strong>Tier 3 - Allegations and unconfirmed claims.</strong> Things that look bad but are not proven. We may mention them, but we do not treat them as fact. Examples:</p>
+      <ul>
+        <li>Many of the claims in the Steele Dossier.</li>
+        <li>Single-witness accounts of wrongdoing without supporting documents.</li>
+      </ul>
+      <div class="callout"><strong>Everything in this book is Tier 1 or Tier 2.</strong> If you ever read something elsewhere that makes you go "really?" - ask which tier it is. If nobody can tell you, treat it as Tier 3 and keep reading skeptically.</div>
+      <p>This rule applies to everyone, including writers you agree with. Especially writers you agree with.</p>
     `
   },
   {
-    title: "The Courts: How They Got Remade",
+    title: "The Donors - The Money People",
     body: `
-      <p>In 1982, a group of law students at Yale and the University of Chicago started a club called the <strong>Federalist Society</strong>. The idea: train conservative lawyers and put them in positions of power.</p>
-      <p>For 40 years, they ran a pipeline:</p>
-      <ol>
-        <li>Recruit promising conservative law students.</li>
-        <li>Get them clerkships with sympathetic federal judges.</li>
-        <li>Get them into government jobs and law firms.</li>
-        <li>When a judgeship opens up, have a list of pre-vetted names ready for the president.</li>
-      </ol>
-      <p>The man who runs this pipeline is <strong>Leonard Leo</strong>. When Trump won in 2016, Leo handed him a list of judges. Trump appointed three Supreme Court justices from that list: Gorsuch, Kavanaugh, and Barrett.</p>
-      <p>Today, <strong>all six Republican-appointed Supreme Court justices</strong> are Federalist Society members. So is most of the federal appeals court.</p>
+      <p>You do not need to memorize all the names. Just know that the same handful of families show up over and over.</p>
+      <p><strong>Robert Mercer.</strong> A hedge fund billionaire from Long Island. Paid for Cambridge Analytica (the firm that scraped Facebook data on 87 million people). Also funded Breitbart News and helped put Steve Bannon in Trump's first White House.</p>
+      <p><strong>Charles Koch.</strong> Now the surviving Koch brother (David died in 2019). Runs a 50-year-old political machine that has spent hundreds of millions of dollars per election cycle, mostly on state legislatures. The Koch network funded the original "Tea Party" rallies of 2009 and 2010.</p>
+      <p><strong>Peter Thiel.</strong> A Silicon Valley billionaire who co-founded PayPal. Paid for J.D. Vance's Senate campaign in 2022. Vance is now Vice President. Thiel also funded the lawsuit that bankrupted Gawker, and runs the surveillance company Palantir.</p>
+      <p><strong>The DeVos family.</strong> The Amway fortune. Betsy DeVos was Trump's Education Secretary. Her brother is Erik Prince, who founded the private military contractor Blackwater.</p>
+      <p><strong>Miriam Adelson.</strong> Continued her late husband Sheldon's political giving. Donated over 100 million dollars to Trump in 2024. Owns the Las Vegas Sands casino company.</p>
+      <p><strong>Barre Seid.</strong> An electronics manufacturer who in 2021 gave 1.6 billion dollars - in a single transaction - to a political group controlled by Leonard Leo. That is the largest known political donation in American history. More on that in Lesson 7.</p>
+      <p><strong>The Wilks brothers.</strong> Fracking billionaires from Texas. Fund state-level Christian Nationalist candidates and groups across the South and Midwest.</p>
+      <div class="callout">These are not the only donors. But if you see one of these names in a news story, you now know what part of the picture they are in.</div>
+    `
+  },
+  {
+    title: "The Religious Right - 40 Years of Coordination",
+    body: `
+      <p>In 1979, a televangelist named Jerry Falwell founded an organization called the <strong>Moral Majority</strong>. The goal: turn conservative Christians into a unified voting bloc. It worked. They helped elect Ronald Reagan in 1980.</p>
+      <p>In 1981, conservative leaders founded the <strong>Council for National Policy</strong>. It is a semi-secret forum where religious right leaders, big donors, and political operatives meet three times a year to coordinate. The membership list is private. The agenda is private. The group has no public office.</p>
+      <p>For 40+ years, the Council for National Policy has been the central coordination point for the right's political action. Many people you have heard of have been members: Tony Perkins, Jerry Falwell Jr., Steve Bannon, Kellyanne Conway, Leonard Leo, the Mercers, the DeVoses.</p>
+      <p><strong>Christian Nationalism</strong> is the explicit version. It is the idea that America was founded as a Christian nation, that the founders intended Christian law to be the law of the land, and that this should be restored. Not all conservative Christians are Christian Nationalists - but the active political wing increasingly is.</p>
+      <p>The <strong>Seven Mountain Mandate</strong> is a theological framework that has spread through evangelical churches since the early 2000s. It teaches that Christians have a religious duty to dominate seven spheres of society: government, business, family, education, media, arts, and religion itself. This is the theological case for Christian political takeover.</p>
+      <p>Names to know:</p>
+      <ul>
+        <li><strong>Russell Vought.</strong> Currently runs the Office of Management and Budget (the agency that controls federal spending). Wrote large parts of Project 2025. Openly identifies as a Christian Nationalist.</li>
+        <li><strong>Mike Johnson.</strong> Current Speaker of the House. Member of an evangelical activist network for two decades.</li>
+        <li><strong>Charlie Kirk.</strong> Runs Turning Point USA, the largest right-wing youth organization.</li>
+      </ul>
+      <div class="callout">The religious right is not a fringe. It is the most organized, most disciplined, longest-running political movement in modern American history. It also represents a shrinking share of the American population - which is why it has invested so heavily in non-electoral mechanisms (Idea Two from Lesson 2).</div>
+    `
+  },
+  {
+    title: "The Tech Right - Silicon Valley's Hard Turn",
+    body: `
+      <p>For most of the 2000s and 2010s, Silicon Valley was politically liberal-leaning. Tech executives donated to Democrats. Companies hosted Pride events. That changed dramatically between 2020 and 2024.</p>
+      <p>The story starts with the <strong>PayPal Mafia</strong> - the group that built PayPal in the late 1990s. The original group included Peter Thiel, Elon Musk, David Sacks, Reid Hoffman, Max Levchin, and others. After PayPal was sold to eBay in 2002, they scattered and founded or funded many of the major tech companies that followed (LinkedIn, YouTube, Yelp, Palantir, SpaceX, Tesla, OpenAI).</p>
+      <p>Most stayed politically moderate. A subset - led by Thiel - went hard right.</p>
+      <p><strong>Peter Thiel.</strong> Founded Palantir (surveillance software, big Pentagon contracts). Was Trump's most prominent Silicon Valley supporter in 2016. Has personally funded:</p>
+      <ul>
+        <li>J.D. Vance's Senate campaign (15 million dollars) - made Vance the Vice President.</li>
+        <li>Curtis Yarvin, a writer whose work argues for replacing American democracy with a CEO-monarchy.</li>
+        <li>Blake Masters, who ran for Senate in Arizona.</li>
+        <li>The lawsuit that bankrupted the news website Gawker.</li>
+      </ul>
+      <p><strong>Elon Musk.</strong> Was politically moderate-libertarian until around 2020. Bought Twitter (now X) for 44 billion dollars in 2022, reinstated banned right-wing accounts, gradually made the platform a hub for right-wing politics. Donated hundreds of millions of dollars to Trump in 2024. Ran "DOGE" (Department of Government Efficiency) in early 2025, cutting federal agencies.</p>
+      <p><strong>Marc Andreessen.</strong> Venture capitalist (Netscape founder, Andreessen Horowitz). In 2023 published the "Techno-Optimist Manifesto" - which explicitly listed liberal democratic concepts ("trust and safety," "tech ethics") as enemies. Has openly aligned with the Vance wing.</p>
+      <p><strong>J.D. Vance.</strong> Yale Law School graduate. Worked for Thiel after law school. Wrote "Hillbilly Elegy." Ran for Senate in 2022 with Thiel's money. Now Vice President. Has publicly cited Curtis Yarvin and other "post-liberal" thinkers as influences.</p>
+      <div class="callout">This is not all of Silicon Valley. Most tech workers and executives remain moderate or liberal. But the wealthiest and loudest right-wing faction now has direct access to the highest levels of government for the first time in American history.</div>
+    `
+  },
+  {
+    title: "The Legal Network - Leonard Leo and the Federalist Society",
+    body: `
+      <p>This is the single most important institutional story in the book. Read it twice if you need to.</p>
+      <p>In 1982, a group of conservative law students at Yale and the University of Chicago founded a club called the <strong>Federalist Society</strong>. Their idea was simple: train conservative lawyers, get them into clerkships and firms, and eventually put them on the bench.</p>
+      <p>For 40 years, this is exactly what happened. The Federalist Society became the most effective political pipeline in modern American history.</p>
+      <p>The man at the center of it is <strong>Leonard Leo</strong>.</p>
+      <p>Leo is a lawyer who has personally vetted and recommended every Republican-appointed Supreme Court nominee since 2005. He handed Trump the list that produced Gorsuch, Kavanaugh, and Barrett. Today, all six Republican-appointed Supreme Court justices are Federalist Society members. So are roughly two-thirds of federal appeals court judges.</p>
+      <p>But the Federalist Society is only part of Leo's operation. Around it, he has built a network of nonprofits, foundations, and "dark money" groups that fund:</p>
+      <ul>
+        <li>Judicial confirmation campaigns (millions in TV ads when a justice is nominated).</li>
+        <li>State Attorney General races.</li>
+        <li>State Supreme Court elections.</li>
+        <li>Legal advocacy groups that file the lawsuits the justices then rule on.</li>
+        <li>University law school chairs.</li>
+        <li>Think tanks and policy shops.</li>
+      </ul>
+      <p>The whole thing is one coordinated machine. The lawyers who file the lawsuit, the judges who hear it, the academics who write the supporting articles, and the donors who fund all of them - many of them know each other personally, attend the same conferences, and belong to the same network.</p>
+      <p><strong>The 1.6 billion dollar donation.</strong> In 2021, an elderly Chicago manufacturer named Barre Seid gave 1.6 billion dollars - in a single transaction - to a new political group called the <strong>Marble Freedom Trust</strong>. The Marble Freedom Trust is controlled by Leonard Leo. That is the largest known political donation in American history. It was reported a year later by ProPublica and the New York Times.</p>
+      <div class="callout">If you do not understand how this works, the news will keep surprising you. If you do understand it, things make more sense. The same network is behind the abortion rulings, the gun rulings, the EPA rulings, the immunity ruling, and the next ten years of rulings.</div>
+    `
+  },
+  {
+    title: "The Courts - Capturing the Judiciary",
+    body: `
+      <p>Once you understand the Federalist Society pipeline from Lesson 7, the recent history of the Supreme Court starts to make sense.</p>
       <p>What this court has done in the last few years:</p>
       <ul>
-        <li><strong>2022 - Dobbs v. Jackson:</strong> Overturned Roe v. Wade. 50 years of abortion law erased.</li>
-        <li><strong>2023 - Students for Fair Admissions:</strong> Ended race-based college admissions.</li>
-        <li><strong>2024 - Loper Bright:</strong> Overturned a 40-year-old rule (called "Chevron") that let agencies like the EPA write technical regulations. Now judges decide.</li>
-        <li><strong>2024 - Trump v. United States:</strong> Ruled that presidents have wide immunity from criminal prosecution for "official acts."</li>
+        <li><strong>2022 - Dobbs v. Jackson Women's Health.</strong> Overturned Roe v. Wade. 50 years of abortion law erased. 18 states have since banned or severely restricted abortion.</li>
+        <li><strong>2022 - New York State Rifle and Pistol Association v. Bruen.</strong> Struck down most state gun restrictions, requiring laws to match "historical tradition."</li>
+        <li><strong>2023 - Students for Fair Admissions v. Harvard.</strong> Ended race-conscious college admissions.</li>
+        <li><strong>2024 - Loper Bright v. Raimondo.</strong> Overturned the 40-year-old "Chevron" rule that let federal agencies like the EPA, FDA, and SEC write technical regulations. Now judges decide what regulations are valid.</li>
+        <li><strong>2024 - Trump v. United States.</strong> Ruled that presidents have wide immunity from criminal prosecution for "official acts." This single ruling ended most of the criminal cases against Trump.</li>
       </ul>
-      <p>That last one ended most of the criminal cases against Trump.</p>
-      <div class="callout">Federal judges serve for life. The youngest Trump appointees will still be deciding cases in 2070.</div>
+      <p>Each of these rulings was the result of years - sometimes decades - of work. The lawsuits were filed by groups funded by the Leonard Leo network. The justices who ruled were vetted by the Federalist Society. The academic articles cited in the rulings were written by professors who hold endowed chairs funded by the same network.</p>
+      <p>It is one machine. Not a conspiracy - a coalition.</p>
+      <p>And this is just the Supreme Court. The federal appeals courts, where most cases actually end, are even more dominated by Federalist Society judges.</p>
+      <p><strong>The lifetime appointment.</strong> Federal judges serve for life. Trump's first-term appointees average around 50 years old. They will still be deciding cases in 2070. His second-term appointees are even younger.</p>
+      <div class="callout">If a Democratic president wants to reverse the direction of the federal courts, it would take 30 to 40 years of consistent presidential wins. That is not happening. Which is why the courts are now the most powerful branch of government for the foreseeable future.</div>
     `
   },
   {
-    title: "The Convention of States",
+    title: "The Plan - Project 2025 in Plain English",
+    body: `
+      <p>In April 2023, the Heritage Foundation published a 922-page book called <strong>Mandate for Leadership: The Conservative Promise</strong>. Most people call it "Project 2025."</p>
+      <p>It is a detailed playbook for what to do in the first 180 days of a Republican presidency. It was written by more than 350 people, organized through Heritage. Most of them worked in Trump's first administration. Many are now working in his second one.</p>
+      <p>The main things it proposes:</p>
+      <ul>
+        <li><strong>Fire up to 50,000 federal workers</strong> and replace them with people personally loyal to the president. This is the Schedule F mechanism (next lesson).</li>
+        <li><strong>Eliminate the Department of Education.</strong> Move money to private and religious schools through "school choice" vouchers.</li>
+        <li><strong>Gut the EPA, FDA, and IRS.</strong> Especially the parts that enforce rules on big corporations and wealthy taxpayers.</li>
+        <li><strong>Use the military for domestic immigration enforcement.</strong></li>
+        <li><strong>End birthright citizenship</strong> through executive order, then defend it in court.</li>
+        <li><strong>Ban abortion nationwide</strong> by reviving an 1873 anti-vice law called the Comstock Act, which makes it a crime to mail abortion drugs.</li>
+        <li><strong>Eliminate independent agencies.</strong> Make the Federal Reserve, the Department of Justice, the Federal Communications Commission, and others answer directly to the President.</li>
+        <li><strong>Replace climate policy</strong> with expanded fossil fuel production.</li>
+        <li><strong>Restrict press access</strong> to government information.</li>
+      </ul>
+      <p>During the 2024 campaign, Trump publicly said he had nothing to do with Project 2025 and did not know who wrote it. About 140 of its contributors are now working in his administration. Many of its policy items have already been enacted.</p>
+      <div class="callout"><strong>You can read it yourself.</strong> The full text is free online at <em>project2025.org/playbook</em>. The full PDF is 922 pages, but the table of contents alone tells you most of what you need to know.</div>
+    `
+  },
+  {
+    title: "Schedule F - Replacing the Civil Service",
+    body: `
+      <p>Most of the U.S. government is run by career employees - civil servants. They are scientists, lawyers, accountants, analysts, doctors, regulators. They are not political appointees. They keep their jobs when administrations change.</p>
+      <p>That has been the rule since 1883, when Congress passed the Pendleton Civil Service Act. Before Pendleton, every president fired thousands of workers and replaced them with loyalists - it was called the "spoils system." Pendleton ended that, because it was producing rampant corruption and incompetence.</p>
+      <p><strong>Schedule F</strong> is a way to undo Pendleton without repealing it.</p>
+      <p>Trump signed Executive Order 13957 in October 2020, near the end of his first term. It created a new category of federal employee - "Schedule F" - and reclassified anyone in "policy-related" positions into it. Schedule F employees can be fired at will, with no civil service protection.</p>
+      <p>Biden rescinded Schedule F in January 2021.</p>
+      <p>Trump re-signed it on his first day back in office in January 2025. The Office of Personnel Management is now reclassifying tens of thousands of positions. Estimates of how many workers could be fired range from 50,000 (Project 2025's number) to over 200,000 (analysis by federal employee unions).</p>
+      <p>The targets are usually:</p>
+      <ul>
+        <li>Scientists at the EPA, NOAA, FDA, CDC, USDA.</li>
+        <li>Lawyers at the Department of Justice.</li>
+        <li>Analysts at intelligence agencies.</li>
+        <li>Inspectors general (the internal watchdogs of every agency).</li>
+      </ul>
+      <p>The people fired will be replaced with political loyalists - many already vetted through Heritage's "Presidential Personnel Database," a parallel list of pre-screened candidates Project 2025 spent two years assembling.</p>
+      <div class="callout">In Trump's first term, career civil servants were often the thing that slowed or stopped the most extreme orders. Schedule F is designed to remove that brake. That is the entire point of it.</div>
+    `
+  },
+  {
+    title: "The Constitution - Convention of States",
     body: `
       <p>This is the one most people have never heard of, and it may be the most important.</p>
       <p>The U.S. Constitution can be changed two ways:</p>
       <ol>
-        <li><strong>Congress proposes an amendment.</strong> Two-thirds of both chambers, then three-fourths of states ratify. This has happened 27 times.</li>
-        <li><strong>States call a convention.</strong> If 34 states officially apply, a convention must be called. Once called, the convention can propose any amendments it wants. <strong>This has never happened in U.S. history.</strong></li>
+        <li><strong>Congress proposes an amendment.</strong> Two-thirds of both chambers, then three-fourths of states ratify. This has happened 27 times in 240 years.</li>
+        <li><strong>States call a convention.</strong> If 34 state legislatures officially apply, a constitutional convention must be called. Once called, the convention can propose any amendments it wants. <strong>This has never happened in U.S. history.</strong></li>
       </ol>
-      <p>Right now, <strong>19 states have officially applied for a convention.</strong> They need 34. They have been quietly adding 1-3 states per year for over a decade.</p>
-      <p>The group running this is called <strong>Convention of States Action</strong>. The public face is a man named Mark Meckler. The money comes from the same donor network as everything else in this book.</p>
-      <p>The official goals sound reasonable: balanced budget amendment, term limits, "limit federal power." But here is the problem:</p>
-      <div class="callout"><strong>Once a convention is called, there are no rules.</strong> The Constitution does not say how delegates are chosen, what they can vote on, or what they can change. Legal scholars across the political spectrum - liberal and conservative - warn that a convention could rewrite anything: the Bill of Rights, voting rights, presidential powers, anything.</div>
-      <p>This is why it matters who you vote for in <strong>state elections</strong>. The Convention of States is a state-level decision, not a federal one. Your governor and state legislators decide.</p>
+      <p>Right now, <strong>19 state legislatures have officially applied</strong> for a Convention of States. They need 34. They have been quietly adding 1 to 3 states per year for over a decade.</p>
+      <p>The group running this is called <strong>Convention of States Action</strong>. The public face is a man named Mark Meckler (a Tea Party co-founder). The money comes from the same donor network as everything else in this book - the Mercer Family Foundation, the Koch network, and various religious right donors.</p>
+      <p>The official goals sound reasonable: a balanced budget amendment, term limits for Congress, and amendments to "limit federal power." But here is the problem:</p>
+      <div class="callout"><strong>Once a convention is called, there are no rules.</strong> The Constitution does not say how delegates are chosen. It does not say how they vote. It does not say what they can vote on. Legal scholars across the political spectrum - liberal and conservative - warn that a convention could propose to rewrite anything: the Bill of Rights, voting rights, presidential powers, the structure of the Senate, anything at all. The only check is that three-fourths of states (38) would have to ratify whatever comes out.</div>
+      <p>The current scoreboard: 19 states have applied. About 8 more have it pending in their legislatures. A few more are close.</p>
+      <p>And this is decided at the <strong>state level.</strong> Your governor and state legislators decide. Not the President. Not Congress. <strong>Your state representative</strong> has a vote on this.</p>
     `
   },
   {
-    title: "Facebook, Cambridge Analytica, and Russia",
+    title: "The States - Where the Real Action Is",
     body: `
-      <p>In 2016, two different things happened to American voters on Facebook at the same time. Both went to court. Both are documented.</p>
-      <p><strong>Thing One: Cambridge Analytica.</strong></p>
-      <p>A British company called Cambridge Analytica was hired by the Trump campaign. They paid an academic to build a Facebook quiz. About 270,000 people took the quiz. But the quiz also harvested data on every Facebook friend of every person who took it - <strong>87 million people in total</strong>, without consent.</p>
-      <p>They used this data to build "psychographic" profiles - personality types. Then they showed different political ads to different personality types. Anxious people got ads about crime. People who scored high on "openness" got ads about change.</p>
-      <p>Facebook was fined 5 billion dollars by the FTC in 2019 for this. Cambridge Analytica went bankrupt.</p>
-      <p><strong>Thing Two: Russia.</strong></p>
-      <p>At the same time, a Russian operation called the Internet Research Agency (IRA) was running fake Facebook pages, Twitter accounts, and Instagram accounts pretending to be Americans. They reached an estimated 126 million Americans on Facebook alone.</p>
-      <p>Separately, Russian military intelligence (GRU) hacked the email accounts of the Democratic National Committee and Hillary Clinton's campaign chairman, then leaked the contents through WikiLeaks.</p>
-      <p>Special Counsel Robert Mueller indicted 25 Russians and 3 Russian companies for this in 2018. Some have been convicted. Most are in Russia and will not be extradited.</p>
-      <div class="callout">The Senate Intelligence Committee - run by Republicans at the time - confirmed all of this in a 2020 report. It is not contested by any serious investigation.</div>
+      <p>The federal government gets all the attention. The real action has always been at the state level.</p>
+      <p>State legislatures decide:</p>
+      <ul>
+        <li>How congressional districts are drawn (this is gerrymandering).</li>
+        <li>Voting laws - who can vote, when, where, with what ID.</li>
+        <li>Abortion law (since Dobbs).</li>
+        <li>Public education standards and funding.</li>
+        <li>Whether to apply for a Convention of States.</li>
+        <li>Whether to ratify federal constitutional amendments.</li>
+        <li>The state criminal code.</li>
+      </ul>
+      <p>The right has dominated state-level politics for a generation. Republicans currently control <strong>28 state legislatures</strong>. Democrats fully control 18. The rest are split.</p>
+      <p>How did this happen? Three reasons:</p>
+      <p><strong>1. ALEC.</strong> The American Legislative Exchange Council. Founded 1973 by Paul Weyrich (also co-founded the Heritage Foundation). ALEC writes "model bills" - pre-drafted legislation - that conservative state legislators copy-paste into their own state. ALEC's model bills are how voter ID laws, "right-to-work" labor laws, "stand your ground" laws, and many anti-abortion laws spread across so many states simultaneously.</p>
+      <p><strong>2. REDMAP.</strong> A 2010 project by the Republican State Leadership Committee. They identified state legislative seats that were cheap to flip in the 2010 census year (because the winners would draw the next decade of congressional maps). They spent 30 million dollars and flipped 700+ state seats. The resulting gerrymanders entrenched Republican advantage in the House of Representatives until 2022.</p>
+      <p><strong>3. Low turnout.</strong> About 15 percent of voters turn out for state-level primary races. State legislative general elections often have under 20 percent turnout. A small number of motivated voters has outsized impact.</p>
+      <div class="callout">If you want to actually shift things, your state legislator is the most important person you can pay attention to. Almost nobody calls them. Five calls about one bill is a lot to a state legislator. Twenty calls is a tidal wave.</div>
+    `
+  },
+  {
+    title: "Voting - Who Gets to Vote, and How",
+    body: `
+      <p>The simplest way to win elections without majority support is to make sure not everyone can vote. This is not a new strategy in American history.</p>
+      <p><strong>The 2013 turning point: Shelby County v. Holder.</strong> The Supreme Court struck down Section 5 of the Voting Rights Act, which had required states with histories of voter discrimination to get federal approval before changing voting laws. After Shelby, those states no longer needed approval. The changes started immediately.</p>
+      <p>What happened in the 10 years after Shelby:</p>
+      <ul>
+        <li><strong>1,688 polling places closed</strong> across 13 states, mostly in minority communities. (Source: Leadership Conference on Civil and Human Rights, 2019 report.)</li>
+        <li><strong>Voter ID laws</strong> expanded to about 36 states. Studies show they reduce turnout among the elderly, poor, and minority voters by a few percentage points - often the margin of close elections.</li>
+        <li><strong>Voter roll purges</strong> accelerated. Georgia removed roughly 1.4 million voters from the rolls between 2012 and 2019 (under then-Secretary of State Brian Kemp). Many were eligible voters.</li>
+        <li><strong>Reduced early voting</strong> hours in multiple states.</li>
+        <li><strong>Closed Sunday voting</strong> in some states (this targeted Black church "souls to the polls" turnout programs).</li>
+      </ul>
+      <p><strong>Gerrymandering.</strong> State legislatures draw congressional maps after each census. The 2010 REDMAP project (Lesson 12) produced maps that gave Republicans roughly a 7-seat advantage in the House for the entire 2012-2022 decade, even in years where Democrats won more total votes nationally.</p>
+      <p><strong>The Electoral College.</strong> The President is not elected by popular vote. The Electoral College gives small states disproportionate weight. In 2000, 2016, and 2024, the candidate with fewer popular votes either won the presidency or came very close.</p>
+      <p><strong>The Senate.</strong> Each state gets two Senators regardless of population. California (39 million people) gets the same two as Wyoming (580,000). The Senate is currently structured so that a majority of the Senate represents about 17 percent of the U.S. population.</p>
+      <div class="callout">None of this is illegal. Almost all of it is in the Constitution or in state law. That is the point of Idea Two from Lesson 2: build the machinery to win without needing the most votes.</div>
+    `
+  },
+  {
+    title: "Cambridge Analytica - The Data Heist",
+    body: `
+      <p>This is what kicked off this whole research project for the author. It is worth knowing in detail.</p>
+      <p>In 2014, a British company called <strong>Cambridge Analytica</strong> hired a Cambridge University academic named Aleksandr Kogan. Kogan built a Facebook quiz app called "thisisyourdigitallife." About 270,000 people took the quiz.</p>
+      <p>Here is the trick: at the time, Facebook's design allowed apps to harvest data not just on the person taking the quiz, but also on every Facebook friend of that person. So from 270,000 quiz-takers, Kogan and Cambridge Analytica obtained data on <strong>87 million Facebook users</strong> - without consent, in violation of Facebook's stated rules.</p>
+      <p>Cambridge Analytica then used this data to build "psychographic" profiles. Five personality dimensions (called OCEAN - Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism). They categorized voters by personality type and ran different political ads to different personality types.</p>
+      <p>Examples (from internal documents and whistleblower testimony):</p>
+      <ul>
+        <li>Voters scoring high in <strong>Neuroticism</strong> got ads about crime and immigration threats.</li>
+        <li>Voters scoring high in <strong>Openness</strong> got ads about change and disruption.</li>
+        <li>Voters identified as persuadable but disengaged got ads designed to discourage voting at all ("voter suppression" ads).</li>
+      </ul>
+      <p>The firm was funded primarily by <strong>Robert Mercer</strong> (Lesson 4). Steve Bannon was its Vice President. The Trump campaign hired them for the 2016 election. Brexit-related campaigns also used them.</p>
+      <p><strong>Consequences:</strong></p>
+      <ul>
+        <li>The Guardian and New York Times broke the story in March 2018, based on whistleblower Christopher Wylie.</li>
+        <li>Facebook was fined <strong>5 billion dollars</strong> by the FTC in 2019 - the largest privacy fine in U.S. history.</li>
+        <li>Cambridge Analytica filed for bankruptcy in May 2018.</li>
+        <li>Mark Zuckerberg testified before Congress.</li>
+      </ul>
+      <div class="callout">Cambridge Analytica is dead. The techniques are not. The same kind of data-driven personality-based political advertising is now standard practice. The only thing that has changed is that the companies doing it are less famous.</div>
+    `
+  },
+  {
+    title: "Russia 2016 - What's Proven in Court",
+    body: `
+      <p>The 2016 Russia story has been so politicized that many people have stopped tracking which parts are proven and which are speculation. This lesson is just the proven parts.</p>
+      <p><strong>The IRA - Internet Research Agency.</strong> A Russian organization based in St. Petersburg. From 2014 onward, it ran fake social media accounts pretending to be American voters. It reached an estimated <strong>126 million Americans on Facebook</strong> alone, plus tens of millions more on Twitter, Instagram, and YouTube. The accounts pretended to be Black Lives Matter activists, Texas secessionists, evangelical Christians, Muslim Americans - whatever was inflammatory in a given moment.</p>
+      <p><strong>The hacks.</strong> In March 2016, Russian military intelligence (the GRU, Unit 26165) hacked the email accounts of Hillary Clinton's campaign chairman John Podesta. They also hacked the Democratic National Committee. They leaked the contents in waves through July to October 2016, mostly through WikiLeaks, timed to disrupt the Clinton campaign.</p>
+      <p><strong>The criminal charges.</strong> Special Counsel Robert Mueller's investigation indicted:</p>
+      <ul>
+        <li><strong>13 IRA employees</strong> and 3 Russian companies (February 2018).</li>
+        <li><strong>12 GRU officers</strong> for the email hacks (July 2018).</li>
+        <li>Several Americans for related crimes: Paul Manafort (Trump campaign chair, convicted of fraud and tax evasion), Roger Stone (convicted of obstruction), Michael Flynn (pleaded guilty to lying to FBI), George Papadopoulos (pleaded guilty to lying to FBI), Michael Cohen (pleaded guilty to multiple charges).</li>
+      </ul>
+      <p>Most of the Russians were never extradited - Russia does not extradite citizens. But the indictments themselves are publicly filed federal documents you can read.</p>
+      <p><strong>The Senate Intelligence Committee report.</strong> In 2020, the Senate Intelligence Committee - chaired by Republicans at the time - published its final report on Russian interference. It is five volumes long. It confirmed all of the above. It went further on some points than Mueller. It is the most authoritative account of Russian interference and was a bipartisan finding.</p>
+      <div class="callout">The remaining argument is whether the interference was decisive - whether it actually changed the result. Reasonable people disagree on that. But the interference itself happened. It is documented. It is in court records. It is in the Senate report.</div>
     `
   },
   {
     title: "January 6 - What's Documented",
     body: `
       <p>You probably saw the footage. Here is what is documented in court, on camera, and under oath - not opinion.</p>
-      <p><strong>The day:</strong></p>
+      <p><strong>The day, hour by hour:</strong></p>
       <ul>
-        <li>12:00 PM - Trump speaks to a crowd near the White House. He says "if you do not fight like hell you are not going to have a country anymore."</li>
-        <li>12:53 PM - First barriers at the Capitol breached.</li>
-        <li>2:13 PM - Crowd breaks into the Capitol building itself.</li>
-        <li>2:24 PM - Trump posts on Twitter that Vice President Pence "did not have the courage" - while Pence is being evacuated through the building.</li>
-        <li>4:17 PM - Trump finally posts a video asking the crowd to go home. He calls them "very special."</li>
+        <li><strong>12:00 PM.</strong> Trump speaks to a crowd near the White House. He says "if you do not fight like hell you are not going to have a country anymore."</li>
+        <li><strong>12:53 PM.</strong> The first barriers at the Capitol are breached.</li>
+        <li><strong>2:13 PM.</strong> The crowd breaks into the Capitol building itself.</li>
+        <li><strong>2:24 PM.</strong> Trump posts on Twitter that Vice President Pence "did not have the courage" - while Pence is being physically evacuated through the Capitol.</li>
+        <li><strong>4:17 PM.</strong> Trump posts a video asking the crowd to go home. He calls them "very special people."</li>
       </ul>
       <p><strong>The damage:</strong></p>
       <ul>
         <li>5 people died that day or shortly after, including Capitol Police Officer Brian Sicknick.</li>
-        <li>140+ police officers were injured.</li>
-        <li>2.7 million dollars in damage to the Capitol building.</li>
+        <li>140 or more police officers were injured.</li>
+        <li>Approximately 2.7 million dollars in damage to the Capitol building.</li>
+        <li>Several officers later died by suicide in the months following.</li>
       </ul>
       <p><strong>The prosecutions:</strong></p>
       <ul>
-        <li>About 1,500 people were charged with crimes related to that day.</li>
-        <li>About 1,200 were convicted.</li>
-        <li>The leaders of the Proud Boys and Oath Keepers were convicted of seditious conspiracy - the first such convictions in decades.</li>
+        <li>Roughly 1,500 people were charged with crimes related to that day.</li>
+        <li>Roughly 1,200 were convicted.</li>
+        <li>The leaders of the Proud Boys (Enrique Tarrio) and Oath Keepers (Stewart Rhodes) were convicted of <strong>seditious conspiracy</strong> - the first such convictions in decades.</li>
       </ul>
-      <p>In January 2025, on his first day back in office, <strong>Trump pardoned or commuted the sentences of nearly all of them</strong>, including the seditious conspiracy convictions.</p>
+      <p><strong>The House Select Committee.</strong> A committee held 9 public hearings in 2022 and published an 845-page final report. It is publicly available. The hearings featured testimony from Trump's own White House staff, including his daughter Ivanka, his Attorney General Bill Barr, and his White House Counsel Pat Cipollone.</p>
+      <p>In January 2025, on his first day back in office, <strong>Trump pardoned or commuted the sentences of nearly all the January 6 defendants</strong>, including the seditious conspiracy convictions.</p>
+      <div class="callout">A complete pardon of insurrection-related crimes is a precedent. It tells you what kind of behavior the administration is signaling it will protect in the future.</div>
+    `
+  },
+  {
+    title: "The Epstein Network - Elite Protection",
+    body: `
+      <p>This lesson is shorter and uglier than the others. It is in this book because it shows how elite networks across politics and finance protect each other - which is part of why the rest of this book happens.</p>
+      <p><strong>Jeffrey Epstein.</strong> A financier who, from at least the late 1990s, ran a sex trafficking operation that targeted underage girls. The girls were brought to his Manhattan townhouse, his Palm Beach mansion, his Caribbean island ("Little St. James"), and other properties.</p>
+      <p><strong>The 2007-2008 non-prosecution agreement.</strong> Federal prosecutors in Florida (led by U.S. Attorney <strong>Alex Acosta</strong>) had Epstein on multiple federal sex trafficking charges. They cut a secret deal: Epstein pleaded guilty to two minor state charges of soliciting prostitution and served 13 months in a county jail, with work-release. The federal charges were dropped. The victims were not told. Acosta later became Donald Trump's Secretary of Labor.</p>
+      <p><strong>The 2019 arrest.</strong> New federal charges were brought against Epstein in July 2019, largely because of investigative journalism by the Miami Herald (reporter Julie K. Brown). He was arrested. He died in his jail cell on August 10, 2019. The official cause was suicide. The two guards on duty fell asleep simultaneously. The security cameras outside his cell failed. Many people - including former cellmates - have publicly questioned the official story.</p>
+      <p><strong>Ghislaine Maxwell.</strong> Epstein's longtime partner and procurer. Convicted in December 2021 of sex trafficking minors. Sentenced to 20 years.</p>
+      <p><strong>The connections.</strong> Epstein's "little black book" and flight logs included names from across the elite: Trump, Bill Clinton, Prince Andrew, Bill Gates, Larry Summers, Leon Black, Glenn Dubin, Les Wexner, and many others. Not all of these people are accused of wrongdoing. But all of them socialized with a known sex trafficker for years, in some cases after his 2008 conviction.</p>
+      <p>Prince Andrew settled a civil suit out of court with Virginia Giuffre, one of Epstein's victims. Leon Black resigned from Apollo Global Management after disclosures about his Epstein payments.</p>
+      <div class="callout">Epstein matters not because his crimes are uniquely awful (they are awful but not historically unique), but because the protection he received - the secret 2008 deal, the unusual circumstances of his death, the slow walk of investigations - shows how elite networks across politics, finance, royalty, and tech protect each other. This is the operating environment in which the rest of this book happens.</div>
     `
   },
   {
     title: "What's Happening Right Now",
     body: `
-      <p>Here is the state of things in mid-2026, in case you have been trying to tune out the news.</p>
-      <p><strong>Schedule F is active.</strong> Trump signed it on his first day back. It allows him to fire federal civil servants who "obstruct" his agenda. The Office of Personnel Management has begun reclassifying tens of thousands of positions.</p>
-      <p><strong>DOGE happened.</strong> The "Department of Government Efficiency" run by Elon Musk and Vivek Ramaswamy was given broad authority to cut federal agencies. Among the casualties: the Consumer Financial Protection Bureau, most of USAID, large parts of the Department of Education, and the IRS enforcement division (which audits wealthy taxpayers).</p>
-      <p><strong>The federal courts are filling up fast.</strong> Trump installed more federal judges in the first 6 months of his second term than most presidents do in their entire 4-year term. Most are under 45 years old and will serve for 30+ years.</p>
-      <p><strong>Immigration enforcement is at full speed.</strong> ICE's budget has roughly tripled. Mass deportations are underway. The administration has invoked the 1798 Alien Enemies Act for the first time since World War II.</p>
-      <p><strong>Birthright citizenship is in the courts.</strong> Trump signed an executive order trying to end it. Several federal judges have blocked it. The case is heading to the Supreme Court.</p>
-      <p><strong>The 2028 election is being prepared for now.</strong> Convention of States efforts have accelerated in 4 more state legislatures.</p>
+      <p>Here is the state of things in mid-2026, if you have been trying to tune out the news.</p>
+      <p><strong>Schedule F is active.</strong> Trump signed it on his first day back. The Office of Personnel Management has begun reclassifying tens of thousands of positions. Mass firings of career staff in EPA, FDA, USDA, and the Justice Department are underway.</p>
+      <p><strong>DOGE happened.</strong> The Department of Government Efficiency, run by Elon Musk and (briefly) Vivek Ramaswamy, was given broad authority to cut federal agencies. Among the casualties:</p>
+      <ul>
+        <li>The Consumer Financial Protection Bureau (largely gutted).</li>
+        <li>USAID (largely dismantled).</li>
+        <li>Large parts of the Department of Education.</li>
+        <li>The IRS enforcement division (which audits wealthy taxpayers).</li>
+      </ul>
+      <p>Musk has since publicly broken with the administration over other issues, but the cuts remain.</p>
+      <p><strong>The federal courts are filling up fast.</strong> Trump installed more federal judges in the first six months of his second term than most presidents do in their entire four-year term. Most are under 45 years old.</p>
+      <p><strong>Immigration enforcement is at full speed.</strong> ICE's budget has roughly tripled. Mass deportation operations are underway in major cities. The administration invoked the 1798 Alien Enemies Act for the first time since World War II - the law previously used to intern Japanese Americans.</p>
+      <p><strong>Birthright citizenship is in the courts.</strong> Trump signed an executive order trying to end it. Several federal judges have blocked it. The case is heading to the Supreme Court, where the outcome is uncertain.</p>
+      <p><strong>The 2028 election is being prepared for now.</strong> Convention of States efforts have accelerated in 4 more state legislatures. State election officials in several states have been replaced. New voter ID and registration rules have been enacted in Florida, Texas, Ohio, Georgia, and Arizona.</p>
+      <p><strong>The press is under pressure.</strong> Several major newsroom owners have pulled stories or fired editors at administration request. The FCC has reopened broadcast license reviews of news networks the administration dislikes. Some independent reporters have been denied White House access.</p>
       <div class="callout">You do not have to believe any of this is bad. You just have to know it is happening, because none of it is hidden. It is on the front page of every newspaper.</div>
+    `
+  },
+  {
+    title: "The Big Idea Underneath - Why \"Post-Liberal\" Matters",
+    body: `
+      <p>Time to come back to Idea Three from Lesson 2. This is the strangest part of the book and the hardest to believe at first. It is also the most important.</p>
+      <p>The thinkers and writers at the intellectual core of the modern right have <strong>openly rejected liberal democracy</strong>. By "liberal" they do not mean Democratic Party or progressive politics. They mean the entire post-WWII American constitutional order: rule of law, separation of powers, civil rights, equal voting, checks on executive power.</p>
+      <p>They are not hiding this. They write about it. They give speeches. They publish books with explicit titles.</p>
+      <p><strong>Curtis Yarvin (also known as Mencius Moldbug).</strong> A software engineer turned political writer. Writes that America should be replaced with what he calls a "monarchy" or "CEO dictatorship" - a single leader with absolute authority, replacing the existing constitutional structure. Has been funded by Peter Thiel since 2013. J.D. Vance has cited him by name in interviews.</p>
+      <p><strong>Patrick Deneen.</strong> Professor at Notre Dame. Wrote a 2018 book called <em>Why Liberalism Failed</em>. The argument is that liberal democracy is fundamentally bankrupt and should be replaced. His follow-up book <em>Regime Change</em> (2023) calls explicitly for a "post-liberal" successor. Praised by Vance.</p>
+      <p><strong>The Claremont Institute.</strong> A conservative think tank. Published the famous "Flight 93 Election" essay in 2016 (the argument: conservatives must "charge the cockpit" of America, because losing means death). Claremont fellows include many people now working in the Trump administration.</p>
+      <p><strong>National Conservatism (NatCon) conferences.</strong> An annual gathering started in 2019. Mainstream Republican senators - Vance, Hawley, Cruz - share the stage with theocrats and post-liberal academics. The speeches are public. Many call for an end to "the liberal order."</p>
+      <p><strong>J.D. Vance.</strong> The current Vice President. Has publicly said the post-WWII constitutional order needs to be replaced. Has cited Yarvin, Deneen, and the Claremont essays approvingly. His speeches use specific post-liberal terminology that, if you have read these writers, you immediately recognize.</p>
+      <div class="callout">This is the most important thing in this whole book.<br><br>What is happening is not "Republicans being Republicans" or "Trump being Trump." There is a worked-out intellectual framework underneath it. It has names. It has books. It has institutions. It explicitly proposes to replace American constitutional democracy with something else.<br><br>You may agree with them or disagree with them. But you should know they exist, you should know what they are saying, and you should not be surprised when their plans become policy.</div>
     `
   },
   {
     title: "What You Can Do",
     body: `
-      <p>You will not personally stop any of this. But you can be one of the people who does not let it happen quietly. That matters.</p>
+      <p>You will not personally stop any of this. But you can be one of the people who refuses to let it happen quietly. That matters more than you think.</p>
       <p><strong>1. Vote in every single election.</strong></p>
-      <p>Not just presidential. Primaries. Runoffs. Midterms. School board. Judges. <strong>State legislatures.</strong> Most of what is in this book got built at the state level, where 15% of people vote. Your single vote in a state election counts roughly 10 to 50 times more than your single vote for president.</p>
-      <p><strong>2. Know your state legislators.</strong></p>
-      <p>They are the ones voting on Convention of States. Look them up at <strong>openstates.org</strong> - type in your address. Call them. State legislators almost never get calls. Five calls about one bill is a lot to them.</p>
+      <p>Not just presidential. Primaries. Runoffs. Midterms. School board. Judges. <strong>Especially state legislatures.</strong> Most of what is in this book was built at the state level, where 15 percent of voters show up. Your vote in a state legislative primary counts roughly 20 to 50 times more than your vote for president.</p>
+      <p><strong>2. Know your state legislators by name.</strong></p>
+      <p>They vote on Convention of States. They vote on voter ID laws. They draw your congressional districts. Look them up at <strong>openstates.org</strong> - type in your address. Save their phone numbers. Call them. State legislators almost never get calls. Five calls about one bill is a lot to them. Twenty calls is overwhelming.</p>
       <p><strong>3. Subscribe to a local newspaper.</strong></p>
-      <p>Local journalism is dying, and that is not an accident - the same network of donors has been funding the gutting of local news for 20 years. If your town still has a paper, subscribe. It is the most underrated political act available to you.</p>
+      <p>Local journalism is dying, and that is not an accident - the same donor network has been funding the gutting of local news for 20 years. Local papers are the early-warning system for everything in this book. If your town still has a paper, subscribe. It is the most underrated political act available to you.</p>
       <p><strong>4. Talk to people in real life.</strong></p>
-      <p>Not on Facebook. Not in the comments section. In person, on the phone, at dinner. Your grandchildren. Your neighbors. Your church. People you actually know change their minds; strangers on the internet do not.</p>
-      <p><strong>5. Do not panic, but do not tune out.</strong></p>
-      <p>Both reactions help the people who want you to stop paying attention. The goal of all of this is to make you so tired or so scared that you give up. Do not give them that.</p>
-      <div class="callout"><strong>Want to go deeper?</strong> The full research vault is at <em>terry1818.github.io/cambridge-analytica-vault</em>. It has thousands of sourced notes on everything in this book. Read whatever interests you most. Skip the rest.<br><br>Or just re-read these ten lessons. They cover the spine of it.</div>
+      <p>Not on Facebook. Not in comment sections. In person, on the phone, at dinner. Your grandchildren. Your neighbors. Your church. People you actually know change their minds - strangers on the internet do not.</p>
+      <p><strong>5. Look up who your local officials are.</strong></p>
+      <p>Your mayor, your county commissioner, your sheriff, your district attorney, your school board members. These offices have enormous power and tiny electorates. A school board race can be decided by 50 votes.</p>
+      <p><strong>6. Watch state Supreme Court races.</strong></p>
+      <p>In most states, state Supreme Court justices are elected. They decide gerrymandering cases, voting cases, and major state laws. The Leonard Leo network has been quietly investing tens of millions in these races. Most voters do not know who is running.</p>
+      <p><strong>7. Do not panic, but do not tune out.</strong></p>
+      <p>Both reactions help the people who want you to stop paying attention. The goal of much of what is in this book is to make you so tired, so scared, or so cynical that you give up. Do not give them that.</p>
+      <p><strong>8. Share this guide.</strong></p>
+      <p>This whole book exists to be passed around. Print it. Email it. Read it aloud to someone. Disagree with it. Tear it apart. The point is to start the conversation. Almost nobody you know has heard most of what is in here.</p>
+      <div class="callout"><strong>Want to go deeper?</strong> The full research vault is at <em>terry1818.github.io/cambridge-analytica-vault</em>. Thousands of sourced notes on everything in this book. Read whatever interests you most. Skip the rest. Or just re-read these twenty lessons - they cover the spine of it.</div>
       <p><strong>You made it.</strong> Thank you for reading. Now go call your grandchildren.</p>
     `
   }
@@ -406,9 +504,7 @@ const btnNext = document.getElementById('next');
 const btnRead = document.getElementById('readAloud');
 
 function stopReading() {
-  if (window.speechSynthesis) {
-    window.speechSynthesis.cancel();
-  }
+  if (window.speechSynthesis) window.speechSynthesis.cancel();
   btnRead.textContent = 'Read to me';
   btnRead.classList.remove('speaking');
 }
@@ -421,7 +517,7 @@ function startReading() {
   stopReading();
   let text = '';
   if (currentLesson === -1) {
-    text = "Welcome. This is What's Going On - a plain English guide to American politics in ten short lessons. Use the buttons at the bottom to begin.";
+    text = "Welcome. This is What's Going On - a plain English guide to American politics in twenty short lessons. Use the buttons at the bottom to begin.";
   } else {
     const l = lessons[currentLesson];
     const tmp = document.createElement('div');
@@ -443,11 +539,15 @@ function startReading() {
 function renderHome() {
   stopReading();
   currentLesson = -1;
-  let html = '<div class="lesson-list"><h2>The Ten Lessons</h2><p style="font-size:20px;color:var(--ink-soft);">Tap any lesson to jump to it. Or just hit Next and read them in order.</p><ol>';
-  lessons.forEach((l, i) => {
-    html += '<li><a href="#" data-i="' + i + '">' + l.title + '</a></li>';
+  let html = '<div class="lesson-list"><h2>The Twenty Lessons</h2><p style="font-size:20px;color:var(--ink-soft);">Tap any lesson to jump to it. Or just hit Next and read them in order.</p>';
+  parts.forEach(p => {
+    html += '<div class="part">' + p.name + '</div><ol start="' + (p.from + 1) + '">';
+    for (let i = p.from; i <= p.to; i++) {
+      html += '<li><a href="#" data-i="' + i + '">' + lessons[i].title + '</a></li>';
+    }
+    html += '</ol>';
   });
-  html += '</ol><p style="margin-top:30px;font-size:19px;color:var(--ink-soft);">To print this whole guide as a booklet, press Ctrl+P (or Cmd+P on a Mac).</p></div>';
+  html += '<p style="margin-top:30px;font-size:19px;color:var(--ink-soft);">To print this whole guide as a booklet, press Ctrl+P (or Cmd+P on a Mac).</p></div>';
   content.innerHTML = html;
   progressText.textContent = 'All Lessons';
   progressFill.style.width = '0%';
@@ -491,11 +591,8 @@ btnNext.addEventListener('click', () => {
   if (currentLesson < lessons.length - 1) goTo(currentLesson + 1);
 });
 btnRead.addEventListener('click', () => {
-  if (btnRead.classList.contains('speaking')) {
-    stopReading();
-  } else {
-    startReading();
-  }
+  if (btnRead.classList.contains('speaking')) stopReading();
+  else startReading();
 });
 
 document.addEventListener('keydown', (e) => {
