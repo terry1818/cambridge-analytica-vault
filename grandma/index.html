@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What's Going On - A Plain English Guide</title>
+<style>
+  :root {
+    --bg: #faf6ee;
+    --paper: #fffdf7;
+    --ink: #1f1a14;
+    --ink-soft: #4a3f30;
+    --accent: #8b2e2e;
+    --accent-soft: #c78a8a;
+    --btn: #2a5d3a;
+    --btn-hover: #1e4528;
+    --border: #d8cdb6;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 22px;
+    line-height: 1.7;
+  }
+  .wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 30px 24px 140px 24px;
+  }
+  header {
+    text-align: center;
+    border-bottom: 3px solid var(--border);
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+  }
+  header h1 {
+    font-size: 36px;
+    margin: 0 0 8px 0;
+    color: var(--accent);
+    line-height: 1.2;
+  }
+  header .sub {
+    font-size: 20px;
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+  .progress {
+    text-align: center;
+    font-size: 20px;
+    color: var(--ink-soft);
+    margin: 20px 0 30px 0;
+    font-weight: bold;
+  }
+  .progress-bar {
+    background: var(--border);
+    height: 14px;
+    border-radius: 7px;
+    overflow: hidden;
+    margin: 8px auto;
+    max-width: 400px;
+  }
+  .progress-fill {
+    background: var(--accent);
+    height: 100%;
+    transition: width 0.3s ease;
+  }
+  article {
+    background: var(--paper);
+    padding: 36px 40px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+  }
+  article h2 {
+    font-size: 32px;
+    color: var(--accent);
+    margin-top: 0;
+    margin-bottom: 24px;
+    line-height: 1.25;
+  }
+  article p {
+    margin: 0 0 22px 0;
+    font-size: 22px;
+  }
+  article ul, article ol {
+    padding-left: 28px;
+    margin: 0 0 22px 0;
+  }
+  article li {
+    margin-bottom: 14px;
+    font-size: 22px;
+  }
+  article strong { color: var(--accent); }
+  .callout {
+    background: #fff4e6;
+    border-left: 6px solid var(--accent);
+    padding: 18px 22px;
+    margin: 24px 0;
+    border-radius: 4px;
+    font-size: 21px;
+  }
+  .lesson-list {
+    background: var(--paper);
+    padding: 30px 40px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .lesson-list h2 {
+    font-size: 28px;
+    color: var(--accent);
+    margin-top: 0;
+  }
+  .lesson-list ol {
+    padding-left: 32px;
+  }
+  .lesson-list li {
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 21px;
+  }
+  .lesson-list a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--accent-soft);
+  }
+  .lesson-list a:hover {
+    color: var(--accent);
+    border-bottom: 2px solid var(--accent);
+  }
+  nav.controls {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: var(--paper);
+    border-top: 3px solid var(--border);
+    padding: 14px 12px;
+    box-shadow: 0 -4px 12px rgba(0,0,0,0.08);
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    z-index: 100;
+  }
+  nav.controls button {
+    background: var(--btn);
+    color: white;
+    border: none;
+    padding: 16px 22px;
+    font-size: 19px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    min-width: 140px;
+    font-family: Georgia, serif;
+    transition: background 0.15s;
+  }
+  nav.controls button:hover:not(:disabled) {
+    background: var(--btn-hover);
+  }
+  nav.controls button:disabled {
+    background: #999;
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+  nav.controls button.speaking {
+    background: var(--accent);
+  }
+  nav.controls button.home {
+    background: #555;
+  }
+  nav.controls button.home:hover {
+    background: #333;
+  }
+  @media print {
+    body { font-size: 14pt; background: white; color: black; }
+    nav.controls, .progress, header .sub { display: none !important; }
+    article { box-shadow: none; border: none; padding: 0; }
+    .lesson-list { page-break-after: always; }
+    article { page-break-after: always; }
+  }
+  @media (max-width: 600px) {
+    html, body { font-size: 19px; }
+    .wrap { padding: 20px 14px 180px 14px; }
+    article { padding: 24px 20px; }
+    header h1 { font-size: 28px; }
+    article h2 { font-size: 26px; }
+    nav.controls button { min-width: 110px; padding: 14px 14px; font-size: 17px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>What's Going On</h1>
+    <div class="sub">A plain English guide to American politics, in ten short lessons.</div>
+  </header>
+
+  <div class="progress" id="progress">
+    <div id="progress-text">Welcome</div>
+    <div class="progress-bar"><div class="progress-fill" id="progress-fill" style="width: 0%"></div></div>
+  </div>
+
+  <div id="content"></div>
+</div>
+
+<nav class="controls">
+  <button id="home" class="home">All Lessons</button>
+  <button id="prev">Previous</button>
+  <button id="readAloud">Read to me</button>
+  <button id="next">Next</button>
+</nav>
+
+<script>
+const lessons = [
+  {
+    title: "Welcome - Why You Should Care",
+    body: `
+      <p>Hello. This little book explains something that has been quietly happening in American politics for the last 40 years. You do not need to know anything about politics to understand it.</p>
+      <p>Ten short lessons. Each one takes about 5 minutes to read. You can tap the green "Read to me" button at the bottom and the page will read aloud to you.</p>
+      <p>You will learn:</p>
+      <ul>
+        <li>Who has been spending billions of dollars to change how America is governed</li>
+        <li>What they are trying to do, in plain words</li>
+        <li>Why the Supreme Court looks different than it did 20 years ago</li>
+        <li>What "Project 2025" actually is</li>
+        <li>What is documented about January 6, Russia in 2016, and Cambridge Analytica</li>
+        <li>What you, personally, can do about any of this</li>
+      </ul>
+      <div class="callout"><strong>One promise:</strong> Nothing in this book is made up. Every claim comes from court records, congressional reports, sworn testimony, or major newspapers. If you want the sources, the full vault at <em>terry1818.github.io/cambridge-analytica-vault</em> has them.</div>
+      <p>Ready? Tap <strong>Next</strong> at the bottom of the screen.</p>
+    `
+  },
+  {
+    title: "The Big Picture (in 3 sentences)",
+    body: `
+      <p>If you only remember three things from this whole book, remember these:</p>
+      <div class="callout">
+        <p><strong>One.</strong> A small group of very wealthy people has spent the last 40 years quietly working to take control of America's courts, government, and Constitution.</p>
+        <p><strong>Two.</strong> They are doing this because they know they are outnumbered at the ballot box, and want to be able to win without needing the most votes.</p>
+        <p><strong>Three.</strong> Almost everything they have done is legal. That is what makes it so effective.</p>
+      </div>
+      <p>This is not a conspiracy theory. The people involved have written books about what they want to do. They have given speeches. They have filed lawsuits. They have built training programs.</p>
+      <p>They are doing it in public. They are just doing it slowly enough, and using enough jargon, that most people do not notice.</p>
+      <p>The next eight lessons walk you through the pieces, one at a time.</p>
+    `
+  },
+  {
+    title: "The People With the Money",
+    body: `
+      <p>You do not need to memorize all the names. Just know that the same handful of families and foundations show up over and over.</p>
+      <p><strong>Robert Mercer</strong> - A hedge fund billionaire from Long Island. Paid for Cambridge Analytica (the company that scraped Facebook data on 87 million people). Also funded Breitbart News and helped put Steve Bannon in the Trump White House.</p>
+      <p><strong>Leonard Leo</strong> - A lawyer who runs an operation called the Federalist Society. He personally picked all six conservative Supreme Court justices. In 2021 a single donor gave his network 1.6 billion dollars in one check. That is the largest political donation in American history.</p>
+      <p><strong>Peter Thiel</strong> - A Silicon Valley billionaire who co-founded PayPal. He paid for J.D. Vance's Senate campaign, which is how Vance became Vice President.</p>
+      <p><strong>The Koch family</strong> - Charles Koch (the surviving brother) runs a 50-year-old political machine. He spends hundreds of millions per election cycle, mostly on state legislatures.</p>
+      <p><strong>The DeVos family</strong> - The Amway fortune. Betsy DeVos was Trump's Education Secretary. Her brother Erik Prince founded Blackwater, the private military contractor.</p>
+      <div class="callout">These are not the only people involved. But if you see one of these names in the news, you now know what part of the picture they are in.</div>
+    `
+  },
+  {
+    title: "The Plan: Project 2025",
+    body: `
+      <p>In 2023, a think tank called the Heritage Foundation published a 922-page book called <strong>Mandate for Leadership</strong>. Most people call it "Project 2025."</p>
+      <p>It is a detailed playbook for what to do in the first 180 days of a Republican presidency. It was written by more than 350 people. Most of them worked in Trump's first administration. Many of them are now working in his second one.</p>
+      <p>The main things it proposes:</p>
+      <ul>
+        <li><strong>Fire up to 50,000 federal workers.</strong> Replace them with people personally loyal to the president. (This is called "Schedule F.")</li>
+        <li><strong>Eliminate the Department of Education.</strong> Move funding to private and religious schools.</li>
+        <li><strong>Cut the EPA, FDA, and IRS</strong> deeply, especially the parts that enforce rules on corporations.</li>
+        <li><strong>Use the military for domestic immigration enforcement.</strong></li>
+        <li><strong>End birthright citizenship</strong> through executive order.</li>
+        <li><strong>Ban abortion nationwide</strong> by reviving an 1873 law called the Comstock Act.</li>
+      </ul>
+      <p>During the 2024 campaign, Trump publicly said he had nothing to do with Project 2025 and did not know who wrote it. About 140 of its contributors are now working in his administration.</p>
+      <div class="callout"><strong>You can read it yourself.</strong> It is free online at <em>project2025.org/playbook</em>. The full PDF is 922 pages, but the table of contents alone tells you most of what you need to know.</div>
+    `
+  },
+  {
+    title: "The Courts: How They Got Remade",
+    body: `
+      <p>In 1982, a group of law students at Yale and the University of Chicago started a club called the <strong>Federalist Society</strong>. The idea: train conservative lawyers and put them in positions of power.</p>
+      <p>For 40 years, they ran a pipeline:</p>
+      <ol>
+        <li>Recruit promising conservative law students.</li>
+        <li>Get them clerkships with sympathetic federal judges.</li>
+        <li>Get them into government jobs and law firms.</li>
+        <li>When a judgeship opens up, have a list of pre-vetted names ready for the president.</li>
+      </ol>
+      <p>The man who runs this pipeline is <strong>Leonard Leo</strong>. When Trump won in 2016, Leo handed him a list of judges. Trump appointed three Supreme Court justices from that list: Gorsuch, Kavanaugh, and Barrett.</p>
+      <p>Today, <strong>all six Republican-appointed Supreme Court justices</strong> are Federalist Society members. So is most of the federal appeals court.</p>
+      <p>What this court has done in the last few years:</p>
+      <ul>
+        <li><strong>2022 - Dobbs v. Jackson:</strong> Overturned Roe v. Wade. 50 years of abortion law erased.</li>
+        <li><strong>2023 - Students for Fair Admissions:</strong> Ended race-based college admissions.</li>
+        <li><strong>2024 - Loper Bright:</strong> Overturned a 40-year-old rule (called "Chevron") that let agencies like the EPA write technical regulations. Now judges decide.</li>
+        <li><strong>2024 - Trump v. United States:</strong> Ruled that presidents have wide immunity from criminal prosecution for "official acts."</li>
+      </ul>
+      <p>That last one ended most of the criminal cases against Trump.</p>
+      <div class="callout">Federal judges serve for life. The youngest Trump appointees will still be deciding cases in 2070.</div>
+    `
+  },
+  {
+    title: "The Convention of States",
+    body: `
+      <p>This is the one most people have never heard of, and it may be the most important.</p>
+      <p>The U.S. Constitution can be changed two ways:</p>
+      <ol>
+        <li><strong>Congress proposes an amendment.</strong> Two-thirds of both chambers, then three-fourths of states ratify. This has happened 27 times.</li>
+        <li><strong>States call a convention.</strong> If 34 states officially apply, a convention must be called. Once called, the convention can propose any amendments it wants. <strong>This has never happened in U.S. history.</strong></li>
+      </ol>
+      <p>Right now, <strong>19 states have officially applied for a convention.</strong> They need 34. They have been quietly adding 1-3 states per year for over a decade.</p>
+      <p>The group running this is called <strong>Convention of States Action</strong>. The public face is a man named Mark Meckler. The money comes from the same donor network as everything else in this book.</p>
+      <p>The official goals sound reasonable: balanced budget amendment, term limits, "limit federal power." But here is the problem:</p>
+      <div class="callout"><strong>Once a convention is called, there are no rules.</strong> The Constitution does not say how delegates are chosen, what they can vote on, or what they can change. Legal scholars across the political spectrum - liberal and conservative - warn that a convention could rewrite anything: the Bill of Rights, voting rights, presidential powers, anything.</div>
+      <p>This is why it matters who you vote for in <strong>state elections</strong>. The Convention of States is a state-level decision, not a federal one. Your governor and state legislators decide.</p>
+    `
+  },
+  {
+    title: "Facebook, Cambridge Analytica, and Russia",
+    body: `
+      <p>In 2016, two different things happened to American voters on Facebook at the same time. Both went to court. Both are documented.</p>
+      <p><strong>Thing One: Cambridge Analytica.</strong></p>
+      <p>A British company called Cambridge Analytica was hired by the Trump campaign. They paid an academic to build a Facebook quiz. About 270,000 people took the quiz. But the quiz also harvested data on every Facebook friend of every person who took it - <strong>87 million people in total</strong>, without consent.</p>
+      <p>They used this data to build "psychographic" profiles - personality types. Then they showed different political ads to different personality types. Anxious people got ads about crime. People who scored high on "openness" got ads about change.</p>
+      <p>Facebook was fined 5 billion dollars by the FTC in 2019 for this. Cambridge Analytica went bankrupt.</p>
+      <p><strong>Thing Two: Russia.</strong></p>
+      <p>At the same time, a Russian operation called the Internet Research Agency (IRA) was running fake Facebook pages, Twitter accounts, and Instagram accounts pretending to be Americans. They reached an estimated 126 million Americans on Facebook alone.</p>
+      <p>Separately, Russian military intelligence (GRU) hacked the email accounts of the Democratic National Committee and Hillary Clinton's campaign chairman, then leaked the contents through WikiLeaks.</p>
+      <p>Special Counsel Robert Mueller indicted 25 Russians and 3 Russian companies for this in 2018. Some have been convicted. Most are in Russia and will not be extradited.</p>
+      <div class="callout">The Senate Intelligence Committee - run by Republicans at the time - confirmed all of this in a 2020 report. It is not contested by any serious investigation.</div>
+    `
+  },
+  {
+    title: "January 6 - What's Documented",
+    body: `
+      <p>You probably saw the footage. Here is what is documented in court, on camera, and under oath - not opinion.</p>
+      <p><strong>The day:</strong></p>
+      <ul>
+        <li>12:00 PM - Trump speaks to a crowd near the White House. He says "if you do not fight like hell you are not going to have a country anymore."</li>
+        <li>12:53 PM - First barriers at the Capitol breached.</li>
+        <li>2:13 PM - Crowd breaks into the Capitol building itself.</li>
+        <li>2:24 PM - Trump posts on Twitter that Vice President Pence "did not have the courage" - while Pence is being evacuated through the building.</li>
+        <li>4:17 PM - Trump finally posts a video asking the crowd to go home. He calls them "very special."</li>
+      </ul>
+      <p><strong>The damage:</strong></p>
+      <ul>
+        <li>5 people died that day or shortly after, including Capitol Police Officer Brian Sicknick.</li>
+        <li>140+ police officers were injured.</li>
+        <li>2.7 million dollars in damage to the Capitol building.</li>
+      </ul>
+      <p><strong>The prosecutions:</strong></p>
+      <ul>
+        <li>About 1,500 people were charged with crimes related to that day.</li>
+        <li>About 1,200 were convicted.</li>
+        <li>The leaders of the Proud Boys and Oath Keepers were convicted of seditious conspiracy - the first such convictions in decades.</li>
+      </ul>
+      <p>In January 2025, on his first day back in office, <strong>Trump pardoned or commuted the sentences of nearly all of them</strong>, including the seditious conspiracy convictions.</p>
+    `
+  },
+  {
+    title: "What's Happening Right Now",
+    body: `
+      <p>Here is the state of things in mid-2026, in case you have been trying to tune out the news.</p>
+      <p><strong>Schedule F is active.</strong> Trump signed it on his first day back. It allows him to fire federal civil servants who "obstruct" his agenda. The Office of Personnel Management has begun reclassifying tens of thousands of positions.</p>
+      <p><strong>DOGE happened.</strong> The "Department of Government Efficiency" run by Elon Musk and Vivek Ramaswamy was given broad authority to cut federal agencies. Among the casualties: the Consumer Financial Protection Bureau, most of USAID, large parts of the Department of Education, and the IRS enforcement division (which audits wealthy taxpayers).</p>
+      <p><strong>The federal courts are filling up fast.</strong> Trump installed more federal judges in the first 6 months of his second term than most presidents do in their entire 4-year term. Most are under 45 years old and will serve for 30+ years.</p>
+      <p><strong>Immigration enforcement is at full speed.</strong> ICE's budget has roughly tripled. Mass deportations are underway. The administration has invoked the 1798 Alien Enemies Act for the first time since World War II.</p>
+      <p><strong>Birthright citizenship is in the courts.</strong> Trump signed an executive order trying to end it. Several federal judges have blocked it. The case is heading to the Supreme Court.</p>
+      <p><strong>The 2028 election is being prepared for now.</strong> Convention of States efforts have accelerated in 4 more state legislatures.</p>
+      <div class="callout">You do not have to believe any of this is bad. You just have to know it is happening, because none of it is hidden. It is on the front page of every newspaper.</div>
+    `
+  },
+  {
+    title: "What You Can Do",
+    body: `
+      <p>You will not personally stop any of this. But you can be one of the people who does not let it happen quietly. That matters.</p>
+      <p><strong>1. Vote in every single election.</strong></p>
+      <p>Not just presidential. Primaries. Runoffs. Midterms. School board. Judges. <strong>State legislatures.</strong> Most of what is in this book got built at the state level, where 15% of people vote. Your single vote in a state election counts roughly 10 to 50 times more than your single vote for president.</p>
+      <p><strong>2. Know your state legislators.</strong></p>
+      <p>They are the ones voting on Convention of States. Look them up at <strong>openstates.org</strong> - type in your address. Call them. State legislators almost never get calls. Five calls about one bill is a lot to them.</p>
+      <p><strong>3. Subscribe to a local newspaper.</strong></p>
+      <p>Local journalism is dying, and that is not an accident - the same network of donors has been funding the gutting of local news for 20 years. If your town still has a paper, subscribe. It is the most underrated political act available to you.</p>
+      <p><strong>4. Talk to people in real life.</strong></p>
+      <p>Not on Facebook. Not in the comments section. In person, on the phone, at dinner. Your grandchildren. Your neighbors. Your church. People you actually know change their minds; strangers on the internet do not.</p>
+      <p><strong>5. Do not panic, but do not tune out.</strong></p>
+      <p>Both reactions help the people who want you to stop paying attention. The goal of all of this is to make you so tired or so scared that you give up. Do not give them that.</p>
+      <div class="callout"><strong>Want to go deeper?</strong> The full research vault is at <em>terry1818.github.io/cambridge-analytica-vault</em>. It has thousands of sourced notes on everything in this book. Read whatever interests you most. Skip the rest.<br><br>Or just re-read these ten lessons. They cover the spine of it.</div>
+      <p><strong>You made it.</strong> Thank you for reading. Now go call your grandchildren.</p>
+    `
+  }
+];
+
+let currentLesson = -1;
+let utterance = null;
+
+const content = document.getElementById('content');
+const progressText = document.getElementById('progress-text');
+const progressFill = document.getElementById('progress-fill');
+const btnHome = document.getElementById('home');
+const btnPrev = document.getElementById('prev');
+const btnNext = document.getElementById('next');
+const btnRead = document.getElementById('readAloud');
+
+function stopReading() {
+  if (window.speechSynthesis) {
+    window.speechSynthesis.cancel();
+  }
+  btnRead.textContent = 'Read to me';
+  btnRead.classList.remove('speaking');
+}
+
+function startReading() {
+  if (!window.speechSynthesis) {
+    alert("Sorry, your browser does not support read-aloud. Try Chrome or Edge.");
+    return;
+  }
+  stopReading();
+  let text = '';
+  if (currentLesson === -1) {
+    text = "Welcome. This is What's Going On - a plain English guide to American politics in ten short lessons. Use the buttons at the bottom to begin.";
+  } else {
+    const l = lessons[currentLesson];
+    const tmp = document.createElement('div');
+    tmp.innerHTML = l.body;
+    text = l.title + '. ' + tmp.textContent.replace(/\s+/g, ' ').trim();
+  }
+  utterance = new SpeechSynthesisUtterance(text);
+  utterance.rate = 0.9;
+  utterance.pitch = 1.0;
+  utterance.onend = () => {
+    btnRead.textContent = 'Read to me';
+    btnRead.classList.remove('speaking');
+  };
+  btnRead.textContent = 'Stop reading';
+  btnRead.classList.add('speaking');
+  window.speechSynthesis.speak(utterance);
+}
+
+function renderHome() {
+  stopReading();
+  currentLesson = -1;
+  let html = '<div class="lesson-list"><h2>The Ten Lessons</h2><p style="font-size:20px;color:var(--ink-soft);">Tap any lesson to jump to it. Or just hit Next and read them in order.</p><ol>';
+  lessons.forEach((l, i) => {
+    html += '<li><a href="#" data-i="' + i + '">' + l.title + '</a></li>';
+  });
+  html += '</ol><p style="margin-top:30px;font-size:19px;color:var(--ink-soft);">To print this whole guide as a booklet, press Ctrl+P (or Cmd+P on a Mac).</p></div>';
+  content.innerHTML = html;
+  progressText.textContent = 'All Lessons';
+  progressFill.style.width = '0%';
+  btnPrev.disabled = true;
+  btnNext.disabled = false;
+  btnNext.textContent = 'Start Lesson 1';
+  document.querySelectorAll('.lesson-list a').forEach(a => {
+    a.addEventListener('click', (e) => {
+      e.preventDefault();
+      goTo(parseInt(a.getAttribute('data-i')));
+    });
+  });
+  window.scrollTo(0, 0);
+}
+
+function renderLesson(i) {
+  stopReading();
+  currentLesson = i;
+  const l = lessons[i];
+  content.innerHTML = '<article><h2>Lesson ' + (i+1) + ': ' + l.title + '</h2>' + l.body + '</article>';
+  progressText.textContent = 'Lesson ' + (i+1) + ' of ' + lessons.length;
+  progressFill.style.width = (((i+1) / lessons.length) * 100) + '%';
+  btnPrev.disabled = false;
+  btnNext.disabled = (i === lessons.length - 1);
+  btnNext.textContent = (i === lessons.length - 1) ? 'The End' : 'Next';
+  window.scrollTo(0, 0);
+}
+
+function goTo(i) {
+  if (i < 0) renderHome();
+  else if (i >= lessons.length) return;
+  else renderLesson(i);
+}
+
+btnHome.addEventListener('click', renderHome);
+btnPrev.addEventListener('click', () => {
+  if (currentLesson === 0) renderHome();
+  else if (currentLesson > 0) goTo(currentLesson - 1);
+});
+btnNext.addEventListener('click', () => {
+  if (currentLesson < lessons.length - 1) goTo(currentLesson + 1);
+});
+btnRead.addEventListener('click', () => {
+  if (btnRead.classList.contains('speaking')) {
+    stopReading();
+  } else {
+    startReading();
+  }
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowRight' && !btnNext.disabled) btnNext.click();
+  else if (e.key === 'ArrowLeft') btnPrev.click();
+});
+
+renderHome();
+</script>
+</body>
+</html>
