@@ -11,6 +11,11 @@
 <meta property="og:url" content="https://terry1818.github.io/cambridge-analytica-vault/grandma/">
 <meta property="og:image" content="https://terry1818.github.io/cambridge-analytica-vault/grandma/share-card.png">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" hreflang="en" href="https://terry1818.github.io/cambridge-analytica-vault/grandma/">
+<link rel="alternate" hreflang="es" href="https://terry1818.github.io/cambridge-analytica-vault/grandma/es/">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#8b2e2e">
+<link rel="apple-touch-icon" href="icon-192.png">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128214;</text></svg>">
 <style>
   :root {
@@ -29,7 +34,7 @@
     margin: 0; padding: 0;
     background: var(--bg); color: var(--ink);
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 22px; line-height: 1.7;
+    font-size: calc(22px * var(--fscale, 1)); line-height: 1.7;
   }
   .wrap { max-width: 760px; margin: 0 auto; padding: 30px 24px 140px 24px; }
   header { text-align: center; border-bottom: 3px solid var(--border); padding-bottom: 20px; margin-bottom: 30px; }
@@ -86,6 +91,21 @@
   .btnrow button.alt, .btnrow a.abtn.alt { background: var(--accent); }
   .qrbox { text-align: center; margin: 24px 0; }
   .qrbox img { width: 160px; height: 160px; border: 1px solid var(--border); border-radius: 8px; }
+  .settings { display: flex; justify-content: center; align-items: center; gap: 14px; flex-wrap: wrap; font-size: 17px; color: var(--ink-soft); margin: -14px 0 24px 0; }
+  .settings button { background: var(--paper); border: 1px solid var(--border); border-radius: 6px; padding: 6px 12px; font-size: 17px; cursor: pointer; font-family: Georgia, serif; }
+  .settings select { font-size: 16px; font-family: Georgia, serif; }
+  .recap { background: #f3ead9; border: 2px solid var(--accent-soft); border-radius: 8px; padding: 18px 22px; margin: 28px 0; font-size: 21px; }
+  .qz { border-top: 2px dashed var(--border); margin-top: 30px; padding-top: 18px; }
+  .qz h3 { color: var(--accent); font-size: 24px; margin: 0 0 14px 0; }
+  .qq { font-weight: bold; margin-bottom: 8px; }
+  .qopts { display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px; }
+  .qopt { text-align: left; background: var(--paper); border: 2px solid var(--border); border-radius: 8px; padding: 12px 16px; font-size: 19px; cursor: pointer; font-family: Georgia, serif; }
+  .qopt.good { background: #e2efe2; border-color: #2a5d3a; }
+  .qopt.bad { background: #f6e2e2; border-color: #8b2e2e; }
+  .qscore { font-weight: bold; font-size: 20px; color: var(--accent); }
+  .check { color: #2a5d3a; font-weight: bold; }
+  .rtime { color: var(--ink-soft); font-size: 17px; }
+  @media print { .settings, .qz { display: none !important; } }
   .home-actions button { background: var(--btn); color: #fff; border: none; padding: 12px 18px; font-size: 18px; border-radius: 8px; cursor: pointer; font-family: Georgia, serif; }
   @media print {
     body { font-size: 14pt; background: white; color: black; }
@@ -94,7 +114,7 @@
     .lesson-list { page-break-after: always; }
   }
   @media (max-width: 600px) {
-    html, body { font-size: 19px; }
+    html, body { font-size: calc(19px * var(--fscale, 1)); }
     .wrap { padding: 20px 14px 180px 14px; }
     article { padding: 24px 20px; }
     header h1 { font-size: 28px; }
@@ -110,10 +130,16 @@
     <h1>What's Going On</h1>
     <div class="sub">A plain English guide to American politics, in twenty short lessons.</div>
     <div class="updated" id="updated"></div>
+    <div class="updated"><a href="es/" style="color:var(--accent)">&#127760; Leer en espa&ntilde;ol</a></div>
   </header>
   <div class="progress" id="progress">
     <div id="progress-text">Welcome</div>
     <div class="progress-bar"><div class="progress-fill" id="progress-fill" style="width: 0%"></div></div>
+  </div>
+  <div class="settings">
+    <span>Text size: <button id="sizeDown" aria-label="Smaller text">A&minus;</button> <button id="sizeUp" aria-label="Larger text">A+</button></span>
+    <label><input type="checkbox" id="autoplay"> Keep reading aloud</label>
+    <label>Voice speed <select id="rate" aria-label="Reading speed"><option value="0.8">Slow</option><option value="0.9" selected>Normal</option><option value="1.1">Fast</option></select></label>
   </div>
   <div id="content"></div>
 </div>
@@ -623,6 +649,80 @@ const GLOSS = {
   'think tank': 'A privately funded organization that produces policy research and ready-to-use proposals. Who funds it usually tells you what it will conclude.',
   'gerrymandering': 'Drawing voting-district maps so one party wins more seats than its share of votes. Named after an 1812 governor whose district looked like a salamander.'
 };
+const QUIZZES = [
+  {after:2, part:1, qs:[
+    {q:'Which of these counts as a Tier 1 source?', o:['A viral Facebook post','Court records and sworn testimony','A talk-radio monologue'], a:1},
+    {q:'According to the Three Big Ideas, this coalition mainly builds power through...', o:['Winning popular majorities','Courts, rules, and the Constitution','Foreign alliances'], a:1},
+    {q:'If nobody can tell you what tier a claim is, you should...', o:['Treat it as proven','Treat it as Tier 3 and stay skeptical','Share it right away'], a:1}
+  ]},
+  {after:6, part:2, qs:[
+    {q:'Who made the largest known political donation in US history ($1.6 billion)?', o:['Barre Seid','Robert Mercer','Elon Musk'], a:0},
+    {q:'The Council for National Policy is best described as...', o:['A public charity','A semi-secret coordination forum','A government agency'], a:1},
+    {q:'The Federalist Society\u2019s 40-year project was to...', o:['Win cable-news debates','Train conservative lawyers and place them on the bench','Run presidential candidates'], a:1}
+  ]},
+  {after:12, part:3, qs:[
+    {q:'Schedule F lets a president...', o:['Dissolve Congress','Fire career civil servants and replace them with loyalists','Serve a third term'], a:1},
+    {q:'How many state applications does it take to force a constitutional convention?', o:['19','34','50'], a:1},
+    {q:'Who draws most congressional district maps?', o:['Congress','State legislatures','The Supreme Court'], a:1}
+  ]},
+  {after:16, part:4, qs:[
+    {q:'Cambridge Analytica got data on ~87 million people by...', o:['Hacking Facebook\u2019s servers','A quiz app that harvested quiz-takers\u2019 friends\u2019 data','Buying it from the government'], a:1},
+    {q:'Mueller\u2019s indictments of 25 Russian nationals established that...', o:['Nothing happened','Documented interference operations took place','The election result was overturned'], a:1},
+    {q:'Roughly how many people were convicted over January 6?', o:['About 12','About 1,200','None'], a:1}
+  ]},
+  {after:19, part:5, qs:[
+    {q:'Where does one vote count the most, according to this guide?', o:['The presidential race','State legislative primaries','Online polls'], a:1},
+    {q:'The \u201cpost-liberal\u201d writers openly propose to...', o:['Strengthen checks and balances','Replace the constitutional order with something else','Only cut taxes'], a:1},
+    {q:'The guide\u2019s advice about panic is...', o:['Panic hard','Tune it all out','Neither - stay steady and engaged'], a:2}
+  ]}
+];
+const RECAPS = {
+  2:'A small coalition has spent 40 years building power through courts, rules, and the Constitution instead of majorities - and you can check the evidence tier on every claim yourself.',
+  6:'A few donor families, one legal network, a secretive coordinating council, and a newly right-turned Silicon Valley pay for and staff the machine.',
+  12:'The courts are captured, the civil service is being replaced, and the states - not Washington - are where the Constitution and your vote are being rewritten.',
+  16:'Data targeting, foreign interference, an insurrection, and elite impunity - all documented in court records, all part of how power was won and kept.',
+  19:'It is happening in the open, the thinkers say so themselves, and the highest-leverage response is boring: vote local, call your state legislator, share what you know.'
+};
+const ANALYTICS_CODE = '';
+const FEEDBACK_URL = 'https://github.com/terry1818/cambridge-analytica-vault/issues/new?title=Feedback%20on%20the%20plain-English%20guide';
+const RTIMES = lessons.map(l => Math.max(2, Math.round(l.body.replace(/<[^>]+>/g, ' ').trim().split(/\s+/).length / 200)));
+function getSet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+function setSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+function visited() { try { return new Set(JSON.parse(localStorage.getItem('wgo-visited') || '[]')); } catch (e) { return new Set(); } }
+function markVisited(i) { const v = visited(); v.add(i); setSet('wgo-visited', JSON.stringify([...v])); }
+function quizTotals() {
+  let got = 0, max = 0;
+  QUIZZES.forEach(z => { max += z.qs.length; const s = parseInt(getSet('wgo-q' + z.part)); if (!isNaN(s)) got += s; });
+  return { got: got, max: max, taken: QUIZZES.some(z => getSet('wgo-q' + z.part) !== null) };
+}
+function wireQuiz(scopeEl, qs, onDone) {
+  let answered = 0, right = 0;
+  scopeEl.querySelectorAll('.qopt').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const block = btn.parentElement;
+      if (block.getAttribute('data-locked')) return;
+      block.setAttribute('data-locked', '1');
+      const correct = parseInt(block.getAttribute('data-a'));
+      const chosen = parseInt(btn.getAttribute('data-o'));
+      block.querySelectorAll('.qopt').forEach(b => {
+        if (parseInt(b.getAttribute('data-o')) === correct) b.classList.add('good');
+      });
+      if (chosen !== correct) btn.classList.add('bad'); else right++;
+      answered++;
+      if (answered === qs.length && onDone) onDone(right);
+    });
+  });
+}
+function quizHtml(z, title) {
+  let h = '<div class="qz"><h3>' + title + '</h3>';
+  z.qs.forEach((q, qi) => {
+    h += '<p class="qq">' + (qi + 1) + '. ' + q.q + '</p><div class="qopts" data-q="' + qi + '" data-a="' + q.a + '">';
+    q.o.forEach((o, oi) => { h += '<button class="qopt" data-q="' + qi + '" data-o="' + oi + '">' + o + '</button>'; });
+    h += '</div>';
+  });
+  h += '<p class="qscore" id="qscore"></p></div>';
+  return h;
+}
 function saveProgress(i) { try { localStorage.setItem('wgo-lesson', String(i)); } catch (e) {} }
 function loadProgress() { try { const v = localStorage.getItem('wgo-lesson'); return v === null ? null : parseInt(v); } catch (e) { return null; } }
 let ignoreHash = false;
@@ -662,11 +762,16 @@ function startReading() {
     text = l.title + '. ' + tmp.textContent.replace(/\s+/g, ' ').trim();
   }
   utterance = new SpeechSynthesisUtterance(text);
-  utterance.rate = 0.9;
+  utterance.rate = parseFloat(getSet('wgo-rate') || '0.9');
   utterance.pitch = 1.0;
   utterance.onend = () => {
     btnRead.textContent = 'Read to me';
     btnRead.classList.remove('speaking');
+    btnRead.setAttribute('aria-pressed', 'false');
+    if (getSet('wgo-autoplay') === '1' && currentLesson >= 0 && currentLesson < lessons.length - 1) {
+      goTo(currentLesson + 1);
+      startReading();
+    }
   };
   btnRead.textContent = 'Stop reading';
   btnRead.classList.add('speaking');
@@ -734,12 +839,13 @@ function renderHome() {
   parts.forEach(p => {
     html += '<div class="part">' + p.name + '</div><ol start="' + (p.from + 1) + '">';
     for (let i = p.from; i <= p.to; i++) {
-      html += '<li><a href="#lesson-' + (i + 1) + '" data-i="' + i + '">' + lessons[i].title + '</a></li>';
+      const done = visited().has(i) ? ' <span class="check" title="You read this one">&#10003;</span>' : '';
+      html += '<li><a href="#lesson-' + (i + 1) + '" data-i="' + i + '">' + lessons[i].title + '</a> <span class="rtime">~' + RTIMES[i] + ' min</span>' + done + '</li>';
     }
     html += '</ol>';
   });
-  html += '<div class="home-actions"><button id="printall">Print the whole guide</button><a class="abtn" href="whats-going-on.pdf" download>Download as PDF</a><button id="sharehome">Share this guide</button></div>';
-  html += '<p style="margin-top:20px;font-size:17px;color:var(--ink-soft);">Last updated ' + LAST_UPDATED + '. Every lesson now ends with links to the research behind it.</p></div>';
+  html += '<div class="home-actions"><button id="printall">Print the whole guide</button><a class="abtn" href="whats-going-on.pdf" download>Download as PDF</a><a class="abtn" href="cheat-sheet.pdf" download>One-page cheat sheet</a><button id="sharehome">Share this guide</button><button id="testme">Test yourself</button></div>';
+  html += '<p style="margin-top:20px;font-size:17px;color:var(--ink-soft);">Last updated ' + LAST_UPDATED + '. Every lesson ends with links to the research behind it. <a href="' + FEEDBACK_URL + '" target="_blank" rel="noopener">Tell us what was confusing</a>.</p></div>';
   content.innerHTML = html;
   progressText.textContent = 'All Lessons';
   progressFill.style.width = '0%';
@@ -756,6 +862,8 @@ function renderHome() {
   if (rb) rb.addEventListener('click', () => goTo(saved));
   const pa = document.getElementById('printall');
   if (pa) pa.addEventListener('click', printAll);
+  const tm = document.getElementById('testme');
+  if (tm) tm.addEventListener('click', renderTest);
   const sh = document.getElementById('sharehome');
   if (sh) sh.addEventListener('click', () => {
     if (!shareGuide(GUIDE, "What's Going On - A Plain English Guide")) { sh.textContent = 'Link copied - paste it anywhere'; setTimeout(() => { sh.textContent = 'Share this guide'; }, 2500); }
@@ -790,7 +898,18 @@ function renderLesson(i) {
       + '<button class="copylink" id="sharebtn">Share this lesson</button> '
       + '<button class="copylink" id="copylink">Copy a link to this lesson</button></div>';
   }
-  content.innerHTML = '<article><h2>Lesson ' + (i+1) + ': ' + l.title + '</h2>' + l.body + foot + '</article>';
+  let mid = '';
+  if (RECAPS[i]) mid += '<div class="recap"><strong>If you remember one thing from this part:</strong> ' + RECAPS[i] + '</div>';
+  const z = QUIZZES.find(q => q.after === i);
+  if (z) mid += quizHtml(z, 'Quick check - three questions');
+  content.innerHTML = '<article><h2>Lesson ' + (i+1) + ': ' + l.title + '</h2>' + l.body + mid + foot + '</article>';
+  markVisited(i);
+  if (z) wireQuiz(content, z.qs, (right) => {
+    const prev = parseInt(getSet('wgo-q' + z.part));
+    if (isNaN(prev) || right > prev) setSet('wgo-q' + z.part, String(right));
+    const el = document.getElementById('qscore');
+    if (el) el.textContent = 'You got ' + right + ' of ' + z.qs.length + '.' + (right === z.qs.length ? ' Perfect.' : ' The answers are marked in green.');
+  });
   applyDepth(content.querySelector('article'));
   const sb = document.getElementById('sharebtn');
   if (sb) sb.addEventListener('click', () => {
@@ -818,6 +937,7 @@ function renderDone() {
   setHash('#done');
   content.innerHTML = '<article><h2>You made it.</h2>'
     + '<p>Twenty lessons. Forty years of quiet machinery, now visible to you. That already puts you ahead of almost everyone you know.</p>'
+    + (function () { const t = quizTotals(); return t.taken ? '<p class="qscore">Your quiz score: ' + t.got + ' of ' + t.max + '. Try the full test below to lock it in.</p>' : ''; })()
     + '<p><strong>This guide only works if it travels.</strong> It was written to be handed to a parent, a neighbor, a co-worker - someone who would never read a 3,500-note research vault but will read twenty short lessons.</p>'
     + '<div class="btnrow">'
     + '<button id="sharedone" class="alt">Share this guide</button>'
@@ -828,6 +948,8 @@ function renderDone() {
     + '<a class="abtn" href="' + SITE + '" target="_blank" rel="noopener">Explore the full vault</a>'
     + '<a class="abtn" href="' + noteUrl('00-Home/Reading List - 30 Minutes') + '" target="_blank" rel="noopener">The 30-minute reading list</a>'
     + '<button id="restart">Start over at Lesson 1</button>'
+    + '<button id="testdone">Test yourself</button>'
+    + '<a class="abtn" href="cheat-sheet.pdf" download>One-page cheat sheet</a>'
     + '</div>'
     + '<div class="qrbox"><img src="qr.png" alt="QR code linking to this guide" width="160" height="160"><br><span style="font-size:17px;color:var(--ink-soft);">Point a phone camera here to open the guide.</span></div>'
     + '<div class="callout">Email it, text it, print it and leave it on the kitchen table. Almost nobody you know has heard most of what you just read.</div>'
@@ -845,6 +967,36 @@ function renderDone() {
   if (pd) pd.addEventListener('click', printAll);
   const rs = document.getElementById('restart');
   if (rs) rs.addEventListener('click', () => goTo(0));
+  const td = document.getElementById('testdone');
+  if (td) td.addEventListener('click', renderTest);
+  window.scrollTo(0, 0);
+}
+
+function renderTest() {
+  stopReading();
+  currentLesson = -2;
+  setHash('#test');
+  const all = [];
+  QUIZZES.forEach(z => z.qs.forEach(q => all.push(q)));
+  const picked = all.slice().sort(() => Math.random() - 0.5).slice(0, 10);
+  let h = '<article><h2>Test yourself</h2><p>Ten questions pulled from the whole guide. No grades, no tricks - getting one wrong just shows you which lesson to skim again.</p>';
+  picked.forEach((q, qi) => {
+    h += '<p class="qq">' + (qi + 1) + '. ' + q.q + '</p><div class="qopts" data-q="' + qi + '" data-a="' + q.a + '">';
+    q.o.forEach((o, oi) => { h += '<button class="qopt" data-q="' + qi + '" data-o="' + oi + '">' + o + '</button>'; });
+    h += '</div>';
+  });
+  h += '<p class="qscore" id="qscore"></p><div class="btnrow"><button id="retest">Try 10 different questions</button><button id="backhome">Back to the lessons</button></div></article>';
+  content.innerHTML = h;
+  wireQuiz(content, picked, (right) => {
+    const el = document.getElementById('qscore');
+    if (el) el.textContent = 'You got ' + right + ' of 10.' + (right >= 8 ? ' You know this material.' : ' Green marks show the right answers - the lesson list is one tap away.');
+  });
+  document.getElementById('retest').addEventListener('click', renderTest);
+  document.getElementById('backhome').addEventListener('click', renderHome);
+  progressText.textContent = 'Test yourself';
+  progressFill.style.width = '100%';
+  btnPrev.disabled = true;
+  btnNext.disabled = true;
   window.scrollTo(0, 0);
 }
 
@@ -890,6 +1042,8 @@ content.addEventListener('keydown', (e) => {
 });
 
 function applyHash() {
+  if (window.goatcounter && window.goatcounter.count) { try { goatcounter.count({ path: location.pathname + location.hash }); } catch (e) {} }
+  if (location.hash === '#test') { renderTest(); return; }
   if (location.hash === '#done') { renderDone(); return; }
   const m = location.hash.match(/^#lesson-(\d+)$/);
   if (m) {
@@ -903,6 +1057,33 @@ window.addEventListener('hashchange', () => {
   applyHash();
 });
 document.getElementById('updated').textContent = 'Last updated ' + LAST_UPDATED;
+(function initExtras() {
+  const scale = parseFloat(getSet('wgo-fscale') || '1');
+  document.documentElement.style.setProperty('--fscale', scale);
+  function bump(d) {
+    let s = parseFloat(getSet('wgo-fscale') || '1') + d;
+    s = Math.min(1.5, Math.max(0.85, Math.round(s * 100) / 100));
+    setSet('wgo-fscale', String(s));
+    document.documentElement.style.setProperty('--fscale', s);
+  }
+  document.getElementById('sizeUp').addEventListener('click', () => bump(0.1));
+  document.getElementById('sizeDown').addEventListener('click', () => bump(-0.1));
+  const ap = document.getElementById('autoplay');
+  ap.checked = getSet('wgo-autoplay') === '1';
+  ap.addEventListener('change', () => setSet('wgo-autoplay', ap.checked ? '1' : '0'));
+  const rt = document.getElementById('rate');
+  rt.value = getSet('wgo-rate') || '0.9';
+  rt.addEventListener('change', () => setSet('wgo-rate', rt.value));
+  if (ANALYTICS_CODE) {
+    const s = document.createElement('script');
+    s.async = true; s.src = 'https://gc.zgo.at/count.js';
+    s.setAttribute('data-goatcounter', 'https://' + ANALYTICS_CODE + '.goatcounter.com/count');
+    document.head.appendChild(s);
+  }
+  if ('serviceWorker' in navigator && location.protocol === 'https:') {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  }
+})();
 applyHash();
 </script>
 </body>

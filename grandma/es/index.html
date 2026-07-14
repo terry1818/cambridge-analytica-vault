@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Qué Está Pasando - Una guía en lenguaje sencillo</title>
+<meta name="description" content="Qué Está Pasando: la política estadounidense explicada en veinte lecciones cortas, en lenguaje sencillo. Sin jerga, sin pánico, cada afirmación con fuentes.">
+<meta property="og:title" content="Qué Está Pasando - Una guía en lenguaje sencillo">
+<meta property="og:description" content="La política estadounidense explicada en veinte lecciones cortas que cualquiera puede leer. Cada afirmación proviene de registros judiciales, informes del Congreso o grandes periódicos.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://terry1818.github.io/cambridge-analytica-vault/grandma/es/">
+<meta property="og:image" content="https://terry1818.github.io/cambridge-analytica-vault/grandma/share-card.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" hreflang="en" href="https://terry1818.github.io/cambridge-analytica-vault/grandma/">
+<link rel="alternate" hreflang="es" href="https://terry1818.github.io/cambridge-analytica-vault/grandma/es/">
+<link rel="manifest" href="../manifest.json">
+<meta name="theme-color" content="#8b2e2e">
+<link rel="apple-touch-icon" href="../icon-192.png">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128214;</text></svg>">
+<style>
+  :root {
+    --bg: #faf6ee;
+    --paper: #fffdf7;
+    --ink: #1f1a14;
+    --ink-soft: #4a3f30;
+    --accent: #8b2e2e;
+    --accent-soft: #c78a8a;
+    --btn: #2a5d3a;
+    --btn-hover: #1e4528;
+    --border: #d8cdb6;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg); color: var(--ink);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: calc(22px * var(--fscale, 1)); line-height: 1.7;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 30px 24px 140px 24px; }
+  header { text-align: center; border-bottom: 3px solid var(--border); padding-bottom: 20px; margin-bottom: 30px; }
+  header h1 { font-size: 36px; margin: 0 0 8px 0; color: var(--accent); line-height: 1.2; }
+  header .sub { font-size: 20px; color: var(--ink-soft); font-style: italic; }
+  .progress { text-align: center; font-size: 20px; color: var(--ink-soft); margin: 20px 0 30px 0; font-weight: bold; }
+  .progress-bar { background: var(--border); height: 14px; border-radius: 7px; overflow: hidden; margin: 8px auto; max-width: 400px; }
+  .progress-fill { background: var(--accent); height: 100%; transition: width 0.3s ease; }
+  article { background: var(--paper); padding: 36px 40px; border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.04); }
+  article h2 { font-size: 32px; color: var(--accent); margin-top: 0; margin-bottom: 24px; line-height: 1.25; }
+  article p { margin: 0 0 22px 0; font-size: 22px; }
+  article ul, article ol { padding-left: 28px; margin: 0 0 22px 0; }
+  article li { margin-bottom: 14px; font-size: 22px; }
+  article strong { color: var(--accent); }
+  .callout { background: #fff4e6; border-left: 6px solid var(--accent); padding: 18px 22px; margin: 24px 0; border-radius: 4px; font-size: 21px; }
+  .lesson-list { background: var(--paper); padding: 30px 40px; border: 1px solid var(--border); border-radius: 8px; }
+  .lesson-list h2 { font-size: 28px; color: var(--accent); margin-top: 0; }
+  .lesson-list .part { font-size: 22px; color: var(--ink-soft); font-style: italic; margin: 22px 0 8px 0; border-bottom: 1px dashed var(--border); padding-bottom: 6px; }
+  .lesson-list ol { padding-left: 32px; margin: 8px 0 18px 0; }
+  .lesson-list li { margin-bottom: 10px; cursor: pointer; font-size: 21px; }
+  .lesson-list a { color: var(--ink); text-decoration: none; border-bottom: 1px dotted var(--accent-soft); }
+  .lesson-list a:hover { color: var(--accent); border-bottom: 2px solid var(--accent); }
+  nav.controls { position: fixed; bottom: 0; left: 0; right: 0; background: var(--paper); border-top: 3px solid var(--border); padding: 14px 12px; box-shadow: 0 -4px 12px rgba(0,0,0,0.08); display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; z-index: 100; }
+  nav.controls button { background: var(--btn); color: white; border: none; padding: 16px 22px; font-size: 19px; font-weight: bold; border-radius: 8px; cursor: pointer; min-width: 140px; font-family: Georgia, serif; transition: background 0.15s; }
+  nav.controls button:hover:not(:disabled) { background: var(--btn-hover); }
+  nav.controls button:disabled { background: #999; cursor: not-allowed; opacity: 0.5; }
+  nav.controls button.speaking { background: var(--accent); }
+  nav.controls button.home { background: #555; }
+  nav.controls button.home:hover { background: #333; }
+  header .updated { font-size: 16px; color: var(--ink-soft); margin-top: 6px; }
+  .skip-link { position: absolute; left: -9999px; top: 0; background: var(--btn); color: #fff; padding: 10px 16px; border-radius: 0 0 8px 0; z-index: 200; }
+  .skip-link:focus { left: 0; }
+  a:focus-visible, button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  .resume-banner { background: #eef5e9; border: 1px solid var(--btn); border-radius: 8px; padding: 14px 18px; margin: 0 0 20px 0; font-size: 20px; }
+  .resume-banner button { background: var(--btn); color: #fff; border: none; padding: 10px 16px; font-size: 18px; border-radius: 6px; cursor: pointer; font-family: Georgia, serif; margin-left: 10px; }
+  .sources { border-top: 2px dashed var(--border); margin-top: 30px; padding-top: 18px; }
+  .sources h3 { font-size: 21px; color: var(--accent); margin: 0 0 10px 0; }
+  .sources ul { padding-left: 24px; margin: 0 0 12px 0; }
+  .sources li { font-size: 19px; margin-bottom: 8px; }
+  .sources a { color: var(--ink); border-bottom: 1px dotted var(--accent-soft); text-decoration: none; }
+  .sources a:hover { color: var(--accent); border-bottom: 2px solid var(--accent); }
+  .sources .tiernote { font-size: 17px; color: var(--ink-soft); font-style: italic; margin-bottom: 10px; }
+  .copylink { background: none; border: 1px solid var(--border); color: var(--ink-soft); padding: 8px 12px; font-size: 16px; border-radius: 6px; cursor: pointer; font-family: Georgia, serif; }
+  .home-actions { margin-top: 24px; display: flex; gap: 12px; flex-wrap: wrap; }
+  .home-actions a.abtn { display: inline-block; background: var(--btn); color: #fff; border: none; padding: 12px 18px; font-size: 18px; border-radius: 8px; cursor: pointer; font-family: Georgia, serif; text-decoration: none; }
+  a.notelink { color: inherit; text-decoration: none; border-bottom: 1px dotted var(--accent); }
+  a.notelink:hover { color: var(--accent); border-bottom: 2px solid var(--accent); }
+  .gterm { border-bottom: 2px dotted var(--btn); cursor: pointer; }
+  .gdef { background: #eef5e9; border-left: 6px solid var(--btn); padding: 14px 18px; margin: 12px 0; border-radius: 4px; font-size: 19px; }
+  .gdef a { color: var(--btn); }
+  .star { font-size: 19px; margin: 0 0 12px 0; }
+  .btnrow { display: flex; gap: 10px; flex-wrap: wrap; margin: 16px 0; }
+  .btnrow button, .btnrow a.abtn { background: var(--btn); color: #fff; border: none; padding: 14px 20px; font-size: 19px; font-weight: bold; border-radius: 8px; cursor: pointer; font-family: Georgia, serif; text-decoration: none; display: inline-block; }
+  .btnrow button.alt, .btnrow a.abtn.alt { background: var(--accent); }
+  .qrbox { text-align: center; margin: 24px 0; }
+  .qrbox img { width: 160px; height: 160px; border: 1px solid var(--border); border-radius: 8px; }
+  .settings { display: flex; justify-content: center; align-items: center; gap: 14px; flex-wrap: wrap; font-size: 17px; color: var(--ink-soft); margin: -14px 0 24px 0; }
+  .settings button { background: var(--paper); border: 1px solid var(--border); border-radius: 6px; padding: 6px 12px; font-size: 17px; cursor: pointer; font-family: Georgia, serif; }
+  .settings select { font-size: 16px; font-family: Georgia, serif; }
+  .recap { background: #f3ead9; border: 2px solid var(--accent-soft); border-radius: 8px; padding: 18px 22px; margin: 28px 0; font-size: 21px; }
+  .qz { border-top: 2px dashed var(--border); margin-top: 30px; padding-top: 18px; }
+  .qz h3 { color: var(--accent); font-size: 24px; margin: 0 0 14px 0; }
+  .qq { font-weight: bold; margin-bottom: 8px; }
+  .qopts { display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px; }
+  .qopt { text-align: left; background: var(--paper); border: 2px solid var(--border); border-radius: 8px; padding: 12px 16px; font-size: 19px; cursor: pointer; font-family: Georgia, serif; }
+  .qopt.good { background: #e2efe2; border-color: #2a5d3a; }
+  .qopt.bad { background: #f6e2e2; border-color: #8b2e2e; }
+  .qscore { font-weight: bold; font-size: 20px; color: var(--accent); }
+  .check { color: #2a5d3a; font-weight: bold; }
+  .rtime { color: var(--ink-soft); font-size: 17px; }
+  @media print { .settings, .qz { display: none !important; } }
+  .home-actions button { background: var(--btn); color: #fff; border: none; padding: 12px 18px; font-size: 18px; border-radius: 8px; cursor: pointer; font-family: Georgia, serif; }
+  @media print {
+    body { font-size: 14pt; background: white; color: black; }
+    nav.controls, .progress, header .sub, .copylink, .resume-banner, .home-actions, .skip-link { display: none !important; }
+    article { box-shadow: none; border: none; padding: 0; page-break-after: always; }
+    .lesson-list { page-break-after: always; }
+  }
+  @media (max-width: 600px) {
+    html, body { font-size: calc(19px * var(--fscale, 1)); }
+    .wrap { padding: 20px 14px 180px 14px; }
+    article { padding: 24px 20px; }
+    header h1 { font-size: 28px; }
+    article h2 { font-size: 26px; }
+    nav.controls button { min-width: 110px; padding: 14px 14px; font-size: 17px; }
+  }
+</style>
+</head>
+<body>
+<a class="skip-link" href="#content">Saltar a la lección</a>
+<div class="wrap">
+  <header>
+    <h1>Qué Está Pasando</h1>
+    <div class="sub">Una guía en lenguaje sencillo sobre la política estadounidense, en veinte lecciones cortas.</div>
+    <div class="updated" id="updated"></div>
+    <div class="updated"><a href="../" style="color:var(--accent)">&#127760; Read in English</a></div>
+  </header>
+  <div class="progress" id="progress">
+    <div id="progress-text">Bienvenida</div>
+    <div class="progress-bar"><div class="progress-fill" id="progress-fill" style="width: 0%"></div></div>
+  </div>
+  <div class="settings">
+    <span>Tamaño de letra: <button id="sizeDown" aria-label="Smaller text">A&minus;</button> <button id="sizeUp" aria-label="Larger text">A+</button></span>
+    <label><input type="checkbox" id="autoplay"> Seguir leyendo en voz alta</label>
+    <label>Velocidad de voz <select id="rate" aria-label="Reading speed"><option value="0.8">Lenta</option><option value="0.9" selected>Normal</option><option value="1.1">Rápida</option></select></label>
+  </div>
+  <div id="content"></div>
+</div>
+<nav class="controls" aria-label="Lesson navigation">
+  <button id="home" class="home" aria-label="Ver todas las lecciones">Todas las lecciones</button>
+  <button id="prev" aria-label="Lección anterior">Anterior</button>
+  <button id="readAloud" aria-pressed="false" aria-label="Leer esta página en voz alta">Léamelo</button>
+  <button id="next" aria-label="Siguiente lección">Siguiente</button>
+</nav>
+
+<script>
+const parts = [
+  { name: "Parte 1: El marco", from: 0, to: 2 },
+  { name: "Parte 2: Quiénes están detrás", from: 3, to: 6 },
+  { name: "Parte 3: Qué están haciendo", from: 7, to: 12 },
+  { name: "Parte 4: Cómo ganaron", from: 13, to: 16 },
+  { name: "Parte 5: Dónde estamos", from: 17, to: 19 }
+];
+
+const lessons = [
+  {
+    title: "Bienvenida - Por qué esto le importa",
+    body: "\n      <p>Hola. Este pequeño libro explica algo que ha estado ocurriendo silenciosamente en la política estadounidense durante los últimos 40 años. Usted no necesita saber nada de política para entenderlo.</p>\n      <p>Son veinte lecciones cortas, agrupadas en cinco partes. Cada lección toma unos 5 minutos de lectura. Puede tocar el botón verde que dice \"Léemelo\" en la parte de abajo y la página se leerá en voz alta para usted.</p>\n      <p>Las cinco partes son:</p>\n      <ul>\n        <li><strong>Parte 1.</strong> El marco: las tres grandes ideas sobre las que está construido todo este libro, y cómo saber qué es verdad.</li>\n        <li><strong>Parte 2.</strong> Quiénes están detrás: los donantes, la derecha religiosa, la derecha tecnológica y la red legal.</li>\n        <li><strong>Parte 3.</strong> Qué están haciendo: las cortes, Project 2025, el servicio civil, la Constitución y su estado.</li>\n        <li><strong>Parte 4.</strong> Cómo ganaron: Cambridge Analytica, Rusia, el 6 de enero y las redes de las élites.</li>\n        <li><strong>Parte 5.</strong> Dónde estamos ahora mismo y qué puede hacer usted.</li>\n      </ul>\n      <div class=\"callout\"><strong>Una promesa:</strong> Nada en este libro es inventado. Cada afirmación proviene de expedientes judiciales, informes del Congreso, testimonios bajo juramento o periódicos importantes. Si quiere ver las fuentes, el archivo completo en <em>terry1818.github.io/cambridge-analytica-vault</em> las tiene todas.</div>\n      <p>¿Está listo? Toque <strong>Siguiente</strong> en la parte de abajo de la pantalla.</p>\n    "
+  },
+  {
+    title: "El panorama general - Las tres grandes ideas",
+    body: "\n      <p>Todo este libro está construido sobre tres grandes ideas. Si no recuerda nada más, recuerde estas tres:</p>\n      <div class=\"callout\">\n        <p><strong>Idea Uno - El qué.</strong> Un grupo pequeño de personas muy adineradas ha pasado los últimos 40 años construyendo silenciosamente la maquinaria para tomar el control de las cortes, el gobierno y la Constitución de Estados Unidos, en lugar de tratar de ganar elecciones de la manera normal.</p>\n      </div>\n      <div class=\"callout\">\n        <p><strong>Idea Dos - El porqué.</strong> Lo hacen porque sus votantes son una minoría cada vez más pequeña del país. Saben que no pueden ganar el voto popular de manera constante. Así que han construido formas de ganar sin él: el Colegio Electoral, el filibusterismo del Senado, la manipulación de los distritos electorales, las leyes de identificación de votantes y las cortes.</p>\n      </div>\n      <div class=\"callout\">\n        <p><strong>Idea Tres - Adónde lleva esto.</strong> Los pensadores y escritores que están en el centro de este movimiento han dicho abiertamente que quieren reemplazar la democracia constitucional estadounidense con otra cosa. Tienen nombres para ello: \"posliberal\", \"conservadurismo nacional\", \"la nueva derecha\". Publican libros al respecto. Dan discursos al respecto. El actual Vicepresidente ha citado sus libros por nombre.</p>\n      </div>\n      <p>Ese es todo el argumento de este libro, en tres párrafos.</p>\n      <p>Las próximas dieciocho lecciones lo llevan paso a paso por la evidencia: quiénes, cómo y dónde. El último grupo de lecciones regresa a la Idea Tres con todo detalle, porque es la más extraña y la más difícil de creer.</p>\n      <p>Esto no es una teoría de conspiración. Las personas involucradas han escrito libros sobre lo que quieren hacer. Dan discursos. Dirigen organizaciones. Lo están haciendo en público. Solo que lo hacen tan despacio que la mayoría de la gente no se da cuenta.</p>\n    "
+  },
+  {
+    title: "Cómo saber qué es verdad",
+    body: "\n      <p>Antes de seguir adelante, aquí está la regla más importante de todo este libro.</p>\n      <p>No todas las afirmaciones son igual de verdaderas. El archivo de investigación detrás de este libro clasifica cada afirmación en tres categorías. Usted debería hacer lo mismo cuando lea cualquier cosa sobre política:</p>\n      <p><strong>Nivel 1 - Documentado.</strong> Expedientes judiciales, testimonios bajo juramento, informes del Congreso, documentos oficiales firmados del gobierno. Usted mismo puede leer los papeles originales. Ejemplos en este libro:</p>\n      <ul>\n        <li>Las 1,200 condenas por el 6 de enero (expedientes de cortes federales).</li>\n        <li>La multa de 5,000 millones de dólares que la FTC le impuso a Facebook por la filtración de Cambridge Analytica (comunicado oficial de la FTC).</li>\n        <li>Las acusaciones formales de Mueller contra 25 ciudadanos rusos (acusaciones federales).</li>\n      </ul>\n      <p><strong>Nivel 2 - Sólidamente reportado.</strong> Periódicos importantes que usan fuentes con nombre y apellido, confirmaciones múltiples, documentos internos. No es perfecto, pero está verificado por varias vías. Ejemplos:</p>\n      <ul>\n        <li>Los reportajes de The New York Times y The Guardian sobre Cambridge Analytica.</li>\n        <li>El reportaje de ProPublica sobre la donación de 1,600 millones de dólares a Leonard Leo.</li>\n        <li>El reportaje del Washington Post sobre los autores de Project 2025.</li>\n      </ul>\n      <p><strong>Nivel 3 - Alegaciones y afirmaciones sin confirmar.</strong> Cosas que se ven mal pero que no están probadas. Puede que las mencionemos, pero no las tratamos como hechos. Ejemplos:</p>\n      <ul>\n        <li>Muchas de las afirmaciones del Steele Dossier.</li>\n        <li>Relatos de irregularidades con un solo testigo y sin documentos que los respalden.</li>\n      </ul>\n      <div class=\"callout\"><strong>Todo lo que hay en este libro es Nivel 1 o Nivel 2.</strong> Si alguna vez lee algo en otra parte que le haga decir \"¿en serio?\", pregunte de qué nivel es. Si nadie se lo puede decir, trátelo como Nivel 3 y siga leyendo con escepticismo.</div>\n      <p>Esta regla aplica para todos, incluso para los escritores con los que usted está de acuerdo. Especialmente para los escritores con los que usted está de acuerdo.</p>\n    "
+  },
+  {
+    title: "Los donantes - La gente del dinero",
+    body: "\n      <p>No necesita memorizar todos los nombres. Solo sepa que el mismo puñado de familias aparece una y otra vez.</p>\n      <p><strong>Robert Mercer.</strong> Un multimillonario de fondos de inversión de Long Island. Pagó por Cambridge Analytica (la firma que extrajo datos de Facebook de 87 millones de personas). También financió Breitbart News y ayudó a colocar a Steve Bannon en la primera Casa Blanca de Trump.</p>\n      <p><strong>Charles Koch.</strong> Hoy es el hermano Koch que queda vivo (David murió en 2019). Dirige una maquinaria política con 50 años de historia que ha gastado cientos de millones de dólares por ciclo electoral, sobre todo en las legislaturas estatales. La red Koch financió las primeras manifestaciones del \"Tea Party\" de 2009 y 2010.</p>\n      <p><strong>Peter Thiel.</strong> Un multimillonario de Silicon Valley que cofundó PayPal. Pagó la campaña de J.D. Vance para el Senado en 2022. Vance es ahora Vicepresidente. Thiel también financió la demanda que llevó a la quiebra a Gawker, y dirige la empresa de vigilancia Palantir.</p>\n      <p><strong>La familia DeVos.</strong> La fortuna de Amway. Betsy DeVos fue la Secretaria de Educación de Trump. Su hermano es Erik Prince, quien fundó el contratista militar privado Blackwater.</p>\n      <p><strong>Miriam Adelson.</strong> Continuó las donaciones políticas de su difunto esposo Sheldon. Donó más de 100 millones de dólares a Trump en 2024. Es dueña de la empresa de casinos Las Vegas Sands.</p>\n      <p><strong>Barre Seid.</strong> Un fabricante de productos electrónicos que en 2021 entregó 1,600 millones de dólares —en una sola transacción— a un grupo político controlado por Leonard Leo. Es la donación política más grande que se conoce en la historia de Estados Unidos. Hablaremos más de eso en la Lección 7.</p>\n      <p><strong>Los hermanos Wilks.</strong> Multimillonarios del fracking, de Texas. Financian candidatos y grupos del Nacionalismo Cristiano a nivel estatal por todo el sur y el medio oeste del país.</p>\n      <div class=\"callout\">Estos no son los únicos donantes. Pero si ve uno de estos nombres en una noticia, ahora ya sabe en qué parte del cuadro encajan.</div>\n    "
+  },
+  {
+    title: "La derecha religiosa - 40 años de coordinación",
+    body: "\n      <p>En 1979, un televangelista llamado Jerry Falwell fundó una organización llamada <strong>Moral Majority</strong> (la \"Mayoría Moral\"). El objetivo: convertir a los cristianos conservadores en un bloque de votantes unificado. Funcionó. Ayudaron a elegir a Ronald Reagan en 1980.</p>\n      <p>En 1981, líderes conservadores fundaron el <strong>Council for National Policy</strong> (Consejo para la Política Nacional). Es un foro semisecreto donde los líderes de la derecha religiosa, los grandes donantes y los operadores políticos se reúnen tres veces al año para coordinarse. La lista de miembros es privada. La agenda es privada. El grupo no tiene oficina pública.</p>\n      <p>Durante más de 40 años, el Council for National Policy ha sido el punto central de coordinación de la acción política de la derecha. Muchas personas de las que usted ha oído hablar han sido miembros: Tony Perkins, Jerry Falwell Jr., Steve Bannon, Kellyanne Conway, Leonard Leo, los Mercer, los DeVos.</p>\n      <p>El <strong>Nacionalismo Cristiano</strong> es la versión explícita. Es la idea de que Estados Unidos fue fundado como una nación cristiana, de que los fundadores querían que la ley cristiana fuera la ley del país, y de que eso debe restaurarse. No todos los cristianos conservadores son Nacionalistas Cristianos, pero el ala política activa lo es cada vez más.</p>\n      <p>El <strong>Seven Mountain Mandate</strong> (Mandato de las Siete Montañas) es un marco teológico que se ha extendido por las iglesias evangélicas desde principios de los años 2000. Enseña que los cristianos tienen el deber religioso de dominar siete esferas de la sociedad: el gobierno, los negocios, la familia, la educación, los medios, las artes y la religión misma. Este es el argumento teológico para una toma del poder político por parte de los cristianos.</p>\n      <p>Nombres que conviene conocer:</p>\n      <ul>\n        <li><strong>Russell Vought.</strong> Actualmente dirige la Office of Management and Budget (la agencia que controla el gasto federal). Escribió grandes partes de Project 2025. Se identifica abiertamente como Nacionalista Cristiano.</li>\n        <li><strong>Mike Johnson.</strong> Actual Presidente de la Cámara de Representantes. Miembro de una red de activistas evangélicos durante dos décadas.</li>\n        <li><strong>Charlie Kirk.</strong> Dirige Turning Point USA, la organización juvenil de derecha más grande del país.</li>\n      </ul>\n      <div class=\"callout\">La derecha religiosa no es un grupo marginal. Es el movimiento político más organizado, más disciplinado y de mayor duración en la historia moderna de Estados Unidos. También representa una porción cada vez más pequeña de la población estadounidense, y por eso ha invertido tanto en mecanismos que no dependen de las elecciones (la Idea Dos de la Lección 2).</div>\n    "
+  },
+  {
+    title: "La derecha tecnológica - El giro duro de Silicon Valley",
+    body: "\n      <p>Durante la mayor parte de los años 2000 y 2010, Silicon Valley se inclinaba políticamente hacia el lado liberal. Los ejecutivos de tecnología donaban a los demócratas. Las empresas organizaban eventos del Orgullo. Eso cambió dramáticamente entre 2020 y 2024.</p>\n      <p>La historia comienza con la <strong>PayPal Mafia</strong>: el grupo que construyó PayPal a finales de los años 90. El grupo original incluía a Peter Thiel, Elon Musk, David Sacks, Reid Hoffman, Max Levchin y otros. Después de que PayPal se vendió a eBay en 2002, se dispersaron y fundaron o financiaron muchas de las grandes empresas de tecnología que vinieron después (LinkedIn, YouTube, Yelp, Palantir, SpaceX, Tesla, OpenAI).</p>\n      <p>La mayoría se mantuvo políticamente moderada. Un subgrupo —encabezado por Thiel— se fue duro hacia la derecha.</p>\n      <p><strong>Peter Thiel.</strong> Fundó Palantir (software de vigilancia, grandes contratos con el Pentágono). Fue el partidario de Trump más destacado de Silicon Valley en 2016. Ha financiado personalmente:</p>\n      <ul>\n        <li>La campaña de J.D. Vance para el Senado (15 millones de dólares), que convirtió a Vance en el Vicepresidente.</li>\n        <li>A Curtis Yarvin, un escritor cuya obra propone reemplazar la democracia estadounidense con una monarquía dirigida como una empresa, con un director general al mando.</li>\n        <li>A Blake Masters, quien se postuló para el Senado en Arizona.</li>\n        <li>La demanda que llevó a la quiebra al sitio de noticias Gawker.</li>\n      </ul>\n      <p><strong>Elon Musk.</strong> Era políticamente moderado-libertario hasta alrededor de 2020. Compró Twitter (ahora X) por 44,000 millones de dólares en 2022, restauró cuentas de derecha que habían sido suspendidas y poco a poco convirtió la plataforma en un centro de la política de derecha. Donó cientos de millones de dólares a Trump en 2024. Dirigió \"DOGE\" (Department of Government Efficiency, el Departamento de Eficiencia Gubernamental) a principios de 2025, recortando agencias federales.</p>\n      <p><strong>Marc Andreessen.</strong> Inversionista de capital de riesgo (fundador de Netscape, Andreessen Horowitz). En 2023 publicó el \"Techno-Optimist Manifesto\" (Manifiesto Tecno-Optimista), que explícitamente incluía conceptos de la democracia liberal (\"confianza y seguridad\", \"ética tecnológica\") en su lista de enemigos. Se ha alineado abiertamente con el ala de Vance.</p>\n      <p><strong>J.D. Vance.</strong> Graduado de la Facultad de Derecho de Yale. Trabajó para Thiel después de terminar sus estudios de derecho. Escribió \"Hillbilly Elegy\" (Hillbilly, una elegía rural). Se postuló para el Senado en 2022 con el dinero de Thiel. Ahora es Vicepresidente. Ha citado públicamente a Curtis Yarvin y a otros pensadores \"posliberales\" como influencias suyas.</p>\n      <div class=\"callout\">Esto no es todo Silicon Valley. La mayoría de los trabajadores y ejecutivos de tecnología siguen siendo moderados o liberales. Pero la facción de derecha más rica y más ruidosa ahora tiene acceso directo a los niveles más altos del gobierno por primera vez en la historia de Estados Unidos.</div>\n    "
+  },
+  {
+    title: "La red legal - Leonard Leo y la Federalist Society",
+    body: "\n      <p>Esta es la historia institucional más importante de todo el libro. Léala dos veces si lo necesita.</p>\n      <p>En 1982, un grupo de estudiantes de derecho conservadores de Yale y de la Universidad de Chicago fundó un club llamado la <strong>Federalist Society</strong> (Sociedad Federalista). Su idea era simple: formar abogados conservadores, colocarlos en puestos de asistentes de jueces y en bufetes, y con el tiempo llevarlos a ocupar los puestos de juez.</p>\n      <p>Durante 40 años, eso es exactamente lo que pasó. La Federalist Society se convirtió en la cadena de colocación política más eficaz de la historia moderna de Estados Unidos.</p>\n      <p>El hombre en el centro de todo es <strong>Leonard Leo</strong>.</p>\n      <p>Leo es un abogado que ha examinado y recomendado personalmente a cada nominado republicano a la Corte Suprema desde 2005. Fue él quien le entregó a Trump la lista de la que salieron Gorsuch, Kavanaugh y Barrett. Hoy, los seis jueces de la Corte Suprema nombrados por republicanos son miembros de la Federalist Society. También lo son aproximadamente dos terceras partes de los jueces federales de apelaciones.</p>\n      <p>Pero la Federalist Society es solo una parte de la operación de Leo. A su alrededor, él ha construido una red de organizaciones sin fines de lucro, fundaciones y grupos de \"dinero oscuro\" que financian:</p>\n      <ul>\n        <li>Campañas de confirmación judicial (millones en anuncios de televisión cuando se nomina a un juez).</li>\n        <li>Elecciones de fiscales generales estatales.</li>\n        <li>Elecciones de cortes supremas estatales.</li>\n        <li>Grupos de litigio que presentan las demandas sobre las que luego fallan los jueces.</li>\n        <li>Cátedras en facultades de derecho universitarias.</li>\n        <li>Centros de estudios y talleres de políticas públicas.</li>\n      </ul>\n      <p>Todo funciona como una sola máquina coordinada. Los abogados que presentan la demanda, los jueces que la escuchan, los académicos que escriben los artículos de apoyo y los donantes que los financian a todos: muchos de ellos se conocen personalmente, asisten a las mismas conferencias y pertenecen a la misma red.</p>\n      <p><strong>La donación de 1,600 millones de dólares.</strong> En 2021, un fabricante mayor de edad de Chicago llamado Barre Seid entregó 1,600 millones de dólares —en una sola transacción— a un nuevo grupo político llamado el <strong>Marble Freedom Trust</strong>. El Marble Freedom Trust está controlado por Leonard Leo. Es la donación política más grande que se conoce en la historia de Estados Unidos. Fue revelada un año después por ProPublica y el New York Times.</p>\n      <div class=\"callout\">Si usted no entiende cómo funciona esto, las noticias lo van a seguir sorprendiendo. Si lo entiende, las cosas tienen más sentido. La misma red está detrás de los fallos sobre el aborto, los fallos sobre las armas, los fallos sobre la EPA, el fallo sobre la inmunidad y los fallos de los próximos diez años.</div>\n    "
+  },
+  {
+    title: "Las cortes - La captura del poder judicial",
+    body: "\n      <p>Una vez que usted entiende la cadena de colocación de la Federalist Society de la Lección 7, la historia reciente de la Corte Suprema empieza a tener sentido.</p>\n      <p>Lo que esta corte ha hecho en los últimos años:</p>\n      <ul>\n        <li><strong>2022 - Dobbs v. Jackson Women's Health.</strong> Anuló Roe v. Wade. Se borraron 50 años de leyes sobre el aborto. Desde entonces, 18 estados han prohibido o restringido severamente el aborto.</li>\n        <li><strong>2022 - New York State Rifle and Pistol Association v. Bruen.</strong> Anuló la mayoría de las restricciones estatales sobre armas, exigiendo que las leyes coincidan con la \"tradición histórica\".</li>\n        <li><strong>2023 - Students for Fair Admissions v. Harvard.</strong> Puso fin a las admisiones universitarias que toman en cuenta la raza.</li>\n        <li><strong>2024 - Loper Bright v. Raimondo.</strong> Anuló la regla \"Chevron\", de 40 años de antigüedad, que permitía a las agencias federales como la EPA, la FDA y la SEC redactar los reglamentos técnicos. Ahora son los jueces quienes deciden qué reglamentos son válidos.</li>\n        <li><strong>2024 - Trump v. United States.</strong> Falló que los presidentes tienen una amplia inmunidad contra el procesamiento penal por sus \"actos oficiales\". Este solo fallo puso fin a la mayoría de los casos penales contra Trump.</li>\n      </ul>\n      <p>Cada uno de estos fallos fue el resultado de años —a veces décadas— de trabajo. Las demandas fueron presentadas por grupos financiados por la red de Leonard Leo. Los jueces que fallaron fueron examinados y aprobados por la Federalist Society. Los artículos académicos citados en los fallos fueron escritos por profesores que ocupan cátedras financiadas por la misma red.</p>\n      <p>Es una sola máquina. No una conspiración: una coalición.</p>\n      <p>Y esto es solo la Corte Suprema. Las cortes federales de apelaciones, donde en realidad terminan la mayoría de los casos, están aún más dominadas por jueces de la Federalist Society.</p>\n      <p><strong>El nombramiento vitalicio.</strong> Los jueces federales ocupan su cargo de por vida. Los jueces que Trump nombró en su primer mandato tienen en promedio unos 50 años de edad. Seguirán decidiendo casos en 2070. Los de su segundo mandato son aún más jóvenes.</p>\n      <div class=\"callout\">Si un presidente demócrata quisiera revertir la dirección de las cortes federales, le tomaría de 30 a 40 años de victorias presidenciales constantes. Eso no va a pasar. Por eso las cortes son ahora la rama más poderosa del gobierno en el futuro previsible.</div>\n    "
+  },
+  {
+    title: "El plan - Project 2025 en palabras sencillas",
+    body: "\n      <p>En abril de 2023, la Heritage Foundation publicó un libro de 922 páginas llamado <strong>Mandate for Leadership: The Conservative Promise</strong> (Mandato para el Liderazgo: La Promesa Conservadora). La mayoría de la gente lo llama \"Project 2025\".</p>\n      <p>Es un manual detallado de qué hacer en los primeros 180 días de una presidencia republicana. Fue escrito por más de 350 personas, organizadas a través de Heritage. La mayoría de ellas trabajó en la primera administración de Trump. Muchas están trabajando ahora en la segunda.</p>\n      <p>Las principales cosas que propone:</p>\n      <ul>\n        <li><strong>Despedir hasta 50,000 empleados federales</strong> y reemplazarlos con personas personalmente leales al presidente. Este es el mecanismo de Schedule F (la próxima lección).</li>\n        <li><strong>Eliminar el Departamento de Educación.</strong> Trasladar el dinero a escuelas privadas y religiosas mediante vales de \"libre elección de escuela\".</li>\n        <li><strong>Desmantelar la EPA, la FDA y el IRS.</strong> Especialmente las partes que hacen cumplir las reglas a las grandes corporaciones y a los contribuyentes adinerados.</li>\n        <li><strong>Usar al ejército para hacer cumplir las leyes de inmigración dentro del país.</strong></li>\n        <li><strong>Poner fin a la ciudadanía por nacimiento</strong> mediante una orden ejecutiva, y luego defenderla en las cortes.</li>\n        <li><strong>Prohibir el aborto en todo el país</strong> reviviendo una ley contra el vicio de 1873 llamada la Comstock Act, que convierte en delito enviar medicamentos abortivos por correo.</li>\n        <li><strong>Eliminar las agencias independientes.</strong> Hacer que la Reserva Federal, el Departamento de Justicia, la Comisión Federal de Comunicaciones y otras respondan directamente al Presidente.</li>\n        <li><strong>Reemplazar la política climática</strong> con una mayor producción de combustibles fósiles.</li>\n        <li><strong>Restringir el acceso de la prensa</strong> a la información del gobierno.</li>\n      </ul>\n      <p>Durante la campaña de 2024, Trump dijo públicamente que no tenía nada que ver con Project 2025 y que no sabía quién lo había escrito. Alrededor de 140 de sus autores están trabajando ahora en su administración. Muchas de sus propuestas ya se han puesto en marcha.</p>\n      <div class=\"callout\"><strong>Usted mismo puede leerlo.</strong> El texto completo está gratis en internet en <em>project2025.org/playbook</em>. El PDF completo tiene 922 páginas, pero el índice por sí solo le dice la mayor parte de lo que necesita saber.</div>\n    "
+  },
+  {
+    title: "Schedule F - Reemplazar el servicio civil",
+    body: "\n      <p>La mayor parte del gobierno de Estados Unidos la manejan empleados de carrera: los servidores públicos. Son científicos, abogados, contadores, analistas, médicos, reguladores. No son nombramientos políticos. Conservan sus puestos cuando cambian las administraciones.</p>\n      <p>Esa ha sido la regla desde 1883, cuando el Congreso aprobó la Pendleton Civil Service Act (Ley Pendleton del Servicio Civil). Antes de la Ley Pendleton, cada presidente despedía a miles de trabajadores y los reemplazaba con gente leal a él; a eso le llamaban el \"sistema de botín\". La Ley Pendleton acabó con eso, porque estaba produciendo corrupción e incompetencia por todas partes.</p>\n      <p><strong>Schedule F</strong> es una manera de deshacer la Ley Pendleton sin derogarla.</p>\n      <p>Trump firmó la Orden Ejecutiva 13957 en octubre de 2020, cerca del final de su primer mandato. Creó una nueva categoría de empleado federal —\"Schedule F\"— y reclasificó dentro de ella a cualquier persona en puestos \"relacionados con políticas públicas\". Los empleados de Schedule F pueden ser despedidos sin causa, sin ninguna protección del servicio civil.</p>\n      <p>Biden revocó Schedule F en enero de 2021.</p>\n      <p>Trump la volvió a firmar el primer día de su regreso al cargo, en enero de 2025. La Office of Personnel Management está ahora reclasificando decenas de miles de puestos. Las estimaciones de cuántos trabajadores podrían ser despedidos van desde 50,000 (la cifra de Project 2025) hasta más de 200,000 (según el análisis de los sindicatos de empleados federales).</p>\n      <p>Los blancos suelen ser:</p>\n      <ul>\n        <li>Científicos de la EPA, la NOAA, la FDA, los CDC y el USDA.</li>\n        <li>Abogados del Departamento de Justicia.</li>\n        <li>Analistas de las agencias de inteligencia.</li>\n        <li>Los inspectores generales (los vigilantes internos de cada agencia).</li>\n      </ul>\n      <p>Las personas despedidas serán reemplazadas con leales políticos, muchos ya examinados y aprobados a través de la \"Presidential Personnel Database\" de Heritage, una lista paralela de candidatos preseleccionados que Project 2025 pasó dos años armando.</p>\n      <div class=\"callout\">En el primer mandato de Trump, los servidores públicos de carrera fueron a menudo lo que frenó o detuvo las órdenes más extremas. Schedule F está diseñada para quitar ese freno. Ese es todo su propósito.</div>\n    "
+  },
+  {
+    title: "La Constitución - Convention of States",
+    body: "\n      <p>Esta es la que casi nadie conoce, y puede ser la más importante.</p>\n      <p>La Constitución de los Estados Unidos se puede cambiar de dos maneras:</p>\n      <ol>\n        <li><strong>El Congreso propone una enmienda.</strong> Dos tercios de ambas cámaras, y luego tres cuartas partes de los estados la ratifican. Esto ha ocurrido 27 veces en 240 años.</li>\n        <li><strong>Los estados convocan una convención.</strong> Si 34 legislaturas estatales lo solicitan oficialmente, se debe convocar una convención constitucional. Una vez convocada, la convención puede proponer todas las enmiendas que quiera. <strong>Esto nunca ha ocurrido en la historia de los Estados Unidos.</strong></li>\n      </ol>\n      <p>En este momento, <strong>19 legislaturas estatales ya han solicitado oficialmente</strong> una Convention of States (una convención de los estados). Necesitan 34. Llevan más de una década sumando, sin hacer ruido, de 1 a 3 estados por año.</p>\n      <p>El grupo detrás de esto se llama <strong>Convention of States Action</strong>. La cara pública es un hombre llamado Mark Meckler (cofundador del Tea Party). El dinero viene de la misma red de donantes que todo lo demás en este libro: la Mercer Family Foundation, la red Koch y varios donantes de la derecha religiosa.</p>\n      <p>Los objetivos oficiales suenan razonables: una enmienda de presupuesto equilibrado, límites de mandato para el Congreso y enmiendas para \"limitar el poder federal\". Pero aquí está el problema:</p>\n      <div class=\"callout\"><strong>Una vez que se convoca la convención, no hay reglas.</strong> La Constitución no dice cómo se eligen los delegados. No dice cómo votan. No dice sobre qué pueden votar. Expertos en derecho de todo el espectro político —liberales y conservadores— advierten que una convención podría proponer reescribir cualquier cosa: la Carta de Derechos, el derecho al voto, los poderes presidenciales, la estructura del Senado, lo que sea. El único freno es que tres cuartas partes de los estados (38) tendrían que ratificar lo que salga de ahí.</div>\n      <p>El marcador actual: 19 estados ya lo solicitaron. Unos 8 más lo tienen pendiente en sus legislaturas. Otros pocos están cerca.</p>\n      <p>Y esto se decide a <strong>nivel estatal.</strong> Lo deciden su gobernador y sus legisladores estatales. No el Presidente. No el Congreso. <strong>Su representante estatal</strong> tiene un voto en esto.</p>\n    "
+  },
+  {
+    title: "Los estados - Donde ocurre la verdadera acción",
+    body: "\n      <p>El gobierno federal se lleva toda la atención. Pero la verdadera acción siempre ha estado a nivel estatal.</p>\n      <p>Las legislaturas estatales deciden:</p>\n      <ul>\n        <li>Cómo se dibujan los distritos congresionales (esto es el gerrymandering, la manipulación de los mapas electorales).</li>\n        <li>Las leyes de votación: quién puede votar, cuándo, dónde y con qué identificación.</li>\n        <li>Las leyes sobre el aborto (desde Dobbs).</li>\n        <li>Los estándares y el financiamiento de la educación pública.</li>\n        <li>Si se solicita o no una Convention of States.</li>\n        <li>Si se ratifican o no las enmiendas a la Constitución federal.</li>\n        <li>El código penal del estado.</li>\n      </ul>\n      <p>La derecha ha dominado la política estatal durante una generación. Los republicanos controlan actualmente <strong>28 legislaturas estatales</strong>. Los demócratas controlan por completo 18. El resto están divididas.</p>\n      <p>¿Cómo pasó esto? Por tres razones:</p>\n      <p><strong>1. ALEC.</strong> El American Legislative Exchange Council. Fundado en 1973 por Paul Weyrich (quien también cofundó la Heritage Foundation). ALEC escribe \"leyes modelo\" —proyectos de ley ya redactados— que los legisladores estatales conservadores copian y pegan en su propio estado. Las leyes modelo de ALEC son la razón por la que las leyes de identificación de votantes, las leyes laborales de \"derecho al trabajo\", las leyes de \"defiende tu posición\" (\"stand your ground\") y muchas leyes contra el aborto se extendieron por tantos estados al mismo tiempo.</p>\n      <p><strong>2. REDMAP.</strong> Un proyecto de 2010 del Republican State Leadership Committee. Identificaron escaños legislativos estatales que eran baratos de voltear en el año del censo de 2010 (porque los ganadores dibujarían los mapas congresionales de la siguiente década). Gastaron 30 millones de dólares y voltearon más de 700 escaños estatales. Los mapas manipulados que resultaron afianzaron la ventaja republicana en la Cámara de Representantes hasta 2022.</p>\n      <p><strong>3. La baja participación.</strong> Solo alrededor del 15 por ciento de los votantes participa en las elecciones primarias estatales. Las elecciones generales para las legislaturas estatales muchas veces tienen menos del 20 por ciento de participación. Un grupo pequeño de votantes motivados tiene un impacto enorme.</p>\n      <div class=\"callout\">Si usted quiere cambiar las cosas de verdad, su legislador estatal es la persona más importante a la que puede prestarle atención. Casi nadie los llama. Cinco llamadas sobre un proyecto de ley son muchas para un legislador estatal. Veinte llamadas son una marea.</div>\n    "
+  },
+  {
+    title: "El voto - Quién puede votar y cómo",
+    body: "\n      <p>La manera más sencilla de ganar elecciones sin el apoyo de la mayoría es asegurarse de que no todos puedan votar. Esta no es una estrategia nueva en la historia de los Estados Unidos.</p>\n      <p><strong>El punto de quiebre de 2013: Shelby County v. Holder.</strong> La Corte Suprema anuló la Sección 5 de la Ley de Derecho al Voto, que obligaba a los estados con historial de discriminación electoral a obtener aprobación federal antes de cambiar sus leyes de votación. Después de Shelby, esos estados ya no necesitaban aprobación. Los cambios empezaron de inmediato.</p>\n      <p>Lo que pasó en los 10 años posteriores a Shelby:</p>\n      <ul>\n        <li><strong>Se cerraron 1,688 centros de votación</strong> en 13 estados, la mayoría en comunidades de minorías. (Fuente: informe de 2019 de la Leadership Conference on Civil and Human Rights.)</li>\n        <li>Las <strong>leyes de identificación de votantes</strong> se extendieron a unos 36 estados. Los estudios muestran que reducen la participación de los votantes mayores, pobres y de minorías en unos cuantos puntos porcentuales, que muchas veces es el margen de una elección reñida.</li>\n        <li>Las <strong>purgas de los padrones electorales</strong> se aceleraron. Georgia eliminó de sus listas a aproximadamente 1.4 millones de votantes entre 2012 y 2019 (bajo el entonces secretario de Estado Brian Kemp). Muchos eran votantes con derecho a votar.</li>\n        <li>Se <strong>redujeron los horarios de votación anticipada</strong> en varios estados.</li>\n        <li>Se <strong>eliminó la votación en domingo</strong> en algunos estados (esto apuntaba a los programas de las iglesias negras que llevan a la gente a votar después del servicio, conocidos como \"souls to the polls\").</li>\n      </ul>\n      <p><strong>El gerrymandering.</strong> Las legislaturas estatales dibujan los mapas congresionales después de cada censo. El proyecto REDMAP de 2010 (Lección 12) produjo mapas que les dieron a los republicanos una ventaja de unos 7 escaños en la Cámara durante toda la década de 2012 a 2022, incluso en años en que los demócratas ganaron más votos en total a nivel nacional.</p>\n      <p><strong>El Colegio Electoral.</strong> El Presidente no se elige por voto popular. El Colegio Electoral les da a los estados pequeños un peso desproporcionado. En 2000, 2016 y 2024, el candidato con menos votos populares ganó la presidencia o estuvo muy cerca de ganarla.</p>\n      <p><strong>El Senado.</strong> Cada estado tiene dos senadores sin importar su población. California (39 millones de personas) tiene los mismos dos que Wyoming (580,000). El Senado está estructurado actualmente de tal forma que una mayoría del Senado representa a alrededor del 17 por ciento de la población de los Estados Unidos.</p>\n      <div class=\"callout\">Nada de esto es ilegal. Casi todo está en la Constitución o en las leyes estatales. Ese es justamente el punto de la Idea Dos de la Lección 2: construir la maquinaria para ganar sin necesitar la mayoría de los votos.</div>\n    "
+  },
+  {
+    title: "Cambridge Analytica - El robo de datos",
+    body: "\n      <p>Esto fue lo que dio inicio a todo este proyecto de investigación del autor. Vale la pena conocerlo en detalle.</p>\n      <p>En 2014, una empresa británica llamada <strong>Cambridge Analytica</strong> contrató a un académico de la Universidad de Cambridge llamado Aleksandr Kogan. Kogan creó una aplicación de cuestionarios en Facebook llamada \"thisisyourdigitallife\". Unas 270,000 personas respondieron el cuestionario.</p>\n      <p>Aquí está el truco: en aquel momento, el diseño de Facebook permitía que las aplicaciones recolectaran datos no solo de la persona que respondía el cuestionario, sino también de todos sus amigos de Facebook. Así que, a partir de 270,000 personas, Kogan y Cambridge Analytica obtuvieron datos de <strong>87 millones de usuarios de Facebook</strong>, sin su consentimiento y en violación de las propias reglas declaradas de Facebook.</p>\n      <p>Cambridge Analytica usó luego esos datos para construir perfiles \"psicográficos\". Cinco dimensiones de la personalidad (llamadas OCEAN por sus siglas en inglés: apertura, responsabilidad, extraversión, amabilidad y neuroticismo). Clasificaron a los votantes por tipo de personalidad y le mostraron anuncios políticos diferentes a cada tipo de personalidad.</p>\n      <p>Ejemplos (tomados de documentos internos y del testimonio de informantes):</p>\n      <ul>\n        <li>Los votantes con puntajes altos en <strong>neuroticismo</strong> recibían anuncios sobre amenazas de crimen e inmigración.</li>\n        <li>Los votantes con puntajes altos en <strong>apertura</strong> recibían anuncios sobre cambio y disrupción.</li>\n        <li>Los votantes identificados como persuadibles pero desinteresados recibían anuncios diseñados para desanimarlos de votar del todo (anuncios de \"supresión del voto\").</li>\n      </ul>\n      <p>La empresa fue financiada principalmente por <strong>Robert Mercer</strong> (Lección 4). Steve Bannon era su vicepresidente. La campaña de Trump los contrató para la elección de 2016. Campañas relacionadas con el Brexit también los usaron.</p>\n      <p><strong>Las consecuencias:</strong></p>\n      <ul>\n        <li>The Guardian y el New York Times publicaron la historia en marzo de 2018, gracias al informante Christopher Wylie.</li>\n        <li>Facebook recibió una multa de <strong>5,000 millones de dólares</strong> de la FTC en 2019, la multa por privacidad más grande en la historia de los Estados Unidos.</li>\n        <li>Cambridge Analytica se declaró en bancarrota en mayo de 2018.</li>\n        <li>Mark Zuckerberg testificó ante el Congreso.</li>\n      </ul>\n      <div class=\"callout\">Cambridge Analytica está muerta. Las técnicas no. El mismo tipo de publicidad política basada en datos y en la personalidad es hoy práctica habitual. Lo único que ha cambiado es que las empresas que lo hacen son menos famosas.</div>\n    "
+  },
+  {
+    title: "Rusia 2016 - Lo que está probado en los tribunales",
+    body: "\n      <p>La historia de Rusia en 2016 se ha politizado tanto que mucha gente dejó de distinguir qué partes están probadas y cuáles son especulación. Esta lección trata solo de las partes probadas.</p>\n      <p><strong>La IRA - Internet Research Agency.</strong> Una organización rusa con sede en San Petersburgo. Desde 2014, operó cuentas falsas en redes sociales que se hacían pasar por votantes estadounidenses. Alcanzó a un estimado de <strong>126 millones de estadounidenses solo en Facebook</strong>, más decenas de millones adicionales en Twitter, Instagram y YouTube. Las cuentas se hacían pasar por activistas de Black Lives Matter, secesionistas de Texas, cristianos evangélicos, musulmanes estadounidenses: lo que fuera más incendiario en cada momento.</p>\n      <p><strong>Los hackeos.</strong> En marzo de 2016, la inteligencia militar rusa (el GRU, Unidad 26165) hackeó las cuentas de correo de John Podesta, el jefe de campaña de Hillary Clinton. También hackearon el Comité Nacional Demócrata. Filtraron el contenido por etapas entre julio y octubre de 2016, principalmente a través de WikiLeaks, con los tiempos calculados para dañar la campaña de Clinton.</p>\n      <p><strong>Los cargos criminales.</strong> La investigación del fiscal especial Robert Mueller acusó formalmente a:</p>\n      <ul>\n        <li><strong>13 empleados de la IRA</strong> y 3 empresas rusas (febrero de 2018).</li>\n        <li><strong>12 oficiales del GRU</strong> por los hackeos de correos (julio de 2018).</li>\n        <li>Varios estadounidenses por delitos relacionados: Paul Manafort (jefe de campaña de Trump, condenado por fraude y evasión de impuestos), Roger Stone (condenado por obstrucción), Michael Flynn (se declaró culpable de mentirle al FBI), George Papadopoulos (se declaró culpable de mentirle al FBI), Michael Cohen (se declaró culpable de múltiples cargos).</li>\n      </ul>\n      <p>La mayoría de los rusos nunca fueron extraditados; Rusia no extradita a sus ciudadanos. Pero las acusaciones formales son documentos federales públicos que usted puede leer.</p>\n      <p><strong>El informe del Comité de Inteligencia del Senado.</strong> En 2020, el Comité de Inteligencia del Senado —presidido por republicanos en ese momento— publicó su informe final sobre la interferencia rusa. Tiene cinco volúmenes. Confirmó todo lo anterior. En algunos puntos fue más lejos que Mueller. Es el recuento más autorizado de la interferencia rusa, y fue una conclusión bipartidista.</p>\n      <div class=\"callout\">La discusión que queda es si la interferencia fue decisiva, es decir, si de verdad cambió el resultado. Gente razonable puede estar en desacuerdo sobre eso. Pero la interferencia en sí ocurrió. Está documentada. Está en los expedientes judiciales. Está en el informe del Senado.</div>\n    "
+  },
+  {
+    title: "El 6 de enero - Lo que está documentado",
+    body: "\n      <p>Usted probablemente vio las imágenes. Esto es lo que está documentado en los tribunales, en cámara y bajo juramento; no son opiniones.</p>\n      <p><strong>El día, hora por hora:</strong></p>\n      <ul>\n        <li><strong>12:00 p. m.</strong> Trump le habla a una multitud cerca de la Casa Blanca. Dice: \"si no pelean con todas sus fuerzas, ya no van a tener un país\".</li>\n        <li><strong>12:53 p. m.</strong> Se rompen las primeras barreras en el Capitolio.</li>\n        <li><strong>2:13 p. m.</strong> La multitud irrumpe en el edificio mismo del Capitolio.</li>\n        <li><strong>2:24 p. m.</strong> Trump publica en Twitter que el vicepresidente Pence \"no tuvo el valor\", mientras a Pence lo están evacuando físicamente por dentro del Capitolio.</li>\n        <li><strong>4:17 p. m.</strong> Trump publica un video pidiéndole a la multitud que se vaya a casa. Los llama \"personas muy especiales\".</li>\n      </ul>\n      <p><strong>Los daños:</strong></p>\n      <ul>\n        <li>5 personas murieron ese día o poco después, incluido el oficial de la Policía del Capitolio Brian Sicknick.</li>\n        <li>140 o más policías resultaron heridos.</li>\n        <li>Aproximadamente 2.7 millones de dólares en daños al edificio del Capitolio.</li>\n        <li>Varios oficiales se quitaron la vida en los meses siguientes.</li>\n      </ul>\n      <p><strong>Los procesos judiciales:</strong></p>\n      <ul>\n        <li>Alrededor de 1,500 personas fueron acusadas de delitos relacionados con ese día.</li>\n        <li>Alrededor de 1,200 fueron condenadas.</li>\n        <li>Los líderes de los Proud Boys (Enrique Tarrio) y de los Oath Keepers (Stewart Rhodes) fueron condenados por <strong>conspiración sediciosa</strong>, las primeras condenas de ese tipo en décadas.</li>\n      </ul>\n      <p><strong>El Comité Selecto de la Cámara.</strong> Un comité realizó 9 audiencias públicas en 2022 y publicó un informe final de 845 páginas. Está disponible al público. En las audiencias testificó el propio personal de la Casa Blanca de Trump, incluida su hija Ivanka, su fiscal general Bill Barr y su abogado de la Casa Blanca Pat Cipollone.</p>\n      <p>En enero de 2025, en su primer día de regreso en el cargo, <strong>Trump indultó o conmutó las sentencias de casi todos los acusados del 6 de enero</strong>, incluidas las condenas por conspiración sediciosa.</p>\n      <div class=\"callout\">Un indulto completo de delitos relacionados con una insurrección sienta un precedente. Le dice qué tipo de comportamiento está señalando la administración que protegerá en el futuro.</div>\n    "
+  },
+  {
+    title: "La red de Epstein - Protección entre élites",
+    body: "\n      <p>Esta lección es más corta y más fea que las demás. Está en este libro porque muestra cómo las redes de élite de la política y las finanzas se protegen entre sí, lo cual es parte de la razón por la que ocurre todo lo demás en este libro.</p>\n      <p><strong>Jeffrey Epstein.</strong> Un financista que, desde al menos finales de los años noventa, dirigió una operación de tráfico sexual que tenía como objetivo a niñas menores de edad. Las niñas eran llevadas a su casa en Manhattan, a su mansión en Palm Beach, a su isla en el Caribe (\"Little St. James\") y a otras propiedades.</p>\n      <p><strong>El acuerdo de no enjuiciamiento de 2007-2008.</strong> Los fiscales federales de Florida (encabezados por el fiscal federal <strong>Alex Acosta</strong>) tenían a Epstein acusado de múltiples cargos federales de tráfico sexual. Hicieron un trato secreto: Epstein se declaró culpable de dos cargos estatales menores de solicitar prostitución y cumplió 13 meses en una cárcel del condado, con permiso para salir a trabajar. Los cargos federales se retiraron. A las víctimas no se les avisó. Acosta llegó a ser después el secretario del Trabajo de Donald Trump.</p>\n      <p><strong>El arresto de 2019.</strong> En julio de 2019 se presentaron nuevos cargos federales contra Epstein, en gran parte gracias al periodismo de investigación del Miami Herald (la reportera Julie K. Brown). Fue arrestado. Murió en su celda el 10 de agosto de 2019. La causa oficial fue suicidio. Los dos guardias de turno se quedaron dormidos al mismo tiempo. Las cámaras de seguridad afuera de su celda fallaron. Muchas personas, incluidos excompañeros de celda, han cuestionado públicamente la versión oficial.</p>\n      <p><strong>Ghislaine Maxwell.</strong> Pareja de muchos años de Epstein y quien le conseguía a las víctimas. Condenada en diciembre de 2021 por tráfico sexual de menores. Sentenciada a 20 años.</p>\n      <p><strong>Las conexiones.</strong> La \"pequeña libreta negra\" de Epstein y los registros de vuelo de sus aviones incluían nombres de toda la élite: Trump, Bill Clinton, el príncipe Andrew, Bill Gates, Larry Summers, Leon Black, Glenn Dubin, Les Wexner y muchos otros. No todas estas personas están acusadas de algo indebido. Pero todas socializaron durante años con un traficante sexual conocido, en algunos casos incluso después de su condena de 2008.</p>\n      <p>El príncipe Andrew llegó a un acuerdo extrajudicial en una demanda civil con Virginia Giuffre, una de las víctimas de Epstein. Leon Black renunció a Apollo Global Management después de que se revelaran sus pagos relacionados con Epstein.</p>\n      <div class=\"callout\">Epstein importa no porque sus crímenes sean únicos en su horror (son horribles, pero no únicos en la historia), sino porque la protección que recibió —el acuerdo secreto de 2008, las circunstancias inusuales de su muerte, la lentitud de las investigaciones— muestra cómo las redes de élite de la política, las finanzas, la realeza y la tecnología se protegen entre sí. Ese es el ambiente en el que ocurre todo lo demás en este libro.</div>\n    "
+  },
+  {
+    title: "Lo que está pasando ahora mismo",
+    body: "\n      <p>Este es el estado de las cosas a mediados de 2026, por si usted ha estado tratando de no ver las noticias.</p>\n      <p><strong>Schedule F está activo.</strong> Trump lo firmó en su primer día de regreso. La Oficina de Administración de Personal ha empezado a reclasificar decenas de miles de puestos. Están en marcha despidos masivos de personal de carrera en la EPA, la FDA, el USDA y el Departamento de Justicia.</p>\n      <p><strong>DOGE ocurrió.</strong> El Department of Government Efficiency (Departamento de Eficiencia Gubernamental), dirigido por Elon Musk y (brevemente) Vivek Ramaswamy, recibió amplia autoridad para recortar agencias federales. Entre las bajas:</p>\n      <ul>\n        <li>La Oficina de Protección Financiera del Consumidor (en gran parte desmantelada).</li>\n        <li>USAID (en gran parte desmantelada).</li>\n        <li>Grandes partes del Departamento de Educación.</li>\n        <li>La división de fiscalización del IRS (la que audita a los contribuyentes ricos).</li>\n      </ul>\n      <p>Musk después rompió públicamente con la administración por otros temas, pero los recortes siguen en pie.</p>\n      <p><strong>Los tribunales federales se están llenando rápido.</strong> Trump instaló más jueces federales en los primeros seis meses de su segundo mandato que la mayoría de los presidentes en todo un mandato de cuatro años. La mayoría tiene menos de 45 años.</p>\n      <p><strong>La aplicación de las leyes migratorias va a toda velocidad.</strong> El presupuesto de ICE se ha triplicado, más o menos. Hay operativos de deportación masiva en marcha en las grandes ciudades. La administración invocó la Ley de Enemigos Extranjeros de 1798 por primera vez desde la Segunda Guerra Mundial; la misma ley que se usó antes para internar a los japoneses-estadounidenses.</p>\n      <p><strong>La ciudadanía por nacimiento está en los tribunales.</strong> Trump firmó una orden ejecutiva que intenta eliminarla. Varios jueces federales la han bloqueado. El caso va camino a la Corte Suprema, donde el resultado es incierto.</p>\n      <p><strong>La elección de 2028 se está preparando ahora.</strong> Los esfuerzos por la Convention of States se han acelerado en 4 legislaturas estatales más. En varios estados se ha reemplazado a los funcionarios electorales estatales. Se han aprobado nuevas reglas de identificación y de registro de votantes en Florida, Texas, Ohio, Georgia y Arizona.</p>\n      <p><strong>La prensa está bajo presión.</strong> Varios dueños de medios importantes han retirado reportajes o despedido a editores a petición de la administración. La FCC ha reabierto revisiones de las licencias de transmisión de cadenas de noticias que a la administración no le gustan. A algunos periodistas independientes se les ha negado el acceso a la Casa Blanca.</p>\n      <div class=\"callout\">Usted no tiene que creer que nada de esto sea malo. Solo tiene que saber que está pasando, porque nada de esto está escondido. Está en la primera plana de todos los periódicos.</div>\n    "
+  },
+  {
+    title: "La gran idea de fondo - Por qué importa lo \"posliberal\"",
+    body: "\n      <p>Es hora de volver a la Idea Tres de la Lección 2. Esta es la parte más extraña del libro y la más difícil de creer al principio. También es la más importante.</p>\n      <p>Los pensadores y escritores en el corazón intelectual de la derecha moderna han <strong>rechazado abiertamente la democracia liberal</strong>. Cuando dicen \"liberal\" no se refieren al Partido Demócrata ni a la política progresista. Se refieren a todo el orden constitucional estadounidense posterior a la Segunda Guerra Mundial: el estado de derecho, la separación de poderes, los derechos civiles, el voto en igualdad de condiciones, los límites al poder ejecutivo.</p>\n      <p>No lo están escondiendo. Lo escriben. Dan discursos. Publican libros con títulos explícitos.</p>\n      <p><strong>Curtis Yarvin (también conocido como Mencius Moldbug).</strong> Un ingeniero de software convertido en escritor político. Escribe que los Estados Unidos deberían reemplazarse por lo que él llama una \"monarquía\" o una \"dictadura de CEO\": un solo líder con autoridad absoluta que sustituya la estructura constitucional actual. Ha sido financiado por Peter Thiel desde 2013. J.D. Vance lo ha citado por nombre en entrevistas.</p>\n      <p><strong>Patrick Deneen.</strong> Profesor en Notre Dame. Escribió en 2018 un libro llamado <em>Why Liberalism Failed</em> (Por qué fracasó el liberalismo). El argumento es que la democracia liberal está fundamentalmente quebrada y debería reemplazarse. Su siguiente libro, <em>Regime Change</em> (Cambio de régimen, 2023), pide explícitamente un sucesor \"posliberal\". Elogiado por Vance.</p>\n      <p><strong>El Claremont Institute.</strong> Un centro de pensamiento conservador. Publicó en 2016 el famoso ensayo \"Flight 93 Election\" (el argumento: los conservadores deben \"asaltar la cabina\" de los Estados Unidos, porque perder significa la muerte). Entre los miembros de Claremont hay muchas personas que hoy trabajan en la administración Trump.</p>\n      <p><strong>Las conferencias de National Conservatism (NatCon).</strong> Un encuentro anual que empezó en 2019. Senadores republicanos de la corriente principal —Vance, Hawley, Cruz— comparten el escenario con teócratas y académicos posliberales. Los discursos son públicos. Muchos piden el fin del \"orden liberal\".</p>\n      <p><strong>J.D. Vance.</strong> El actual vicepresidente. Ha dicho públicamente que el orden constitucional posterior a la Segunda Guerra Mundial debe ser reemplazado. Ha citado con aprobación a Yarvin, a Deneen y a los ensayos de Claremont. Sus discursos usan terminología posliberal específica que, si usted ha leído a estos escritores, reconoce de inmediato.</p>\n      <div class=\"callout\">Esto es lo más importante de todo este libro.<br><br>Lo que está pasando no es \"los republicanos siendo republicanos\" ni \"Trump siendo Trump\". Hay un marco intelectual bien elaborado por debajo. Tiene nombres. Tiene libros. Tiene instituciones. Propone explícitamente reemplazar la democracia constitucional estadounidense por otra cosa.<br><br>Usted puede estar de acuerdo con ellos o en desacuerdo. Pero debe saber que existen, debe saber lo que están diciendo, y no debe sorprenderse cuando sus planes se conviertan en política de gobierno.</div>\n    "
+  },
+  {
+    title: "Lo que usted puede hacer",
+    body: "\n      <p>Usted no va a detener nada de esto por sí solo. Pero puede ser una de las personas que se niegan a dejar que pase en silencio. Eso importa más de lo que usted cree.</p>\n      <p><strong>1. Vote en todas y cada una de las elecciones.</strong></p>\n      <p>No solo en las presidenciales. En las primarias. En las segundas vueltas. En las intermedias. En las de la junta escolar. En las de jueces. <strong>Especialmente en las de las legislaturas estatales.</strong> La mayor parte de lo que está en este libro se construyó a nivel estatal, donde solo vota el 15 por ciento. Su voto en una primaria legislativa estatal cuenta más o menos entre 20 y 50 veces más que su voto para presidente.</p>\n      <p><strong>2. Conozca a sus legisladores estatales por su nombre.</strong></p>\n      <p>Ellos votan sobre la Convention of States. Votan las leyes de identificación de votantes. Dibujan sus distritos congresionales. Búsquelos en <strong>openstates.org</strong>: escriba su dirección. Guarde sus números de teléfono. Llámelos. Los legisladores estatales casi nunca reciben llamadas. Cinco llamadas sobre un proyecto de ley son muchas para ellos. Veinte llamadas los abruman.</p>\n      <p><strong>3. Suscríbase a un periódico local.</strong></p>\n      <p>El periodismo local se está muriendo, y no es un accidente: la misma red de donantes lleva 20 años financiando el desmantelamiento de las noticias locales. Los periódicos locales son el sistema de alerta temprana para todo lo que está en este libro. Si su ciudad todavía tiene periódico, suscríbase. Es el acto político más subestimado que usted tiene a su alcance.</p>\n      <p><strong>4. Hable con la gente en la vida real.</strong></p>\n      <p>No en Facebook. No en las secciones de comentarios. En persona, por teléfono, en la cena. Con sus nietos. Con sus vecinos. Con su iglesia. La gente que uno conoce de verdad sí cambia de opinión; los extraños en internet no.</p>\n      <p><strong>5. Averigüe quiénes son sus funcionarios locales.</strong></p>\n      <p>Su alcalde, su comisionado del condado, su alguacil, su fiscal de distrito, los miembros de su junta escolar. Estos cargos tienen un poder enorme y electorados diminutos. Una elección de junta escolar se puede decidir por 50 votos.</p>\n      <p><strong>6. Preste atención a las elecciones de las cortes supremas estatales.</strong></p>\n      <p>En la mayoría de los estados, los jueces de la corte suprema estatal se eligen por voto. Ellos deciden los casos de gerrymandering, los casos sobre el voto y las grandes leyes estatales. La red de Leonard Leo lleva tiempo invirtiendo discretamente decenas de millones en estas elecciones. La mayoría de los votantes ni siquiera sabe quién se postula.</p>\n      <p><strong>7. No entre en pánico, pero tampoco se desconecte.</strong></p>\n      <p>Las dos reacciones ayudan a la gente que quiere que usted deje de prestar atención. La meta de mucho de lo que está en este libro es dejarlo tan cansado, tan asustado o tan cínico que se dé por vencido. No les dé ese gusto.</p>\n      <p><strong>8. Comparta esta guía.</strong></p>\n      <p>Todo este libro existe para pasarse de mano en mano. Imprímalo. Envíelo por correo. Léaselo en voz alta a alguien. Esté en desacuerdo con él. Hágalo pedazos. El punto es empezar la conversación. Casi nadie de los que usted conoce ha oído la mayor parte de lo que está aquí.</p>\n      <div class=\"callout\"><strong>¿Quiere profundizar más?</strong> El archivo completo de la investigación está en <em>terry1818.github.io/cambridge-analytica-vault</em>. Miles de notas con sus fuentes sobre todo lo que está en este libro. Lea lo que más le interese. Sáltese el resto. O simplemente vuelva a leer estas veinte lecciones: cubren la columna vertebral de todo.</div>\n      <p><strong>Usted llegó hasta el final.</strong> Gracias por leer. Ahora vaya y llame a sus nietos.</p>\n    "
+  }
+];
+
+const SITE = 'https://terry1818.github.io/cambridge-analytica-vault/';
+const GUIDE = SITE + 'grandma/';
+const LAST_UPDATED = '14 de julio de 2026';
+const TIER_NOTE = 'Todo lo anterior proviene del archivo de investigación, donde cada afirmación está etiquetada como Nivel 1 (registros judiciales y gubernamentales) o Nivel 2 (periodismo de investigación serio). Las notas están en inglés.';
+function noteUrl(p) { return SITE + encodeURI(p) + '.html'; }
+const SOURCES = [
+  [{t:'Start Here - the 2-minute version',p:'00-Home/Start Here'},{t:'Frequently Asked Questions',p:'00-Home/Frequently Asked Questions'}],
+  [{t:'The Master Theses - the whole argument with evidence',p:'01-MOCs/Master Theses MOC'},{t:'Structural Capture Thesis',p:'05-Concepts/Structural Capture Thesis'},{t:'Demographic Defensiveness Thesis',p:'05-Concepts/Demographic Defensiveness Thesis'}],
+  [{t:'Evidence Tiers - the full framework',p:'00-Home/Evidence Tiers'},{t:'The Mueller Report',p:'04-Events/Mueller Report'}],
+  [{t:'Mercer Family Foundation',p:'03-Organizations/Mercer Family Foundation'},{t:'The Koch network',p:'03-Organizations/Koch network'},{t:'Marble Freedom Trust',p:'03-Organizations/Marble Freedom Trust'}],
+  [{t:'The religious right - the historical arc',p:'05-Concepts/Religious right'},{t:'Council for National Policy',p:'03-Organizations/Council for National Policy'},{t:'Christian Nationalism',p:'05-Concepts/Christian Nationalism'}],
+  [{t:'The tech right - the overview',p:'05-Concepts/Tech right'},{t:'PayPal Mafia',p:'03-Organizations/PayPal Mafia'},{t:'Peter Thiel',p:'02-People/Tech-Industry/Peter Thiel'}],
+  [{t:'Leonard Leo',p:'02-People/Political-Figures/Leonard Leo'},{t:'The Federalist Society',p:'03-Organizations/Federalist Society'},{t:'Marble Freedom Trust - the $1.6B donation',p:'03-Organizations/Marble Freedom Trust'}],
+  [{t:'Trump v. United States - the immunity ruling',p:'04-Events/Hearings-Investigations/Trump v United States'},{t:'Dobbs v. Jackson',p:'04-Events/Hearings-Investigations/Dobbs v. Jackson'},{t:'Trump Investigations - master index',p:'01-MOCs/Trump Investigations MOC'}],
+  [{t:'Project 2025',p:'03-Organizations/Policy-Apparatus/Project 2025'},{t:'Heritage Foundation',p:'03-Organizations/Heritage Foundation'},{t:'Russ Vought',p:'02-People/Political-Figures/Russ Vought'}],
+  [{t:'Schedule F',p:'05-Concepts/Schedule F'},{t:'Schedule F implementation 2025 - what has actually happened',p:'04-Events/Hearings-Investigations/Schedule F implementation 2025'},{t:'DOGE',p:'03-Organizations/Government-Agencies/DOGE'}],
+  [{t:'Convention of States Action',p:'03-Organizations/Convention of States Action'},{t:'Where the state applications stand',p:'05-Concepts/19 state applications'},{t:'The runaway convention concern',p:'05-Concepts/Runaway convention'}],
+  [{t:'ALEC - the model-bill machine',p:'02-People/Misc-Stubs/ALEC'},{t:'REDMAP',p:'05-Concepts/REDMAP'},{t:'Convention of States Action',p:'03-Organizations/Convention of States Action'}],
+  [{t:'Shelby County v. Holder - the 2013 turning point',p:'04-Events/Shelby County v Holder 2013'},{t:'REDMAP',p:'05-Concepts/REDMAP'},{t:'Demographic Defensiveness Thesis',p:'05-Concepts/Demographic Defensiveness Thesis'}],
+  [{t:'Cambridge Analytica - the firm',p:'03-Organizations/CA-SCL-Group/Cambridge Analytica'},{t:'SCL Group - the parent company',p:'03-Organizations/CA-SCL-Group/SCL Group'},{t:'Psychographics - the methodology',p:'05-Concepts/Psychographics'}],
+  [{t:'Russian interference 2016 - the overview',p:'05-Concepts/Russian interference 2016'},{t:'The Internet Research Agency',p:'03-Organizations/State-Actors/Internet Research Agency'},{t:'Senate Intelligence Committee 2016 Russia Report',p:'03-Organizations/Senate Intelligence Committee 2016 Russia Report'}],
+  [{t:'January 6 Capitol Attack - the documented record',p:'04-Events/January 6 Capitol Attack'},{t:'Seditious conspiracy - what the charge means',p:'05-Concepts/Seditious conspiracy'},{t:'Trump Investigations - master index',p:'01-MOCs/Trump Investigations MOC'}],
+  [{t:'The Epstein Network - master index',p:'01-MOCs/Epstein Network MOC'},{t:'Jeffrey Epstein',p:'02-People/Jeffrey Epstein'},{t:'The 2007 Non-Prosecution Agreement',p:'04-Events/Hearings-Investigations/2007 Non-Prosecution Agreement'}],
+  [{t:'Schedule F implementation 2025',p:'04-Events/Hearings-Investigations/Schedule F implementation 2025'},{t:'DOGE',p:'03-Organizations/Government-Agencies/DOGE'},{t:'Where the state applications stand',p:'05-Concepts/19 state applications'}],
+  [{t:'Curtis Yarvin',p:'02-People/Political-Figures/Curtis Yarvin'},{t:'J.D. Vance',p:'02-People/Political-Figures/J.D. Vance'},{t:'Post-Liberal Constitutional Replacement Thesis',p:'05-Concepts/Post-Liberal Constitutional Replacement Thesis'}],
+  [{t:'Reading List - the 30-minute tour of the vault',p:'00-Home/Reading List - 30 Minutes'},{t:'Plain English Glossary',p:'00-Home/Plain English Glossary'},{t:'Start Here',p:'00-Home/Start Here'}]
+];
+const NOTES = {
+  'Robert Mercer':'02-People/CA-Core/Robert Mercer',
+  'Charles Koch':'02-People/Political-Figures/Charles Koch',
+  'Peter Thiel':'02-People/Tech-Industry/Peter Thiel',
+  'Betsy DeVos':'02-People/Political-Figures/Betsy DeVos',
+  'Erik Prince':'02-People/State-Actors/Erik Prince',
+  'Miriam Adelson':'02-People/Political-Figures/Miriam Adelson',
+  'Barre Seid':'02-People/Political-Figures/Barre Seid',
+  'Wilks brothers':'02-People/Political-Figures/Wilks brothers',
+  'Jerry Falwell':'02-People/Misc-Stubs/Jerry Falwell',
+  'Moral Majority':'03-Organizations/Policy-Apparatus/Moral Majority',
+  'Council for National Policy':'03-Organizations/Council for National Policy',
+  'Christian Nationalism':'05-Concepts/Christian Nationalism',
+  'Seven Mountain Mandate':'05-Concepts/Seven Mountain Mandate',
+  'Russell Vought':'02-People/Political-Figures/Russell Vought',
+  'Mike Johnson':'02-People/Political-Figures/Mike Johnson',
+  'Charlie Kirk':'02-People/Political-Figures/Charlie Kirk',
+  'Turning Point USA':'03-Organizations/Media-Research/Turning Point USA',
+  'PayPal Mafia':'03-Organizations/PayPal Mafia',
+  'Curtis Yarvin':'02-People/Political-Figures/Curtis Yarvin',
+  'Blake Masters':'02-People/Blake Masters',
+  'Elon Musk':'02-People/Tech-Industry/Elon Musk',
+  'Marc Andreessen':'02-People/Political-Figures/Marc Andreessen',
+  'J.D. Vance':'02-People/Political-Figures/J.D. Vance',
+  'Federalist Society':'03-Organizations/Federalist Society',
+  'Leonard Leo':'02-People/Political-Figures/Leonard Leo',
+  'Marble Freedom Trust':'03-Organizations/Marble Freedom Trust',
+  'Dobbs v. Jackson':'04-Events/Hearings-Investigations/Dobbs v. Jackson',
+  'Trump v. United States':'04-Events/Hearings-Investigations/Trump v United States',
+  'Heritage Foundation':'03-Organizations/Heritage Foundation',
+  'Mandate for Leadership':'05-Concepts/Mandate for Leadership',
+  'Project 2025':'03-Organizations/Policy-Apparatus/Project 2025',
+  'Schedule F':'05-Concepts/Schedule F',
+  'Pendleton Civil Service Act':'02-People/Misc-Stubs/Pendleton Act',
+  'Convention of States Action':'03-Organizations/Convention of States Action',
+  'Mark Meckler':'02-People/Political-Figures/Mark Meckler',
+  'ALEC':'02-People/Misc-Stubs/ALEC',
+  'REDMAP':'05-Concepts/REDMAP',
+  'Shelby County v. Holder':'04-Events/Shelby County v Holder 2013',
+  'Cambridge Analytica':'03-Organizations/CA-SCL-Group/Cambridge Analytica',
+  'Aleksandr Kogan':'02-People/CA-Core/Aleksandr Kogan',
+  'Christopher Wylie':'02-People/Whistleblowers/Christopher Wylie',
+  'Steve Bannon':'02-People/CA-Core/Steve Bannon',
+  'Internet Research Agency':'03-Organizations/State-Actors/Internet Research Agency',
+  'Proud Boys':'03-Organizations/Proud Boys',
+  'Oath Keepers':'03-Organizations/Oath Keepers',
+  'Jeffrey Epstein':'02-People/Jeffrey Epstein',
+  'Ghislaine Maxwell':'02-People/Ghislaine Maxwell',
+  'Alex Acosta':'02-People/Misc-Stubs/Alex Acosta',
+  'Patrick Deneen':'02-People/Political-Figures/Patrick Deneen',
+  'Claremont Institute':'03-Organizations/Media-Research/Claremont Institute',
+  'National Conservatism':'05-Concepts/Information-Warfare/National Conservatism',
+  'Alien Enemies Act':'02-People/Misc-Stubs/Alien Enemies Act',
+  'Palantir':'03-Organizations/Tech-Platforms/Palantir',
+  'seditious conspiracy':'05-Concepts/Seditious conspiracy',
+  'dark money':'05-Concepts/Dark money',
+  'filibuster':'05-Concepts/The filibuster'
+};
+const GLOSS = {
+  'servicio civil': 'El personal profesional permanente de las agencias del gobierno - científicos, abogados, inspectores, analistas - que conserva su empleo cuando cambian los presidentes.',
+  'orden ejecutiva': 'Una instrucción escrita del Presidente a las agencias federales. Tiene fuerza de ley dentro del poder ejecutivo, pero el siguiente presidente puede deshacerla y los tribunales pueden bloquearla.',
+  'acusación formal': 'Un cargo penal formal emitido por un gran jurado. Es una acusación que inicia un caso, no una condena.',
+  'fiscal especial': 'Un fiscal semiindependiente designado cuando el Departamento de Justicia tiene un conflicto de interés, por ejemplo, al investigar a un presidente.',
+  'think tank': 'Una organización financiada con fondos privados que produce investigación y propuestas de política pública. Quién la financia suele decirle qué va a concluir.',
+  'gerrymandering': 'Dibujar los mapas de los distritos electorales para que un partido gane más escaños que su proporción de votos.'
+};
+const QUIZZES = [
+  {after:2, part:1, qs:[
+    {q:'¿Cuál de estas cuenta como fuente de Nivel 1?', o:['Una publicación viral de Facebook','Registros judiciales y testimonio bajo juramento','Un monólogo de radio'], a:1},
+    {q:'Según las Tres Grandes Ideas, esta coalición construye poder principalmente mediante...', o:['Ganar mayorías populares','Los tribunales, las reglas y la Constitución','Alianzas extranjeras'], a:1},
+    {q:'Si nadie puede decirle de qué nivel es una afirmación, usted debe...', o:['Tratarla como probada','Tratarla como Nivel 3 y mantener el escepticismo','Compartirla de inmediato'], a:1}
+  ]},
+  {after:6, part:2, qs:[
+    {q:'¿Quién hizo la donación política más grande conocida en la historia de EE.UU. (1,600 millones de dólares)?', o:['Barre Seid','Robert Mercer','Elon Musk'], a:0},
+    {q:'El Council for National Policy se describe mejor como...', o:['Una organización benéfica pública','Un foro de coordinación semisecreto','Una agencia del gobierno'], a:1},
+    {q:'El proyecto de 40 años de la Federalist Society fue...', o:['Ganar debates en la televisión','Formar abogados conservadores y colocarlos como jueces','Postular candidatos presidenciales'], a:1}
+  ]},
+  {after:12, part:3, qs:[
+    {q:'Schedule F le permite a un presidente...', o:['Disolver el Congreso','Despedir a funcionarios de carrera y reemplazarlos con leales','Servir un tercer mandato'], a:1},
+    {q:'¿Cuántas solicitudes estatales se necesitan para forzar una convención constitucional?', o:['19','34','50'], a:1},
+    {q:'¿Quién dibuja la mayoría de los mapas de distritos congresionales?', o:['El Congreso','Las legislaturas estatales','La Corte Suprema'], a:1}
+  ]},
+  {after:16, part:4, qs:[
+    {q:'Cambridge Analytica obtuvo datos de ~87 millones de personas mediante...', o:['Hackear los servidores de Facebook','Una aplicación de cuestionarios que recolectaba los datos de los amigos','Comprárselos al gobierno'], a:1},
+    {q:'Las acusaciones de Mueller contra 25 ciudadanos rusos establecieron que...', o:['No pasó nada','Hubo operaciones de interferencia documentadas','El resultado electoral fue anulado'], a:1},
+    {q:'¿Aproximadamente cuántas personas fueron condenadas por el 6 de enero?', o:['Unas 12','Unas 1,200','Ninguna'], a:1}
+  ]},
+  {after:19, part:5, qs:[
+    {q:'¿Dónde cuenta más un voto, según esta guía?', o:['La elección presidencial','Las primarias legislativas estatales','Las encuestas en línea'], a:1},
+    {q:'Los escritores "posliberales" proponen abiertamente...', o:['Fortalecer los contrapesos','Reemplazar el orden constitucional por otra cosa','Solo bajar impuestos'], a:1},
+    {q:'El consejo de la guía sobre el pánico es...', o:['Entrar en pánico','Desconectarse de todo','Ninguno de los dos: mantenerse firme y comprometido'], a:2}
+  ]}
+];
+const RECAPS = {
+  2:'Una pequeña coalición ha pasado 40 años construyendo poder a través de los tribunales, las reglas y la Constitución en lugar de las mayorías; y usted mismo puede verificar el nivel de evidencia de cada afirmación.',
+  6:'Unas cuantas familias donantes, una red legal, un consejo coordinador secreto y un Silicon Valley girado a la derecha pagan y dotan de personal a la maquinaria.',
+  12:'Los tribunales están capturados, el servicio civil está siendo reemplazado, y son los estados - no Washington - donde se están reescribiendo la Constitución y su voto.',
+  16:'Segmentación de datos, interferencia extranjera, una insurrección e impunidad de las élites: todo documentado en registros judiciales, todo parte de cómo se ganó y se conservó el poder.',
+  19:'Está ocurriendo a la vista de todos, los propios pensadores lo dicen, y la respuesta de mayor impacto es aburrida: vote en lo local, llame a su legislador estatal, comparta lo que sabe.'
+};
+const ANALYTICS_CODE = '';
+const FEEDBACK_URL = 'https://github.com/terry1818/cambridge-analytica-vault/issues/new?title=Feedback%20on%20the%20plain-English%20guide';
+const RTIMES = lessons.map(l => Math.max(2, Math.round(l.body.replace(/<[^>]+>/g, ' ').trim().split(/\s+/).length / 200)));
+function getSet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+function setSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+function visited() { try { return new Set(JSON.parse(localStorage.getItem('wgo-visited') || '[]')); } catch (e) { return new Set(); } }
+function markVisited(i) { const v = visited(); v.add(i); setSet('wgo-visited', JSON.stringify([...v])); }
+function quizTotals() {
+  let got = 0, max = 0;
+  QUIZZES.forEach(z => { max += z.qs.length; const s = parseInt(getSet('wgo-q' + z.part)); if (!isNaN(s)) got += s; });
+  return { got: got, max: max, taken: QUIZZES.some(z => getSet('wgo-q' + z.part) !== null) };
+}
+function wireQuiz(scopeEl, qs, onDone) {
+  let answered = 0, right = 0;
+  scopeEl.querySelectorAll('.qopt').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const block = btn.parentElement;
+      if (block.getAttribute('data-locked')) return;
+      block.setAttribute('data-locked', '1');
+      const correct = parseInt(block.getAttribute('data-a'));
+      const chosen = parseInt(btn.getAttribute('data-o'));
+      block.querySelectorAll('.qopt').forEach(b => {
+        if (parseInt(b.getAttribute('data-o')) === correct) b.classList.add('good');
+      });
+      if (chosen !== correct) btn.classList.add('bad'); else right++;
+      answered++;
+      if (answered === qs.length && onDone) onDone(right);
+    });
+  });
+}
+function quizHtml(z, title) {
+  let h = '<div class="qz"><h3>' + title + '</h3>';
+  z.qs.forEach((q, qi) => {
+    h += '<p class="qq">' + (qi + 1) + '. ' + q.q + '</p><div class="qopts" data-q="' + qi + '" data-a="' + q.a + '">';
+    q.o.forEach((o, oi) => { h += '<button class="qopt" data-q="' + qi + '" data-o="' + oi + '">' + o + '</button>'; });
+    h += '</div>';
+  });
+  h += '<p class="qscore" id="qscore"></p></div>';
+  return h;
+}
+function saveProgress(i) { try { localStorage.setItem('wgo-lesson', String(i)); } catch (e) {} }
+function loadProgress() { try { const v = localStorage.getItem('wgo-lesson'); return v === null ? null : parseInt(v); } catch (e) { return null; } }
+let ignoreHash = false;
+function setHash(h) { if (location.hash !== h) { ignoreHash = true; location.hash = h; } }
+
+let currentLesson = -1;
+let utterance = null;
+
+const content = document.getElementById('content');
+const progressText = document.getElementById('progress-text');
+const progressFill = document.getElementById('progress-fill');
+const btnHome = document.getElementById('home');
+const btnPrev = document.getElementById('prev');
+const btnNext = document.getElementById('next');
+const btnRead = document.getElementById('readAloud');
+
+function stopReading() {
+  if (window.speechSynthesis) window.speechSynthesis.cancel();
+  btnRead.textContent = 'Léamelo';
+  btnRead.classList.remove('speaking');
+  btnRead.setAttribute('aria-pressed', 'false');
+}
+
+function startReading() {
+  if (!window.speechSynthesis) {
+    alert("Lo sentimos, su navegador no admite la lectura en voz alta. Pruebe con Chrome o Edge.");
+    return;
+  }
+  stopReading();
+  let text = '';
+  if (currentLesson === -1) {
+    text = "Bienvenida. Esto es Qué Está Pasando: una guía en lenguaje sencillo sobre la política estadounidense en veinte lecciones cortas. Use los botones de abajo para comenzar.";
+  } else {
+    const l = lessons[currentLesson];
+    const tmp = document.createElement('div');
+    tmp.innerHTML = l.body;
+    text = l.title + '. ' + tmp.textContent.replace(/\s+/g, ' ').trim();
+  }
+  utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'es-US';
+  utterance.rate = parseFloat(getSet('wgo-rate') || '0.9');
+  utterance.pitch = 1.0;
+  utterance.onend = () => {
+    btnRead.textContent = 'Léamelo';
+    btnRead.classList.remove('speaking');
+    btnRead.setAttribute('aria-pressed', 'false');
+    if (getSet('wgo-autoplay') === '1' && currentLesson >= 0 && currentLesson < lessons.length - 1) {
+      goTo(currentLesson + 1);
+      startReading();
+    }
+  };
+  btnRead.textContent = 'Detener lectura';
+  btnRead.classList.add('speaking');
+  btnRead.setAttribute('aria-pressed', 'true');
+  window.speechSynthesis.speak(utterance);
+}
+
+function linkify(root, map, wrap) {
+  const names = Object.keys(map).sort((a, b) => b.length - a.length);
+  const used = new Set();
+  const queue = [];
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null);
+  while (walker.nextNode()) queue.push(walker.currentNode);
+  while (queue.length) {
+    const node = queue.shift();
+    if (!node.parentElement || node.parentElement.closest('a, button, .sources, .gdef, h2')) continue;
+    const text = node.nodeValue;
+    let hit = null, at = -1;
+    for (const name of names) {
+      if (used.has(map[name])) continue;
+      const idx = text.indexOf(name);
+      if (idx !== -1 && (at === -1 || idx < at)) { hit = name; at = idx; }
+    }
+    if (!hit) continue;
+    used.add(map[hit]);
+    const after = node.splitText(at);
+    after.nodeValue = after.nodeValue.slice(hit.length);
+    node.parentNode.insertBefore(wrap(hit, map[hit]), after);
+    queue.unshift(after);
+  }
+}
+function applyDepth(article) {
+  linkify(article, NOTES, (name, path) => {
+    const a = document.createElement('a');
+    a.href = noteUrl(path); a.target = '_blank'; a.rel = 'noopener'; a.className = 'notelink';
+    a.title = 'Abrir la nota de investigación (en inglés)';
+    a.textContent = name;
+    return a;
+  });
+  linkify(article, GLOSS, (name, def) => {
+    const s = document.createElement('span');
+    s.className = 'gterm'; s.setAttribute('role', 'button'); s.setAttribute('tabindex', '0');
+    s.setAttribute('data-def', def); s.title = 'Toque para ver una definición sencilla';
+    s.textContent = name;
+    return s;
+  });
+}
+function shareGuide(url, title) {
+  const data = { title: title, text: 'La política estadounidense explicada en veinte lecciones cortas que cualquiera puede leer.', url: url };
+  if (navigator.share) { navigator.share(data).catch(() => {}); return true; }
+  if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url); return false; }
+  return false;
+}
+
+function renderHome() {
+  stopReading();
+  currentLesson = -1;
+  setHash('#lessons');
+  let html = '';
+  const saved = loadProgress();
+  if (saved !== null && !isNaN(saved) && saved >= 0 && saved < lessons.length) {
+    html += '<div class="resume-banner">Bienvenida de nuevo. Usted iba en la <strong>Lección ' + (saved + 1) + '</strong>.<button id="resume">Continuar donde quedé</button></div>';
+  }
+  html += '<div class="lesson-list"><h2>Las veinte lecciones</h2><p style="font-size:20px;color:var(--ink-soft);">Toque cualquier lección para ir directamente. O pulse Siguiente y léalas en orden.</p>';
+  parts.forEach(p => {
+    html += '<div class="part">' + p.name + '</div><ol start="' + (p.from + 1) + '">';
+    for (let i = p.from; i <= p.to; i++) {
+      const done = visited().has(i) ? ' <span class="check" title="You read this one">&#10003;</span>' : '';
+      html += '<li><a href="#lesson-' + (i + 1) + '" data-i="' + i + '">' + lessons[i].title + '</a> <span class="rtime">~' + RTIMES[i] + ' min</span>' + done + '</li>';
+    }
+    html += '</ol>';
+  });
+  html += '<div class="home-actions"><button id="printall">Imprimir la guía completa</button><a class="abtn" href="../whats-going-on.pdf" download>Descargar PDF (en inglés)</a><a class="abtn" href="../cheat-sheet.pdf" download>Resumen de una página (en inglés)</a><button id="sharehome">Compartir esta guía</button><button id="testme">Póngase a prueba</button></div>';
+  html += '<p style="margin-top:20px;font-size:17px;color:var(--ink-soft);">Actualizado el ' + LAST_UPDATED + '. Cada lección termina con enlaces a la investigación que la respalda (las notas están en inglés). <a href="' + FEEDBACK_URL + '" target="_blank" rel="noopener">Cuéntenos qué le resultó confuso</a>.</p></div>';
+  content.innerHTML = html;
+  progressText.textContent = 'Todas las lecciones';
+  progressFill.style.width = '0%';
+  btnPrev.disabled = true;
+  btnNext.disabled = false;
+  btnNext.textContent = 'Comenzar la Lección 1';
+  document.querySelectorAll('.lesson-list a').forEach(a => {
+    a.addEventListener('click', (e) => {
+      e.preventDefault();
+      goTo(parseInt(a.getAttribute('data-i')));
+    });
+  });
+  const rb = document.getElementById('resume');
+  if (rb) rb.addEventListener('click', () => goTo(saved));
+  const pa = document.getElementById('printall');
+  if (pa) pa.addEventListener('click', printAll);
+  const tm = document.getElementById('testme');
+  if (tm) tm.addEventListener('click', renderTest);
+  const sh = document.getElementById('sharehome');
+  if (sh) sh.addEventListener('click', () => {
+    if (!shareGuide(GUIDE + 'es/', 'Qué Está Pasando - Una guía en lenguaje sencillo')) { sh.textContent = 'Enlace copiado - péguelo donde quiera'; setTimeout(() => { sh.textContent = 'Compartir esta guía'; }, 2500); }
+  });
+  window.scrollTo(0, 0);
+}
+
+function printAll() {
+  stopReading();
+  let html = '';
+  lessons.forEach((l, i) => {
+    html += '<article><h2>Lección ' + (i + 1) + ': ' + l.title + '</h2>' + l.body + '</article>';
+  });
+  content.innerHTML = html;
+  window.print();
+  applyHash();
+}
+
+function renderLesson(i) {
+  stopReading();
+  currentLesson = i;
+  setHash('#lesson-' + (i + 1));
+  saveProgress(i);
+  const l = lessons[i];
+  const srcs = SOURCES[i] || [];
+  let foot = '';
+  if (srcs.length) {
+    foot = '<div class="sources"><h3>De dónde viene esto</h3>'
+      + '<p class="star">&#11088; <strong>Si lee una sola cosa:</strong> <a href="' + noteUrl(srcs[0].p) + '" target="_blank" rel="noopener">' + srcs[0].t + '</a></p><ul>'
+      + srcs.slice(1).map(s => '<li><a href="' + noteUrl(s.p) + '" target="_blank" rel="noopener">' + s.t + '</a></li>').join('')
+      + '</ul><p class="tiernote">' + TIER_NOTE + '</p>'
+      + '<button class="copylink" id="sharebtn">Compartir esta lección</button> '
+      + '<button class="copylink" id="copylink">Copiar el enlace de esta lección</button></div>';
+  }
+  let mid = '';
+  if (RECAPS[i]) mid += '<div class="recap"><strong>Si recuerda una sola cosa de esta parte:</strong> ' + RECAPS[i] + '</div>';
+  const z = QUIZZES.find(q => q.after === i);
+  if (z) mid += quizHtml(z, 'Repaso rápido - tres preguntas');
+  content.innerHTML = '<article><h2>Lección ' + (i+1) + ': ' + l.title + '</h2>' + l.body + mid + foot + '</article>';
+  markVisited(i);
+  if (z) wireQuiz(content, z.qs, (right) => {
+    const prev = parseInt(getSet('wgo-q' + z.part));
+    if (isNaN(prev) || right > prev) setSet('wgo-q' + z.part, String(right));
+    const el = document.getElementById('qscore');
+    if (el) el.textContent = 'Acertó ' + right + ' de ' + z.qs.length + '.' + (right === z.qs.length ? ' Perfecto.' : ' Las respuestas correctas están en verde.');
+  });
+  applyDepth(content.querySelector('article'));
+  const sb = document.getElementById('sharebtn');
+  if (sb) sb.addEventListener('click', () => {
+    const stub = GUIDE + 'es/#lesson-' + (i + 1);
+    if (!shareGuide(stub, 'Lección ' + (i + 1) + ': ' + l.title)) { sb.textContent = 'Enlace copiado - péguelo donde quiera'; setTimeout(() => { sb.textContent = 'Compartir esta lección'; }, 2500); }
+  });
+  const cl = document.getElementById('copylink');
+  if (cl) cl.addEventListener('click', () => {
+    const url = GUIDE + 'es/#lesson-' + (i + 1);
+    const done = () => { cl.textContent = 'Enlace copiado - péguelo donde quiera'; setTimeout(() => { cl.textContent = 'Copiar el enlace de esta lección'; }, 2500); };
+    if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(done).catch(() => { cl.textContent = url; }); }
+    else { cl.textContent = url; }
+  });
+  progressText.textContent = 'Lección ' + (i+1) + ' de ' + lessons.length;
+  progressFill.style.width = (((i+1) / lessons.length) * 100) + '%';
+  btnPrev.disabled = false;
+  btnNext.disabled = false;
+  btnNext.textContent = (i === lessons.length - 1) ? 'Terminar' : 'Siguiente';
+  window.scrollTo(0, 0);
+}
+
+function renderDone() {
+  stopReading();
+  currentLesson = lessons.length;
+  setHash('#done');
+  content.innerHTML = '<article><h2>Lo logró.</h2>'
+    + '<p>Veinte lecciones. Cuarenta años de maquinaria silenciosa, ahora visible para usted. Eso ya lo pone por delante de casi todas las personas que conoce.</p>'
+    + (function () { const t = quizTotals(); return t.taken ? '<p class="qscore">Su puntaje: ' + t.got + ' de ' + t.max + '. Pruebe el examen completo abajo para afianzarlo.</p>' : ''; })()
+    + '<p><strong>Esta guía solo funciona si viaja.</strong> Fue escrita para entregarse a una madre, un vecino, una compañera de trabajo: alguien que nunca leería un archivo de investigación de 3,500 notas, pero sí leerá veinte lecciones cortas.</p>'
+    + '<div class="btnrow">'
+    + '<button id="sharedone" class="alt">Compartir esta guía</button>'
+    + '<a class="abtn" href="../whats-going-on.pdf" download>Descargar el PDF (en inglés)</a>'
+    + '<button id="printdone">Imprimirla</button>'
+    + '</div>'
+    + '<div class="btnrow">'
+    + '<a class="abtn" href="' + SITE + '" target="_blank" rel="noopener">Explorar el archivo completo (en inglés)</a>'
+    + '<a class="abtn" href="' + noteUrl('00-Home/Reading List - 30 Minutes') + '" target="_blank" rel="noopener">Lista de lectura de 30 minutos (en inglés)</a>'
+    + '<button id="restart">Volver a empezar en la Lección 1</button>'
+    + '<button id="testdone">Póngase a prueba</button>'
+    + '<a class="abtn" href="../cheat-sheet.pdf" download>Resumen de una página (en inglés)</a>'
+    + '</div>'
+    + '<div class="qrbox"><img src="../qr.png" alt="QR code linking to this guide" width="160" height="160"><br><span style="font-size:17px;color:var(--ink-soft);">Apunte la cámara del teléfono aquí para abrir la guía.</span></div>'
+    + '<div class="callout">Mándela por correo, por mensaje, imprímala y déjela en la mesa de la cocina. Casi nadie que usted conoce ha oído la mayor parte de lo que acaba de leer.</div>'
+    + '</article>';
+  progressText.textContent = 'Fin';
+  progressFill.style.width = '100%';
+  btnPrev.disabled = false;
+  btnNext.disabled = true;
+  btnNext.textContent = 'Fin';
+  const sd = document.getElementById('sharedone');
+  if (sd) sd.addEventListener('click', () => {
+    if (!shareGuide(GUIDE + 'es/', 'Qué Está Pasando - Una guía en lenguaje sencillo')) { sd.textContent = 'Enlace copiado - péguelo donde quiera'; setTimeout(() => { sd.textContent = 'Compartir esta guía'; }, 2500); }
+  });
+  const pd = document.getElementById('printdone');
+  if (pd) pd.addEventListener('click', printAll);
+  const rs = document.getElementById('restart');
+  if (rs) rs.addEventListener('click', () => goTo(0));
+  const td = document.getElementById('testdone');
+  if (td) td.addEventListener('click', renderTest);
+  window.scrollTo(0, 0);
+}
+
+function renderTest() {
+  stopReading();
+  currentLesson = -2;
+  setHash('#test');
+  const all = [];
+  QUIZZES.forEach(z => z.qs.forEach(q => all.push(q)));
+  const picked = all.slice().sort(() => Math.random() - 0.5).slice(0, 10);
+  let h = '<article><h2>Póngase a prueba</h2><p>Diez preguntas de toda la guía. Sin calificaciones ni trampas: equivocarse solo le muestra qué lección conviene repasar.</p>';
+  picked.forEach((q, qi) => {
+    h += '<p class="qq">' + (qi + 1) + '. ' + q.q + '</p><div class="qopts" data-q="' + qi + '" data-a="' + q.a + '">';
+    q.o.forEach((o, oi) => { h += '<button class="qopt" data-q="' + qi + '" data-o="' + oi + '">' + o + '</button>'; });
+    h += '</div>';
+  });
+  h += '<p class="qscore" id="qscore"></p><div class="btnrow"><button id="retest">Probar con otras 10 preguntas</button><button id="backhome">Volver a las lecciones</button></div></article>';
+  content.innerHTML = h;
+  wireQuiz(content, picked, (right) => {
+    const el = document.getElementById('qscore');
+    if (el) el.textContent = 'Acertó ' + right + ' de 10.' + (right >= 8 ? ' Usted domina este material.' : ' Las marcas verdes muestran las respuestas correctas; la lista de lecciones está a un toque.');
+  });
+  document.getElementById('retest').addEventListener('click', renderTest);
+  document.getElementById('backhome').addEventListener('click', renderHome);
+  progressText.textContent = 'Póngase a prueba';
+  progressFill.style.width = '100%';
+  btnPrev.disabled = true;
+  btnNext.disabled = true;
+  window.scrollTo(0, 0);
+}
+
+function goTo(i) {
+  if (i < 0) renderHome();
+  else if (i >= lessons.length) return;
+  else renderLesson(i);
+}
+
+btnHome.addEventListener('click', renderHome);
+btnPrev.addEventListener('click', () => {
+  if (currentLesson === 0) renderHome();
+  else if (currentLesson >= lessons.length) renderLesson(lessons.length - 1);
+  else if (currentLesson > 0) goTo(currentLesson - 1);
+});
+btnNext.addEventListener('click', () => {
+  if (currentLesson === lessons.length - 1) renderDone();
+  else if (currentLesson < lessons.length - 1) goTo(currentLesson + 1);
+});
+btnRead.addEventListener('click', () => {
+  if (btnRead.classList.contains('speaking')) stopReading();
+  else startReading();
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowRight' && !btnNext.disabled) btnNext.click();
+  else if (e.key === 'ArrowLeft') btnPrev.click();
+});
+
+content.addEventListener('click', (e) => {
+  const t = e.target.closest('.gterm');
+  if (!t) return;
+  const next = t.parentElement.nextElementSibling;
+  if (next && next.className === 'gdef' && next.getAttribute('data-for') === t.textContent) { next.remove(); return; }
+  document.querySelectorAll('.gdef').forEach(d => d.remove());
+  const d = document.createElement('div');
+  d.className = 'gdef'; d.setAttribute('data-for', t.textContent);
+  d.innerHTML = '<strong>' + t.textContent + ':</strong> ' + t.getAttribute('data-def') + ' <a href="' + noteUrl('00-Home/Plain English Glossary') + '" target="_blank" rel="noopener">Glosario completo (en inglés)</a>';
+  t.parentElement.insertAdjacentElement('afterend', d);
+});
+content.addEventListener('keydown', (e) => {
+  if ((e.key === 'Enter' || e.key === ' ') && e.target.classList && e.target.classList.contains('gterm')) { e.preventDefault(); e.target.click(); }
+});
+
+function applyHash() {
+  if (window.goatcounter && window.goatcounter.count) { try { goatcounter.count({ path: location.pathname + location.hash }); } catch (e) {} }
+  if (location.hash === '#test') { renderTest(); return; }
+  if (location.hash === '#done') { renderDone(); return; }
+  const m = location.hash.match(/^#lesson-(\d+)$/);
+  if (m) {
+    const n = parseInt(m[1]);
+    if (n >= 1 && n <= lessons.length) { renderLesson(n - 1); return; }
+  }
+  renderHome();
+}
+window.addEventListener('hashchange', () => {
+  if (ignoreHash) { ignoreHash = false; return; }
+  applyHash();
+});
+document.getElementById('updated').textContent = 'Actualizado el ' + LAST_UPDATED;
+(function initExtras() {
+  const scale = parseFloat(getSet('wgo-fscale') || '1');
+  document.documentElement.style.setProperty('--fscale', scale);
+  function bump(d) {
+    let s = parseFloat(getSet('wgo-fscale') || '1') + d;
+    s = Math.min(1.5, Math.max(0.85, Math.round(s * 100) / 100));
+    setSet('wgo-fscale', String(s));
+    document.documentElement.style.setProperty('--fscale', s);
+  }
+  document.getElementById('sizeUp').addEventListener('click', () => bump(0.1));
+  document.getElementById('sizeDown').addEventListener('click', () => bump(-0.1));
+  const ap = document.getElementById('autoplay');
+  ap.checked = getSet('wgo-autoplay') === '1';
+  ap.addEventListener('change', () => setSet('wgo-autoplay', ap.checked ? '1' : '0'));
+  const rt = document.getElementById('rate');
+  rt.value = getSet('wgo-rate') || '0.9';
+  rt.addEventListener('change', () => setSet('wgo-rate', rt.value));
+  if (ANALYTICS_CODE) {
+    const s = document.createElement('script');
+    s.async = true; s.src = 'https://gc.zgo.at/count.js';
+    s.setAttribute('data-goatcounter', 'https://' + ANALYTICS_CODE + '.goatcounter.com/count');
+    document.head.appendChild(s);
+  }
+  if ('serviceWorker' in navigator && location.protocol === 'https:') {
+    navigator.serviceWorker.register('../sw.js').catch(() => {});
+  }
+})();
+applyHash();
+</script>
+</body>
+</html>

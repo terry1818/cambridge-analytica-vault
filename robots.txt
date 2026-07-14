@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terry1818.github.io/cambridge-analytica-vault/grandma/sitemap.xml

@@ -1,0 +1,22 @@
+{
+ "name": "What's Going On - A Plain English Guide",
+ "short_name": "What's Going On",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#faf6ee",
+ "theme_color": "#8b2e2e",
+ "description": "American politics explained in twenty short lessons anyone can read.",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
