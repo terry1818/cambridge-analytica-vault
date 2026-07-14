@@ -4,6 +4,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>What's Going On - A Plain English Guide</title>
+<meta name="description" content="What's Going On - a plain-English guide to American politics in twenty short lessons. No jargon, no panic, every claim sourced.">
+<meta property="og:title" content="What's Going On - A Plain English Guide">
+<meta property="og:description" content="American politics explained in twenty short lessons anyone can read. Every claim from court records, congressional reports, or major newspapers.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://terry1818.github.io/cambridge-analytica-vault/grandma/">
+<meta property="og:image" content="https://terry1818.github.io/cambridge-analytica-vault/grandma/share-card.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128214;</text></svg>">
 <style>
   :root {
     --bg: #faf6ee;
@@ -51,9 +59,25 @@
   nav.controls button.speaking { background: var(--accent); }
   nav.controls button.home { background: #555; }
   nav.controls button.home:hover { background: #333; }
+  header .updated { font-size: 16px; color: var(--ink-soft); margin-top: 6px; }
+  .skip-link { position: absolute; left: -9999px; top: 0; background: var(--btn); color: #fff; padding: 10px 16px; border-radius: 0 0 8px 0; z-index: 200; }
+  .skip-link:focus { left: 0; }
+  a:focus-visible, button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  .resume-banner { background: #eef5e9; border: 1px solid var(--btn); border-radius: 8px; padding: 14px 18px; margin: 0 0 20px 0; font-size: 20px; }
+  .resume-banner button { background: var(--btn); color: #fff; border: none; padding: 10px 16px; font-size: 18px; border-radius: 6px; cursor: pointer; font-family: Georgia, serif; margin-left: 10px; }
+  .sources { border-top: 2px dashed var(--border); margin-top: 30px; padding-top: 18px; }
+  .sources h3 { font-size: 21px; color: var(--accent); margin: 0 0 10px 0; }
+  .sources ul { padding-left: 24px; margin: 0 0 12px 0; }
+  .sources li { font-size: 19px; margin-bottom: 8px; }
+  .sources a { color: var(--ink); border-bottom: 1px dotted var(--accent-soft); text-decoration: none; }
+  .sources a:hover { color: var(--accent); border-bottom: 2px solid var(--accent); }
+  .sources .tiernote { font-size: 17px; color: var(--ink-soft); font-style: italic; margin-bottom: 10px; }
+  .copylink { background: none; border: 1px solid var(--border); color: var(--ink-soft); padding: 8px 12px; font-size: 16px; border-radius: 6px; cursor: pointer; font-family: Georgia, serif; }
+  .home-actions { margin-top: 24px; }
+  .home-actions button { background: var(--btn); color: #fff; border: none; padding: 12px 18px; font-size: 18px; border-radius: 8px; cursor: pointer; font-family: Georgia, serif; }
   @media print {
     body { font-size: 14pt; background: white; color: black; }
-    nav.controls, .progress, header .sub { display: none !important; }
+    nav.controls, .progress, header .sub, .copylink, .resume-banner, .home-actions, .skip-link { display: none !important; }
     article { box-shadow: none; border: none; padding: 0; page-break-after: always; }
     .lesson-list { page-break-after: always; }
   }
@@ -68,10 +92,12 @@
 </style>
 </head>
 <body>
+<a class="skip-link" href="#content">Skip to the lesson</a>
 <div class="wrap">
   <header>
     <h1>What's Going On</h1>
     <div class="sub">A plain English guide to American politics, in twenty short lessons.</div>
+    <div class="updated" id="updated"></div>
   </header>
   <div class="progress" id="progress">
     <div id="progress-text">Welcome</div>
@@ -79,11 +105,11 @@
   </div>
   <div id="content"></div>
 </div>
-<nav class="controls">
-  <button id="home" class="home">All Lessons</button>
-  <button id="prev">Previous</button>
-  <button id="readAloud">Read to me</button>
-  <button id="next">Next</button>
+<nav class="controls" aria-label="Lesson navigation">
+  <button id="home" class="home" aria-label="Show all lessons">All Lessons</button>
+  <button id="prev" aria-label="Previous lesson">Previous</button>
+  <button id="readAloud" aria-pressed="false" aria-label="Read this page aloud">Read to me</button>
+  <button id="next" aria-label="Next lesson">Next</button>
 </nav>
 
 <script>
@@ -492,6 +518,37 @@ const lessons = [
   }
 ];
 
+const SITE = 'https://terry1818.github.io/cambridge-analytica-vault/';
+const LAST_UPDATED = 'July 14, 2026';
+const TIER_NOTE = 'Everything above comes from the research vault, where every claim is labeled Tier 1 (court and government records) or Tier 2 (major investigative reporting).';
+const SOURCES = [
+  [{t:'Start Here',u:'start-here'},{t:'Frequently Asked Questions',u:'frequently-asked-questions'}],
+  [{t:'The Master Theses',u:'master-theses-moc'},{t:'Structural Capture Thesis',u:'structural-capture-thesis'},{t:'Demographic Defensiveness Thesis',u:'demographic-defensiveness-thesis'}],
+  [{t:'Evidence Tiers - the full framework',u:'evidence-tiers'},{t:'The Mueller Report',u:'mueller-report'}],
+  [{t:'Mercer Family Foundation',u:'mercer-family-foundation'},{t:'The Koch network',u:'koch-network'},{t:'Marble Freedom Trust',u:'marble-freedom-trust'}],
+  [{t:'The religious right - the historical arc',u:'religious-right'},{t:'Council for National Policy',u:'council-for-national-policy'},{t:'Christian Nationalism',u:'christian-nationalism'}],
+  [{t:'The tech right - the overview',u:'tech-right'},{t:'PayPal Mafia',u:'paypal-mafia'},{t:'Peter Thiel',u:'peter-thiel'}],
+  [{t:'Leonard Leo',u:'leonard-leo'},{t:'Marble Freedom Trust - the $1.6B donation',u:'marble-freedom-trust'}],
+  [{t:'Trump v. United States - the immunity ruling',u:'trump-v-united-states'},{t:'Trump Investigations - master index',u:'trump-investigations-moc'},{t:'Leonard Leo',u:'leonard-leo'}],
+  [{t:'Project 2025',u:'project-2025'},{t:'Heritage Foundation',u:'heritage-foundation'},{t:'Russ Vought',u:'russ-vought'}],
+  [{t:'Schedule F',u:'schedule-f'},{t:'Schedule F implementation 2025',u:'schedule-f-implementation-2025'},{t:'DOGE',u:'doge'}],
+  [{t:'Convention of States Action',u:'convention-of-states-action'},{t:'Where the state applications stand',u:'19-state-applications'},{t:'The runaway convention concern',u:'runaway-convention'}],
+  [{t:'Convention of States Action',u:'convention-of-states-action'},{t:'Where the state applications stand',u:'19-state-applications'}],
+  [{t:'Demographic Defensiveness Thesis',u:'demographic-defensiveness-thesis'},{t:'Plain English Glossary',u:'plain-english-glossary'}],
+  [{t:'Cambridge Analytica - the firm',u:'cambridge-analytica'},{t:'SCL Group - the parent company',u:'scl-group'},{t:'Psychographics - the methodology',u:'psychographics'}],
+  [{t:'Russian interference 2016 - the overview',u:'russian-interference-2016'},{t:'The Internet Research Agency',u:'internet-research-agency-ira'},{t:'Senate Intelligence Committee report',u:'senate-intelligence-committee-2016-russia-report'}],
+  [{t:'January 6 Capitol Attack - the documented record',u:'january-6-capitol-attack'},{t:'Trump Investigations - master index',u:'trump-investigations-moc'}],
+  [{t:'The Epstein Network - master index',u:'epstein-network-moc'},{t:'Jeffrey Epstein',u:'jeffrey-epstein'},{t:'The 2007 Non-Prosecution Agreement',u:'2007-non-prosecution-agreement'}],
+  [{t:'Schedule F implementation 2025',u:'schedule-f-implementation-2025'},{t:'DOGE',u:'doge'},{t:'Where the state applications stand',u:'19-state-applications'}],
+  [{t:'Curtis Yarvin',u:'curtis-yarvin'},{t:'J.D. Vance',u:'jd-vance'},{t:'Post-Liberal Constitutional Replacement Thesis',u:'post-liberal-constitutional-replacement-thesis'}],
+  [{t:'Start Here - the 2-minute version',u:'start-here'},{t:'Plain English Glossary',u:'plain-english-glossary'}]
+];
+
+function saveProgress(i) { try { localStorage.setItem('wgo-lesson', String(i)); } catch (e) {} }
+function loadProgress() { try { const v = localStorage.getItem('wgo-lesson'); return v === null ? null : parseInt(v); } catch (e) { return null; } }
+let ignoreHash = false;
+function setHash(h) { if (location.hash !== h) { ignoreHash = true; location.hash = h; } }
+
 let currentLesson = -1;
 let utterance = null;
 
@@ -507,6 +564,7 @@ function stopReading() {
   if (window.speechSynthesis) window.speechSynthesis.cancel();
   btnRead.textContent = 'Read to me';
   btnRead.classList.remove('speaking');
+  btnRead.setAttribute('aria-pressed', 'false');
 }
 
 function startReading() {
@@ -533,21 +591,29 @@ function startReading() {
   };
   btnRead.textContent = 'Stop reading';
   btnRead.classList.add('speaking');
+  btnRead.setAttribute('aria-pressed', 'true');
   window.speechSynthesis.speak(utterance);
 }
 
 function renderHome() {
   stopReading();
   currentLesson = -1;
-  let html = '<div class="lesson-list"><h2>The Twenty Lessons</h2><p style="font-size:20px;color:var(--ink-soft);">Tap any lesson to jump to it. Or just hit Next and read them in order.</p>';
+  setHash('#lessons');
+  let html = '';
+  const saved = loadProgress();
+  if (saved !== null && !isNaN(saved) && saved >= 0 && saved < lessons.length) {
+    html += '<div class="resume-banner">Welcome back. You were on <strong>Lesson ' + (saved + 1) + '</strong>.<button id="resume">Pick up where I left off</button></div>';
+  }
+  html += '<div class="lesson-list"><h2>The Twenty Lessons</h2><p style="font-size:20px;color:var(--ink-soft);">Tap any lesson to jump to it. Or just hit Next and read them in order.</p>';
   parts.forEach(p => {
     html += '<div class="part">' + p.name + '</div><ol start="' + (p.from + 1) + '">';
     for (let i = p.from; i <= p.to; i++) {
-      html += '<li><a href="#" data-i="' + i + '">' + lessons[i].title + '</a></li>';
+      html += '<li><a href="#lesson-' + (i + 1) + '" data-i="' + i + '">' + lessons[i].title + '</a></li>';
     }
     html += '</ol>';
   });
-  html += '<p style="margin-top:30px;font-size:19px;color:var(--ink-soft);">To print this whole guide as a booklet, press Ctrl+P (or Cmd+P on a Mac).</p></div>';
+  html += '<div class="home-actions"><button id="printall">Print the whole guide</button></div>';
+  html += '<p style="margin-top:20px;font-size:17px;color:var(--ink-soft);">Last updated ' + LAST_UPDATED + '. Every lesson now ends with links to the research behind it.</p></div>';
   content.innerHTML = html;
   progressText.textContent = 'All Lessons';
   progressFill.style.width = '0%';
@@ -560,14 +626,46 @@ function renderHome() {
       goTo(parseInt(a.getAttribute('data-i')));
     });
   });
+  const rb = document.getElementById('resume');
+  if (rb) rb.addEventListener('click', () => goTo(saved));
+  const pa = document.getElementById('printall');
+  if (pa) pa.addEventListener('click', printAll);
   window.scrollTo(0, 0);
+}
+
+function printAll() {
+  stopReading();
+  let html = '';
+  lessons.forEach((l, i) => {
+    html += '<article><h2>Lesson ' + (i + 1) + ': ' + l.title + '</h2>' + l.body + '</article>';
+  });
+  content.innerHTML = html;
+  window.print();
+  applyHash();
 }
 
 function renderLesson(i) {
   stopReading();
   currentLesson = i;
+  setHash('#lesson-' + (i + 1));
+  saveProgress(i);
   const l = lessons[i];
-  content.innerHTML = '<article><h2>Lesson ' + (i+1) + ': ' + l.title + '</h2>' + l.body + '</article>';
+  const srcs = SOURCES[i] || [];
+  let foot = '';
+  if (srcs.length) {
+    foot = '<div class="sources"><h3>Where this comes from</h3><ul>'
+      + srcs.map(s => '<li><a href="' + SITE + s.u + '" target="_blank" rel="noopener">' + s.t + '</a></li>').join('')
+      + '</ul><p class="tiernote">' + TIER_NOTE + '</p>'
+      + '<button class="copylink" id="copylink">Copy a link to this lesson</button></div>';
+  }
+  content.innerHTML = '<article><h2>Lesson ' + (i+1) + ': ' + l.title + '</h2>' + l.body + foot + '</article>';
+  const cl = document.getElementById('copylink');
+  if (cl) cl.addEventListener('click', () => {
+    const url = location.href.split('#')[0] + '#lesson-' + (i + 1);
+    const done = () => { cl.textContent = 'Link copied - paste it anywhere'; setTimeout(() => { cl.textContent = 'Copy a link to this lesson'; }, 2500); };
+    if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(done).catch(() => { cl.textContent = url; }); }
+    else { cl.textContent = url; }
+  });
   progressText.textContent = 'Lesson ' + (i+1) + ' of ' + lessons.length;
   progressFill.style.width = (((i+1) / lessons.length) * 100) + '%';
   btnPrev.disabled = false;
@@ -600,7 +698,20 @@ document.addEventListener('keydown', (e) => {
   else if (e.key === 'ArrowLeft') btnPrev.click();
 });
 
-renderHome();
+function applyHash() {
+  const m = location.hash.match(/^#lesson-(\d+)$/);
+  if (m) {
+    const n = parseInt(m[1]);
+    if (n >= 1 && n <= lessons.length) { renderLesson(n - 1); return; }
+  }
+  renderHome();
+}
+window.addEventListener('hashchange', () => {
+  if (ignoreHash) { ignoreHash = false; return; }
+  applyHash();
+});
+document.getElementById('updated').textContent = 'Last updated ' + LAST_UPDATED;
+applyHash();
 </script>
 </body>
 </html>
