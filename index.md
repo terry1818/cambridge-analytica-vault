@@ -10,6 +10,8 @@ aliases: ['Index']
 
 > [!info] **What this is, in one sentence:** A public research collection (~3,500 sourced notes) about how a coalition of billionaires, religious-right organizers, intelligence operators, and Silicon Valley founders has spent 40+ years building the political apparatus that put Donald Trump in power twice.
 
+> [!tip] **New here? Start with [What's Going On - the plain-English guide](grandma/index.html)** - twenty short lessons anyone can read aloud, print, or hand to a friend. Come back here for depth.
+
 ## I have N minutes
 
 | Time | Start here |

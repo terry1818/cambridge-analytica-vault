@@ -73,7 +73,19 @@
   .sources a:hover { color: var(--accent); border-bottom: 2px solid var(--accent); }
   .sources .tiernote { font-size: 17px; color: var(--ink-soft); font-style: italic; margin-bottom: 10px; }
   .copylink { background: none; border: 1px solid var(--border); color: var(--ink-soft); padding: 8px 12px; font-size: 16px; border-radius: 6px; cursor: pointer; font-family: Georgia, serif; }
-  .home-actions { margin-top: 24px; }
+  .home-actions { margin-top: 24px; display: flex; gap: 12px; flex-wrap: wrap; }
+  .home-actions a.abtn { display: inline-block; background: var(--btn); color: #fff; border: none; padding: 12px 18px; font-size: 18px; border-radius: 8px; cursor: pointer; font-family: Georgia, serif; text-decoration: none; }
+  a.notelink { color: inherit; text-decoration: none; border-bottom: 1px dotted var(--accent); }
+  a.notelink:hover { color: var(--accent); border-bottom: 2px solid var(--accent); }
+  .gterm { border-bottom: 2px dotted var(--btn); cursor: pointer; }
+  .gdef { background: #eef5e9; border-left: 6px solid var(--btn); padding: 14px 18px; margin: 12px 0; border-radius: 4px; font-size: 19px; }
+  .gdef a { color: var(--btn); }
+  .star { font-size: 19px; margin: 0 0 12px 0; }
+  .btnrow { display: flex; gap: 10px; flex-wrap: wrap; margin: 16px 0; }
+  .btnrow button, .btnrow a.abtn { background: var(--btn); color: #fff; border: none; padding: 14px 20px; font-size: 19px; font-weight: bold; border-radius: 8px; cursor: pointer; font-family: Georgia, serif; text-decoration: none; display: inline-block; }
+  .btnrow button.alt, .btnrow a.abtn.alt { background: var(--accent); }
+  .qrbox { text-align: center; margin: 24px 0; }
+  .qrbox img { width: 160px; height: 160px; border: 1px solid var(--border); border-radius: 8px; }
   .home-actions button { background: var(--btn); color: #fff; border: none; padding: 12px 18px; font-size: 18px; border-radius: 8px; cursor: pointer; font-family: Georgia, serif; }
   @media print {
     body { font-size: 14pt; background: white; color: black; }
@@ -519,31 +531,98 @@ const lessons = [
 ];
 
 const SITE = 'https://terry1818.github.io/cambridge-analytica-vault/';
+const GUIDE = SITE + 'grandma/';
 const LAST_UPDATED = 'July 14, 2026';
 const TIER_NOTE = 'Everything above comes from the research vault, where every claim is labeled Tier 1 (court and government records) or Tier 2 (major investigative reporting).';
+function noteUrl(p) { return SITE + encodeURI(p) + '.html'; }
 const SOURCES = [
-  [{t:'Start Here',u:'start-here'},{t:'Frequently Asked Questions',u:'frequently-asked-questions'}],
-  [{t:'The Master Theses',u:'master-theses-moc'},{t:'Structural Capture Thesis',u:'structural-capture-thesis'},{t:'Demographic Defensiveness Thesis',u:'demographic-defensiveness-thesis'}],
-  [{t:'Evidence Tiers - the full framework',u:'evidence-tiers'},{t:'The Mueller Report',u:'mueller-report'}],
-  [{t:'Mercer Family Foundation',u:'mercer-family-foundation'},{t:'The Koch network',u:'koch-network'},{t:'Marble Freedom Trust',u:'marble-freedom-trust'}],
-  [{t:'The religious right - the historical arc',u:'religious-right'},{t:'Council for National Policy',u:'council-for-national-policy'},{t:'Christian Nationalism',u:'christian-nationalism'}],
-  [{t:'The tech right - the overview',u:'tech-right'},{t:'PayPal Mafia',u:'paypal-mafia'},{t:'Peter Thiel',u:'peter-thiel'}],
-  [{t:'Leonard Leo',u:'leonard-leo'},{t:'Marble Freedom Trust - the $1.6B donation',u:'marble-freedom-trust'}],
-  [{t:'Trump v. United States - the immunity ruling',u:'trump-v-united-states'},{t:'Trump Investigations - master index',u:'trump-investigations-moc'},{t:'Leonard Leo',u:'leonard-leo'}],
-  [{t:'Project 2025',u:'project-2025'},{t:'Heritage Foundation',u:'heritage-foundation'},{t:'Russ Vought',u:'russ-vought'}],
-  [{t:'Schedule F',u:'schedule-f'},{t:'Schedule F implementation 2025',u:'schedule-f-implementation-2025'},{t:'DOGE',u:'doge'}],
-  [{t:'Convention of States Action',u:'convention-of-states-action'},{t:'Where the state applications stand',u:'19-state-applications'},{t:'The runaway convention concern',u:'runaway-convention'}],
-  [{t:'Convention of States Action',u:'convention-of-states-action'},{t:'Where the state applications stand',u:'19-state-applications'}],
-  [{t:'Demographic Defensiveness Thesis',u:'demographic-defensiveness-thesis'},{t:'Plain English Glossary',u:'plain-english-glossary'}],
-  [{t:'Cambridge Analytica - the firm',u:'cambridge-analytica'},{t:'SCL Group - the parent company',u:'scl-group'},{t:'Psychographics - the methodology',u:'psychographics'}],
-  [{t:'Russian interference 2016 - the overview',u:'russian-interference-2016'},{t:'The Internet Research Agency',u:'internet-research-agency-ira'},{t:'Senate Intelligence Committee report',u:'senate-intelligence-committee-2016-russia-report'}],
-  [{t:'January 6 Capitol Attack - the documented record',u:'january-6-capitol-attack'},{t:'Trump Investigations - master index',u:'trump-investigations-moc'}],
-  [{t:'The Epstein Network - master index',u:'epstein-network-moc'},{t:'Jeffrey Epstein',u:'jeffrey-epstein'},{t:'The 2007 Non-Prosecution Agreement',u:'2007-non-prosecution-agreement'}],
-  [{t:'Schedule F implementation 2025',u:'schedule-f-implementation-2025'},{t:'DOGE',u:'doge'},{t:'Where the state applications stand',u:'19-state-applications'}],
-  [{t:'Curtis Yarvin',u:'curtis-yarvin'},{t:'J.D. Vance',u:'jd-vance'},{t:'Post-Liberal Constitutional Replacement Thesis',u:'post-liberal-constitutional-replacement-thesis'}],
-  [{t:'Start Here - the 2-minute version',u:'start-here'},{t:'Plain English Glossary',u:'plain-english-glossary'}]
+  [{t:'Start Here - the 2-minute version',p:'00-Home/Start Here'},{t:'Frequently Asked Questions',p:'00-Home/Frequently Asked Questions'}],
+  [{t:'The Master Theses - the whole argument with evidence',p:'01-MOCs/Master Theses MOC'},{t:'Structural Capture Thesis',p:'05-Concepts/Structural Capture Thesis'},{t:'Demographic Defensiveness Thesis',p:'05-Concepts/Demographic Defensiveness Thesis'}],
+  [{t:'Evidence Tiers - the full framework',p:'00-Home/Evidence Tiers'},{t:'The Mueller Report',p:'04-Events/Mueller Report'}],
+  [{t:'Mercer Family Foundation',p:'03-Organizations/Mercer Family Foundation'},{t:'The Koch network',p:'03-Organizations/Koch network'},{t:'Marble Freedom Trust',p:'03-Organizations/Marble Freedom Trust'}],
+  [{t:'The religious right - the historical arc',p:'05-Concepts/Religious right'},{t:'Council for National Policy',p:'03-Organizations/Council for National Policy'},{t:'Christian Nationalism',p:'05-Concepts/Christian Nationalism'}],
+  [{t:'The tech right - the overview',p:'05-Concepts/Tech right'},{t:'PayPal Mafia',p:'03-Organizations/PayPal Mafia'},{t:'Peter Thiel',p:'02-People/Tech-Industry/Peter Thiel'}],
+  [{t:'Leonard Leo',p:'02-People/Political-Figures/Leonard Leo'},{t:'The Federalist Society',p:'03-Organizations/Federalist Society'},{t:'Marble Freedom Trust - the $1.6B donation',p:'03-Organizations/Marble Freedom Trust'}],
+  [{t:'Trump v. United States - the immunity ruling',p:'04-Events/Hearings-Investigations/Trump v United States'},{t:'Dobbs v. Jackson',p:'04-Events/Hearings-Investigations/Dobbs v. Jackson'},{t:'Trump Investigations - master index',p:'01-MOCs/Trump Investigations MOC'}],
+  [{t:'Project 2025',p:'03-Organizations/Policy-Apparatus/Project 2025'},{t:'Heritage Foundation',p:'03-Organizations/Heritage Foundation'},{t:'Russ Vought',p:'02-People/Political-Figures/Russ Vought'}],
+  [{t:'Schedule F',p:'05-Concepts/Schedule F'},{t:'Schedule F implementation 2025 - what has actually happened',p:'04-Events/Hearings-Investigations/Schedule F implementation 2025'},{t:'DOGE',p:'03-Organizations/Government-Agencies/DOGE'}],
+  [{t:'Convention of States Action',p:'03-Organizations/Convention of States Action'},{t:'Where the state applications stand',p:'05-Concepts/19 state applications'},{t:'The runaway convention concern',p:'05-Concepts/Runaway convention'}],
+  [{t:'ALEC - the model-bill machine',p:'02-People/Misc-Stubs/ALEC'},{t:'REDMAP',p:'05-Concepts/REDMAP'},{t:'Convention of States Action',p:'03-Organizations/Convention of States Action'}],
+  [{t:'Shelby County v. Holder - the 2013 turning point',p:'04-Events/Shelby County v Holder 2013'},{t:'REDMAP',p:'05-Concepts/REDMAP'},{t:'Demographic Defensiveness Thesis',p:'05-Concepts/Demographic Defensiveness Thesis'}],
+  [{t:'Cambridge Analytica - the firm',p:'03-Organizations/CA-SCL-Group/Cambridge Analytica'},{t:'SCL Group - the parent company',p:'03-Organizations/CA-SCL-Group/SCL Group'},{t:'Psychographics - the methodology',p:'05-Concepts/Psychographics'}],
+  [{t:'Russian interference 2016 - the overview',p:'05-Concepts/Russian interference 2016'},{t:'The Internet Research Agency',p:'03-Organizations/State-Actors/Internet Research Agency'},{t:'Senate Intelligence Committee 2016 Russia Report',p:'03-Organizations/Senate Intelligence Committee 2016 Russia Report'}],
+  [{t:'January 6 Capitol Attack - the documented record',p:'04-Events/January 6 Capitol Attack'},{t:'Seditious conspiracy - what the charge means',p:'05-Concepts/Seditious conspiracy'},{t:'Trump Investigations - master index',p:'01-MOCs/Trump Investigations MOC'}],
+  [{t:'The Epstein Network - master index',p:'01-MOCs/Epstein Network MOC'},{t:'Jeffrey Epstein',p:'02-People/Jeffrey Epstein'},{t:'The 2007 Non-Prosecution Agreement',p:'04-Events/Hearings-Investigations/2007 Non-Prosecution Agreement'}],
+  [{t:'Schedule F implementation 2025',p:'04-Events/Hearings-Investigations/Schedule F implementation 2025'},{t:'DOGE',p:'03-Organizations/Government-Agencies/DOGE'},{t:'Where the state applications stand',p:'05-Concepts/19 state applications'}],
+  [{t:'Curtis Yarvin',p:'02-People/Political-Figures/Curtis Yarvin'},{t:'J.D. Vance',p:'02-People/Political-Figures/J.D. Vance'},{t:'Post-Liberal Constitutional Replacement Thesis',p:'05-Concepts/Post-Liberal Constitutional Replacement Thesis'}],
+  [{t:'Reading List - the 30-minute tour of the vault',p:'00-Home/Reading List - 30 Minutes'},{t:'Plain English Glossary',p:'00-Home/Plain English Glossary'},{t:'Start Here',p:'00-Home/Start Here'}]
 ];
-
+const NOTES = {
+  'Robert Mercer':'02-People/CA-Core/Robert Mercer',
+  'Charles Koch':'02-People/Political-Figures/Charles Koch',
+  'Peter Thiel':'02-People/Tech-Industry/Peter Thiel',
+  'Betsy DeVos':'02-People/Political-Figures/Betsy DeVos',
+  'Erik Prince':'02-People/State-Actors/Erik Prince',
+  'Miriam Adelson':'02-People/Political-Figures/Miriam Adelson',
+  'Barre Seid':'02-People/Political-Figures/Barre Seid',
+  'Wilks brothers':'02-People/Political-Figures/Wilks brothers',
+  'Jerry Falwell':'02-People/Misc-Stubs/Jerry Falwell',
+  'Moral Majority':'03-Organizations/Policy-Apparatus/Moral Majority',
+  'Council for National Policy':'03-Organizations/Council for National Policy',
+  'Christian Nationalism':'05-Concepts/Christian Nationalism',
+  'Seven Mountain Mandate':'05-Concepts/Seven Mountain Mandate',
+  'Russell Vought':'02-People/Political-Figures/Russell Vought',
+  'Mike Johnson':'02-People/Political-Figures/Mike Johnson',
+  'Charlie Kirk':'02-People/Political-Figures/Charlie Kirk',
+  'Turning Point USA':'03-Organizations/Media-Research/Turning Point USA',
+  'PayPal Mafia':'03-Organizations/PayPal Mafia',
+  'Curtis Yarvin':'02-People/Political-Figures/Curtis Yarvin',
+  'Blake Masters':'02-People/Blake Masters',
+  'Elon Musk':'02-People/Tech-Industry/Elon Musk',
+  'Marc Andreessen':'02-People/Political-Figures/Marc Andreessen',
+  'J.D. Vance':'02-People/Political-Figures/J.D. Vance',
+  'Federalist Society':'03-Organizations/Federalist Society',
+  'Leonard Leo':'02-People/Political-Figures/Leonard Leo',
+  'Marble Freedom Trust':'03-Organizations/Marble Freedom Trust',
+  'Dobbs v. Jackson':'04-Events/Hearings-Investigations/Dobbs v. Jackson',
+  'Trump v. United States':'04-Events/Hearings-Investigations/Trump v United States',
+  'Heritage Foundation':'03-Organizations/Heritage Foundation',
+  'Mandate for Leadership':'05-Concepts/Mandate for Leadership',
+  'Project 2025':'03-Organizations/Policy-Apparatus/Project 2025',
+  'Schedule F':'05-Concepts/Schedule F',
+  'Pendleton Civil Service Act':'02-People/Misc-Stubs/Pendleton Act',
+  'Convention of States Action':'03-Organizations/Convention of States Action',
+  'Mark Meckler':'02-People/Political-Figures/Mark Meckler',
+  'ALEC':'02-People/Misc-Stubs/ALEC',
+  'REDMAP':'05-Concepts/REDMAP',
+  'Shelby County v. Holder':'04-Events/Shelby County v Holder 2013',
+  'Cambridge Analytica':'03-Organizations/CA-SCL-Group/Cambridge Analytica',
+  'Aleksandr Kogan':'02-People/CA-Core/Aleksandr Kogan',
+  'Christopher Wylie':'02-People/Whistleblowers/Christopher Wylie',
+  'Steve Bannon':'02-People/CA-Core/Steve Bannon',
+  'Internet Research Agency':'03-Organizations/State-Actors/Internet Research Agency',
+  'Proud Boys':'03-Organizations/Proud Boys',
+  'Oath Keepers':'03-Organizations/Oath Keepers',
+  'Jeffrey Epstein':'02-People/Jeffrey Epstein',
+  'Ghislaine Maxwell':'02-People/Ghislaine Maxwell',
+  'Alex Acosta':'02-People/Misc-Stubs/Alex Acosta',
+  'Patrick Deneen':'02-People/Political-Figures/Patrick Deneen',
+  'Claremont Institute':'03-Organizations/Media-Research/Claremont Institute',
+  'National Conservatism':'05-Concepts/Information-Warfare/National Conservatism',
+  'Alien Enemies Act':'02-People/Misc-Stubs/Alien Enemies Act',
+  'Palantir':'03-Organizations/Tech-Platforms/Palantir',
+  'seditious conspiracy':'05-Concepts/Seditious conspiracy',
+  'dark money':'05-Concepts/Dark money',
+  'filibuster':'05-Concepts/The filibuster'
+};
+const GLOSS = {
+  'civil service': 'The permanent professional staff of government agencies - scientists, lawyers, inspectors, analysts - who keep their jobs when presidents change. The opposite of political appointees.',
+  'executive order': 'A written instruction from the President to federal agencies. It has the force of law inside the executive branch, but the next president can undo it and courts can block it.',
+  'indictment': 'A formal criminal charge issued by a grand jury. It is an accusation that starts a case - not a conviction.',
+  'special counsel': 'A semi-independent prosecutor appointed when the Justice Department has a conflict of interest - for example, investigating a president.',
+  'think tank': 'A privately funded organization that produces policy research and ready-to-use proposals. Who funds it usually tells you what it will conclude.',
+  'gerrymandering': 'Drawing voting-district maps so one party wins more seats than its share of votes. Named after an 1812 governor whose district looked like a salamander.'
+};
 function saveProgress(i) { try { localStorage.setItem('wgo-lesson', String(i)); } catch (e) {} }
 function loadProgress() { try { const v = localStorage.getItem('wgo-lesson'); return v === null ? null : parseInt(v); } catch (e) { return null; } }
 let ignoreHash = false;
@@ -595,6 +674,53 @@ function startReading() {
   window.speechSynthesis.speak(utterance);
 }
 
+function linkify(root, map, wrap) {
+  const names = Object.keys(map).sort((a, b) => b.length - a.length);
+  const used = new Set();
+  const queue = [];
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null);
+  while (walker.nextNode()) queue.push(walker.currentNode);
+  while (queue.length) {
+    const node = queue.shift();
+    if (!node.parentElement || node.parentElement.closest('a, button, .sources, .gdef, h2')) continue;
+    const text = node.nodeValue;
+    let hit = null, at = -1;
+    for (const name of names) {
+      if (used.has(map[name])) continue;
+      const idx = text.indexOf(name);
+      if (idx !== -1 && (at === -1 || idx < at)) { hit = name; at = idx; }
+    }
+    if (!hit) continue;
+    used.add(map[hit]);
+    const after = node.splitText(at);
+    after.nodeValue = after.nodeValue.slice(hit.length);
+    node.parentNode.insertBefore(wrap(hit, map[hit]), after);
+    queue.unshift(after);
+  }
+}
+function applyDepth(article) {
+  linkify(article, NOTES, (name, path) => {
+    const a = document.createElement('a');
+    a.href = noteUrl(path); a.target = '_blank'; a.rel = 'noopener'; a.className = 'notelink';
+    a.title = 'Open the research note in the vault';
+    a.textContent = name;
+    return a;
+  });
+  linkify(article, GLOSS, (name, def) => {
+    const s = document.createElement('span');
+    s.className = 'gterm'; s.setAttribute('role', 'button'); s.setAttribute('tabindex', '0');
+    s.setAttribute('data-def', def); s.title = 'Tap for a plain-English definition';
+    s.textContent = name;
+    return s;
+  });
+}
+function shareGuide(url, title) {
+  const data = { title: title, text: 'American politics explained in twenty short lessons anyone can read.', url: url };
+  if (navigator.share) { navigator.share(data).catch(() => {}); return true; }
+  if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url); return false; }
+  return false;
+}
+
 function renderHome() {
   stopReading();
   currentLesson = -1;
@@ -612,7 +738,7 @@ function renderHome() {
     }
     html += '</ol>';
   });
-  html += '<div class="home-actions"><button id="printall">Print the whole guide</button></div>';
+  html += '<div class="home-actions"><button id="printall">Print the whole guide</button><a class="abtn" href="whats-going-on.pdf" download>Download as PDF</a><button id="sharehome">Share this guide</button></div>';
   html += '<p style="margin-top:20px;font-size:17px;color:var(--ink-soft);">Last updated ' + LAST_UPDATED + '. Every lesson now ends with links to the research behind it.</p></div>';
   content.innerHTML = html;
   progressText.textContent = 'All Lessons';
@@ -630,6 +756,10 @@ function renderHome() {
   if (rb) rb.addEventListener('click', () => goTo(saved));
   const pa = document.getElementById('printall');
   if (pa) pa.addEventListener('click', printAll);
+  const sh = document.getElementById('sharehome');
+  if (sh) sh.addEventListener('click', () => {
+    if (!shareGuide(GUIDE, "What's Going On - A Plain English Guide")) { sh.textContent = 'Link copied - paste it anywhere'; setTimeout(() => { sh.textContent = 'Share this guide'; }, 2500); }
+  });
   window.scrollTo(0, 0);
 }
 
@@ -653,15 +783,23 @@ function renderLesson(i) {
   const srcs = SOURCES[i] || [];
   let foot = '';
   if (srcs.length) {
-    foot = '<div class="sources"><h3>Where this comes from</h3><ul>'
-      + srcs.map(s => '<li><a href="' + SITE + s.u + '" target="_blank" rel="noopener">' + s.t + '</a></li>').join('')
+    foot = '<div class="sources"><h3>Where this comes from</h3>'
+      + '<p class="star">&#11088; <strong>If you read one thing:</strong> <a href="' + noteUrl(srcs[0].p) + '" target="_blank" rel="noopener">' + srcs[0].t + '</a></p><ul>'
+      + srcs.slice(1).map(s => '<li><a href="' + noteUrl(s.p) + '" target="_blank" rel="noopener">' + s.t + '</a></li>').join('')
       + '</ul><p class="tiernote">' + TIER_NOTE + '</p>'
+      + '<button class="copylink" id="sharebtn">Share this lesson</button> '
       + '<button class="copylink" id="copylink">Copy a link to this lesson</button></div>';
   }
   content.innerHTML = '<article><h2>Lesson ' + (i+1) + ': ' + l.title + '</h2>' + l.body + foot + '</article>';
+  applyDepth(content.querySelector('article'));
+  const sb = document.getElementById('sharebtn');
+  if (sb) sb.addEventListener('click', () => {
+    const stub = GUIDE + 'lesson-' + (i + 1) + '.html';
+    if (!shareGuide(stub, 'Lesson ' + (i + 1) + ': ' + l.title)) { sb.textContent = 'Link copied - paste it anywhere'; setTimeout(() => { sb.textContent = 'Share this lesson'; }, 2500); }
+  });
   const cl = document.getElementById('copylink');
   if (cl) cl.addEventListener('click', () => {
-    const url = location.href.split('#')[0] + '#lesson-' + (i + 1);
+    const url = GUIDE + 'lesson-' + (i + 1) + '.html';
     const done = () => { cl.textContent = 'Link copied - paste it anywhere'; setTimeout(() => { cl.textContent = 'Copy a link to this lesson'; }, 2500); };
     if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(url).then(done).catch(() => { cl.textContent = url; }); }
     else { cl.textContent = url; }
@@ -669,8 +807,44 @@ function renderLesson(i) {
   progressText.textContent = 'Lesson ' + (i+1) + ' of ' + lessons.length;
   progressFill.style.width = (((i+1) / lessons.length) * 100) + '%';
   btnPrev.disabled = false;
-  btnNext.disabled = (i === lessons.length - 1);
-  btnNext.textContent = (i === lessons.length - 1) ? 'The End' : 'Next';
+  btnNext.disabled = false;
+  btnNext.textContent = (i === lessons.length - 1) ? 'Finish' : 'Next';
+  window.scrollTo(0, 0);
+}
+
+function renderDone() {
+  stopReading();
+  currentLesson = lessons.length;
+  setHash('#done');
+  content.innerHTML = '<article><h2>You made it.</h2>'
+    + '<p>Twenty lessons. Forty years of quiet machinery, now visible to you. That already puts you ahead of almost everyone you know.</p>'
+    + '<p><strong>This guide only works if it travels.</strong> It was written to be handed to a parent, a neighbor, a co-worker - someone who would never read a 3,500-note research vault but will read twenty short lessons.</p>'
+    + '<div class="btnrow">'
+    + '<button id="sharedone" class="alt">Share this guide</button>'
+    + '<a class="abtn" href="whats-going-on.pdf" download>Download the PDF</a>'
+    + '<button id="printdone">Print it</button>'
+    + '</div>'
+    + '<div class="btnrow">'
+    + '<a class="abtn" href="' + SITE + '" target="_blank" rel="noopener">Explore the full vault</a>'
+    + '<a class="abtn" href="' + noteUrl('00-Home/Reading List - 30 Minutes') + '" target="_blank" rel="noopener">The 30-minute reading list</a>'
+    + '<button id="restart">Start over at Lesson 1</button>'
+    + '</div>'
+    + '<div class="qrbox"><img src="qr.png" alt="QR code linking to this guide" width="160" height="160"><br><span style="font-size:17px;color:var(--ink-soft);">Point a phone camera here to open the guide.</span></div>'
+    + '<div class="callout">Email it, text it, print it and leave it on the kitchen table. Almost nobody you know has heard most of what you just read.</div>'
+    + '</article>';
+  progressText.textContent = 'The End';
+  progressFill.style.width = '100%';
+  btnPrev.disabled = false;
+  btnNext.disabled = true;
+  btnNext.textContent = 'The End';
+  const sd = document.getElementById('sharedone');
+  if (sd) sd.addEventListener('click', () => {
+    if (!shareGuide(GUIDE, "What's Going On - A Plain English Guide")) { sd.textContent = 'Link copied - paste it anywhere'; setTimeout(() => { sd.textContent = 'Share this guide'; }, 2500); }
+  });
+  const pd = document.getElementById('printdone');
+  if (pd) pd.addEventListener('click', printAll);
+  const rs = document.getElementById('restart');
+  if (rs) rs.addEventListener('click', () => goTo(0));
   window.scrollTo(0, 0);
 }
 
@@ -683,10 +857,12 @@ function goTo(i) {
 btnHome.addEventListener('click', renderHome);
 btnPrev.addEventListener('click', () => {
   if (currentLesson === 0) renderHome();
+  else if (currentLesson >= lessons.length) renderLesson(lessons.length - 1);
   else if (currentLesson > 0) goTo(currentLesson - 1);
 });
 btnNext.addEventListener('click', () => {
-  if (currentLesson < lessons.length - 1) goTo(currentLesson + 1);
+  if (currentLesson === lessons.length - 1) renderDone();
+  else if (currentLesson < lessons.length - 1) goTo(currentLesson + 1);
 });
 btnRead.addEventListener('click', () => {
   if (btnRead.classList.contains('speaking')) stopReading();
@@ -698,7 +874,23 @@ document.addEventListener('keydown', (e) => {
   else if (e.key === 'ArrowLeft') btnPrev.click();
 });
 
+content.addEventListener('click', (e) => {
+  const t = e.target.closest('.gterm');
+  if (!t) return;
+  const next = t.parentElement.nextElementSibling;
+  if (next && next.className === 'gdef' && next.getAttribute('data-for') === t.textContent) { next.remove(); return; }
+  document.querySelectorAll('.gdef').forEach(d => d.remove());
+  const d = document.createElement('div');
+  d.className = 'gdef'; d.setAttribute('data-for', t.textContent);
+  d.innerHTML = '<strong>' + t.textContent + ':</strong> ' + t.getAttribute('data-def') + ' <a href="' + noteUrl('00-Home/Plain English Glossary') + '" target="_blank" rel="noopener">Full glossary</a>';
+  t.parentElement.insertAdjacentElement('afterend', d);
+});
+content.addEventListener('keydown', (e) => {
+  if ((e.key === 'Enter' || e.key === ' ') && e.target.classList && e.target.classList.contains('gterm')) { e.preventDefault(); e.target.click(); }
+});
+
 function applyHash() {
+  if (location.hash === '#done') { renderDone(); return; }
   const m = location.hash.match(/^#lesson-(\d+)$/);
   if (m) {
     const n = parseInt(m[1]);
